@@ -6,12 +6,12 @@
 安裝完畢之後再將整個repo下載下來丟到res_mods/遊戲版號/mods/gup.subtitles
 
 這個模組觸發的條件為需要套用官方的少女戰車語音才會呈現出字幕樣式
-可以自行在
-res_mod/gui/soundModes/main_sound_modes.xml 這個檔案內自行加入代碼
+可以在res_mod/gui/soundModes/main_sound_modes.xml 這個檔案內自行加入代碼
 要加入的代碼可以在 Assets/how to add.txt 裡面找到
-如果沒有main_sound_modes.xml，也可以在Assets裡面找到
-main_sound_modes-original.xml - 為原始遊戲版本
-main_sound_modes.xml - 加入代碼的版本 (可能會與其他少女戰車語音模組衝突)
+
+如果沒有main_sound_modes.xml可以在Assets裡面找到
+main_sound_modes-original.xml-為原始遊戲版本
+main_sound_modes.xml-加入代碼的版本(可能會與其他少女戰車語音模組衝突)
 
 上面動作完成後在遊戲中語音設定選單中選擇對應的語音
 <img src="./assets/P1.jpg" width="640" alt="設定選單">
