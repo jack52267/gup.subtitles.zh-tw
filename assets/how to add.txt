@@ -1,0 +1,72 @@
+	<mode>
+      <name>gup_jp_commander</name>
+      <wwise_language>gup_jp/gup_miho</wwise_language>
+      <description>西住美穗 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_miho/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
+    <mode>
+      <name>gup_jp_crew</name>
+      <wwise_language>gup_jp/gup_crew</wwise_language>
+      <description>鮟鱇魚小隊 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_crew/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
+	<mode>
+      <name>gup_erika</name>
+      <wwise_language>gup_jp/gup_erika</wwise_language>
+      <description>逸見艾麗卡 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_erika/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
+	<mode>
+      <name>gup_mika</name>
+      <wwise_language>gup_jp/gup_mika</wwise_language>
+      <description>米卡 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_mika/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
+    <mode>
+      <name>gup_crew_24</name>
+      <wwise_language>gup_jp/gup_crew_24</wwise_language>
+      <description>継続高校 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_crew_24/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
+	<mode>
+      <name>gup_crew_25</name>
+      <wwise_language>gup_jp/gup_crew_25</wwise_language>
+      <description>邱吉爾小隊 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_crew_25/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
+	<mode>
+      <name>gup_darjeeling</name>
+      <wwise_language>gup_jp/gup_darjeeling</wwise_language>
+      <description>大吉嶺 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_darjeeling/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
+	<mode>
+      <name>gup_alice</name>
+      <wwise_language>gup_jp/gup_alice</wwise_language>
+      <description>島田愛里寿 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_alice/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
