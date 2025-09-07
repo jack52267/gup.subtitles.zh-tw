@@ -1,0 +1,12 @@
+{
+  "duration": 3.3,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "瞄準我們的油箱…不錯！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_05"
+}

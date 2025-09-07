@@ -1,0 +1,12 @@
+{
+  "duration": 4.37,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "砲塔轉動機構完全壞了……",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_02"
+}

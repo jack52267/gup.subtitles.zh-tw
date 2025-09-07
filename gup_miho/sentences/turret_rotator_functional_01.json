@@ -1,0 +1,12 @@
+{
+  "duration": 3.01,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "總算修好了砲塔旋轉機構！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

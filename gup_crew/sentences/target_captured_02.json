@@ -1,0 +1,12 @@
+{
+  "duration": 4.4,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "目標在瞄準鏡中！沒問題……我一定會擊中！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.55,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "油箱被擊中，注意別讓它起火。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_05"
+}

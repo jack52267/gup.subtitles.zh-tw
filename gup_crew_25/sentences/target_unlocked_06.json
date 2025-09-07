@@ -1,0 +1,12 @@
+{
+  "duration": 1.95,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "更換到另一輛戰車。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_06"
+}

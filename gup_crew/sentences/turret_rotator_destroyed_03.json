@@ -1,0 +1,12 @@
+{
+  "duration": 3.4,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "砲塔不動了……我們得修它……",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

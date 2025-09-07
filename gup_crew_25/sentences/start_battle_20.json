@@ -1,0 +1,18 @@
+{
+  "duration": 8.3,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "你聽過這句話嗎？勇敢的行動從不需要號角。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "那是托馬斯·富勒，對吧？",
+      "character": "orange_pekoe",
+      "time": 6.95
+    }
+  ],
+  "audio": "start_battle_20"
+}

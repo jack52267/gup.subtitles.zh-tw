@@ -1,0 +1,24 @@
+{
+  "duration": 12.39,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "「人生是一連串的教訓，必須親身經歷才能理解。」",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "那是美國思想家愛默生，對吧？",
+      "character": "orange_pekoe",
+      "time": 5.58
+    },
+    {
+      "emotion": "focused",
+      "text": "我們已學到教訓。",
+      "character": "darjeeling",
+      "time": 10.05
+    }
+  ],
+  "audio": "vehicle_destroyed_03"
+}

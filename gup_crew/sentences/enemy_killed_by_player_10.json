@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "戰車被摧毀了！我會通知大家！",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_10"
+}

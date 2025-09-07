@@ -1,0 +1,12 @@
+{
+  "duration": 3.19,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "炮彈落地了。讓下一發命中吧。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_12"
+}

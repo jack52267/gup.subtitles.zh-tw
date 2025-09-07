@@ -1,0 +1,12 @@
+{
+  "duration": 1.63,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們擊中了燃料箱。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

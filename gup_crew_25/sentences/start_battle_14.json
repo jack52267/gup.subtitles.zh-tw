@@ -1,0 +1,18 @@
+{
+  "duration": 7.08,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "願我們的戰鬥公平公正。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "請我們的未來指揮官分享今日的策略。",
+      "character": "darjeeling",
+      "time": 2.66
+    }
+  ],
+  "audio": "start_battle_14"
+}

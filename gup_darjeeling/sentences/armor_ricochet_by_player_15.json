@@ -1,0 +1,12 @@
+{
+  "duration": 1.97,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "射擊角度似乎比我們預期的更大。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_15"
+}

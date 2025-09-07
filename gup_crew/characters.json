@@ -1,0 +1,185 @@
+[
+	{
+		"id": "miho",
+		"name": "西住 美穗",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/miho_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"agitated": [1, 0],
+					"happy": [2, 0],
+					"excited": [0, 1],
+					"sad": [1, 1],
+					"hit": [2, 1],
+					"worried": [0, 2],
+					"surprised": [1, 2],
+					"proud": [2, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/miho_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"agitated": [1, 0],
+					"happy": [2, 0],
+					"excited": [0, 1],
+					"sad": [1, 1],
+					"hit": [2, 1],
+					"worried": [0, 2],
+					"surprised": [1, 2],
+					"proud": [2, 2]
+				}
+			}
+		}
+	},
+	{
+		"id": "hana",
+		"name": "五十鈴 華",
+		"color": "#292C42",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/hana_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"happy": [1, 0],
+					"confident": [2, 0],
+					"disappointed": [0, 1],
+					"surprised": [1, 1],
+					"hit": [2, 1],
+					"agitated": [0, 2],
+					"proud": [1, 2],
+					"focused": [2, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/hana_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"happy": [1, 0],
+					"confident": [2, 0],
+					"disappointed": [0, 1],
+					"surprised": [1, 1],
+					"hit": [2, 1],
+					"agitated": [0, 2],
+					"proud": [1, 2],
+					"focused": [2, 2]
+				}
+			}
+		}
+	},
+	{
+		"id": "saori",
+		"name": "武部 沙織",
+		"color": "#541033",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/saori_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"confident": [1, 0],
+					"surprised": [2, 0],
+					"agitated": [0, 1],
+					"focused": [1, 1],
+					"sad": [2, 1],
+					"happy": [0, 2],
+					"worried": [1, 2],
+					"hit": [2, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/saori_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"confident": [1, 0],
+					"surprised": [2, 0],
+					"agitated": [0, 1],
+					"focused": [1, 1],
+					"sad": [2, 1],
+					"happy": [0, 2],
+					"worried": [1, 2],
+					"hit": [2, 2]
+				}
+			}
+		}
+	},
+	{
+		"id": "yukari",
+		"name": "秋山 優花里",
+		"color": "#592E25",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/yukari_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"agitated": [1, 0],
+					"excited": [2, 0],
+					"proud": [0, 1],
+					"surprised": [1, 1],
+					"confident": [2, 1],
+					"happy": [0, 2],
+					"disappointed": [1, 2],
+					"embarassed": [2, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/yukari_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"agitated": [1, 0],
+					"excited": [2, 0],
+					"proud": [0, 1],
+					"surprised": [1, 1],
+					"confident": [2, 1],
+					"happy": [0, 2],
+					"disappointed": [1, 2],
+					"embarassed": [2, 2]
+				}
+			}
+		}
+	},
+	{
+		"id": "mako",
+		"name": "冷泉 麻子",
+		"color": "#4E3954",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/mako_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"surprised": [0, 0],
+					"happy": [1, 0],
+					"focused": [2, 0],
+					"default": [0, 1],
+					"confident": [2, 1],
+					"agitated": [0, 2],
+					"sleeping": [1, 2],
+					"worried": [2, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/mako_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"surprised": [0, 0],
+					"happy": [1, 0],
+					"focused": [2, 0],
+					"default": [0, 1],
+					"confident": [2, 1],
+					"agitated": [0, 2],
+					"sleeping": [1, 2],
+					"worried": [2, 2]
+				}
+			}
+		}
+	}
+]

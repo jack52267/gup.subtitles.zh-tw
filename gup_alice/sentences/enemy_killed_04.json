@@ -1,0 +1,12 @@
+{
+  "duration": 1.98,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方戰車已被禁用。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_04"
+}

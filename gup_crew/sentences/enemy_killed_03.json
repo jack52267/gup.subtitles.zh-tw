@@ -1,0 +1,12 @@
+{
+  "duration": 2.83,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方戰車無法運作了，被摧毀了！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_03"
+}

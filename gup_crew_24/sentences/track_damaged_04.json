@@ -1,0 +1,12 @@
+{
+  "duration": 3.13,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶被擊中。不知道有沒有壞。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我接受挑戰。請開始比賽。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_03"
+}

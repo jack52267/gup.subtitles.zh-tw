@@ -1,0 +1,18 @@
+{
+  "duration": 8.77,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "啊啊……我們完蛋了。",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "沒錯。但有時不只是為了生存。",
+      "character": "mika",
+      "time": 2.95
+    }
+  ],
+  "audio": "vehicle_destroyed_03"
+}

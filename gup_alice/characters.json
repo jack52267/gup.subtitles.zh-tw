@@ -1,0 +1,33 @@
+[
+	{
+		"id": "alice",
+		"name": "島田 愛里壽",
+		"color": "#47854F",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/alice_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"excited": [1, 0],
+					"worried": [2, 0],
+					"focused": [0, 1],
+					"disappointed": [1, 1],
+					"confident": [2, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/alice_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"excited": [1, 0],
+					"worried": [2, 0],
+					"focused": [0, 1],
+					"disappointed": [1, 1],
+					"confident": [2, 1]
+				}
+			}
+		}
+	}
+]

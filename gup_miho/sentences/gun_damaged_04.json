@@ -1,0 +1,12 @@
+{
+  "duration": 4.53,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "哎喲！我沒事，但主砲…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_04"
+}

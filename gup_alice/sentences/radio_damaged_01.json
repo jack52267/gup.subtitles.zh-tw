@@ -1,0 +1,12 @@
+{
+  "duration": 1.2,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "無線電被擊中了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_01"
+}

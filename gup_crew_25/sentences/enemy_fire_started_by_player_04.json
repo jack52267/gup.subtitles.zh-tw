@@ -1,0 +1,12 @@
+{
+  "duration": 4.26,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵方戰車起火了。我們是不是有點過火了……？",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.07,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "燃料箱好像被擊中了……",
+      "character": "mako",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_01"
+}

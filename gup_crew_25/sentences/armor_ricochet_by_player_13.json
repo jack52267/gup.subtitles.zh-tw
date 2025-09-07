@@ -1,0 +1,12 @@
+{
+  "duration": 1.58,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們的裝甲把炮彈彈開了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_13"
+}

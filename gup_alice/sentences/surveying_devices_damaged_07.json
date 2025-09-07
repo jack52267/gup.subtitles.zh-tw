@@ -1,0 +1,12 @@
+{
+  "duration": 2.46,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們試圖擊倒你的觀測裝置。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_07"
+}

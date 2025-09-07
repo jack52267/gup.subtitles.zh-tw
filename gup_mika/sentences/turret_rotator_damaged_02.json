@@ -1,0 +1,12 @@
+{
+  "duration": 3.63,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "那一擊…砲塔還能動嗎？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

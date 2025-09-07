@@ -1,0 +1,12 @@
+{
+  "duration": 3.61,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "駕駛位被擊中。我們的機動性降低了。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_02"
+}

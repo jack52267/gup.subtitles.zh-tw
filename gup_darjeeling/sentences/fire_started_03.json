@@ -1,0 +1,12 @@
+{
+  "duration": 2.66,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "小心那火勢，確保迅速撲滅。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_03"
+}

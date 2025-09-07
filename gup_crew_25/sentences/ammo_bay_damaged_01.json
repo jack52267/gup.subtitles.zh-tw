@@ -1,0 +1,12 @@
+{
+  "duration": 2.24,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "彈藥架受損了。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_01"
+}

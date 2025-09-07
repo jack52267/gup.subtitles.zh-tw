@@ -1,0 +1,12 @@
+{
+  "duration": 4.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵人起火了！別擔心，我們叫人來幫他們！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_03"
+}

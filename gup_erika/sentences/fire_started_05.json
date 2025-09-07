@@ -1,0 +1,12 @@
+{
+  "duration": 1.8,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "什麼！？我們在燃燒！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_05"
+}

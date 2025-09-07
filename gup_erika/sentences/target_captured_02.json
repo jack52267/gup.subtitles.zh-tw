@@ -1,0 +1,12 @@
+{
+  "duration": 1.5,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "目標在視線內！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_02"
+}

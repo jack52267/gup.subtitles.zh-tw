@@ -1,0 +1,12 @@
+{
+  "duration": 5.35,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "你的射擊被彈開了。事情不如預期時，必須保持冷靜。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_09"
+}

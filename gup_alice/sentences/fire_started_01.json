@@ -1,0 +1,12 @@
+{
+  "duration": 1.63,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "我們的戰車起火了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_01"
+}

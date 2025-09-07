@@ -1,0 +1,12 @@
+{
+  "duration": 4.37,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "敵人擊中了裝填手座位，準備應對較慢的裝填速度。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_04"
+}

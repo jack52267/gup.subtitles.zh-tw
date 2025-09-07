@@ -1,0 +1,12 @@
+{
+  "duration": 2.84,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "敵人似乎在瞄準我們的彈藥架。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_03"
+}

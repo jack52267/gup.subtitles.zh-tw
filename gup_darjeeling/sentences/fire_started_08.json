@@ -1,0 +1,12 @@
+{
+  "duration": 3.74,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們正面臨火勢，立即準備應對！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_08"
+}

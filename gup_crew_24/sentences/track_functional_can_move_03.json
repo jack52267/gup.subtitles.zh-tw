@@ -1,0 +1,18 @@
+{
+  "duration": 4.9,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "米高，履帶修好了！",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "衝啊！幹得好！",
+      "character": "mikko",
+      "time": 2.17
+    }
+  ],
+  "audio": "track_functional_can_move_03"
+}

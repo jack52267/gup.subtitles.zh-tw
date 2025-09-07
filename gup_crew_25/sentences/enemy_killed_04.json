@@ -1,0 +1,12 @@
+{
+  "duration": 2.67,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵方戰車摧毀。繼續保持。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_04"
+}

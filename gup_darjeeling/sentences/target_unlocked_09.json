@@ -1,0 +1,12 @@
+{
+  "duration": 2.0,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "專注於另一輛戰車。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_09"
+}

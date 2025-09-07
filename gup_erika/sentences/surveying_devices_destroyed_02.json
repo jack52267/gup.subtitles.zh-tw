@@ -1,0 +1,12 @@
+{
+  "duration": 3.57,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "觀測裝置被摧毀了！小心低能見度！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_destroyed_02"
+}

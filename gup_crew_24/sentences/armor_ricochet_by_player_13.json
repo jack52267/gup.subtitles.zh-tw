@@ -1,0 +1,12 @@
+{
+  "duration": 5.17,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那發彈開了。雖非計劃之中，但這就是戰車道。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_13"
+}

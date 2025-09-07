@@ -1,0 +1,12 @@
+{
+  "duration": 2.18,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "裝填手被擊中了。你還好嗎？",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_01"
+}

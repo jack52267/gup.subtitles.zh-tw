@@ -1,0 +1,12 @@
+{
+  "duration": 2.6,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "擊中！下一發我也不會失手！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_02"
+}

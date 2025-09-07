@@ -1,0 +1,12 @@
+{
+  "duration": 2.99,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們擊中了引擎。我們的機動性降低了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_03"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 3.29,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "試著瞄準它的弱點。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "收到。",
+      "character": "assam",
+      "time": 2.33
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_02"
+}

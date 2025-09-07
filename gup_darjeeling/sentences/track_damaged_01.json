@@ -1,0 +1,12 @@
+{
+  "duration": 3.92,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶受損，再一擊我們就危險了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_01"
+}

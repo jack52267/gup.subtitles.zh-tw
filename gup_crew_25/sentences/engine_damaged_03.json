@@ -1,0 +1,12 @@
+{
+  "duration": 3.29,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎受損。準備應對機動性降低。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_03"
+}

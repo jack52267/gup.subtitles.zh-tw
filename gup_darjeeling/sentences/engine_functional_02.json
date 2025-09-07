@@ -1,0 +1,12 @@
+{
+  "duration": 3.83,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎修復已完成，現在前往安全地點。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_02"
+}

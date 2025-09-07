@@ -1,0 +1,12 @@
+{
+  "duration": 3.75,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "火勢爆發，必須立即控制！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_04"
+}

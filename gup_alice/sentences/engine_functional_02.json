@@ -1,0 +1,12 @@
+{
+  "duration": 1.51,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "引擎又運轉起來了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_02"
+}

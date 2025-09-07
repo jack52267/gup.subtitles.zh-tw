@@ -1,0 +1,12 @@
+{
+  "duration": 3.07,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "引擎不是發出怪聲了嗎！？",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_06"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.81,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "哎呀！火燒起來了！",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_05"
+}

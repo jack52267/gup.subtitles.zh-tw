@@ -1,0 +1,12 @@
+{
+  "duration": 1.27,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "炮彈命中！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_05"
+}

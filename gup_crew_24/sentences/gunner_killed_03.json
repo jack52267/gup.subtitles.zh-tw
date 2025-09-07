@@ -1,0 +1,12 @@
+{
+  "duration": 4.3,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "哎唷唷唷……他們瞄準了砲手位置……",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_03"
+}

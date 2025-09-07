@@ -1,0 +1,12 @@
+{
+  "duration": 3.4,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們摧毀了砲塔轉動機構。我們無法轉動它。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

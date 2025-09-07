@@ -1,0 +1,12 @@
+{
+  "duration": 2.9,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲手座正在遭受攻擊。我需要狀況報告。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_02"
+}

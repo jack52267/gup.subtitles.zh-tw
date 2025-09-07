@@ -1,0 +1,12 @@
+{
+  "duration": 2.2,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我感覺到這次衝擊了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_04"
+}

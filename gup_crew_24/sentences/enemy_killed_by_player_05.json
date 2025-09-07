@@ -1,0 +1,18 @@
+{
+  "duration": 4.97,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "敵方戰車沉默。準備迎接下一個獵物。",
+      "character": "mika",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "遵命！",
+      "character": "mikko",
+      "time": 3.75
+    }
+  ],
+  "audio": "enemy_killed_by_player_05"
+}

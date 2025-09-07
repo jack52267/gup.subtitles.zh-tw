@@ -1,0 +1,12 @@
+{
+  "duration": 5.17,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "戰鬥即將開始。讓我們在茶冷掉之前結束這場戰鬥吧。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_08"
+}

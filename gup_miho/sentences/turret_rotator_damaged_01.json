@@ -1,0 +1,12 @@
+{
+  "duration": 1.9,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "哎喲！砲塔被擊中了…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_01"
+}

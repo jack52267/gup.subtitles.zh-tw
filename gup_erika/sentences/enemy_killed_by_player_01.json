@@ -1,0 +1,12 @@
+{
+  "duration": 1.9,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "很好！我們摧毀了一輛！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_01"
+}

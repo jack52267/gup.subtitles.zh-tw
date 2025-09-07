@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "啊啊！我以為我打中了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_02"
+}

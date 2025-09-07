@@ -1,0 +1,12 @@
+{
+  "duration": 4.0,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "油箱壞了！？糟糕！快修好！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_04"
+}

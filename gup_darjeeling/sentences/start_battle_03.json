@@ -1,0 +1,12 @@
+{
+  "duration": 8.08,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "這將是一場有趣的戰鬥。然而，命運多變，處於劣勢的一方有時也能逆轉勝出。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_03"
+}

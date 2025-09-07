@@ -1,0 +1,12 @@
+{
+  "duration": 4.47,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "主砲…看起來完全壞了…快修好吧！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_03"
+}

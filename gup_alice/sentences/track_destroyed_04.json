@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "履帶遭受重損。立即修理。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_04"
+}

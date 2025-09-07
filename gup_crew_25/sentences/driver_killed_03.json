@@ -1,0 +1,12 @@
+{
+  "duration": 3.33,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "駕駛位被擊中。我去檢查。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_03"
+}

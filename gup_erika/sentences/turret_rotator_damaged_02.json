@@ -1,0 +1,12 @@
+{
+  "duration": 2.5,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "砲塔被擊中！砲塔環損壞了嗎！？",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

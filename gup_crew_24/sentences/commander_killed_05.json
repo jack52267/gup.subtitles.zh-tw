@@ -1,0 +1,12 @@
+{
+  "duration": 2.7,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "……這一擊有點痛。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_05"
+}

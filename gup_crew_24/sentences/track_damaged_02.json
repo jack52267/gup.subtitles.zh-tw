@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "抱歉，米卡！履帶好像壞了！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_02"
+}

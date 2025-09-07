@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵方戰車好像起火了！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_03"
+}

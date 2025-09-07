@@ -1,0 +1,12 @@
+{
+  "duration": 1.59,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們的燃料著火了嗎？",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_12"
+}

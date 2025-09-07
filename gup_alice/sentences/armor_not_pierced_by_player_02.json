@@ -1,0 +1,12 @@
+{
+  "duration": 1.81,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "你的射擊未能穿透他們的裝甲。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 5.0,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "大家準備好了！？我們會突破敵人！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_07"
+}

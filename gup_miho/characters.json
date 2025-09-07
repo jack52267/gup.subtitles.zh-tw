@@ -1,0 +1,39 @@
+[
+	{
+		"id": "miho",
+		"name": "西住 美穗",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/miho_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"agitated": [1, 0],
+					"happy": [2, 0],
+					"excited": [0, 1],
+					"sad": [1, 1],
+					"hit": [2, 1],
+					"worried": [0, 2],
+					"surprised": [1, 2],
+					"proud": [2, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/miho_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"agitated": [1, 0],
+					"happy": [2, 0],
+					"excited": [0, 1],
+					"sad": [1, 1],
+					"hit": [2, 1],
+					"worried": [0, 2],
+					"surprised": [1, 2],
+					"proud": [2, 2]
+				}
+			}
+		}
+	}
+]

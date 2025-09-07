@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "砲塔控制恢復了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

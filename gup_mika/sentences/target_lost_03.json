@@ -1,0 +1,12 @@
+{
+  "duration": 4.0,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "目標遺失了。最好檢查一下周圍。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_03"
+}

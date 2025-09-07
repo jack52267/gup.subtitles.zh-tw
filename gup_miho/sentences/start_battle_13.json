@@ -1,0 +1,12 @@
+{
+  "duration": 3.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "大家準備好了嗎？Panzer Vor！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_13"
+}

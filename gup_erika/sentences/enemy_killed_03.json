@@ -1,0 +1,12 @@
+{
+  "duration": 1.53,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方車輛被消滅！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_03"
+}

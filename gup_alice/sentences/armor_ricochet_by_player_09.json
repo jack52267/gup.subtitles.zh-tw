@@ -1,0 +1,12 @@
+{
+  "duration": 1.5,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "射擊從他們的裝甲彈開了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_09"
+}

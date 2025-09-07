@@ -1,0 +1,12 @@
+{
+  "duration": 2.43,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "來享受這場戰鬥吧。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_16"
+}

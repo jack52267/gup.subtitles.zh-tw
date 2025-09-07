@@ -1,0 +1,12 @@
+{
+  "duration": 2.66,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "保持冷靜，下一擊一定能命中目標。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_02"
+}

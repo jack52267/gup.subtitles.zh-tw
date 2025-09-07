@@ -1,0 +1,12 @@
+{
+  "duration": 3.73,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "無線電受損了。修好它吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_02"
+}

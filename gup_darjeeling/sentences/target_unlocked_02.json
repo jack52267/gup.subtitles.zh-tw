@@ -1,0 +1,12 @@
+{
+  "duration": 1.91,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "鎖定的目標已解除。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.53,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "砲塔旋轉機構有異常！？",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_03"
+}

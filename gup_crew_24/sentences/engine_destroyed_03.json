@@ -1,0 +1,12 @@
+{
+  "duration": 4.6,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "米高，別告訴我我們卡住了……？",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_03"
+}

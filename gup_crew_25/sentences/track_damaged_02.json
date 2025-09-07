@@ -1,0 +1,12 @@
+{
+  "duration": 1.69,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "履帶被擊中了。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_02"
+}

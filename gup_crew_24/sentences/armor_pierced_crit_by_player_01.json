@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "好樣的，阿基！那是直接命中！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_01"
+}

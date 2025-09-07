@@ -1,0 +1,12 @@
+{
+  "duration": 11.23,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我不確定這場戰鬥有什麼特別意義。但我們相信朋友的判斷。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_17"
+}

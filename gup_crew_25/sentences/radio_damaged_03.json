@@ -1,0 +1,12 @@
+{
+  "duration": 4.66,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們失去了遠程通訊。無線電似乎壞了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_03"
+}

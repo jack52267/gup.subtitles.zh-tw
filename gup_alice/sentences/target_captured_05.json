@@ -1,0 +1,12 @@
+{
+  "duration": 1.16,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "目標找到了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_05"
+}

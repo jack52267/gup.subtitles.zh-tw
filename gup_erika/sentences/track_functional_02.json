@@ -1,0 +1,12 @@
+{
+  "duration": 1.3,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "履帶修好了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_02"
+}

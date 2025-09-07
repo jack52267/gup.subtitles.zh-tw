@@ -1,0 +1,12 @@
+{
+  "duration": 2.39,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "哦！那一擊被敵方裝甲彈開了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_11"
+}

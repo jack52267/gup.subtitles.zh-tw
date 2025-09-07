@@ -1,0 +1,12 @@
+{
+  "duration": 4.39,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "射擊偶爾會被彈開。保持冷靜，專注於下一發。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_06"
+}

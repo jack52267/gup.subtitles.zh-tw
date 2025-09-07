@@ -1,0 +1,12 @@
+{
+  "duration": 2.51,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲管嚴重損壞。我們無法射擊。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.48,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "履帶故障了。我們無法移動。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_02"
+}

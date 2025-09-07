@@ -1,0 +1,12 @@
+{
+  "duration": 4.17,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "敵方戰車起火了……我們應該呼叫支援。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_06"
+}

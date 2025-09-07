@@ -1,0 +1,18 @@
+{
+  "duration": 6.74,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲塔旋轉機構被毀。能否立即修復？",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "遵命，大吉嶺大人！",
+      "character": "orange_pekoe",
+      "time": 5.16
+    }
+  ],
+  "audio": "turret_rotator_destroyed_02"
+}

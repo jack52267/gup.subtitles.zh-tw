@@ -1,0 +1,12 @@
+{
+  "duration": 4.24,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "通訊員受傷了。保持冷靜，提供急救。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_04"
+}

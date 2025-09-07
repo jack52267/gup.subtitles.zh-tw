@@ -1,0 +1,83 @@
+[
+	{
+		"id": "darjeeling",
+		"name": "大吉嶺",
+		"color": "#47854F",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/darjeeling_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"proud": [2, 0],
+					"excited": [0, 1],
+					"confident": [1, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/darjeeling_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"proud": [2, 0],
+					"excited": [0, 1],
+					"confident": [1, 1]
+				}
+			}
+		}
+	},
+	{
+		"id": "assam",
+		"name": "阿薩姆",
+		"color": "#292C42",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/assam_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"confident": [1, 0],
+					"proud": [2, 0]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/assam_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"confident": [1, 0],
+					"proud": [2, 0]
+				}
+			}
+		}
+	},
+	{
+		"id": "orange_pekoe",
+		"name": "橙黃白毫",
+		"color": "#592E25",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/orange_pekoe_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"worried": [1, 0],
+					"confident": [2, 0],
+					"proud": [0, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/orange_pekoe_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"worried": [1, 0],
+					"confident": [2, 0],
+					"proud": [0, 1]
+				}
+			}
+		}
+	}
+]

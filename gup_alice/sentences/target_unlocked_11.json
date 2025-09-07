@@ -1,0 +1,12 @@
+{
+  "duration": 2.24,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們可以把這輛戰車留給別人。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_11"
+}

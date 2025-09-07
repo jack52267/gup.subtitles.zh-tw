@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "哎唷！好近！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_01"
+}

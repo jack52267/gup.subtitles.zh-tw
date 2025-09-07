@@ -1,0 +1,12 @@
+{
+  "duration": 3.57,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好，我們修好了！現在能移動了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_02"
+}

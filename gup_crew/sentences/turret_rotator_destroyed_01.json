@@ -1,0 +1,12 @@
+{
+  "duration": 4.6,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "美穗同學，我們不能轉動砲塔了……",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_01"
+}

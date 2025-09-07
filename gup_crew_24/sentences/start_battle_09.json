@@ -1,0 +1,18 @@
+{
+  "duration": 8.93,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "呵呵，米卡，我們終究要加入攻擊了。",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "錯了。我們是隨風而行。",
+      "character": "mika",
+      "time": 5.01
+    }
+  ],
+  "audio": "start_battle_09"
+}

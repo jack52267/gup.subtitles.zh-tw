@@ -1,0 +1,12 @@
+{
+  "duration": 5.17,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "你的射擊被彈開了，試著改變射擊角度。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_14"
+}

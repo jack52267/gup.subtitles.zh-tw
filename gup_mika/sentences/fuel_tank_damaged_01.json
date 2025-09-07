@@ -1,0 +1,12 @@
+{
+  "duration": 2.9,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "油箱被擊中了。這可能有問題。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_01"
+}

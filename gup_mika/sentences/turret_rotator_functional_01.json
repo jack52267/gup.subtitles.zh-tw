@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "我們修好了砲塔控制系統。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

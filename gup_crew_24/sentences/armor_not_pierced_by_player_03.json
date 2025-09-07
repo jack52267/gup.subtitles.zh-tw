@@ -1,0 +1,18 @@
+{
+  "duration": 4.83,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "呃，我們的炮彈被彈開了……",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "cool",
+      "text": "別擔心，下一次你會成功的。",
+      "character": "mika",
+      "time": 2.55
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.62,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "我們有火焰。保持冷靜處理它。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_08"
+}

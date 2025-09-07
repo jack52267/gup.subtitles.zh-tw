@@ -1,0 +1,12 @@
+{
+  "duration": 5.07,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "速度降低了……嗯……看起來引擎被擊中了……",
+      "character": "mako",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "哇！敵方戰車起火了！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_10"
+}

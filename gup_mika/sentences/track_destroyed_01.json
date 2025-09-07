@@ -1,0 +1,12 @@
+{
+  "duration": 4.4,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們無法移動。快修好履帶。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_01"
+}

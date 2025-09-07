@@ -1,0 +1,12 @@
+{
+  "duration": 3.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "即使是緊急修復，砲塔現在應該能轉動了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_02"
+}

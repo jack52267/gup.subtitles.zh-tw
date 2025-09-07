@@ -1,0 +1,12 @@
+{
+  "duration": 2.9,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "無線電被擊中了…能修好嗎？",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_03"
+}

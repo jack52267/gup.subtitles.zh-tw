@@ -1,0 +1,12 @@
+{
+  "duration": 2.23,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "大家，請注意安全，小心！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "crew_deactivated_02"
+}

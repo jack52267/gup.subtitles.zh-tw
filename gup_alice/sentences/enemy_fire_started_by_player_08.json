@@ -1,0 +1,12 @@
+{
+  "duration": 1.72,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "敵人的戰車起火了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_08"
+}

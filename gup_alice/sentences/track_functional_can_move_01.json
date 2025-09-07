@@ -1,0 +1,12 @@
+{
+  "duration": 1.28,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "履帶現在運作了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_01"
+}

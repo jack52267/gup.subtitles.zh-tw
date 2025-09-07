@@ -1,0 +1,12 @@
+{
+  "duration": 3.72,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "似乎需要用其他方式來貫穿敵方裝甲。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_01"
+}

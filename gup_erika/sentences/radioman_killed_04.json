@@ -1,0 +1,12 @@
+{
+  "duration": 5.1,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "通訊員座被擊中！我們無法好好聯絡盟友，但別慌！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_04"
+}

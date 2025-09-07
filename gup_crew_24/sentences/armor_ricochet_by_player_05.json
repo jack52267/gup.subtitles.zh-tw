@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "啊啊！可是我明明打中了啊！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_05"
+}

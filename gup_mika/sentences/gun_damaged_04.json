@@ -1,0 +1,12 @@
+{
+  "duration": 5.77,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "主砲受損了。試著修好它吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_04"
+}

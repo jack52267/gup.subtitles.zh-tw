@@ -1,0 +1,18 @@
+{
+  "duration": 8.74,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "大吉嶺大人，您的茶準備好了。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "戰鬥即將開始。讓我們在茶涼前結束吧。",
+      "character": "darjeeling",
+      "time": 3.65
+    }
+  ],
+  "audio": "start_battle_08"
+}

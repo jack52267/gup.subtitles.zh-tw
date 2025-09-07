@@ -1,0 +1,12 @@
+{
+  "duration": 1.84,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那擊中了，但我覺得是跳彈了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_06"
+}

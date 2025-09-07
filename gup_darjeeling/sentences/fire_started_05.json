@@ -1,0 +1,12 @@
+{
+  "duration": 2.99,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "小心火勢，在它擴散前控制住。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_05"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.73,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "天哪！彈藥架被擊中了！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_02"
+}

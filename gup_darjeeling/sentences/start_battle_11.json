@@ -1,0 +1,12 @@
+{
+  "duration": 5.64,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "大家準備好了嗎？所有戰車，準備前進！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_11"
+}

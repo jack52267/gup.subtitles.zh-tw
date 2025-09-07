@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "嗯，觀測裝置修好了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_11"
+}

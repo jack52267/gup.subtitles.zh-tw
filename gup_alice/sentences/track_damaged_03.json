@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵人擊中了我們的履帶。小心移動。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_03"
+}

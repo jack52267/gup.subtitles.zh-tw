@@ -1,0 +1,12 @@
+{
+  "duration": 3.03,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "太好了！觀測裝置運轉起來了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_11"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 4.53,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "阿基，下次瞄準薄一點的地方。",
+      "character": "mika",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "知道了！",
+      "character": "aki",
+      "time": 3.25
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_04"
+}

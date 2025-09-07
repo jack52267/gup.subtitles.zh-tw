@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "不可能！無線電壞掉了！",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_04"
+}

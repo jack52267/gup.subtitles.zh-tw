@@ -1,0 +1,12 @@
+{
+  "duration": 3.7,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "別擔心，欠揍熊，我會幫你的。（對欠揍熊說）",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_06"
+}

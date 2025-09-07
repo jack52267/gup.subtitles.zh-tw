@@ -1,0 +1,12 @@
+{
+  "duration": 4.13,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們瞄準了油箱嗎？敵方戰車起火了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_05"
+}

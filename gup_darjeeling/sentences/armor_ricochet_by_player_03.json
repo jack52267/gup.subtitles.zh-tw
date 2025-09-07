@@ -1,0 +1,12 @@
+{
+  "duration": 6.49,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "你的射擊被彈開了，但別慌。只要放輕鬆，裝填下一發砲彈。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_03"
+}

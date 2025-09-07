@@ -1,0 +1,18 @@
+{
+  "duration": 7.1,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "馬上要開始了。全員一起衝鋒應該很好玩！",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "我不贊同只為當下而活的觀念。",
+      "character": "mika",
+      "time": 4.55
+    }
+  ],
+  "audio": "start_battle_11"
+}

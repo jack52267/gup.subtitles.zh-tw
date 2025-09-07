@@ -1,0 +1,12 @@
+{
+  "duration": 1.61,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "你認為下次射擊能命中嗎？",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_03"
+}

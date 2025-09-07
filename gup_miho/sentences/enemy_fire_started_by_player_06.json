@@ -1,0 +1,12 @@
+{
+  "duration": 2.67,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方車輛起火了！快呼叫支援！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_06"
+}

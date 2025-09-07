@@ -1,0 +1,12 @@
+{
+  "duration": 4.0,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "什麼！？主砲卡住了！？我們無法射擊！？",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_01"
+}

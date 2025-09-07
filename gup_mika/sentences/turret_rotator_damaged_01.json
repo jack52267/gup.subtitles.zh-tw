@@ -1,0 +1,12 @@
+{
+  "duration": 4.1,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲塔環被擊中了。液壓系統可能受損。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_01"
+}

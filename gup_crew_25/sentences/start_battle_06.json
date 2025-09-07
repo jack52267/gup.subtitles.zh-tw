@@ -1,0 +1,24 @@
+{
+  "duration": 12.38,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "「你的靈魂被帶往命運中最合適之地。」",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "莎士比亞的名言。",
+      "character": "orange_pekoe",
+      "time": 6.25
+    },
+    {
+      "emotion": "excited",
+      "text": "或許我們註定今日在此一戰。",
+      "character": "darjeeling",
+      "time": 8.35
+    }
+  ],
+  "audio": "start_battle_06"
+}

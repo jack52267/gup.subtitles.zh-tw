@@ -1,0 +1,12 @@
+{
+  "duration": 3.79,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們修好了觀測裝置。現在能看到了。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_03"
+}

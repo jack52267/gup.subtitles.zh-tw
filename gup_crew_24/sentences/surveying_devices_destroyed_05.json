@@ -1,0 +1,18 @@
+{
+  "duration": 5.77,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "啊……觀測裝置……",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "worried",
+      "text": "別說你什麼都看不到！？",
+      "character": "mikko",
+      "time": 2.78
+    }
+  ],
+  "audio": "surveying_devices_destroyed_05"
+}

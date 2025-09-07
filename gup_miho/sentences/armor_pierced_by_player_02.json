@@ -1,0 +1,12 @@
+{
+  "duration": 2.5,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "直接命中！太棒了，華同學！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_02"
+}

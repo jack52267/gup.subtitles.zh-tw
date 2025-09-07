@@ -1,0 +1,12 @@
+{
+  "duration": 5.0,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "通訊員位置被擊中！得閃避下一擊！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_01"
+}

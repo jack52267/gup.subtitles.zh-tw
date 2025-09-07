@@ -1,0 +1,12 @@
+{
+  "duration": 2.7,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "履帶被擊中了。它們無法承受另一擊。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_04"
+}

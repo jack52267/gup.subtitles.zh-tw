@@ -1,0 +1,12 @@
+{
+  "duration": 5.67,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "準備好出發了嗎？進入戰場時，穿著得體可是很重要的。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_20"
+}

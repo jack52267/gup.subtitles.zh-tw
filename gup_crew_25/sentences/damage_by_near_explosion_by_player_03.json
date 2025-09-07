@@ -1,0 +1,18 @@
+{
+  "duration": 4.13,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "你認為下一發能命中嗎？",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "是的，數據已記錄。",
+      "character": "assam",
+      "time": 2.16
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_03"
+}

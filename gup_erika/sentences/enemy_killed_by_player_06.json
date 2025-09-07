@@ -1,0 +1,12 @@
+{
+  "duration": 3.63,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "敵方車輛被摧毀！這就是射擊的方式！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_06"
+}

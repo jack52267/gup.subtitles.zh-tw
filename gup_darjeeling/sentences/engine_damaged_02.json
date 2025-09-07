@@ -1,0 +1,12 @@
+{
+  "duration": 3.99,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這引擎狀況不佳，我們的最高速度會受到影響。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_02"
+}

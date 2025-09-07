@@ -1,0 +1,12 @@
+{
+  "duration": 5.81,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲受損，雖然仍可開火，但精準度確實下降了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_04"
+}

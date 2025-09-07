@@ -1,0 +1,12 @@
+{
+  "duration": 4.73,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們擊中了裝填手座。不幸的是，這意味著我們的裝填會變慢。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_02"
+}

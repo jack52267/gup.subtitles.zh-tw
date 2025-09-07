@@ -1,0 +1,12 @@
+{
+  "duration": 2.32,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火滅了。返回你的崗位。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_04"
+}

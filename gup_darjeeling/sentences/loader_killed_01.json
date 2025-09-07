@@ -1,0 +1,12 @@
+{
+  "duration": 3.31,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "裝填手座位被擊中，保持冷靜並處理此事。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_01"
+}

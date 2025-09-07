@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "抱歉…我失去了敵方車輛的蹤影…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_02"
+}

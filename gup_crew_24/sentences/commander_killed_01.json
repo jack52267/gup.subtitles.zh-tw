@@ -1,0 +1,12 @@
+{
+  "duration": 2.23,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "啥！米卡！？你沒事吧！？",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_01"
+}

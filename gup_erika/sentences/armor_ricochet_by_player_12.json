@@ -1,0 +1,12 @@
+{
+  "duration": 1.63,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "下一擊我會打中你的！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_12"
+}

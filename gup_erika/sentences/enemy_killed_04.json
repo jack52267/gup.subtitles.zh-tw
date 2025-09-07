@@ -1,0 +1,12 @@
+{
+  "duration": 3.23,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "敵方車輛被摧毀！他們對我們沒轍！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_04"
+}

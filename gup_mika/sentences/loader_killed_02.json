@@ -1,0 +1,12 @@
+{
+  "duration": 3.87,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "裝填座受損了。我們還能裝填炮彈嗎？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.32,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵人試圖破壞無線電。他們的目的是干擾我們的協調。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_05"
+}

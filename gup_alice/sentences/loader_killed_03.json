@@ -1,0 +1,12 @@
+{
+  "duration": 4.19,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "直接擊中裝填手座。報告！",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_03"
+}

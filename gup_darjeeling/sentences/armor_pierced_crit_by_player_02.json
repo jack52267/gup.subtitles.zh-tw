@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "保持冷靜，你的攻擊正中目標。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_02"
+}

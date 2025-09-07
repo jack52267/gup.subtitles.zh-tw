@@ -1,0 +1,60 @@
+{
+	"small": {
+		"background": {
+			"display": true,
+			"padding": [5, 15, 10, 20],
+			"alpha": 1.0,
+			"radius": 10.0
+		},
+		"title": {
+			"display": true,
+			"size": 11,
+			"color": "#FFFFFF",
+			"font": "$FieldFont",
+			"width": 400,
+			"position": [-2, -15],
+			"align": "left"
+		},
+		"message": {
+			"size": 14,
+			"color": "#FFFFFF",
+			"font": "$FieldFont",
+			"width": 400,
+			"position": [0, 0],
+			"align": "left"
+		},
+		"poster": {
+			"display": true,
+			"position": [-90, -40]
+		}
+	},
+	"default": {
+		"background": {
+			"display": true,
+			"padding": [5, 15, 10, 20],
+			"alpha": 1.0,
+			"radius": 10.0
+		},
+		"title": {
+			"display": true,
+			"size": 14,
+			"color": "#FFFFFF",
+			"font": "$FieldFont",
+			"width": 400,
+			"position": [-5, -15],
+			"align": "left"
+		},
+		"message": {
+			"size": 20,
+			"color": "#FFFFFF",
+			"font": "$FieldFont",
+			"width": 400,
+			"position": [0, 5],
+			"align": "left"
+		},
+		"poster": {
+			"display": true,
+			"position": [-110, -40]
+		}
+	}
+}

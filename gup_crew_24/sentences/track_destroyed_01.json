@@ -1,0 +1,12 @@
+{
+  "duration": 4.67,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "該死！抱歉，米卡！我們失去一條履帶了！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_01"
+}

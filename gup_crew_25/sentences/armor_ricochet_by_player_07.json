@@ -1,0 +1,12 @@
+{
+  "duration": 2.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們擊中了，但沒穿透他們的裝甲。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_07"
+}

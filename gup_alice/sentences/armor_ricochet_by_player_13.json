@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "那跳彈了。讓我們換個角度。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_13"
+}

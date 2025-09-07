@@ -1,0 +1,18 @@
+{
+  "duration": 5.5,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲受損。我們的命中率會降低。",
+      "character": "mika",
+      "time": 0.0
+    },
+    {
+      "emotion": "sad",
+      "text": "啊啊……（哭）",
+      "character": "aki",
+      "time": 3.75
+    }
+  ],
+  "audio": "gun_damaged_03"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 4.32,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "咦！？彈開了！？",
+      "character": "orange_pekoe",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "別擔心，讓下一擊命中。",
+      "character": "darjeeling",
+      "time": 1.58
+    }
+  ],
+  "audio": "armor_ricochet_by_player_02"
+}

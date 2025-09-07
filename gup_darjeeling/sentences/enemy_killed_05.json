@@ -1,0 +1,12 @@
+{
+  "duration": 1.76,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "又少了一個需要擔心的敵人。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_05"
+}

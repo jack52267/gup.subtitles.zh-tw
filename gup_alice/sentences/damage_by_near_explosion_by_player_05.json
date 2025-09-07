@@ -1,0 +1,12 @@
+{
+  "duration": 1.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們差點就擊中他們了，但他們設法躲開了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_05"
+}

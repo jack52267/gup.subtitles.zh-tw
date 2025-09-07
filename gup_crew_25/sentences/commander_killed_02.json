@@ -1,0 +1,18 @@
+{
+  "duration": 5.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "大吉嶺！你還好嗎？",
+      "character": "assam",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "呃……我想我需要稍作休息……",
+      "character": "darjeeling",
+      "time": 2.33
+    }
+  ],
+  "audio": "commander_killed_02"
+}

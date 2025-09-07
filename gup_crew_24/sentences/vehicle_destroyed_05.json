@@ -1,0 +1,12 @@
+{
+  "duration": 7.9,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "在戰車道中，很多時候你必須繼續前行。但這不是其中之一。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_05"
+}

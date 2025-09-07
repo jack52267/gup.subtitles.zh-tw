@@ -1,0 +1,12 @@
+{
+  "duration": 6.13,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "米卡，無線電壞掉了！我們無法遠距離通訊了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_04"
+}

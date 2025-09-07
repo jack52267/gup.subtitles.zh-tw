@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "太棒了！敵方戰車被擊沉默了！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_01"
+}

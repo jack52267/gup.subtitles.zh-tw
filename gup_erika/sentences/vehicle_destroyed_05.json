@@ -1,0 +1,12 @@
+{
+  "duration": 4.5,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "所以這就是結束…回來後檢討會議！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_05"
+}

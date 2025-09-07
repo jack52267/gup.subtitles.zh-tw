@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "嗯，這一發很近。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_01"
+}

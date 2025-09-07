@@ -1,0 +1,12 @@
+{
+  "duration": 3.32,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎被毀。除非修復，否則我們無法移動。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_01"
+}

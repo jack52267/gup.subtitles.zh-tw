@@ -1,0 +1,18 @@
+{
+  "duration": 2.73,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "把那個敵人交給隊友吧。",
+      "character": "mika",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "好！",
+      "character": "aki",
+      "time": 1.78
+    }
+  ],
+  "audio": "target_unlocked_05"
+}

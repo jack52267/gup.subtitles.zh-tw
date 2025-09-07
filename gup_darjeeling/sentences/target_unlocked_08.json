@@ -1,0 +1,12 @@
+{
+  "duration": 1.72,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "來切換目標吧。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_08"
+}

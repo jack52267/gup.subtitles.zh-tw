@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "你沒事吧！？我自己來裝填！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_03"
+}

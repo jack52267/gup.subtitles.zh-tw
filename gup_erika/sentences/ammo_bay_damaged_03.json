@@ -1,0 +1,12 @@
+{
+  "duration": 2.7,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "彈藥架被擊中了！？報告損壞程度！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_03"
+}

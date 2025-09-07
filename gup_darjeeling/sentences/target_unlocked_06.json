@@ -1,0 +1,12 @@
+{
+  "duration": 2.01,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我建議鎖定另一輛戰車。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_06"
+}

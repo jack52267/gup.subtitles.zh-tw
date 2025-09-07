@@ -1,0 +1,12 @@
+{
+  "duration": 4.7,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲塔旋轉機構被摧毀，我可以依靠你們立即修復嗎？",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_02"
+}

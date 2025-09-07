@@ -1,0 +1,12 @@
+{
+  "duration": 3.87,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "擊倒一敵。風正朝我們吹來。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_06"
+}

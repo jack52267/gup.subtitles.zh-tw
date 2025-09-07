@@ -1,0 +1,12 @@
+{
+  "duration": 5.07,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "我們修好了主砲。雖然準確度仍受限。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_03"
+}

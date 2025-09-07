@@ -1,0 +1,12 @@
+{
+  "duration": 3.23,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好像他們打斷了我們的履帶。我們無法移動。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.47,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "華同學，麻子同學，現在砲塔無法旋轉，小心！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

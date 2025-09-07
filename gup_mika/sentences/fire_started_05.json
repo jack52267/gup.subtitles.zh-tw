@@ -1,0 +1,12 @@
+{
+  "duration": 3.87,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "檢測到火災。在它擴散前滅火吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_05"
+}

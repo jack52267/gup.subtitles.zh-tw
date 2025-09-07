@@ -1,0 +1,12 @@
+{
+  "duration": 2.1,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "砲手座！？損壞如何！？",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_01"
+}

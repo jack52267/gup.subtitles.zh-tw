@@ -1,0 +1,12 @@
+{
+  "duration": 0.95,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們把火滅了。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_02"
+}

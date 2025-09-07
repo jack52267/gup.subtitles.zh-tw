@@ -1,0 +1,12 @@
+{
+  "duration": 3.67,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲又能用了。很好。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_04"
+}

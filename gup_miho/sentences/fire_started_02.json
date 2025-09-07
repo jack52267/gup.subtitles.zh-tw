@@ -1,0 +1,12 @@
+{
+  "duration": 2.37,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "糟糕！大家一起滅火吧！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_02"
+}

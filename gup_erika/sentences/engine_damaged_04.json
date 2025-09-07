@@ -1,0 +1,12 @@
+{
+  "duration": 2.0,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "引擎損壞了！？我們能移動嗎？",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.5,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "發、發現火情！我們該怎麼辦……",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_04"
+}

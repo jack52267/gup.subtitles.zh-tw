@@ -1,0 +1,12 @@
+{
+  "duration": 3.54,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "敵人擊中了履帶，盡一切努力避免再次被擊中。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_03"
+}

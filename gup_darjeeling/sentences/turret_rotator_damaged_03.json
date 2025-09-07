@@ -1,0 +1,12 @@
+{
+  "duration": 2.08,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵人擊中了砲塔旋轉機構。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_03"
+}

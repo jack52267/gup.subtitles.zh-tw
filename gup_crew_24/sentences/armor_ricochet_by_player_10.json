@@ -1,0 +1,18 @@
+{
+  "duration": 4.03,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "啥……彈開了！？",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "別慌，這種事難免的，對吧？",
+      "character": "mika",
+      "time": 0.71
+    }
+  ],
+  "audio": "armor_ricochet_by_player_10"
+}

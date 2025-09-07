@@ -1,0 +1,12 @@
+{
+  "duration": 3.77,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "炮管修好了，但準確度肯定下降了！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_03"
+}

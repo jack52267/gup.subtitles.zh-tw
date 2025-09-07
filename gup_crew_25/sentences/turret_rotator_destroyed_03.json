@@ -1,0 +1,12 @@
+{
+  "duration": 4.65,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "砲塔旋轉機構被毀。砲塔動不了了……",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

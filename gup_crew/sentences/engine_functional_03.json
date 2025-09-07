@@ -1,0 +1,12 @@
+{
+  "duration": 3.4,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎修好了！但請別太勉強它！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_03"
+}

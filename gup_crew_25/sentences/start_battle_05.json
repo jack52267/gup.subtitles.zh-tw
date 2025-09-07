@@ -1,0 +1,18 @@
+{
+  "duration": 3.75,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "戰車準備就緒。",
+      "character": "assam",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "那就出發吧？",
+      "character": "darjeeling",
+      "time": 2.0
+    }
+  ],
+  "audio": "start_battle_05"
+}

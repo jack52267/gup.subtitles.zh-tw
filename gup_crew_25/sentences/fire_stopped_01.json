@@ -1,0 +1,12 @@
+{
+  "duration": 1.26,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火已撲滅。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_01"
+}

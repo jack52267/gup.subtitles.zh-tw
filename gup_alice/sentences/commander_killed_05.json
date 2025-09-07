@@ -1,0 +1,12 @@
+{
+  "duration": 1.98,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "哎呀。他們在瞄準我嗎？",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_05"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "embarassed",
+      "text": "唔……沒什麼……",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_02"
+}

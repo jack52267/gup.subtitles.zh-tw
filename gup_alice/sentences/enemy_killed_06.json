@@ -1,0 +1,12 @@
+{
+  "duration": 2.44,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我確認一輛敵方戰車嚴重損壞。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_06"
+}

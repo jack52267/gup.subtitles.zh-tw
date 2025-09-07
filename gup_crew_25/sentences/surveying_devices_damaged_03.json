@@ -1,0 +1,12 @@
+{
+  "duration": 1.96,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵人似乎在瞄準觀測裝置。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_03"
+}

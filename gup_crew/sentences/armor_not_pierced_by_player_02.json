@@ -1,0 +1,12 @@
+{
+  "duration": 3.27,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "敵人的裝甲看起來相當堅固……",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_02"
+}

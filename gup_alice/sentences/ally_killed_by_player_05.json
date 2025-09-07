@@ -1,0 +1,12 @@
+{
+  "duration": 0.94,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "不要射擊我們的友軍。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_05"
+}

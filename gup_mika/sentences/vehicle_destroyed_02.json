@@ -1,0 +1,12 @@
+{
+  "duration": 7.63,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "被摧毀不代表你輸了。但大多數人不明白這點。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_02"
+}

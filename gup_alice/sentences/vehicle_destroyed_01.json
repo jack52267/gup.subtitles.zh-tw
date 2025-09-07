@@ -1,0 +1,12 @@
+{
+  "duration": 4.65,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "這不是你的錯。我作為隊長負全責…",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.13,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "我明明打中了！為什麼沒穿透啊……？",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_02"
+}

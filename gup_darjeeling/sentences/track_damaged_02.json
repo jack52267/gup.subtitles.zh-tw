@@ -1,0 +1,12 @@
+{
+  "duration": 2.59,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "敵人擊中了履帶，請小心行事。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_02"
+}

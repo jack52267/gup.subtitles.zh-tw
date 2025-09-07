@@ -1,0 +1,12 @@
+{
+  "duration": 2.72,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "引擎遭到攻擊。給我狀況報告。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_01"
+}

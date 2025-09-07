@@ -1,0 +1,12 @@
+{
+  "duration": 1.97,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方戰車鎖定了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_03"
+}

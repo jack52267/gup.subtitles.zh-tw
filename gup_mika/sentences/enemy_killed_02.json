@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "嗯，敵方好像失去了一輛戰車。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_02"
+}

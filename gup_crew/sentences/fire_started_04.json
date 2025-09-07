@@ -1,0 +1,12 @@
+{
+  "duration": 3.3,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "糟糕！我們著火了！滅……滅火器在哪！？",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_04"
+}

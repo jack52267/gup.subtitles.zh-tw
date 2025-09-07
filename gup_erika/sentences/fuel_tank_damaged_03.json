@@ -1,0 +1,12 @@
+{
+  "duration": 3.27,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "油箱損壞了！？小心別惡化！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

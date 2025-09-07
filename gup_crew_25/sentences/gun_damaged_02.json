@@ -1,0 +1,12 @@
+{
+  "duration": 3.08,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲受損。我們無法精準瞄準。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

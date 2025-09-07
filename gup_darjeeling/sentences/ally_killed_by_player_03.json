@@ -1,0 +1,12 @@
+{
+  "duration": 1.88,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們絕不能這樣攻擊盟友。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_03"
+}

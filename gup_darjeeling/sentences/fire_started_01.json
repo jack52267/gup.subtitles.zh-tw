@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "火勢已起，保持冷靜並立即滅火。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_01"
+}

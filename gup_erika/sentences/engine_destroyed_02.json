@@ -1,0 +1,12 @@
+{
+  "duration": 2.23,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "引擎被摧毀！快修好它！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_02"
+}

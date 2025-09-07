@@ -1,0 +1,18 @@
+{
+  "duration": 4.82,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "履帶已恢復。出發時保持警戒。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "收到。",
+      "character": "assam",
+      "time": 3.91
+    }
+  ],
+  "audio": "track_functional_can_move_07"
+}

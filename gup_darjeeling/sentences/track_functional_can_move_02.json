@@ -1,0 +1,12 @@
+{
+  "duration": 3.81,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶現已恢復運作，前往安全地點。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_02"
+}

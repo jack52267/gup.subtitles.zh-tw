@@ -1,0 +1,12 @@
+{
+  "duration": 3.3,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "抱歉，我沒能閃開！光學儀器好像壞了！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_02"
+}

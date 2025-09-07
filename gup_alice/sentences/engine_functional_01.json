@@ -1,0 +1,12 @@
+{
+  "duration": 2.73,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "引擎恢復了。我們現在能移動了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_01"
+}

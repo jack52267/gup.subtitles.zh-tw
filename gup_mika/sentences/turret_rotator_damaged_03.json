@@ -1,0 +1,12 @@
+{
+  "duration": 3.87,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲塔被擊中了。控制系統好像受損了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.7,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "趕快修復砲塔！它無法旋轉了！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_02"
+}

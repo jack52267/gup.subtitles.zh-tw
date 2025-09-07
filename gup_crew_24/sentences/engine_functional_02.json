@@ -1,0 +1,12 @@
+{
+  "duration": 2.97,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "好棒！引擎恢復了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_02"
+}

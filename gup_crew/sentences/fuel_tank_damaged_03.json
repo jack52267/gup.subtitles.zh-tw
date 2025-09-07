@@ -1,0 +1,12 @@
+{
+  "duration": 4.23,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "嘿，你有沒有聞到怪味？是燃料洩漏嗎！？",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

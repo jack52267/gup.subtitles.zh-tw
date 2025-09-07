@@ -1,0 +1,12 @@
+{
+  "duration": 2.83,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這個聲音…可能是引擎損壞了？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_07"
+}

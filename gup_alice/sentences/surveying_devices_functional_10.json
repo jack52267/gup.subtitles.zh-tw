@@ -1,0 +1,12 @@
+{
+  "duration": 3.84,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "觀測裝置現在好了。留意敵人。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_10"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.65,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲已停止運作，保持冷靜並立即修復。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_03"
+}

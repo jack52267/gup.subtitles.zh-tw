@@ -1,0 +1,12 @@
+{
+  "duration": 4.13,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲被擊中了。還能開火嗎？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

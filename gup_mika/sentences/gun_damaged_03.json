@@ -1,0 +1,12 @@
+{
+  "duration": 3.7,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "好像我們的主砲被擊中了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_03"
+}

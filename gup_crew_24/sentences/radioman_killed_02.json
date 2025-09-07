@@ -1,0 +1,12 @@
+{
+  "duration": 3.6,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "通訊員位置受損！我們的通訊不正常了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_02"
+}

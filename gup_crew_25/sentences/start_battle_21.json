@@ -1,0 +1,18 @@
+{
+  "duration": 10.81,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "大家聽好，現在是我們戰車道閃耀的時刻！",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "是！大吉嶺大人，我們全力以赴！",
+      "character": "orange_pekoe",
+      "time": 8.05
+    }
+  ],
+  "audio": "start_battle_21"
+}

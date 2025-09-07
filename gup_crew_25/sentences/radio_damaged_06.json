@@ -1,0 +1,12 @@
+{
+  "duration": 2.25,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "無線電好像停止運作了。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_06"
+}

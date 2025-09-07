@@ -1,0 +1,24 @@
+{
+  "duration": 10.13,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "你聽過這句名言嗎？「勝利屬於最堅持的人。」讓我們低調前進，目標勝利。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "明白！",
+      "character": "assam",
+      "time": 9.0
+    },
+    {
+      "emotion": "confident",
+      "text": "明白！",
+      "character": "orange_pekoe",
+      "time": 9.25
+    }
+  ],
+  "audio": "start_battle_17"
+}

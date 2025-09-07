@@ -1,0 +1,12 @@
+{
+  "duration": 0.63,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "呀啊！（哎喲！）",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_06"
+}

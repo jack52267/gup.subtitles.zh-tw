@@ -1,0 +1,12 @@
+{
+  "duration": 3.31,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "彈藥架受損了。它可能會爆炸，要小心。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_02"
+}

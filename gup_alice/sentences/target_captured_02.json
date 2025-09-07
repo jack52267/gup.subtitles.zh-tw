@@ -1,0 +1,12 @@
+{
+  "duration": 0.86,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "準備攻擊。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_02"
+}

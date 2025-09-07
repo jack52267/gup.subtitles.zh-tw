@@ -1,0 +1,12 @@
+{
+  "duration": 4.63,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "砲塔旋轉機構受損。轉動速度下降。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_01"
+}

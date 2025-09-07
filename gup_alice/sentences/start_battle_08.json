@@ -1,0 +1,12 @@
+{
+  "duration": 1.34,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "讓這成為好的一場。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_08"
+}

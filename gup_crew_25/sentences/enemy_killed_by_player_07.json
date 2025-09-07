@@ -1,0 +1,12 @@
+{
+  "duration": 2.12,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們消滅了敵方戰車。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_07"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.46,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲手位置被擊中。打得好……",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_04"
+}

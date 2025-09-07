@@ -1,0 +1,12 @@
+{
+  "duration": 5.57,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "通訊員座受損了。我們得修好它。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.6,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "我們擊中油箱了嗎？",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_12"
+}

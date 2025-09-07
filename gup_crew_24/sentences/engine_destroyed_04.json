@@ -1,0 +1,18 @@
+{
+  "duration": 4.6,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "引擎被毀。米高，修好它。",
+      "character": "mika",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "收到！",
+      "character": "mikko",
+      "time": 3.65
+    }
+  ],
+  "audio": "engine_destroyed_04"
+}

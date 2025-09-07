@@ -1,0 +1,12 @@
+{
+  "duration": 3.35,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "看起來沒擊中。快速裝填下一發。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_04"
+}

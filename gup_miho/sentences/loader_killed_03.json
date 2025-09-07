@@ -1,0 +1,12 @@
+{
+  "duration": 2.2,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "優花里同學！你沒受傷吧？",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_03"
+}

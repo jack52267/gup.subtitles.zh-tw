@@ -1,0 +1,12 @@
+{
+  "duration": 4.4,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好像我們的無線電被擊中了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_03"
+}

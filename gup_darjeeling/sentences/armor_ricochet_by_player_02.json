@@ -1,0 +1,12 @@
+{
+  "duration": 2.24,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "別擔心，下次射擊要確實命中。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_02"
+}

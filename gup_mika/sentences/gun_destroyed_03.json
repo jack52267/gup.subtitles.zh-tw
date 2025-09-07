@@ -1,0 +1,12 @@
+{
+  "duration": 5.37,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "主砲被擊毀了。這不妙。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_03"
+}

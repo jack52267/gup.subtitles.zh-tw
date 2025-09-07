@@ -1,0 +1,12 @@
+{
+  "duration": 3.0,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "美穗同學……履帶修好了，我們走吧……",
+      "character": "mako",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_05"
+}

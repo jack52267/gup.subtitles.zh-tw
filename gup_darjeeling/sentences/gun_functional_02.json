@@ -1,0 +1,12 @@
+{
+  "duration": 3.23,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲功能恢復，已準備好再次開火。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_02"
+}

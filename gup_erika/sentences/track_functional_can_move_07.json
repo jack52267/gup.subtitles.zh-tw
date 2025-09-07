@@ -1,0 +1,12 @@
+{
+  "duration": 2.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好，我們能移動了！出發！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_07"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.8,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "彈藥架被打中？下一次可能撐不住了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_04"
+}

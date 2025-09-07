@@ -1,0 +1,12 @@
+{
+  "duration": 1.85,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "你擊中了目標，但效果不大。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_04"
+}

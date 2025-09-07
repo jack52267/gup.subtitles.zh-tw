@@ -1,0 +1,12 @@
+{
+  "duration": 4.58,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我不會忘記這次的失敗。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_02"
+}

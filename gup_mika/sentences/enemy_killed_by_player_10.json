@@ -1,0 +1,12 @@
+{
+  "duration": 4.3,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "擊毀一輛車。我們不能每次都依賴洋子同學。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_10"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "準備射擊！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_03"
+}

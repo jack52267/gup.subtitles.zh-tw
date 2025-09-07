@@ -1,0 +1,12 @@
+{
+  "duration": 11.27,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "人生中有許多重要時刻。這場戰鬥肯定是其中之一。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_20"
+}

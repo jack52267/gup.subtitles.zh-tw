@@ -1,0 +1,12 @@
+{
+  "duration": 2.88,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那彈開了。下一發會命中目標。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_08"
+}

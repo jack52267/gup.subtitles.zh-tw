@@ -1,0 +1,12 @@
+{
+  "duration": 5.8,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們完蛋了。駕駛戰車時常有的事。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "crew_deactivated_02"
+}

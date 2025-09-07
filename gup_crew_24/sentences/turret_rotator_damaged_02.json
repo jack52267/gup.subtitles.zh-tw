@@ -1,0 +1,12 @@
+{
+  "duration": 3.03,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "砲塔被擊中！現在轉動慢了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

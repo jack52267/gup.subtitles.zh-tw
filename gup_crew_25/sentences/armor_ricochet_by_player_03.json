@@ -1,0 +1,18 @@
+{
+  "duration": 7.63,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "你的炮彈彈開了，別急，放鬆點，裝填下一發。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "明白了！",
+      "character": "orange_pekoe",
+      "time": 6.75
+    }
+  ],
+  "audio": "armor_ricochet_by_player_03"
+}

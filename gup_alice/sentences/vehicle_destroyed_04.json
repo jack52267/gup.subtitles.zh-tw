@@ -1,0 +1,12 @@
+{
+  "duration": 2.07,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們被擊中了。讓我們撤退。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_04"
+}

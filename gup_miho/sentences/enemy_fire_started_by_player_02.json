@@ -1,0 +1,12 @@
+{
+  "duration": 2.83,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "確認炮彈擊中敵方車輛的油箱！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_02"
+}

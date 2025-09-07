@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "修復完成！麻子同學，請開始行動！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.38,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "駕駛座正在遭受攻擊。給我狀況報告。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_02"
+}

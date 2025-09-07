@@ -1,0 +1,12 @@
+{
+  "duration": 1.34,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "大家，保持警惕。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_14"
+}

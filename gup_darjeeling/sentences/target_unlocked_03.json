@@ -1,0 +1,12 @@
+{
+  "duration": 1.7,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "來瞄準另一輛戰車吧。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_03"
+}

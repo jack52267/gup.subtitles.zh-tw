@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "我還能……繼續……！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_01"
+}

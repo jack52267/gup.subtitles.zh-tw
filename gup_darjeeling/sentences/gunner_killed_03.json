@@ -1,0 +1,12 @@
+{
+  "duration": 4.18,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "敵人擊中了砲手座位，務必補償精準度的下降。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_03"
+}

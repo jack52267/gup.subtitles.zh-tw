@@ -1,0 +1,12 @@
+{
+  "duration": 3.7,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們瞄準了我們的砲手位置。他們很厲害。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_04"
+}

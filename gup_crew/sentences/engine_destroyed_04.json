@@ -1,0 +1,12 @@
+{
+  "duration": 3.4,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "大家，對不起……引擎壞了……",
+      "character": "mako",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.33,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "燃料箱被擊中。恐怕再也承受不住了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

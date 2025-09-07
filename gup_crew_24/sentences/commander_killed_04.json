@@ -1,0 +1,12 @@
+{
+  "duration": 1.9,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "米卡！你有沒有受傷！？",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_04"
+}

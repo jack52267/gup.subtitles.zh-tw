@@ -1,0 +1,18 @@
+{
+  "duration": 9.37,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "嘿，米卡，你為什麼參加戰車道？",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "cool",
+      "text": "在戰車道中，你能找到人生中所有重要的事物。",
+      "character": "mika",
+      "time": 3.72
+    }
+  ],
+  "audio": "start_battle_06"
+}

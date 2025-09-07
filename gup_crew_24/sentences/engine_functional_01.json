@@ -1,0 +1,12 @@
+{
+  "duration": 3.33,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "太棒了！引擎修好了！出發！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.03,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "確認摧毀！華同學，能再射擊一輛嗎？",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_06"
+}

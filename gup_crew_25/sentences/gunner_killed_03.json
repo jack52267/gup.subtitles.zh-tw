@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "哎唷！他們在瞄準砲手位置……",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_03"
+}

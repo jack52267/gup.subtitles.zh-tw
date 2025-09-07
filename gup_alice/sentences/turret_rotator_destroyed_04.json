@@ -1,0 +1,12 @@
+{
+  "duration": 3.73,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "砲塔停住了。它的轉動機構似乎壞了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

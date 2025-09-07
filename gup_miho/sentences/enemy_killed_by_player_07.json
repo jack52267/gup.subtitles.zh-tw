@@ -1,0 +1,12 @@
+{
+  "duration": 3.13,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方車輛被摧毀！前往下一個目標吧！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_07"
+}

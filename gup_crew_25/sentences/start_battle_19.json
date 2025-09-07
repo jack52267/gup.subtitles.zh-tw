@@ -1,0 +1,24 @@
+{
+  "duration": 9.67,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "真正三明治最美味的部分不是麵包，而是裡面的黃瓜。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "worried",
+      "text": "咦？",
+      "character": "orange_pekoe",
+      "time": 6.0
+    },
+    {
+      "emotion": "focused",
+      "text": "內餡才是味道的關鍵。",
+      "character": "darjeeling",
+      "time": 7.15
+    }
+  ],
+  "audio": "start_battle_19"
+}

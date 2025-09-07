@@ -1,0 +1,12 @@
+{
+  "duration": 2.17,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "修復完成了！出發吧！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.67,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵方戰車被炮彈直擊，太棒了，華同學！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_03"
+}

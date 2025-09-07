@@ -1,0 +1,12 @@
+{
+  "duration": 3.41,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "無線電被擊中了。這會減少我們的通訊範圍。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_06"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.9,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "彈藥架正在遭受攻擊。保持鎮定，處理此事。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_04"
+}

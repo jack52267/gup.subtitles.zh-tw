@@ -1,0 +1,12 @@
+{
+  "duration": 1.31,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方戰車鎖定。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_04"
+}

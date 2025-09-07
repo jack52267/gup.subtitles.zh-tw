@@ -1,0 +1,12 @@
+{
+  "duration": 1.8,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "炮彈擊中了！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_01"
+}

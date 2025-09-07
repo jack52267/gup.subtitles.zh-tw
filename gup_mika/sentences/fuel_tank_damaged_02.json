@@ -1,0 +1,12 @@
+{
+  "duration": 4.7,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "油箱受損了。不能讓情況更糟。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.87,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "敵方戰車在燃燒。是引擎的問題嗎？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_06"
+}

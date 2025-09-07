@@ -1,0 +1,12 @@
+{
+  "duration": 2.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "華同學，請準備射擊！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_06"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.01,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "無線電操作員座嚴重損壞。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_01"
+}

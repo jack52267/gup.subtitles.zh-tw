@@ -1,0 +1,12 @@
+{
+  "duration": 4.38,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲手座被擊中了！？哎喲…現在無法避免低精準度了。",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_02"
+}

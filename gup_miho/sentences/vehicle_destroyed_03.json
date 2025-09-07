@@ -1,0 +1,12 @@
+{
+  "duration": 4.3,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "大家沒事吧？下次我們再努力！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.08,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "砲手座位正在遭受攻擊，報告狀況！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_01"
+}

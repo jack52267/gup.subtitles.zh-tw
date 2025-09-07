@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "咦？那是火！？他們沒事吧！？",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_11"
+}

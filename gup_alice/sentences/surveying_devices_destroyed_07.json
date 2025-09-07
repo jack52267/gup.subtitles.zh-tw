@@ -1,0 +1,12 @@
+{
+  "duration": 3.68,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "觀測裝置壞了。保持冷靜處理它。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_destroyed_07"
+}

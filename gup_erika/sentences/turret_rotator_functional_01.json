@@ -1,0 +1,12 @@
+{
+  "duration": 2.23,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲塔修好了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.34,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "嗯……看起來敵方戰車在燃燒。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_09"
+}

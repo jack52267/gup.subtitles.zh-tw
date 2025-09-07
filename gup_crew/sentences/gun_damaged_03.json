@@ -1,0 +1,12 @@
+{
+  "duration": 4.1,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "炮管受損了！這樣我沒法精準射擊……",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_03"
+}

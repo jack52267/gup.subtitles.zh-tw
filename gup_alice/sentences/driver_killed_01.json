@@ -1,0 +1,12 @@
+{
+  "duration": 2.68,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "駕駛座受損了。你的狀況如何？",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_01"
+}

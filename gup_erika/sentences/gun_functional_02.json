@@ -1,0 +1,12 @@
+{
+  "duration": 3.57,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "主砲修好了！小心精準度降低！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_02"
+}

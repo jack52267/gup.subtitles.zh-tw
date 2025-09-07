@@ -1,0 +1,12 @@
+{
+  "duration": 3.6,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "引擎修好了。出發吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.59,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶修復已完成。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_02"
+}

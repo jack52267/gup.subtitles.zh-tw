@@ -1,0 +1,12 @@
+{
+  "duration": 5.96,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "那聲音像是主砲受損，注意其精準度已降低。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_03"
+}

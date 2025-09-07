@@ -1,0 +1,12 @@
+{
+  "duration": 1.5,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "敵方車輛，摧毀。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_01"
+}

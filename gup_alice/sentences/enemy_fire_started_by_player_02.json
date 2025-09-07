@@ -1,0 +1,12 @@
+{
+  "duration": 1.01,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "它在燃燒中。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_02"
+}

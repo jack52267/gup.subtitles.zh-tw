@@ -1,0 +1,12 @@
+{
+  "duration": 1.45,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我覺得有點暈船。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_04"
+}

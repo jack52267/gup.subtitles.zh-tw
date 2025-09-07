@@ -1,0 +1,12 @@
+{
+  "duration": 3.25,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "是跳彈。也許角度不對。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_04"
+}

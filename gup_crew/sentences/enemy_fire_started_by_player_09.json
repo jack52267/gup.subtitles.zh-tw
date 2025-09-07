@@ -1,0 +1,12 @@
+{
+  "duration": 1.5,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "敵方戰車起火了！",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_09"
+}

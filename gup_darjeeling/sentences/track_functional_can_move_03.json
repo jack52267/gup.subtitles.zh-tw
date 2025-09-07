@@ -1,0 +1,12 @@
+{
+  "duration": 3.37,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶再次恢復功能，前往安全地點。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_03"
+}

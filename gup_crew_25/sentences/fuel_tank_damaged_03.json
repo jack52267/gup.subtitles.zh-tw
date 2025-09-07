@@ -1,0 +1,12 @@
+{
+  "duration": 4.01,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "燃料箱受損。起火機率增加了。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

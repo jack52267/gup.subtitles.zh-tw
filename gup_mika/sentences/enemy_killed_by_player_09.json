@@ -1,0 +1,12 @@
+{
+  "duration": 0.83,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "我們擊倒了他們。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_09"
+}

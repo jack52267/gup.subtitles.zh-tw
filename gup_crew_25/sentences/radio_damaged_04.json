@@ -1,0 +1,12 @@
+{
+  "duration": 5.0,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "無線電受損。遠程通訊暫時不穩定。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_04"
+}

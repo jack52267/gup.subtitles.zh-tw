@@ -1,0 +1,12 @@
+{
+  "duration": 2.42,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲塔轉動機構修理完成了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_02"
+}

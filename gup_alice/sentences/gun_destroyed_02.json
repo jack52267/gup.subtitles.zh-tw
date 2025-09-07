@@ -1,0 +1,12 @@
+{
+  "duration": 2.81,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們摧毀了主砲。它無法射擊。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_02"
+}

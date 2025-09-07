@@ -1,0 +1,12 @@
+{
+  "duration": 5.17,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "裝填座被擊中了。我們得採取行動。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.74,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們修好了履帶。該移動了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_05"
+}

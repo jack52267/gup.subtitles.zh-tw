@@ -1,0 +1,12 @@
+{
+  "duration": 5.3,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "啊啊！米卡啊啊，砲塔動不了了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_01"
+}

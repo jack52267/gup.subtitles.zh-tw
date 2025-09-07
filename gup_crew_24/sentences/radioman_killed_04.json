@@ -1,0 +1,12 @@
+{
+  "duration": 5.57,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "通訊員位置受損。我們無法正常通訊了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_04"
+}

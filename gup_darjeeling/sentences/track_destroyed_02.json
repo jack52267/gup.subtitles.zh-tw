@@ -1,0 +1,12 @@
+{
+  "duration": 3.92,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "哦，履帶似乎脫軌了，立即進行修復！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_02"
+}

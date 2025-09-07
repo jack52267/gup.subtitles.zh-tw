@@ -1,0 +1,12 @@
+{
+  "duration": 3.21,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲受損，其精準度將受到不利影響。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

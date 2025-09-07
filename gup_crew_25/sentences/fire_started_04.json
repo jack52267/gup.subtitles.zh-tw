@@ -1,0 +1,12 @@
+{
+  "duration": 2.58,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們起火了。快滅火。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_04"
+}

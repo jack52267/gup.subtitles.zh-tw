@@ -1,0 +1,12 @@
+{
+  "duration": 3.31,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方戰車在燃燒。看來是他們的燃料箱著火了。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_06"
+}

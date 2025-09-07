@@ -1,0 +1,12 @@
+{
+  "duration": 1.93,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我來滅火！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_01"
+}

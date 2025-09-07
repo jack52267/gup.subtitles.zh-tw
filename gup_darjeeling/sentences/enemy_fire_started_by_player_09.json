@@ -1,0 +1,12 @@
+{
+  "duration": 5.4,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "哦，看看那火焰，或許我們該對他們手下留情一點。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_09"
+}

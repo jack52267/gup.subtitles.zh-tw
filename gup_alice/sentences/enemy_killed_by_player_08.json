@@ -1,0 +1,12 @@
+{
+  "duration": 1.42,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "好工作。我們抓到他們了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_08"
+}

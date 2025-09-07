@@ -1,0 +1,101 @@
+[
+	{
+		"id": "mika",
+		"name": "米卡",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/mika_270.png",
+				"size": [135, 135],  // 原 [90, 90] * 1.5 = [135, 135]
+				"emotions": {
+					"cool": [0, 0],
+					"default": [1, 0],
+					"proud": [2, 0],
+					"focused": [0, 1],
+					"excited": [1, 1],
+					"confident": [2, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/mika_330.png",
+				"size": [165, 165],  // 原 [110, 110] * 1.5 = [165, 165]
+				"emotions": {
+					"cool": [0, 0],
+					"default": [1, 0],
+					"proud": [2, 0],
+					"focused": [0, 1],
+					"excited": [1, 1],
+					"confident": [2, 1]
+				}
+			}
+		}
+	},
+	{
+		"id": "aki",
+		"name": "阿基",
+		"color": "#4E3954",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/aki_270.png",
+				"size": [135, 135],  // 原 [90, 90] * 1.5 = [135, 135]
+				"emotions": {
+					"proud": [0, 0],
+					"default": [1, 0],
+					"sad": [2, 0],
+					"happy": [0, 1],
+					"worried": [1, 1],
+					"confident": [2, 1],
+					"hit": [0, 2],
+					"excited": [1, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/aki_330.png",
+				"size": [165, 165],  // 原 [110, 110] * 1.5 = [165, 165]
+				"emotions": {
+					"proud": [0, 0],
+					"default": [1, 0],
+					"sad": [2, 0],
+					"happy": [0, 1],
+					"worried": [1, 1],
+					"confident": [2, 1],
+					"hit": [0, 2],
+					"excited": [1, 2]
+				}
+			}
+		}
+	},
+	{
+		"id": "mikko",
+		"name": "美高",
+		"color": "#592E25",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/mikko_270.png",
+				"size": [135, 135],  // 原 [90, 90] * 1.5 = [135, 135]
+				"emotions": {
+					"focused": [0, 0],
+					"default": [1, 0],
+					"proud": [2, 0],
+					"worried": [0, 1],
+					"agitated": [1, 1],
+					"confident": [2, 1],
+					"hit": [0, 2]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/mikko_330.png",
+				"size": [165, 165],  // 原 [110, 110] * 1.5 = [165, 165]
+				"emotions": {
+					"focused": [0, 0],
+					"default": [1, 0],
+					"proud": [2, 0],
+					"worried": [0, 1],
+					"agitated": [1, 1],
+					"confident": [2, 1],
+					"hit": [0, 2]
+				}
+			}
+		}
+	}
+]

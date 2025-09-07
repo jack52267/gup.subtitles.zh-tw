@@ -1,0 +1,12 @@
+{
+  "duration": 1.33,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "猜他們在瞄準無線電。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_05"
+}

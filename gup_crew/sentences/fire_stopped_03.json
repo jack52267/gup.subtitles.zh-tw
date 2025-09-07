@@ -1,0 +1,12 @@
+{
+  "duration": 2.0,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "呼……火滅了！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_03"
+}

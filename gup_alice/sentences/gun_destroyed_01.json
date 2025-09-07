@@ -1,0 +1,12 @@
+{
+  "duration": 1.31,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "主砲嚴重損壞。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_01"
+}

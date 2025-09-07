@@ -1,0 +1,12 @@
+{
+  "duration": 0.92,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "它沒擊中。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_01"
+}

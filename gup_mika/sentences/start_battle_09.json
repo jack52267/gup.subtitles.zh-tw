@@ -1,0 +1,12 @@
+{
+  "duration": 4.9,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "在戰車道中，你學會接受一切。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_09"
+}

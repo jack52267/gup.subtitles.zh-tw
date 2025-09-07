@@ -1,0 +1,12 @@
+{
+  "duration": 2.7,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "履帶恢復了。走吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_04"
+}

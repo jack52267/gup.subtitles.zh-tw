@@ -1,0 +1,12 @@
+{
+  "duration": 4.0,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "什麼！？砲塔卡住了！？快修好！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.61,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "引擎修理完成了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_03"
+}

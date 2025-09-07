@@ -1,0 +1,12 @@
+{
+  "duration": 2.61,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "我們的無線電被擊中了。那一手不錯。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_04"
+}

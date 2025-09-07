@@ -1,0 +1,12 @@
+{
+  "duration": 2.47,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "啊啊！？我們失去目標了！？",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_01"
+}

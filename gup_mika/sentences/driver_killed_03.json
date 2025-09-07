@@ -1,0 +1,12 @@
+{
+  "duration": 4.17,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "駕駛座被擊中了。我們還能戰鬥嗎？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵方車輛的裝甲似乎很堅固…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_02"
+}

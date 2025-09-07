@@ -1,0 +1,12 @@
+{
+  "duration": 2.13,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "沒想到會擊中我們的主砲…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.0,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "嗯，只是小擦傷吧？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_08"
+}

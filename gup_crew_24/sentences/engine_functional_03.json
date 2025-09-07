@@ -1,0 +1,18 @@
+{
+  "duration": 4.27,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "引擎恢復了。米高，動起來。",
+      "character": "mika",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "遵命！",
+      "character": "mikko",
+      "time": 3.15
+    }
+  ],
+  "audio": "engine_functional_03"
+}

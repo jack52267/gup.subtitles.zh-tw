@@ -1,0 +1,12 @@
+{
+  "duration": 2.5,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "別擔心，這應該有效。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_03"
+}

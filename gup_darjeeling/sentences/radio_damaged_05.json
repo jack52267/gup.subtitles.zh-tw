@@ -1,0 +1,12 @@
+{
+  "duration": 5.46,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵人損壞了無線電，這將使我們的協調更加困難。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_05"
+}

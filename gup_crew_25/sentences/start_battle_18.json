@@ -1,0 +1,24 @@
+{
+  "duration": 10.33,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "你聽過這句話嗎？「全力以赴完成今日之事。」",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "那是艾薩克·牛頓，對吧？",
+      "character": "orange_pekoe",
+      "time": 6.37
+    },
+    {
+      "emotion": "excited",
+      "text": "為了勝利全力以赴吧。",
+      "character": "darjeeling",
+      "time": 8.62
+    }
+  ],
+  "audio": "start_battle_18"
+}

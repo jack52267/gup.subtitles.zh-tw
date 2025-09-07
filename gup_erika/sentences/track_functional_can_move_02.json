@@ -1,0 +1,12 @@
+{
+  "duration": 3.67,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "很好，履帶修好了！反擊吧！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_02"
+}

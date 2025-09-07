@@ -1,0 +1,18 @@
+{
+  "duration": 6.54,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "阿薩姆，給我敵人的情報。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "我已收集好GI6的報告。",
+      "character": "assam",
+      "time": 3.75
+    }
+  ],
+  "audio": "start_battle_16"
+}

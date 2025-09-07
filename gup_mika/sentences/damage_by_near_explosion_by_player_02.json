@@ -1,0 +1,12 @@
+{
+  "duration": 5.27,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "雖然沒直接命中，但他們現在感受到壓力了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_02"
+}

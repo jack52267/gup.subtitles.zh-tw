@@ -1,0 +1,12 @@
+{
+  "duration": 3.0,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "呵呵……就像在玩捉人遊戲。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_03"
+}

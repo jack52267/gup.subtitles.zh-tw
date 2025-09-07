@@ -1,0 +1,18 @@
+{
+  "duration": 5.82,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "那一發彈開了。或許是射擊角度不對。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "我會收集關於彈開角度的數據。",
+      "character": "assam",
+      "time": 3.75
+    }
+  ],
+  "audio": "armor_ricochet_by_player_08"
+}

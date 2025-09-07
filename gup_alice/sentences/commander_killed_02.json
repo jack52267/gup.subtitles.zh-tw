@@ -1,0 +1,12 @@
+{
+  "duration": 1.13,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "沒料到會這樣。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_02"
+}

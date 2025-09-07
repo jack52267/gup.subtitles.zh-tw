@@ -1,0 +1,12 @@
+{
+  "duration": 3.37,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "咦？你想換另一輛目標？",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_11"
+}

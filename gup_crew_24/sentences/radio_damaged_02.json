@@ -1,0 +1,12 @@
+{
+  "duration": 2.87,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "啊啊！無線電壞了！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_02"
+}

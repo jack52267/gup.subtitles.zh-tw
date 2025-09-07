@@ -1,0 +1,12 @@
+{
+  "duration": 4.32,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵人擊中了油箱，恐怕它經不起再一擊了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

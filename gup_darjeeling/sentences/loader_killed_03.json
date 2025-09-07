@@ -1,0 +1,12 @@
+{
+  "duration": 2.99,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "裝填手被擊中，你們需要尋找掩護。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_03"
+}

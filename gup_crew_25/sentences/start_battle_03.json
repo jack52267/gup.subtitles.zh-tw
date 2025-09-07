@@ -1,0 +1,30 @@
+{
+  "duration": 14.12,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這將是一場有趣的戰鬥。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "恕我直言，數據顯示這將是一場硬仗。",
+      "character": "assam",
+      "time": 2.53
+    },
+    {
+      "emotion": "proud",
+      "text": "我們準備好了。",
+      "character": "orange_pekoe",
+      "time": 7.08
+    },
+    {
+      "emotion": "focused",
+      "text": "運氣多變，有時劣勢的一方也能勝出。",
+      "character": "darjeeling",
+      "time": 9.18
+    }
+  ],
+  "audio": "start_battle_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.47,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "請把滅火器給我！",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_03"
+}

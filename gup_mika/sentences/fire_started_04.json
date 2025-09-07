@@ -1,0 +1,12 @@
+{
+  "duration": 4.23,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火災？我們得滅火。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_04"
+}

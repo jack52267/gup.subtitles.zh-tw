@@ -1,0 +1,12 @@
+{
+  "duration": 2.25,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "別慌。你的射擊至少擊中了目標。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_11"
+}

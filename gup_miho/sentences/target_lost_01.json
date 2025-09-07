@@ -1,0 +1,12 @@
+{
+  "duration": 3.83,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "目標遺失了…大家請保持警戒！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_01"
+}

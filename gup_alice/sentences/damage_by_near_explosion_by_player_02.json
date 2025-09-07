@@ -1,0 +1,12 @@
+{
+  "duration": 2.19,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "看起來不是直接命中。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_02"
+}

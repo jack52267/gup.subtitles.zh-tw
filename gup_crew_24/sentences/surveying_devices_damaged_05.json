@@ -1,0 +1,12 @@
+{
+  "duration": 2.3,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "光學儀器似乎被擊中了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_05"
+}

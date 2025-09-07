@@ -1,0 +1,12 @@
+{
+  "duration": 3.24,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "砲塔恢復了。我們現在能轉動它了。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

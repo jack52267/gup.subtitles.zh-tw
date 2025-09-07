@@ -1,0 +1,12 @@
+{
+  "duration": 1.68,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲修復完成。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_01"
+}

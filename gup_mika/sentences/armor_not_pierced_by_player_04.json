@@ -1,0 +1,12 @@
+{
+  "duration": 3.07,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "哦，炮彈被他們的裝甲彈開了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_04"
+}

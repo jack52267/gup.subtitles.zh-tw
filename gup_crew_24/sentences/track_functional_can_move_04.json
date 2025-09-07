@@ -1,0 +1,18 @@
+{
+  "duration": 4.5,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "履帶修好了。米高，交給你了。",
+      "character": "mika",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "交給我！",
+      "character": "mikko",
+      "time": 3.11
+    }
+  ],
+  "audio": "track_functional_can_move_04"
+}

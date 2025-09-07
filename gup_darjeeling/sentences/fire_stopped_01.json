@@ -1,0 +1,12 @@
+{
+  "duration": 1.3,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "火勢已停止。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_01"
+}

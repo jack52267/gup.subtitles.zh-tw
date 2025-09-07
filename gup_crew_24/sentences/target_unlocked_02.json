@@ -1,0 +1,12 @@
+{
+  "duration": 4.4,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "嘖！沒辦法！這次就放過你！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_02"
+}

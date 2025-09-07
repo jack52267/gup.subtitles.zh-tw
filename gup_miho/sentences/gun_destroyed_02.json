@@ -1,0 +1,12 @@
+{
+  "duration": 2.67,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "主砲嚴重損壞！無法射擊！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_02"
+}

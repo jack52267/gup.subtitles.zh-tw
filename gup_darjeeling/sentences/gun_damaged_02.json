@@ -1,0 +1,12 @@
+{
+  "duration": 4.34,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我偵測到主砲受損，精準瞄準可能會有困難。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

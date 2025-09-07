@@ -1,0 +1,12 @@
+{
+  "duration": 2.97,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "擊中！這一發肯定造成了嚴重傷害！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_03"
+}

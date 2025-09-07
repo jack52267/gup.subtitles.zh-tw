@@ -1,0 +1,12 @@
+{
+  "duration": 4.75,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "駕駛位被擊中。準備應對機動性降低。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_04"
+}

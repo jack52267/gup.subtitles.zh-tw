@@ -1,0 +1,12 @@
+{
+  "duration": 4.31,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "那聲音……聽起來像引擎受損。小心前進。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_07"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.17,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "敵方車輛被摧毀！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_05"
+}

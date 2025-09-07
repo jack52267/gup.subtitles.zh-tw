@@ -1,0 +1,12 @@
+{
+  "duration": 2.17,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好像我們的觀測裝置被摧毀了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_destroyed_03"
+}

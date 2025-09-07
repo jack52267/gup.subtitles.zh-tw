@@ -1,0 +1,12 @@
+{
+  "duration": 1.76,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "他們的裝甲擋住了你的射擊。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_03"
+}

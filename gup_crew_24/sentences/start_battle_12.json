@@ -1,0 +1,18 @@
+{
+  "duration": 5.83,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "衝啊！開始行動！",
+      "character": "mikko",
+      "time": 0.0
+    },
+    {
+      "emotion": "cool",
+      "text": "米高，別把勇氣誤認為魯莽。",
+      "character": "mika",
+      "time": 2.26
+    }
+  ],
+  "audio": "start_battle_12"
+}

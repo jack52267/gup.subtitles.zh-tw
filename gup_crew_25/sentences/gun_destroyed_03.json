@@ -1,0 +1,18 @@
+{
+  "duration": 4.86,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "主砲失靈。保持冷靜，進行修復。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "收到！",
+      "character": "assam",
+      "time": 4.11
+    }
+  ],
+  "audio": "gun_destroyed_03"
+}

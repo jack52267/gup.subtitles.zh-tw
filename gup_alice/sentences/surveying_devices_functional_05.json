@@ -1,0 +1,12 @@
+{
+  "duration": 3.99,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "觀測裝置恢復了。我們現在可以看到外面的情況。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_05"
+}

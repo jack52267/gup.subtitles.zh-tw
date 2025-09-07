@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "我們不能開火，得修炮管！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_03"
+}

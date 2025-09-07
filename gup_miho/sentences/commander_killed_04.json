@@ -1,0 +1,12 @@
+{
+  "duration": 0.77,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "呀啊！（哎喲！）",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_04"
+}

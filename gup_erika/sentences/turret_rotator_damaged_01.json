@@ -1,0 +1,12 @@
+{
+  "duration": 1.83,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "哎喲…我們的砲塔…！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.06,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲塔旋轉機構修復完成，轉動功能已恢復。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

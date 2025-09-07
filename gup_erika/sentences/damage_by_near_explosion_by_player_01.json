@@ -1,0 +1,12 @@
+{
+  "duration": 2.77,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們擊中敵人附近！幹得好！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_01"
+}

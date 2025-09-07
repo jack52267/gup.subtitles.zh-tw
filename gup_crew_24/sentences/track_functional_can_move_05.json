@@ -1,0 +1,12 @@
+{
+  "duration": 3.5,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "履帶修好了。出發吧，隨風而行。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_05"
+}

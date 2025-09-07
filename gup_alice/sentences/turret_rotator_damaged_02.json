@@ -1,0 +1,12 @@
+{
+  "duration": 1.82,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵人正在擊中砲塔轉動機構。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

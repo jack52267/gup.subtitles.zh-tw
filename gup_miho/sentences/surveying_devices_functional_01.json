@@ -1,0 +1,12 @@
+{
+  "duration": 2.63,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "總算修好觀測裝置了！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_01"
+}

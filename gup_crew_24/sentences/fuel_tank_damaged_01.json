@@ -1,0 +1,12 @@
+{
+  "duration": 3.5,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "這個味道……我們的燃料在漏！？",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_01"
+}

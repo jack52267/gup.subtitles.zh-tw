@@ -1,0 +1,12 @@
+{
+  "duration": 5.13,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "這種讓人起雞皮疙瘩的感覺……真是無法抗拒！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_01"
+}

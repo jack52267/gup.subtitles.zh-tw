@@ -1,0 +1,12 @@
+{
+  "duration": 3.88,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "視野恢復了。觀測裝置回線了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_08"
+}

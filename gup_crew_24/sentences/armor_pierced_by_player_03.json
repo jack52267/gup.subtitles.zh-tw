@@ -1,0 +1,18 @@
+{
+  "duration": 4.7,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "穿透了！",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "幹得不錯，阿基。比洋子還強。",
+      "character": "mika",
+      "time": 1.45
+    }
+  ],
+  "audio": "armor_pierced_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.23,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "很好，火滅了。幸好救回了戰車…",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_05"
+}

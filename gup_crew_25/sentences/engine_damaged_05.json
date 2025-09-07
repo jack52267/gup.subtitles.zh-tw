@@ -1,0 +1,12 @@
+{
+  "duration": 4.33,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎受損。保持冷靜，進行修復。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_05"
+}

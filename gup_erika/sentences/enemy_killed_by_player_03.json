@@ -1,0 +1,12 @@
+{
+  "duration": 1.7,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "瞧瞧冠軍的實力！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_03"
+}

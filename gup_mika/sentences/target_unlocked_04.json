@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "放棄這個目標吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_04"
+}

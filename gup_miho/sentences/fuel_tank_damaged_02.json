@@ -1,0 +1,12 @@
+{
+  "duration": 2.67,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "糟糕！我們的油箱被擊中了！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

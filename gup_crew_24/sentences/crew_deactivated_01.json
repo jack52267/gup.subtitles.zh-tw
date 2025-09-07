@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "該死！我們完蛋了！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "crew_deactivated_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.27,
+  "timeline": [
+    {
+      "emotion": "hit",
+      "text": "觀測裝置受損！視野降低了。",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_01"
+}

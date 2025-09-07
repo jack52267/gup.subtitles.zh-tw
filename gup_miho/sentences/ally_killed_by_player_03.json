@@ -1,0 +1,12 @@
+{
+  "duration": 2.33,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "小心，我們可能會擊中友軍！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_03"
+}

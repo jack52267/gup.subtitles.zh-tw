@@ -1,0 +1,12 @@
+{
+  "duration": 3.33,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好，開始了，Panzer Vor！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_01"
+}

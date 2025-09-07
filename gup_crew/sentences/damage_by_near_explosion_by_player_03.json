@@ -1,0 +1,12 @@
+{
+  "duration": 2.37,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "好近！下次一定要擊中！",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.9,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "好棒！我們摧毀了一輛！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_08"
+}

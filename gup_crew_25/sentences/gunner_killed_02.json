@@ -1,0 +1,12 @@
+{
+  "duration": 1.6,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "阿薩姆，你沒事吧？",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_02"
+}

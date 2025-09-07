@@ -1,0 +1,12 @@
+{
+  "duration": 7.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "保持冷靜並撤退。聖葛羅莉安娜的我們無論何時都要保持優雅。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_01"
+}

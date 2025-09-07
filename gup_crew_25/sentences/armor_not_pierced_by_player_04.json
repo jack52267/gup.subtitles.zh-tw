@@ -1,0 +1,12 @@
+{
+  "duration": 5.3,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "穿透失敗。根據數據，那個部位的穿透機率很低。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_04"
+}

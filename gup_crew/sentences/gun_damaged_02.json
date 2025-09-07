@@ -1,0 +1,12 @@
+{
+  "duration": 4.03,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "炮管……我們沒法好好射擊了！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

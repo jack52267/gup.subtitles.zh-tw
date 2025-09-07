@@ -1,0 +1,12 @@
+{
+  "duration": 3.27,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "燃料箱被擊中。別讓它著火。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_04"
+}

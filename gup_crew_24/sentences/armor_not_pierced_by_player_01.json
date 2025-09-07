@@ -1,0 +1,18 @@
+{
+  "duration": 4.27,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "嘿！那發彈跳掉了！",
+      "character": "mikko",
+      "time": 0.0
+    },
+    {
+      "emotion": "sad",
+      "text": "抱歉，米高……",
+      "character": "aki",
+      "time": 2.15
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_01"
+}

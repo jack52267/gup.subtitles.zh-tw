@@ -1,0 +1,12 @@
+{
+  "duration": 3.53,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "雖然不完美，但應該可以射擊了！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_03"
+}

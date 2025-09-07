@@ -1,0 +1,12 @@
+{
+  "duration": 3.53,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "擊中裝填手。裝填速度會降低。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_04"
+}

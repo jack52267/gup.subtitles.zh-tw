@@ -1,0 +1,12 @@
+{
+  "duration": 1.9,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "沒想到炮彈會被彈開…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_14"
+}

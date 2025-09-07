@@ -1,0 +1,12 @@
+{
+  "duration": 2.6,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "裝填手位置！？損傷如何！？",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_01"
+}

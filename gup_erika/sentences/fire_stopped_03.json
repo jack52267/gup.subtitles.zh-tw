@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火滅了！大家沒事吧？",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_03"
+}

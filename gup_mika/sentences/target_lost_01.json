@@ -1,0 +1,12 @@
+{
+  "duration": 2.73,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "哦，目標消失了？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_01"
+}

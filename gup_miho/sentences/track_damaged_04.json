@@ -1,0 +1,12 @@
+{
+  "duration": 3.63,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "履帶被擊中了！麻子同學，請閃避下一擊！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.73,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲修好了。繼續吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_03"
+}

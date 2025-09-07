@@ -1,0 +1,12 @@
+{
+  "duration": 4.2,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們被困住了。如果在這被壓制就麻煩了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_02"
+}

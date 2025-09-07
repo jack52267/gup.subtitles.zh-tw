@@ -1,0 +1,12 @@
+{
+  "duration": 2.43,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "啊啊…燃料在洩漏…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

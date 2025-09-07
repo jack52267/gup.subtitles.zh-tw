@@ -1,0 +1,12 @@
+{
+  "duration": 11.33,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "呵呵，我們不是去戰鬥，而是隨風而行。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_16"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.53,
+  "timeline": [
+    {
+      "emotion": "happy",
+      "text": "太棒了！敵人裝甲被穿透了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_02"
+}

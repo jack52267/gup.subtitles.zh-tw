@@ -1,0 +1,12 @@
+{
+  "duration": 1.17,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "我把剩下的留給你。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_02"
+}

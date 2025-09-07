@@ -1,0 +1,12 @@
+{
+  "duration": 5.55,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "今天真是愉快。我們在正式比賽中再戰吧。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_03"
+}

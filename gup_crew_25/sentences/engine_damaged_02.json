@@ -1,0 +1,18 @@
+{
+  "duration": 4.43,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "引擎被擊中了。請修復它。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "好的！",
+      "character": "orange_pekoe",
+      "time": 3.85
+    }
+  ],
+  "audio": "engine_damaged_02"
+}

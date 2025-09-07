@@ -1,0 +1,12 @@
+{
+  "duration": 1.85,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "幹得好。你擊中了目標。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_03"
+}

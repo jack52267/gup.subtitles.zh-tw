@@ -1,0 +1,12 @@
+{
+  "duration": 2.63,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "很好，現在只要進攻了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_06"
+}

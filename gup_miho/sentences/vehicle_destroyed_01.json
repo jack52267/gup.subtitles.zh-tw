@@ -1,0 +1,12 @@
+{
+  "duration": 2.87,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "我們被擊敗了…真遺憾…",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_01"
+}

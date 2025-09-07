@@ -1,0 +1,12 @@
+{
+  "duration": 2.1,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "你擊中了敵人的燃料箱嗎？",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_05"
+}

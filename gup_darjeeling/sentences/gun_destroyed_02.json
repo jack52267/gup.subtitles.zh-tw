@@ -1,0 +1,12 @@
+{
+  "duration": 4.06,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲已無法使用，必須修復才能再次開火。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_02"
+}

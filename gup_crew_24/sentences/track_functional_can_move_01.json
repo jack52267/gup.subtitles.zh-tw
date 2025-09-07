@@ -1,0 +1,12 @@
+{
+  "duration": 1.6,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "履帶修好了！反擊吧！",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_01"
+}

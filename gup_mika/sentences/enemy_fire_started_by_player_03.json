@@ -1,0 +1,12 @@
+{
+  "duration": 4.97,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "敵方車輛起火了…或許有點過頭了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.47,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲受損。準確度下降了。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

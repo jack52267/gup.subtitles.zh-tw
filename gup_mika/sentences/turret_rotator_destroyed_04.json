@@ -1,0 +1,12 @@
+{
+  "duration": 3.07,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲塔卡住了。這不妙。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

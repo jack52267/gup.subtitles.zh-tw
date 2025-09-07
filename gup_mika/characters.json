@@ -1,0 +1,33 @@
+[
+	{
+		"id": "mika",
+		"name": "米卡",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/mika_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"cool": [0, 0],
+					"default": [1, 0],
+					"proud": [2, 0],
+					"focused": [0, 1],
+					"excited": [1, 1],
+					"confident": [2, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/mika_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"cool": [0, 0],
+					"default": [1, 0],
+					"proud": [2, 0],
+					"focused": [0, 1],
+					"excited": [1, 1],
+					"confident": [2, 1]
+				}
+			}
+		}
+	}
+]

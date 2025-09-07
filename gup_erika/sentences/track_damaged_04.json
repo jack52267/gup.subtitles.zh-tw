@@ -1,0 +1,12 @@
+{
+  "duration": 4.63,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "哎喲…擊中我們的履帶，不錯！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_04"
+}

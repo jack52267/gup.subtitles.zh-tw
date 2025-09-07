@@ -1,0 +1,12 @@
+{
+  "duration": 2.73,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "哦，好像打中了我們自己的車。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_02"
+}

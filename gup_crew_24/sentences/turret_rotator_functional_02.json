@@ -1,0 +1,12 @@
+{
+  "duration": 2.53,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "米卡！我們現在能轉動砲塔了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_02"
+}

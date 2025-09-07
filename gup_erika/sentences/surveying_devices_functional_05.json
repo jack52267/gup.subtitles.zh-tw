@@ -1,0 +1,12 @@
+{
+  "duration": 3.07,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們的能見度恢復了！現在能讀取戰場了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_05"
+}

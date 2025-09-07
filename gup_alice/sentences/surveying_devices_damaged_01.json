@@ -1,0 +1,12 @@
+{
+  "duration": 1.31,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "觀測裝置受損了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_01"
+}

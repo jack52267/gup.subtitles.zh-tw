@@ -1,0 +1,12 @@
+{
+  "duration": 4.8,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲手座被擊中了。我們得做點什麼。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_04"
+}

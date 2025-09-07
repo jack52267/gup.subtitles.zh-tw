@@ -1,0 +1,12 @@
+{
+  "duration": 3.5,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶受損了……我們不能再受更多傷害了……",
+      "character": "mako",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_02"
+}

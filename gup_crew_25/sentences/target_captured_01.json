@@ -1,0 +1,12 @@
+{
+  "duration": 1.24,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "目標已鎖定！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_01"
+}

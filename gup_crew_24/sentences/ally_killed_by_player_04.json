@@ -1,0 +1,12 @@
+{
+  "duration": 1.43,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "攻擊自家戰車可不是什麼值得誇耀的事。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_04"
+}

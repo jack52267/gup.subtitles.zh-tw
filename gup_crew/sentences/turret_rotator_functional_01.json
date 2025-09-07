@@ -1,0 +1,12 @@
+{
+  "duration": 3.27,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲塔現在能轉了，雖然只有一點……",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

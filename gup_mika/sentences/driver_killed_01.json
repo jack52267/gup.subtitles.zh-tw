@@ -1,0 +1,12 @@
+{
+  "duration": 3.77,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "駕駛座好像被擊中了。我們沒事吧？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_01"
+}

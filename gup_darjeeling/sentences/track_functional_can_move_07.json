@@ -1,0 +1,12 @@
+{
+  "duration": 3.54,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶已恢復，行動時保持警戒。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_07"
+}

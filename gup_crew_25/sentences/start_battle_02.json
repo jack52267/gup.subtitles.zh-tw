@@ -1,0 +1,18 @@
+{
+  "duration": 16.1,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "啊，我的茶梗豎起來了。你知道這代表有貴客來訪嗎？",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "worried",
+      "text": "恕我直言，他們已經來了，不管是不是「貴客」……",
+      "character": "orange_pekoe",
+      "time": 10.65
+    }
+  ],
+  "audio": "start_battle_02"
+}

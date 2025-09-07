@@ -1,0 +1,12 @@
+{
+  "duration": 4.07,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "無線電被擊中了。現在與友軍溝通會更困難。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_02"
+}

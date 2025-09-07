@@ -1,0 +1,12 @@
+{
+  "duration": 2.4,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲緊急修復完成！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.37,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "彈藥架被擊中？得避免可能的爆炸。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_03"
+}

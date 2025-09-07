@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲損壞！準備低精準度！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_04"
+}

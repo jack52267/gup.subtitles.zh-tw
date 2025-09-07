@@ -1,0 +1,12 @@
+{
+  "duration": 2.12,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵人正試圖摧毀我們的觀察設備。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_08"
+}

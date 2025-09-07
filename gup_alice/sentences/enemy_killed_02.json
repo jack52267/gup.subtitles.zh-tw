@@ -1,0 +1,12 @@
+{
+  "duration": 1.99,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那少了一輛需要擔心的敵方戰車。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_02"
+}

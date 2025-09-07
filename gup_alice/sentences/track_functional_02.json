@@ -1,0 +1,12 @@
+{
+  "duration": 1.5,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "履帶修理完成了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_02"
+}

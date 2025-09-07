@@ -1,0 +1,12 @@
+{
+  "duration": 4.3,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "讓我們出發。處理你遇到的任何敵人隨你便。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_10"
+}

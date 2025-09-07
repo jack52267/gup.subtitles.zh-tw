@@ -1,0 +1,12 @@
+{
+  "duration": 3.73,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲塔嚴重受損。暫時無法轉動。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

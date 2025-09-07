@@ -1,0 +1,12 @@
+{
+  "duration": 1.81,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "敵方戰車損傷已確認。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_01"
+}

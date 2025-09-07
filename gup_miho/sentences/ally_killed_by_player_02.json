@@ -1,0 +1,12 @@
+{
+  "duration": 1.83,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "請避免誤傷友軍！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_02"
+}

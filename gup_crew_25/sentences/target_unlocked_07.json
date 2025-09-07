@@ -1,0 +1,12 @@
+{
+  "duration": 4.56,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這種簡單的誘敵策略對我們無效。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_07"
+}

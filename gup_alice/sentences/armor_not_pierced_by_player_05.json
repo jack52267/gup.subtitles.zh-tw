@@ -1,0 +1,12 @@
+{
+  "duration": 2.23,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "那一發未能貫穿他們的裝甲。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_05"
+}

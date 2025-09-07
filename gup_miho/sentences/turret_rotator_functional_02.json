@@ -1,0 +1,12 @@
+{
+  "duration": 4.53,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲塔旋轉機構調整完成了！但我們不能放鬆警惕！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.37,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶恢復了！現在能移動了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_03"
+}

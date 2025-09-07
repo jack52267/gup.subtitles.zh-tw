@@ -1,0 +1,12 @@
+{
+  "duration": 4.07,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "燃料箱被擊中。起火風險更高了。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_04"
+}

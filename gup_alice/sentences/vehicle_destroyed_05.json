@@ -1,0 +1,12 @@
+{
+  "duration": 2.25,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "下次，我們會更努力！",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_05"
+}

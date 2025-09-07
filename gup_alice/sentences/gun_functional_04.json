@@ -1,0 +1,12 @@
+{
+  "duration": 2.83,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲功能恢復了。它準備好再次射擊。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 5.33,
+  "timeline": [
+    {
+      "emotion": "cool",
+      "text": "很好，現在能動了。走吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_06"
+}

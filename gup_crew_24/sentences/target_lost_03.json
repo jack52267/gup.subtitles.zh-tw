@@ -1,0 +1,12 @@
+{
+  "duration": 4.5,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "目標丟失。米卡，下一輛是哪個？",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_03"
+}

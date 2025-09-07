@@ -1,0 +1,12 @@
+{
+  "duration": 3.5,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "駕駛座損壞！準備低機動性！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_04"
+}

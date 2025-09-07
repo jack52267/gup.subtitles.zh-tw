@@ -1,0 +1,12 @@
+{
+  "duration": 3.9,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "無法通過瞄準鏡看清。觀測裝置好像壞了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_destroyed_08"
+}

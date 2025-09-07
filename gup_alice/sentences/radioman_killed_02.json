@@ -1,0 +1,12 @@
+{
+  "duration": 2.85,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "無線電操作員被擊中了。你能繼續嗎？",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.97,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵人正在瞄準燃料箱。小心。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_04"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 6.44,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "根據數據，那是他們的弱點。",
+      "character": "assam",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "呵呵……那一擊穿透了他們的裝甲。",
+      "character": "darjeeling",
+      "time": 3.25
+    }
+  ],
+  "audio": "armor_pierced_by_player_04"
+}

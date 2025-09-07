@@ -1,0 +1,12 @@
+{
+  "duration": 3.83,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "敵方車輛被擊毀。準備應對下一輛敵車。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.37,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "履帶被擊中！我們不能再受損了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_02"
+}

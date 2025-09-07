@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "主砲被擊中了！？華同學，你沒事吧！？",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

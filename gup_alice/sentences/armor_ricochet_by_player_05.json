@@ -1,0 +1,12 @@
+{
+  "duration": 1.54,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "看起來那是跳彈。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_05"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.69,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "主砲恢復了，但射擊準確度降低了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_01"
+}

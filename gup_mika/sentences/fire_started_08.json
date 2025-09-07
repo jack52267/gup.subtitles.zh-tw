@@ -1,0 +1,12 @@
+{
+  "duration": 5.33,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "檢測到火災。快滅火。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_08"
+}

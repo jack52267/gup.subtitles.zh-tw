@@ -1,0 +1,12 @@
+{
+  "duration": 2.1,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "優秀。火焰已被撲滅。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_05"
+}

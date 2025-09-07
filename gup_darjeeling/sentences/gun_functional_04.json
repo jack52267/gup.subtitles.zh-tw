@@ -1,0 +1,12 @@
+{
+  "duration": 3.06,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲已修復，開始反攻！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_04"
+}

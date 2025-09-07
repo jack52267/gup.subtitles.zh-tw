@@ -1,0 +1,12 @@
+{
+  "duration": 1.8,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "怎麼這一擊也彈開了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_08"
+}

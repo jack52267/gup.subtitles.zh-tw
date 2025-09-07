@@ -1,0 +1,12 @@
+{
+  "duration": 5.86,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵方戰車起火了。運氣似乎站在我們這邊。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_05"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 3.08,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們修好了履帶。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "謝謝你，白毫。",
+      "character": "darjeeling",
+      "time": 1.75
+    }
+  ],
+  "audio": "track_functional_can_move_06"
+}

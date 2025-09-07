@@ -1,0 +1,12 @@
+{
+  "duration": 1.59,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "你差點就擊中他們了。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_10"
+}

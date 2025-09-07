@@ -1,0 +1,12 @@
+{
+  "duration": 2.78,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵人正在瞄準你的彈藥架。保持警戒。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_03"
+}

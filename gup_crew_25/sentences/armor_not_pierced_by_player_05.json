@@ -1,0 +1,12 @@
+{
+  "duration": 2.48,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "似乎沒能穿透他們的裝甲。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_05"
+}

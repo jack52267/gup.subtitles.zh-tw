@@ -1,0 +1,12 @@
+{
+  "duration": 3.9,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "砲塔旋轉機構似乎停止運作了，立即修復！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

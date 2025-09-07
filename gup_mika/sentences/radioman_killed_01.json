@@ -1,0 +1,12 @@
+{
+  "duration": 3.4,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "通訊員座被擊中了。我們還能通訊嗎？",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_01"
+}

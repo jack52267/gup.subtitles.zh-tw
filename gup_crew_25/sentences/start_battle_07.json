@@ -1,0 +1,24 @@
+{
+  "duration": 10.01,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "所有人準備好了嗎？記住，聖葛羅莉安娜的我們隨時都要保持優雅。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "明白！",
+      "character": "assam",
+      "time": 9.45
+    },
+    {
+      "emotion": "confident",
+      "text": "明白！",
+      "character": "orange_pekoe",
+      "time": 9.7
+    }
+  ],
+  "audio": "start_battle_07"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.91,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我承認那一擊有點痛！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_03"
+}

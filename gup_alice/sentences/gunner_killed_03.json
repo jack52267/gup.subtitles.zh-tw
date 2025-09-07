@@ -1,0 +1,12 @@
+{
+  "duration": 1.83,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "直接擊中砲手座？",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_03"
+}

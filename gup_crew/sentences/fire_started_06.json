@@ -1,0 +1,12 @@
+{
+  "duration": 3.5,
+  "timeline": [
+    {
+      "emotion": "agitated",
+      "text": "嘿，那邊！有火！我們得趕快滅火！",
+      "character": "saori",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_06"
+}

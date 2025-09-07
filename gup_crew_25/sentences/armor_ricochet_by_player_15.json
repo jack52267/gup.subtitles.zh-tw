@@ -1,0 +1,12 @@
+{
+  "duration": 4.93,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "炮彈似乎彈開了。或許該調整角度。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_15"
+}

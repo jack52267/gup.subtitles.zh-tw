@@ -1,0 +1,12 @@
+{
+  "duration": 3.53,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好，把那輛車交給其他隊伍吧！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_11"
+}

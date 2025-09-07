@@ -1,0 +1,18 @@
+{
+  "duration": 4.86,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "嗯，那塊司康餅算是完了。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "現在，我們只需享受這滋味。",
+      "character": "orange_pekoe",
+      "time": 2.85
+    }
+  ],
+  "audio": "enemy_killed_by_player_03"
+}

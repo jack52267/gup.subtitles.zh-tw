@@ -1,0 +1,18 @@
+{
+  "duration": 4.23,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "我、我打偏了……",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "proud",
+      "text": "沒事，下一次穿透它！",
+      "character": "mikko",
+      "time": 1.65
+    }
+  ],
+  "audio": "armor_ricochet_by_player_11"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 7.32,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "穿透失敗。那發彈開了。",
+      "character": "assam",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "炮彈偶爾會彈開。保持冷靜，專注下一發。",
+      "character": "darjeeling",
+      "time": 2.91
+    }
+  ],
+  "audio": "armor_ricochet_by_player_06"
+}

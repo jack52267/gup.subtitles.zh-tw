@@ -1,0 +1,12 @@
+{
+  "duration": 3.61,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "我們的戰車有火災。我們需要快滅火。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_07"
+}

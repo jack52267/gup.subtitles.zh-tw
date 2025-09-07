@@ -1,0 +1,12 @@
+{
+  "duration": 1.96,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵人的目標是觀測裝置。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_08"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 11.33,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "這場戰鬥只是人生中的一瞬。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_06"
+}

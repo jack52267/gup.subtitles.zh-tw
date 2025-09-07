@@ -1,0 +1,12 @@
+{
+  "duration": 3.75,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "敵人摧毀了我們的履帶。我們無法移動。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_04"
+}

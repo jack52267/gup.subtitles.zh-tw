@@ -1,0 +1,12 @@
+{
+  "duration": 0.65,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "漂亮的一擊。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.36,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們有火災。快滅火。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_03"
+}

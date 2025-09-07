@@ -1,0 +1,12 @@
+{
+  "duration": 1.4,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "很好！奏效了！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "真失望，但我們被擊敗了。",
+      "character": "yukari",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_05"
+}

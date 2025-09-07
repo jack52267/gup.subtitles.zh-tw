@@ -1,0 +1,12 @@
+{
+  "duration": 4.53,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲受損了。這可能有問題。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.47,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "敵方車輛起火！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_08"
+}

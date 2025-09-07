@@ -1,0 +1,12 @@
+{
+  "duration": 2.0,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "先從這輛開始吧。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_06"
+}

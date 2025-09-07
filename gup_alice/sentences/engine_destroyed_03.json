@@ -1,0 +1,12 @@
+{
+  "duration": 2.9,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "引擎毀壞了。我們無法移動。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_03"
+}

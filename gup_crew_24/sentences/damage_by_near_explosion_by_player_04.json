@@ -1,0 +1,18 @@
+{
+  "duration": 4.23,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "我失手了！",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "沒關係，還是有效果的。",
+      "character": "mika",
+      "time": 1.6
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.5,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "火災？這有點麻煩。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_06"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.71,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "觀測裝置修理完成了。我們又能正常看到了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_functional_12"
+}

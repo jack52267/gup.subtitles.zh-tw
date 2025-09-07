@@ -1,0 +1,12 @@
+{
+  "duration": 2.75,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲手座被擊中！請忍耐！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_03"
+}

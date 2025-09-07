@@ -1,0 +1,12 @@
+{
+  "duration": 2.0,
+  "timeline": [
+    {
+      "emotion": "surprised",
+      "text": "優花里同學，你沒事吧？",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_04"
+}

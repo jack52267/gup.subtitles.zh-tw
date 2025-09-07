@@ -1,0 +1,12 @@
+{
+  "duration": 3.03,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "目標遺失了。找另一個吧！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_03"
+}

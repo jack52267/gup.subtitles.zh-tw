@@ -1,0 +1,12 @@
+{
+  "duration": 4.7,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "啊啊……燃料箱……得趕快修好！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

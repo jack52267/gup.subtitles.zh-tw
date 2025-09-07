@@ -1,0 +1,18 @@
+{
+  "duration": 3.76,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "火已撲滅！",
+      "character": "orange_pekoe",
+      "time": 0.0
+    },
+    {
+      "emotion": "excited",
+      "text": "謝謝你，白毫。",
+      "character": "darjeeling",
+      "time": 2.56
+    }
+  ],
+  "audio": "fire_stopped_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.47,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們動彈不得，必須立即修復引擎！",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_02"
+}

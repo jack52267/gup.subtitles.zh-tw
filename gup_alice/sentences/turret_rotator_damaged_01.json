@@ -1,0 +1,12 @@
+{
+  "duration": 3.06,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "砲塔受損了。它的轉動速度降低了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_01"
+}

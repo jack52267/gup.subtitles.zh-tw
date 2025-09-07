@@ -1,0 +1,12 @@
+{
+  "duration": 1.33,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "那輛敵方戰車完蛋了。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_10"
+}

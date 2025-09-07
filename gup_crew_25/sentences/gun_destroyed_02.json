@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲被他們摧毀。我們無法射擊。",
+      "character": "assam",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_02"
+}

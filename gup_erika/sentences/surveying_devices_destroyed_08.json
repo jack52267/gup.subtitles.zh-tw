@@ -1,0 +1,12 @@
+{
+  "duration": 5.83,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "瞄準鏡損壞，能見度降低！瞄準近距離敵人吧！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_destroyed_08"
+}

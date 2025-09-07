@@ -1,0 +1,12 @@
+{
+  "duration": 2.06,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "建議你下次瞄準敵人的弱點。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_02"
+}

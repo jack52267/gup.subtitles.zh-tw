@@ -1,0 +1,12 @@
+{
+  "duration": 2.6,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "主砲被擊中！？損傷如何！？",
+      "character": "mikko",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 5.23,
+  "timeline": [
+    {
+      "emotion": "sad",
+      "text": "通訊員位置被擊中！怎麼辦，我們無法聯繫隊友了！",
+      "character": "aki",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_03"
+}

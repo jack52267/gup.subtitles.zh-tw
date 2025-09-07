@@ -1,0 +1,12 @@
+{
+  "duration": 1.33,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "切換目標。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_13"
+}

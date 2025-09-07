@@ -1,0 +1,12 @@
+{
+  "duration": 1.73,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "觀察設備已停止運作。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_destroyed_08"
+}

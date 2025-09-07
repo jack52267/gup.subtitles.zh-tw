@@ -1,0 +1,12 @@
+{
+  "duration": 1.17,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們失去了目標。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_04"
+}

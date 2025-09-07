@@ -1,0 +1,12 @@
+{
+  "duration": 1.79,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "敵方戰車已被點燃。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_08"
+}

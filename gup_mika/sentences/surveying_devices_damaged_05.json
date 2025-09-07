@@ -1,0 +1,12 @@
+{
+  "duration": 2.27,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "觀測裝置可能受損了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_05"
+}

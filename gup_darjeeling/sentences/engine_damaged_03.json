@@ -1,0 +1,12 @@
+{
+  "duration": 3.96,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎已受損，準備應對機動性下降的情況。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_03"
+}

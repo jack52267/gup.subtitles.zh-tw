@@ -1,0 +1,12 @@
+{
+  "duration": 1.77,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "觀測裝置被擊中了。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_04"
+}

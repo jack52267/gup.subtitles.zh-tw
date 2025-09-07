@@ -1,0 +1,12 @@
+{
+  "duration": 2.87,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "目標在我們的視線範圍內。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_05"
+}

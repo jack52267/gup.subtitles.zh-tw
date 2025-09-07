@@ -1,0 +1,12 @@
+{
+  "duration": 3.33,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "很糟，我們的履帶壞了！修好它！",
+      "character": "erika",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_02"
+}

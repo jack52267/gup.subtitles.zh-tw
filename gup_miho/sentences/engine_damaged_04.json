@@ -1,0 +1,12 @@
+{
+  "duration": 4.6,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "速度下降了？糟糕！引擎被擊中了！",
+      "character": "miho",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_04"
+}

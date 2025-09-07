@@ -1,0 +1,12 @@
+{
+  "duration": 4.61,
+  "timeline": [
+    {
+      "emotion": "disappointed",
+      "text": "直接擊中無線電操作員。看起來他們試圖切斷我們與友軍的聯繫。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_03"
+}

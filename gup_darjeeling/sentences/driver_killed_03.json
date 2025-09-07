@@ -1,0 +1,12 @@
+{
+  "duration": 3.96,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "駕駛座正在遭受攻擊，我們還能繼續戰鬥嗎？",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_03"
+}

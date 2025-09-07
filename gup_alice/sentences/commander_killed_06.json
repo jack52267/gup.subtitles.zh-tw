@@ -1,0 +1,12 @@
+{
+  "duration": 2.35,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "我被擊中了。我需要短暫休息。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_06"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.29,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "目標丟失。",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_01"
+}

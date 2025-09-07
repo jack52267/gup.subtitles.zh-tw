@@ -1,0 +1,12 @@
+{
+  "duration": 4.73,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "敵人擊中了裝填手座位，你的射擊速度將明顯降低。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_02"
+}

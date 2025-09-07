@@ -1,0 +1,12 @@
+{
+  "duration": 2.1,
+  "timeline": [
+    {
+      "emotion": "proud",
+      "text": "下次……我會擊中的！",
+      "character": "hana",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_05"
+}

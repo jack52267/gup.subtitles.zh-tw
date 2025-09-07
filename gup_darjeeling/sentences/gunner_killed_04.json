@@ -1,0 +1,12 @@
+{
+  "duration": 3.64,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "砲手被擊中了，很遺憾，這意味著你的精準度會降低。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_04"
+}

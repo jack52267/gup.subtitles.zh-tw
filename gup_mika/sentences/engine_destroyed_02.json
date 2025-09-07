@@ -1,0 +1,12 @@
+{
+  "duration": 4.34,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "引擎被擊毀了。我們無法移動。",
+      "character": "mika",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_02"
+}

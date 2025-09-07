@@ -1,0 +1,12 @@
+{
+  "duration": 2.5,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "嘿，我還好…我還能戰鬥！",
+      "character": "alice",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_07"
+}

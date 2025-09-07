@@ -1,0 +1,12 @@
+{
+  "duration": 3.52,
+  "timeline": [
+    {
+      "emotion": "worried",
+      "text": "履帶受損。恐怕再也承受不住一擊。",
+      "character": "orange_pekoe",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_01"
+}

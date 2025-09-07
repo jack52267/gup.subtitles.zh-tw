@@ -1,0 +1,24 @@
+{
+  "duration": 7.33,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "米卡，我們要全力以赴！",
+      "character": "aki",
+      "time": 0.0
+    },
+    {
+      "emotion": "cool",
+      "text": "不只是全力以赴而已。",
+      "character": "mika",
+      "time": 1.75
+    },
+    {
+      "emotion": "sad",
+      "text": "為什麼你要這樣說啊？",
+      "character": "aki",
+      "time": 4.02
+    }
+  ],
+  "audio": "start_battle_04"
+}

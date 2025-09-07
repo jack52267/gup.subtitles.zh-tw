@@ -1,0 +1,24 @@
+{
+  "duration": 6.46,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "我們優雅的戰車道不容絲毫疏忽。",
+      "character": "darjeeling",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "我們專注於下一個目標。",
+      "character": "darjeeling",
+      "time": 3.65
+    },
+    {
+      "emotion": "proud",
+      "text": "明白了！",
+      "character": "orange_pekoe",
+      "time": 5.82
+    }
+  ],
+  "audio": "enemy_killed_by_player_10"
+}

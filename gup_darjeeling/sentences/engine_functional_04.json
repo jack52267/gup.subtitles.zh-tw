@@ -1,0 +1,12 @@
+{
+  "duration": 3.92,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎修復完成，移動時保持警戒。",
+      "character": "darjeeling",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_04"
+}
