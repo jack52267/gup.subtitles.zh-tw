@@ -8,24 +8,24 @@
 		},
 		"title": {
 			"display": true,
-			"size": 17,  // 原 11 * 1.5 ≈ 16.5 → 17
+			"size": 11,
 			"color": "#FFFFFF",
 			"font": "$FieldFont",
-			"width": 600,  // 原 400 → 600
-			"position": [-3, -23],  // 原 [-2, -15] * 1.5 ≈ [-3, -22.5] → [-3, -23]
+			"width": 400,
+			"position": [-2, -15],
 			"align": "left"
 		},
 		"message": {
-			"size": 21,  // 原 14 * 1.5 = 21
+			"size": 14,
 			"color": "#FFFFFF",
 			"font": "$FieldFont",
-			"width": 600,  // 原 400 → 600
-			"position": [0, 0],  // 原 [0, 0] * 1.5 = [0, 0]
+			"width": 400,
+			"position": [0, 0],
 			"align": "left"
 		},
 		"poster": {
 			"display": true,
-			"position": [-135, -60]  // 原 [-90, -40] * 1.5 = [-135, -60]
+			"position": [-90, -40]
 		}
 	},
 	"default": {
@@ -37,24 +37,24 @@
 		},
 		"title": {
 			"display": true,
-			"size": 21,  // 原 14 * 1.5 = 21
+			"size": 14,
 			"color": "#FFFFFF",
 			"font": "$FieldFont",
-			"width": 600,  // 原 400 → 600
-			"position": [-8, -23],  // 原 [-5, -15] * 1.5 ≈ [-7.5, -22.5] → [-8, -23]
+			"width": 400,
+			"position": [-5, -15],
 			"align": "left"
 		},
 		"message": {
-			"size": 30,  // 原 20 * 1.5 = 30
+			"size": 20,
 			"color": "#FFFFFF",
 			"font": "$FieldFont",
-			"width": 600,  // 原 400 → 600
-			"position": [0, 8],  // 原 [0, 5] * 1.5 ≈ [0, 7.5] → [0, 8]
+			"width": 400,
+			"position": [0, 5],
 			"align": "left"
 		},
 		"poster": {
 			"display": true,
-			"position": [-165, -60]  // 原 [-110, -40] * 1.5 ≈ [-165, -60]
+			"position": [-110, -40]
 		}
 	}
 }
