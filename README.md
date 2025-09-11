@@ -23,7 +23,7 @@ main_sound_modes.xml-加入代碼的版本(可能會與其他少女戰車語音�
   <img src="./assets/P3.jpg" alt="遊戲內效果" width="49%">
 </div>
 
-此翻譯品質有使用Grok AI進行校驗，如果有哪邊覺得翻譯怪怪的可以留言
+此翻譯使用Grok AI進行校驗，由於原文為英文，因此在翻譯上會與日文有差異，如果有發現哪句台詞與日文差太多可以留言告知。
 
 
 This project provides a Traditional Chinese (繁體中文) localization of the in-mod text used by the official “Girls und Panzer” subtitles mod for World of Tanks.
