@@ -1,0 +1,259 @@
+file_path,original_text,character,zhtw
+gup_crew/sentences/ally_killed_by_player_01.json,Please don't fire at an ally!,miho,請不要對友軍開火！
+gup_crew/sentences/ally_killed_by_player_02.json,Why are you firing at an ally!,yukari,為什麼要對友軍開火！
+gup_crew/sentences/ally_killed_by_player_03.json,S... stop firing at an allyyy!,saori,停……停止對友軍開火！
+gup_crew/sentences/ally_killed_by_player_04.json,Oh no... friendly fire...,mako,糟糕……友軍誤擊……
+gup_crew/sentences/ally_killed_by_player_05.json,Oh my...! I hit an ally...,hana,天啊……我擊中了友軍……
+gup_crew/sentences/ammo_bay_damaged_01.json,Ahhh my lovely ammo raaack,yukari,啊啊，我可愛的彈藥架！
+gup_crew/sentences/ammo_bay_damaged_02.json,Gosh! Ammo rack is hit!,yukari,天哪！彈藥架被擊中了！
+gup_crew/sentences/ammo_bay_damaged_03.json,Ahhh ammo rack...,yukari,啊啊，彈藥架……
+gup_crew/sentences/ammo_bay_damaged_04.json,Ahhh ammo rack...,yukari,啊啊，彈藥架……
+gup_crew/sentences/armor_not_pierced_by_player_01.json,Only scratched the armor...,hana,只是擦傷了裝甲……
+gup_crew/sentences/armor_not_pierced_by_player_02.json,The opponent's armor seems to be quite tough...,hana,敵人的裝甲看起來相當堅固……
+gup_crew/sentences/armor_not_pierced_by_player_03.json,"I've managed to hit, but...",hana,我擊中了，但是……
+gup_crew/sentences/armor_not_pierced_by_player_04.json,Didn't penetrate...,hana,沒能貫穿……
+gup_crew/sentences/armor_not_pierced_by_player_05.json,It's tough... Too tough...,hana,好硬……太硬了……
+gup_crew/sentences/armor_pierced_by_player_01.json,The shell hit!,hana,炮彈擊中了！
+gup_crew/sentences/armor_pierced_by_player_02.json,"Hit! I won't miss another one, either!",hana,擊中！下一發我也不會失手！
+gup_crew/sentences/armor_pierced_by_player_03.json,Hit! That one must have caused a serious damage!,hana,擊中！這一發肯定造成了嚴重傷害！
+gup_crew/sentences/armor_pierced_by_player_04.json,"It hit, it hit!",saori,擊中了，擊中了！
+gup_crew/sentences/armor_pierced_by_player_05.json,"Direct hit! The opponent's seriously damaged, amazing!",miho,直擊！敵人受到嚴重傷害，太棒了！
+gup_crew/sentences/armor_pierced_crit_by_player_01.json,Direct hit with a shell!,hana,炮彈直擊！
+gup_crew/sentences/armor_pierced_crit_by_player_02.json,Direct hit with a shell! This sensation is so irresistible...,hana,炮彈直擊！這種感覺真是讓人無法抗拒……
+gup_crew/sentences/armor_pierced_crit_by_player_03.json,"Direct hit with a shell on the enemy vehicle, amazing, Hana-san!",miho,敵方戰車被炮彈直擊，太棒了，華同學！
+gup_crew/sentences/armor_ricochet_by_player_01.json,It got bounced...,hana,跳彈了……
+gup_crew/sentences/armor_ricochet_by_player_02.json,Our shot didn't cause any damage...,hana,我們的射擊沒造成任何傷害……
+gup_crew/sentences/armor_ricochet_by_player_03.json,"No damage, ricochet!",hana,沒傷害，跳彈！
+gup_crew/sentences/armor_ricochet_by_player_04.json,Ricochet!? What a tough armor...,hana,跳彈！？好堅固的裝甲……
+gup_crew/sentences/armor_ricochet_by_player_05.json,Hit! But... bounced...,miho,擊中了！但是……跳彈了……
+gup_crew/sentences/armor_ricochet_by_player_06.json,That armor... seems to be quite tough...,miho,那裝甲……看起來相當堅固……
+gup_crew/sentences/armor_ricochet_by_player_07.json,"It got deflected, huh... Hana-san, can you aim for its weak spot?",miho,跳彈了，嗯……華同學，能瞄準它的弱點嗎？
+gup_crew/sentences/armor_ricochet_by_player_08.json,I didn't expect the shell to be bounced...,miho,沒想到炮彈會被彈開……
+gup_crew/sentences/armor_ricochet_by_player_09.json,Ricochet!? Are you serious!? Isn't that cheating!?,saori,跳彈！？真的假的！？這不算作弊嗎！？
+gup_crew/sentences/armor_ricochet_by_player_10.json,Ricochet!? Are you serious!? Isn't that cheating!?,saori,跳彈！？真的假的！？這不算作弊嗎！？
+gup_crew/sentences/armor_ricochet_by_player_11.json,Ricochet!? Are you serious!? Isn't that cheating!?,saori,跳彈！？真的假的！？這不算作弊嗎！？
+gup_crew/sentences/armor_ricochet_by_player_12.json,Ricochet!? Are you serious!? Isn't that cheating!?,saori,跳彈！？真的假的！？這不算作弊嗎！？
+gup_crew/sentences/armor_ricochet_by_player_13.json,Ricochet!? Are you serious!? Isn't that cheating!?,saori,跳彈！？真的假的！？這不算作弊嗎！？
+gup_crew/sentences/armor_ricochet_by_player_14.json,Ricochet!? Are you serious!? Isn't that cheating!?,saori,跳彈！？真的假的！？這不算作弊嗎！？
+gup_crew/sentences/armor_ricochet_by_player_15.json,Ricochet!? Are you serious!? Isn't that cheating!?,saori,跳彈！？真的假的！？這不算作弊嗎！？
+gup_crew/sentences/commander_killed_01.json,Kyaa!,miho,呀！
+gup_crew/sentences/commander_killed_02.json,"N... Nishizumi-dono, are you alright!?",yukari,西……西住殿，你沒事吧！？
+gup_crew/sentences/commander_killed_03.json,"Miporin, are you okay!?",saori,美穗醬，你還好嗎！？
+gup_crew/sentences/commander_killed_04.json,"Miporin, are you okay!?",saori,美穗醬，你還好嗎！？
+gup_crew/sentences/commander_killed_05.json,"Miporin, are you okay!?",saori,美穗醬，你還好嗎！？
+gup_crew/sentences/commander_killed_06.json,"Miporin, are you okay!?",saori,美穗醬，你還好嗎！？
+gup_crew/sentences/commander_killed_07.json,"Miporin, are you okay!?",saori,美穗醬，你還好嗎！？
+gup_crew/sentences/crew_deactivated_01.json,"Everyone, please stay safe and be careful!",miho,大家，請注意安全，小心！
+gup_crew/sentences/crew_deactivated_02.json,"Everyone, please stay safe and be careful!",yukari,大家，請注意安全，小心！
+gup_crew/sentences/crew_deactivated_03.json,Is... is everybody alright?,saori,大家……都沒事吧？
+gup_crew/sentences/crew_deactivated_04.json,"Everyone, please be careful!",hana,大家，請小心！
+gup_crew/sentences/crew_deactivated_05.json,"Hey, are you alright? Answer me.",mako,嘿，你還好嗎？回答我。
+gup_crew/sentences/damage_by_near_explosion_by_player_01.json,"Landed close to the enemy! Hana-san, keep it up!",miho,靠近敵人了！華同學，繼續加油！
+gup_crew/sentences/damage_by_near_explosion_by_player_02.json,Close one! Let's hit it next time!,yukari,差一點！下次一定要擊中！
+gup_crew/sentences/damage_by_near_explosion_by_player_03.json,So close! Let's hit it next time for sure!,saori,好近！下次一定要擊中！
+gup_crew/sentences/damage_by_near_explosion_by_player_04.json,Next time... I'll hit it!,hana,下次……我會擊中的！
+gup_crew/sentences/damage_by_near_explosion_by_player_05.json,Next time... I'll hit it!,hana,下次……我會擊中的！
+gup_crew/sentences/driver_killed_01.json,Ugh... Th... that was nothing...,mako,唔……那……那不算什麼……
+gup_crew/sentences/driver_killed_02.json,Driver's seat!? Mako-san!?,miho,駕駛座！？麻子同學！？
+gup_crew/sentences/driver_killed_03.json,Mako!? Are you alright!?,saori,麻子！？你沒事吧！？
+gup_crew/sentences/driver_killed_04.json,Mako!? Are you alright!?,saori,麻子！？你沒事吧！？
+gup_crew/sentences/enemy_fire_started_by_player_01.json,It seems like we have set the enemy vehicle on fire.,hana,好像我們讓敵方戰車起火了。
+gup_crew/sentences/enemy_fire_started_by_player_02.json,I confirm the shell's landed on the enemy vehicle's fuel tank!,miho,我確認炮彈擊中了敵方戰車的燃料箱！
+gup_crew/sentences/enemy_fire_started_by_player_03.json,It seems the enemy vehicle is on fire!,yukari,敵方戰車好像起火了！
+gup_crew/sentences/enemy_fire_started_by_player_04.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_05.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_06.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_07.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_08.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_09.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_10.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_11.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_fire_started_by_player_12.json,The enemy tank is on fire!,saori,敵方戰車起火了！
+gup_crew/sentences/enemy_killed_01.json,Enemy vehicle destroyed!,hana,敵方戰車被摧毀了！
+gup_crew/sentences/enemy_killed_02.json,Enemy vehicle's become silent. Let's prepare for the next one!,hana,敵方戰車沒動靜了。準備下一個！
+gup_crew/sentences/enemy_killed_03.json,"The enemy vehicle is no longer operational, destroyed!",hana,敵方戰車無法運作了，被摧毀了！
+gup_crew/sentences/enemy_killed_04.json,"The enemy vehicle is no longer operational, destroyed!",hana,敵方戰車無法運作了，被摧毀了！
+gup_crew/sentences/enemy_killed_05.json,"The enemy vehicle is no longer operational, destroyed!",hana,敵方戰車無法運作了，被摧毀了！
+gup_crew/sentences/enemy_killed_06.json,"The enemy vehicle is no longer operational, destroyed!",hana,敵方戰車無法運作了，被摧毀了！
+gup_crew/sentences/enemy_killed_by_player_01.json,This goosebump-inducing sensation... Simply irresistible!,hana,這種讓人起雞皮疙瘩的感覺……真是無法抗拒！
+gup_crew/sentences/enemy_killed_by_player_02.json,We got it! Let's look for the next one!,hana,我們擊中了！去找下一個吧！
+gup_crew/sentences/enemy_killed_by_player_03.json,Vehicle destroyed! But don't let your guard down...,hana,戰車被摧毀了！但別放鬆警惕……
+gup_crew/sentences/enemy_killed_by_player_04.json,Enemy vehicle destroyed!,hana,敵方戰車被摧毀了！
+gup_crew/sentences/enemy_killed_by_player_05.json,We did it! Enemy vehicle destroyed!,miho,我們做到了！敵方戰車被摧毀了！
+gup_crew/sentences/enemy_killed_by_player_06.json,Enemy vehicle destroyed! But stay on your guard!,miho,敵方戰車被摧毀了！但要保持警惕！
+gup_crew/sentences/enemy_killed_by_player_07.json,"Hana-san, amazing! Destroyed!",miho,華同學，太棒了！摧毀了！
+gup_crew/sentences/enemy_killed_by_player_08.json,Enemy vehicle destroyed! Let's move on to the next target.,miho,敵方戰車被摧毀了！轉向下一個目標。
+gup_crew/sentences/enemy_killed_by_player_09.json,"Great job, Isuzu-dono!",yukari,幹得好，五十鈴殿！
+gup_crew/sentences/enemy_killed_by_player_10.json,Vehicle destroyed! I'll let everybody know!,saori,戰車被摧毀了！我會通知大家！
+gup_crew/sentences/engine_damaged_01.json,Mmmm... seems like the engine is hit...,mako,嗯……引擎好像被擊中了……
+gup_crew/sentences/engine_damaged_02.json,Engine is hit...,mako,引擎被擊中了……
+gup_crew/sentences/engine_damaged_03.json,They attacked the engine... Impressive move...,mako,他們攻擊了引擎……厲害的招數……
+gup_crew/sentences/engine_damaged_04.json,Speed decreased... Hmm... Looks like engine is hit...,mako,速度降低了……嗯……看起來引擎被擊中了……
+gup_crew/sentences/engine_damaged_05.json,"Engine's been hit? Mako-san, can you still drive the vehicle?",miho,引擎被擊中了？麻子同學，還能開戰車嗎？
+gup_crew/sentences/engine_damaged_06.json,Isn't the engine making strange sounds!?,saori,引擎不是發出怪聲了嗎！？
+gup_crew/sentences/engine_damaged_07.json,Wait!? Hasn't the speed decreased!?,saori,等等！？速度不是降低了嗎！？
+gup_crew/sentences/engine_destroyed_01.json,Sorry... Can't move...,mako,抱歉……不能動了……
+gup_crew/sentences/engine_destroyed_02.json,Seems like the engine's not working... Can't do anything...,mako,引擎好像壞了……什麼都做不了……
+gup_crew/sentences/engine_destroyed_03.json,The engine stopped... Isn't there anything we can do??,mako,引擎停了……有什麼能做的嗎？？
+gup_crew/sentences/engine_destroyed_04.json,"Everyone, I'm sorry... The engine's not working...",mako,大家，對不起……引擎壞了……
+gup_crew/sentences/engine_functional_01.json,"Just a temporary repair, but we can move!",yukari,只是臨時修復，但我們可以動了！
+gup_crew/sentences/engine_functional_02.json,We managed to repair it somehow!,yukari,總算修好了！
+gup_crew/sentences/engine_functional_03.json,Engine repair completed! But please don't push it too hard!,yukari,引擎修好了！但請別太勉強它！
+gup_crew/sentences/engine_functional_04.json,Emergency repair is done... We can move for now...,mako,緊急修復完成了……我們暫時可以動了……
+gup_crew/sentences/fire_started_01.json,I'll extinguish the fire!,yukari,我來滅火！
+gup_crew/sentences/fire_started_02.json,"E... extinguisher, please!",yukari,滅……滅火器，拜託！
+gup_crew/sentences/fire_started_03.json,Please give me the extinguisher!,yukari,請把滅火器給我！
+gup_crew/sentences/fire_started_04.json,Oh no! We're on fire! Whe... where's the extinguisher?!,saori,糟糕！我們著火了！滅……滅火器在哪！？
+gup_crew/sentences/fire_started_05.json,Whe... where's the extinguisher?!,saori,滅……滅火器在哪！？
+gup_crew/sentences/fire_started_06.json,"Hey, over there! There's a fire! We need to put it out quickly!",saori,嘿，那邊！有火！我們得趕快滅火！
+gup_crew/sentences/fire_started_07.json,"Hey, over there! There's a fire! We need to put it out quickly!",saori,嘿，那邊！有火！我們得趕快滅火！
+gup_crew/sentences/fire_started_08.json,"Hey, over there! There's a fire! We need to put it out quickly!",saori,嘿，那邊！有火！我們得趕快滅火！
+gup_crew/sentences/fire_stopped_01.json,Phew... We've managed to extinguish it.,miho,呼……我們成功滅火了。
+gup_crew/sentences/fire_stopped_02.json,Phew... Fire extinguished!,yukari,呼……火滅了！
+gup_crew/sentences/fire_stopped_03.json,Phew... Fire extinguished!,yukari,呼……火滅了！
+gup_crew/sentences/fire_stopped_04.json,"Great, we've managed to extinguish it!",yukari,太好了，我們成功滅火了！
+gup_crew/sentences/fire_stopped_05.json,Phew... We managed to put it out somehow...,saori,呼……總算滅掉了……
+gup_crew/sentences/fuel_tank_damaged_01.json,It seems like the fuel tank is hit...,mako,燃料箱好像被擊中了……
+gup_crew/sentences/fuel_tank_damaged_02.json,Fuel is leaking... This is bad...,mako,燃料在漏……這下糟了……
+gup_crew/sentences/fuel_tank_damaged_03.json,"Hey, do you smell something strange? Is there a fuel leak!?",saori,嘿，你有沒有聞到怪味？是燃料洩漏嗎！？
+gup_crew/sentences/fuel_tank_damaged_04.json,Oh... fuel's leaking...,miho,哦……燃料在漏……
+gup_crew/sentences/fuel_tank_damaged_05.json,"Gosh, fuel is leaking!",yukari,天哪，燃料在漏！
+gup_crew/sentences/gunner_killed_01.json,I can still... do it...!,hana,我還能……繼續……！
+gup_crew/sentences/gunner_killed_02.json,"Surprised... But I'm alright, can still shoot! Please keep going!",hana,嚇了一跳……但我沒事，還能射擊！請繼續！
+gup_crew/sentences/gunner_killed_03.json,"Hana, are you alright?! Are you hurt?",saori,華，你沒事吧！？有沒有受傷？
+gup_crew/sentences/gunner_killed_04.json,Isuzu-dono! Are you alright?,yukari,五十鈴殿！你沒事吧？
+gup_crew/sentences/gun_damaged_01.json,Gun barrel seems to be... Is that really alright...?,hana,炮管好像……這樣真的沒問題嗎……？
+gup_crew/sentences/gun_damaged_02.json,The gun barrel... We won't be able to shoot properly!,hana,炮管……我們沒法好好射擊了！
+gup_crew/sentences/gun_damaged_03.json,The barrel is damaged! I won't be able to hit accurately like this...,hana,炮管受損了！這樣我沒法精準射擊……
+gup_crew/sentences/gun_damaged_04.json,"Augh! I'm alright, but the gun barrel...",miho,啊！我沒事，但炮管……
+gup_crew/sentences/gun_destroyed_01.json,The gun barrel is heavily damaged! We can't shoot!,hana,炮管嚴重損壞！我們不能射擊了！
+gup_crew/sentences/gun_destroyed_02.json,We can't lose like this... I'll go for repairs on the barrel!,hana,不能這樣輸……我去修炮管！
+gup_crew/sentences/gun_destroyed_03.json,"We can't fire, we need to fix the barrel!",miho,我們不能開火，得修炮管！
+gup_crew/sentences/gun_functional_01.json,The emergency repair on the gun barrel is done!,yukari,炮管緊急修復完成了！
+gup_crew/sentences/gun_functional_02.json,"The gun barrel, we managed to fix it!",yukari,炮管，我們修好了！
+gup_crew/sentences/gun_functional_03.json,"We managed to fix the barrel, but the accuracy's surely off!",yukari,炮管修好了，但準確度肯定下降了！
+gup_crew/sentences/gun_functional_04.json,"Hana-san, we've somehow managed to fix the gun barrel!",miho,華同學，我們總算修好了炮管！
+gup_crew/sentences/loader_killed_01.json,Nishizumi-dono... I'm sorry...,yukari,西住殿……對不起……
+gup_crew/sentences/loader_killed_02.json,Ugh... It's nothing...,yukari,唔……沒什麼……
+gup_crew/sentences/loader_killed_03.json,"The loader's seat!? Yukari-san, are you alright?",miho,裝填手座位！？優花里同學，你沒事吧？
+gup_crew/sentences/loader_killed_04.json,"Yukari-san, are you alright?",hana,優花里同學，你沒事吧？
+gup_crew/sentences/radioman_killed_01.json,"Woah! Don't make my heart beat faster, that's what only handsome boys are supposed to do!",saori,哇！別讓我心跳加速，那是帥哥的專利！
+gup_crew/sentences/radioman_killed_02.json,Woah! Fuaaa... That was a surprise...,saori,哇！呼啊啊……嚇了一跳……
+gup_crew/sentences/radioman_killed_03.json,"Woah! Gosh, don't startle me like that!",saori,哇！天哪，別這樣嚇我！
+gup_crew/sentences/radioman_killed_04.json,"Saori, are you alright?",mako,沙織，你沒事吧？
+gup_crew/sentences/radio_damaged_01.json,Ehhh?! The radio's broken?! No way! What am I supposed to do?!,saori,诶！？無線電壞了！？不可能！我要怎麼辦！？
+gup_crew/sentences/radio_damaged_02.json,Miporin... the radio... it's broken...,saori,美穗醬……無線電……壞了……
+gup_crew/sentences/radio_damaged_03.json,Miporin... the radio... it's broken...,saori,美穗醬……無線電……壞了……
+gup_crew/sentences/radio_damaged_04.json,No waaay! The radio is broooken!,saori,不可能！無線電壞掉了！
+gup_crew/sentences/radio_damaged_05.json,No waaay! The radio is broooken!,saori,不可能！無線電壞掉了！
+gup_crew/sentences/radio_damaged_06.json,No waaay! The radio is broooken!,saori,不可能！無線電壞掉了！
+gup_crew/sentences/start_battle_01.json,"Alright, here we go, Panzer Vor!",miho,好，開始了，Panzer Vor！
+gup_crew/sentences/start_battle_02.json,Is everyone ready? Panzer Vor!,miho,大家準備好了嗎？Panzer Vor！
+gup_crew/sentences/start_battle_03.json,"This time, we're going with the ""Fluffy Operation""! Tanks, move out!",miho,這次我們執行“忽忽悠悠作戰”！戰車，出動！
+gup_crew/sentences/start_battle_04.json,Yeaaah! Panzer Vor!,yukari,耶！Panzer Vor！
+gup_crew/sentences/start_battle_05.json,"Everyone, let's go! Panzer Vor!",yukari,大家，走吧！Panzer Vor！
+gup_crew/sentences/start_battle_06.json,Panzer Vor! I've always wanted to say that!,saori,Panzer Vor！我一直想說這句！
+gup_crew/sentences/start_battle_07.json,Panzer... Vor! How was that!? Did it sound cool?!,saori,Panzer… Vor！怎樣！？聽起來酷嗎！？
+gup_crew/sentences/start_battle_08.json,Ah... Well then... Excuse me... U-um... Panzer... Vor!,hana,啊……那麼……不好意思……嗯……Panzer… Vor！
+gup_crew/sentences/start_battle_09.json,Eh?! Me...? Um... P-Panzer... Vor!,hana,疑！？由我來嗎……？嗯……P-Panzer… Vor！
+gup_crew/sentences/start_battle_10.json,Panzer... Vor...,mako,Panzer… Vor……
+gup_crew/sentences/start_battle_11.json,"Alright, alright, let's move out...",mako,好，好，出發吧……
+gup_crew/sentences/start_battle_12.json,"Alright, here we go, Panzer Vor!",miho,好，開始了，Panzer Vor！
+gup_crew/sentences/start_battle_13.json,"Alright, alright, let's move out...",mako,好，好，出發吧……
+gup_crew/sentences/start_battle_14.json,Panzer... Vor...,mako,Panzer… Vor……
+gup_crew/sentences/start_battle_15.json,Eh?! Me...? Um... P-Panzer... Vor!,hana,疑！？由我來嗎……？嗯……P-Panzer… Vor！
+gup_crew/sentences/start_battle_16.json,Ah... Well then... Excuse me... U-um... Panzer... Vor!,hana,啊……那麼……不好意思……嗯……Panzer… Vor！
+gup_crew/sentences/start_battle_17.json,Panzer... Vor! How was that!? Did it sound cool?!,saori,Panzer… Vor！怎樣！？聽起來酷嗎！？
+gup_crew/sentences/start_battle_18.json,Panzer Vor! I've always wanted to say that!,saori,Panzer Vor！我一直想說這句！
+gup_crew/sentences/start_battle_19.json,"Everyone, let's go! Panzer Vor!",yukari,大家，走吧！Panzer Vor！
+gup_crew/sentences/start_battle_20.json,Yeaaah! Panzer Vor!,yukari,耶！Panzer Vor！
+gup_crew/sentences/start_battle_21.json,"This time, we're going with the ""Fluffy Operation""! Tanks, move out!",miho,這次我們執行“忽忽悠悠作戰”！戰車，出動！
+gup_crew/sentences/surveying_devices_damaged_01.json,Observation device damaged! Visibility is decreased.,hana,觀測裝置受損！視野降低了。
+gup_crew/sentences/surveying_devices_damaged_02.json,"Poor visibility... We need to fix the observation device, or it's going to be bad...",mako,視野很差……我們得修觀測裝置，不然就糟了……
+gup_crew/sentences/surveying_devices_damaged_03.json,Bad visibility! We need to do something about the observation device!,miho,視野很差！我們得處理觀測裝置！
+gup_crew/sentences/surveying_devices_damaged_04.json,Bad visibility! We need to do something about the observation device!,miho,視野很差！我們得處理觀測裝置！
+gup_crew/sentences/surveying_devices_damaged_05.json,Bad visibility! We need to do something about the observation device!,miho,視野很差！我們得處理觀測裝置！
+gup_crew/sentences/surveying_devices_damaged_06.json,Bad visibility! We need to do something about the observation device!,miho,視野很差！我們得處理觀測裝置！
+gup_crew/sentences/surveying_devices_damaged_07.json,Bad visibility! We need to do something about the observation device!,miho,視野很差！我們得處理觀測裝置！
+gup_crew/sentences/surveying_devices_damaged_08.json,It's hard to see! We need to do something about the observation device!,miho,很難看清楚！我們得處理觀測裝置！
+gup_crew/sentences/surveying_devices_destroyed_01.json,Observation device destroyed... We need to do something about it...,miho,觀測裝置被摧毀了……我們得想辦法……
+gup_crew/sentences/surveying_devices_destroyed_02.json,"Observation device destroyed, we can barely see...",mako,觀測裝置被摧毀了，我們幾乎看不到……
+gup_crew/sentences/surveying_devices_destroyed_03.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_destroyed_04.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_destroyed_05.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_destroyed_06.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_destroyed_07.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_destroyed_08.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_destroyed_09.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_destroyed_10.json,Observation device destroyed! We cannot see what is going on outside!,hana,觀測裝置被摧毀了！我們看不到外面發生什麼！
+gup_crew/sentences/surveying_devices_functional_01.json,I'm glad we managed to fix the observation device...,miho,很高興我們修好了觀測裝置……
+gup_crew/sentences/surveying_devices_functional_02.json,The observation device has been repaired! We can see again!,hana,觀測裝置修好了！我們又能看到了！
+gup_crew/sentences/surveying_devices_functional_03.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_04.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_05.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_06.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_07.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_08.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_09.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_10.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_11.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_12.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_13.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/surveying_devices_functional_14.json,Now we can make out what's happening outside!,hana,現在我們能看清楚外面發生什麼了！
+gup_crew/sentences/target_captured_01.json,"Target locked! Miho-san, give me the order!",hana,目標鎖定！美穗同學，請下令！
+gup_crew/sentences/target_captured_02.json,Target's in the scope! It's okay... I'll definitely hit it!,hana,目標在瞄準鏡中！沒問題……我一定會擊中！
+gup_crew/sentences/target_captured_03.json,I'm ready to fire at the target!,hana,我準備好對目標開火了！
+gup_crew/sentences/target_captured_04.json,"Miho-san, please give me the permission to fire!",hana,美穗同學，請允許我開火！
+gup_crew/sentences/target_captured_05.json,"Target locked! Hana-san, please!",miho,目標鎖定！華同學，拜託！
+gup_crew/sentences/target_captured_06.json,"Hana-san, please prepare to fire.",miho,華同學，請準備開火。
+gup_crew/sentences/target_captured_07.json,"Hana-san, please prepare to fire.",miho,華同學，請準備開火。
+gup_crew/sentences/target_lost_01.json,"Target lost... Everybody, please stay vigilant!",miho,目標丟失……大家，請保持警惕！
+gup_crew/sentences/target_lost_02.json,"Target lost! Miho-san, please be cautious of your surroundings!",hana,目標丟失！美穗同學，請注意周圍！
+gup_crew/sentences/target_lost_03.json,The enemy vehicle... is lost...,hana,敵方戰車……不見了……
+gup_crew/sentences/target_lost_04.json,The enemy vehicle... is lost...,hana,敵方戰車……不見了……
+gup_crew/sentences/target_unlocked_01.json,"Alright, let's change the target",miho,好，換目標吧。
+gup_crew/sentences/target_unlocked_02.json,"Alright, let's leave that vehicle to the other teams.",miho,好，把那輛戰車交給其他隊伍吧。
+gup_crew/sentences/target_unlocked_03.json,Understood. Let's change the target,hana,明白了，換目標吧。
+gup_crew/sentences/target_unlocked_04.json,Huh...? Understood... OK... Let's leave that vehicle to the other teams.,hana,嗯……？明白了……好……把那輛戰車交給其他隊伍吧。
+gup_crew/sentences/target_unlocked_05.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_06.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_07.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_08.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_09.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_10.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_11.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_12.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/target_unlocked_13.json,Eh...? Are we attacking a different vehicle...?,hana,诶……？我們要攻擊另一輛戰車……？
+gup_crew/sentences/track_damaged_01.json,"It seems like the track is damaged... Everyone, it's going to be bumpy...",mako,履帶好像受損了……大家，會很顛簸……
+gup_crew/sentences/track_damaged_02.json,Track's damaged... We shouldn't take any more damage...,mako,履帶受損了……我們不能再受更多傷害了……
+gup_crew/sentences/track_damaged_03.json,I confirm the track is damaged... I'll try to move forward somehow...,mako,我確認履帶受損了……我會試著往前開……
+gup_crew/sentences/track_damaged_04.json,Hmmm... The track's damaged...,mako,嗯……履帶受損了……
+gup_crew/sentences/track_destroyed_01.json,The track is completely destroyed... We can't move...,mako,履帶完全壞了……我們不能動了……
+gup_crew/sentences/track_destroyed_02.json,The track is destroyed... We can't move...,mako,履帶被摧毀了……我們不能動了……
+gup_crew/sentences/track_destroyed_03.json,Can't move... Now I have nothing to do...,mako,不能動了……現在我沒事可做了……
+gup_crew/sentences/track_destroyed_04.json,Track's got... Is there any way to repair it?,mako,履帶壞了……有什麼方法修嗎？
+gup_crew/sentences/track_functional_01.json,Reizei-dono! The track has been repaired!,yukari,冷泉殿！履帶修好了！
+gup_crew/sentences/track_functional_02.json,Thank you for waiting! The track has been repaired!,yukari,謝謝等待！履帶修好了！
+gup_crew/sentences/track_functional_03.json,Track's up... We can finally move again...,mako,履帶好了……我們終於可以動了……
+gup_crew/sentences/track_functional_04.json,"Track's been repaired... Nishizumi-san, we can move...",mako,履帶修好了……美穗同學，我們可以動了……
+gup_crew/sentences/track_functional_can_move_01.json,Reizei-dono! The track has been repaired!,yukari,冷泉殿！履帶修好了！
+gup_crew/sentences/track_functional_can_move_02.json,Thank you for waiting! The track has been repaired!,yukari,謝謝等待！履帶修好了！
+gup_crew/sentences/track_functional_can_move_03.json,Track's up... We can finally move again...,mako,履帶好了……我們終於可以動了……
+gup_crew/sentences/track_functional_can_move_04.json,"Track's been repaired... Nishizumi-san, we can move...",mako,履帶修好了……西住同學，我們可以動了……
+gup_crew/sentences/track_functional_can_move_05.json,"Nishizumi-san... The track's been repaired, let's move...",mako,西住同學……履帶修好了，我們走吧……
+gup_crew/sentences/track_functional_can_move_06.json,OK... Track's up...Can move now...,mako,好……履帶好了……現在可以動了……
+gup_crew/sentences/track_functional_can_move_07.json,OK... Track's up...Can move now...,mako,好……履帶好了……現在可以動了……
+gup_crew/sentences/turret_rotator_damaged_01.json,The turret is damaged...! Rotation speed is reduced!,hana,砲塔受損了……！轉動速度降低了！
+gup_crew/sentences/turret_rotator_damaged_02.json,The turret rotation mechanism is damaged...,hana,砲塔轉動機構受損了……
+gup_crew/sentences/turret_rotator_damaged_03.json,"Oh no, the turret rotation mechanism is damaged...",hana,糟糕，砲塔轉動機構受損了……
+gup_crew/sentences/turret_rotator_destroyed_01.json,"Miho-san, we can no longer rotate the turret...",hana,美穗同學，我們不能轉動砲塔了……
+gup_crew/sentences/turret_rotator_destroyed_02.json,The turret rotation mechanism is completely broken...,hana,砲塔轉動機構完全壞了……
+gup_crew/sentences/turret_rotator_destroyed_03.json,Turret's not working... We need to repair it...,hana,砲塔不動了……我們得修它……
+gup_crew/sentences/turret_rotator_destroyed_04.json,"Hana-san, Mako-san, we can't rotate the turret right now, be careful!",miho,華同學，麻子同學，現在不能轉動砲塔，小心！
+gup_crew/sentences/turret_rotator_functional_01.json,"The turret can rotate now, though just a little bit.",hana,砲塔現在能轉了，雖然只有一點……
+gup_crew/sentences/turret_rotator_functional_02.json,The turret can rotate a little now!,miho,砲塔現在能稍微轉動了！
+gup_crew/sentences/vehicle_destroyed_01.json,We've been defeated... That's unfortunate...,miho,我們被擊敗了……真不幸……
+gup_crew/sentences/vehicle_destroyed_02.json,We've raised the white flag... It's over...,miho,我們升白旗了……結束了……
+gup_crew/sentences/vehicle_destroyed_03.json,Is everyone okay? Let's do our best next time.,miho,大家沒事吧？下次我們要更努力。
+gup_crew/sentences/vehicle_destroyed_04.json,"We've raised the white flag, haven't we...",yukari,我們升白旗了，對吧……
+gup_crew/sentences/vehicle_destroyed_05.json,"It's disappointing, but we've been defeated.",yukari,真失望，但我們被擊敗了。

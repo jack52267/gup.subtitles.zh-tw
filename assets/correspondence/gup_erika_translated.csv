@@ -1,0 +1,259 @@
+file_path,original_text,character,zhtw
+gup_erika/sentences/ally_killed_by_player_01.json,Stop it! That's a friendly!,erika,住手！那是友軍！
+gup_erika/sentences/ally_killed_by_player_02.json,What are you doing?! That's one of ours!,erika,你在幹什麼？！那是我們的人！
+gup_erika/sentences/ally_killed_by_player_03.json,Stop firing! That's one of our own!,erika,停火！那是我們自己人！
+gup_erika/sentences/ally_killed_by_player_04.json,Firing at one of ours!? What are you doing!,erika,攻擊自己人？！你在做什麼！
+gup_erika/sentences/ally_killed_by_player_05.json,We destroyed a friendly!? What is happening!?,erika,我們摧毀了友軍？！這是怎麼回事！？
+gup_erika/sentences/ammo_bay_damaged_01.json,What...! The ammo rack got hit!?,erika,什麼…！彈藥架被擊中了！？
+gup_erika/sentences/ammo_bay_damaged_02.json,Ouch! Ammo rack got damaged!,erika,哎喲！彈藥架受損了！
+gup_erika/sentences/ammo_bay_damaged_03.json,Ammo rack got hit!? Report the damage level!,erika,彈藥架被擊中了！？報告損壞程度！
+gup_erika/sentences/ammo_bay_damaged_04.json,"Ammo rack damaged! Quickly, take care of it!",erika,彈藥架受損！快點處理！
+gup_erika/sentences/armor_not_pierced_by_player_01.json,What... It's not working!?,erika,什麼…沒有效果！？
+gup_erika/sentences/armor_not_pierced_by_player_02.json,Aim for the thinner side!,erika,瞄準較薄的側面！
+gup_erika/sentences/armor_not_pierced_by_player_03.json,Damn...! Failed penetration!,erika,該死…！貫穿失敗！
+gup_erika/sentences/armor_not_pierced_by_player_04.json,Aim for the weakspots!,erika,瞄準弱點！
+gup_erika/sentences/armor_not_pierced_by_player_05.json,Even if we fully aimed that... such impertinence!,erika,就算我們完全瞄準了…真是無禮！
+gup_erika/sentences/armor_pierced_by_player_01.json,We hit them nicely!,erika,我們漂亮地擊中了！
+gup_erika/sentences/armor_pierced_by_player_02.json,It's working! Keep it up!,erika,奏效了！繼續！
+gup_erika/sentences/armor_pierced_by_player_03.json,Confirmed penetration!,erika,確認貫穿！
+gup_erika/sentences/armor_pierced_by_player_04.json,That was nice! Let's keep going!,erika,很好！繼續前進！
+gup_erika/sentences/armor_pierced_by_player_05.json,Behold the skill of a powerhouse school!,erika,瞧瞧強校的實力！
+gup_erika/sentences/armor_pierced_crit_by_player_01.json,We hit them! Keep it up!,erika,我們擊中了！繼續！
+gup_erika/sentences/armor_pierced_crit_by_player_02.json,Ah... it's fine! It should damage them!,erika,啊…沒關係！應該會造成傷害！
+gup_erika/sentences/armor_pierced_crit_by_player_03.json,Nice! It's working!,erika,很好！奏效了！
+gup_erika/sentences/armor_ricochet_by_player_01.json,Eh!? It bounced!?,erika,欸！？被彈開了！？
+gup_erika/sentences/armor_ricochet_by_player_02.json,What is that armor!?,erika,那裝甲是什麼啊！？
+gup_erika/sentences/armor_ricochet_by_player_03.json,I'm gonna hit you next!,erika,下一擊我會打中你的！
+gup_erika/sentences/armor_ricochet_by_player_04.json,No way!? A ricochet!?,erika,不可能！？彈開了！？
+gup_erika/sentences/armor_ricochet_by_player_05.json,It bounced...!? How cheeky!,erika,被彈開了…！？真厚臉皮！
+gup_erika/sentences/armor_ricochet_by_player_06.json,Don't worry! The aim is correct!,erika,別擔心！瞄準沒問題！
+gup_erika/sentences/armor_ricochet_by_player_07.json,Ouch...! We hit them but...!,erika,哎喲…！我們擊中了但…！
+gup_erika/sentences/armor_ricochet_by_player_08.json,How is this one bouncing!,erika,怎麼這一擊也彈開了！
+gup_erika/sentences/armor_ricochet_by_player_09.json,What... it bounced!?,erika,什麼…彈開了！？
+gup_erika/sentences/armor_ricochet_by_player_10.json,Eh!? It bounced!?,erika,欸！？被彈開了！？
+gup_erika/sentences/armor_ricochet_by_player_11.json,What is that armor!?,erika,那裝甲是什麼啊！？
+gup_erika/sentences/armor_ricochet_by_player_12.json,I'm gonna hit you next!,erika,下一擊我會打中你的！
+gup_erika/sentences/armor_ricochet_by_player_13.json,No way!? A ricochet!?,erika,不可能！？彈開了！？
+gup_erika/sentences/armor_ricochet_by_player_14.json,It bounced...!? How cheeky!,erika,被彈開了…！？真厚臉皮！
+gup_erika/sentences/armor_ricochet_by_player_15.json,Don't worry! The aim is correct!,erika,別擔心！瞄準沒問題！
+gup_erika/sentences/commander_killed_01.json,I felt this one...,erika,我感覺到這一擊了…
+gup_erika/sentences/commander_killed_02.json,Ouch... They're not half bad are they...,erika,哎喲…他們還不錯嘛…
+gup_erika/sentences/commander_killed_03.json,...That hurtssss!,erika,…好痛啊啊啊！
+gup_erika/sentences/commander_killed_04.json,I can still... I can still fight...!,erika,我還能…我還能戰鬥…！
+gup_erika/sentences/commander_killed_05.json,I'm fine...! Don't... worry about me...!,erika,我沒事…！別…擔心我…！
+gup_erika/sentences/commander_killed_06.json,Kyaa! (Augh!),erika,呀啊！（哎喲！）
+gup_erika/sentences/commander_killed_07.json,...That hurtssss!,erika,…好痛啊啊啊！
+gup_erika/sentences/crew_deactivated_01.json,Ouch... Everybody alright!?,erika,哎喲…大家沒事吧！？
+gup_erika/sentences/crew_deactivated_02.json,Damn... We cannot fight anymore...,erika,該死…我們不能再戰鬥了…
+gup_erika/sentences/crew_deactivated_03.json,I won't forget this frustration!,erika,我不會忘記這股挫折感！
+gup_erika/sentences/crew_deactivated_04.json,"...Me, losing...",erika,…我，輸了…
+gup_erika/sentences/crew_deactivated_05.json,...It's frustrating but this is it. Everybody out!,erika,…很挫折但就是這樣。大家撤退！
+gup_erika/sentences/damage_by_near_explosion_by_player_01.json,We hit close to the enemy! Good work!,erika,我們擊中敵人附近！幹得好！
+gup_erika/sentences/damage_by_near_explosion_by_player_02.json,That was close...! Try to read the enemy movements!,erika,好險…！試著讀取敵人動作！
+gup_erika/sentences/damage_by_near_explosion_by_player_03.json,"It's fine, the enemy is feeling the pressure!",erika,沒關係，敵人感受到壓力了！
+gup_erika/sentences/damage_by_near_explosion_by_player_04.json,"Nice, we will hit the next one!",erika,很好，下一擊會命中！
+gup_erika/sentences/damage_by_near_explosion_by_player_05.json,Not bad! Next one will be a direct hit!,erika,不錯！下一擊會直接命中！
+gup_erika/sentences/driver_killed_01.json,Driver's seat!? Inform me about the damage!,erika,駕駛座！？報告損壞情況！
+gup_erika/sentences/driver_killed_02.json,The driver's seat got hit!... our mobility's gone...!,erika,駕駛座被擊中了！…我們的機動性沒了…！
+gup_erika/sentences/driver_killed_03.json,Driver's seat!? They think they can slow us down...,erika,駕駛座！？他們以為能拖慢我們…
+gup_erika/sentences/driver_killed_04.json,Damage to driver's seat! Get read for low mobility!,erika,駕駛座損壞！準備低機動性！
+gup_erika/sentences/enemy_fire_started_by_player_01.json,A fire...? Heh... these no-name schools are so clumsy!,erika,起火了…？呵呵…這些無名學校真笨拙！
+gup_erika/sentences/enemy_fire_started_by_player_02.json,Enemy vehicle on fire!,erika,敵方車輛起火！
+gup_erika/sentences/enemy_fire_started_by_player_03.json,"Enemy on fire! Don't worry, we'll call somebody to help them!",erika,敵人起火了！別擔心，我們叫人來幫他們！
+gup_erika/sentences/enemy_fire_started_by_player_04.json,Enemy on fire! I probably went a bit too aggressive...,erika,敵人起火了！我大概太激進了…
+gup_erika/sentences/enemy_fire_started_by_player_05.json,Enemy on fire! That's because they are not prepared!,erika,敵人起火了！那是因為他們沒準備好！
+gup_erika/sentences/enemy_fire_started_by_player_06.json,Seems like it's burning.,erika,看起來在燃燒。
+gup_erika/sentences/enemy_fire_started_by_player_07.json,A fire...? Heh... these no-name schools are so clumsy!,erika,起火了…？呵呵…這些無名學校真笨拙！
+gup_erika/sentences/enemy_fire_started_by_player_08.json,Enemy vehicle on fire!,erika,敵方車輛起火！
+gup_erika/sentences/enemy_fire_started_by_player_09.json,"Enemy on fire! Don't worry, we'll call somebody to help them!",erika,敵人起火了！別擔心，我們叫人來幫他們！
+gup_erika/sentences/enemy_fire_started_by_player_10.json,Enemy on fire! I probably went a bit too aggressive...,erika,敵人起火了！我大概太激進了…
+gup_erika/sentences/enemy_fire_started_by_player_11.json,Enemy on fire! That's because they are not prepared!,erika,敵人起火了！那是因為他們沒準備好！
+gup_erika/sentences/enemy_fire_started_by_player_12.json,Seems like it's burning.,erika,看起來在燃燒。
+gup_erika/sentences/enemy_killed_01.json,Enemy vehicle destroyed!,erika,敵方車輛被摧毀！
+gup_erika/sentences/enemy_killed_02.json,"Enemy vehicle, immobilized!",erika,敵方車輛，無法行動！
+gup_erika/sentences/enemy_killed_03.json,Enemy vehicle eliminated!,erika,敵方車輛被消滅！
+gup_erika/sentences/enemy_killed_04.json,Enemy vehicle destroyed! They got nothing on us!,erika,敵方車輛被摧毀！他們對我們沒轍！
+gup_erika/sentences/enemy_killed_05.json,One enemy tank down! Let's keep pushing!,erika,一輛敵車倒下！繼續推進！
+gup_erika/sentences/enemy_killed_06.json,Enemy tank down!,erika,敵車倒下！
+gup_erika/sentences/enemy_killed_by_player_01.json,Nice! We destroyed one!,erika,很好！我們摧毀了一輛！
+gup_erika/sentences/enemy_killed_by_player_02.json,Uh... You are probably 100 years too early to win against me!,erika,呃…你大概還早一百年才能贏我！
+gup_erika/sentences/enemy_killed_by_player_03.json,Behold the power of a champion!,erika,瞧瞧冠軍的實力！
+gup_erika/sentences/enemy_killed_by_player_04.json,You ran out of luck when you challenged me!,erika,你挑戰我時運氣就用完了！
+gup_erika/sentences/enemy_killed_by_player_05.json,Niceeeee! Enemy tank destroyed!,erika,太好了～！敵車被摧毀！
+gup_erika/sentences/enemy_killed_by_player_06.json,Enemy vehicle destroyed! This is how you shoot!,erika,敵方車輛被摧毀！這就是射擊的方式！
+gup_erika/sentences/enemy_killed_by_player_07.json,We took down the enemy vehicle!,erika,我們擊落了敵方車輛！
+gup_erika/sentences/enemy_killed_by_player_08.json,Niceeeeee! This feels good!,erika,太好了～～！感覺真爽！
+gup_erika/sentences/enemy_killed_by_player_09.json,Hehe... Do not underestimate the style of Sensha-do!,erika,呵呵…別小看戰車道的風格！
+gup_erika/sentences/enemy_killed_by_player_10.json,"Tanks, this is how you take them down!",erika,戰車，這就是擊倒它們的方式！
+gup_erika/sentences/engine_damaged_01.json,Engine got hit!? Report the damage condition!,erika,引擎被擊中了！？報告損壞狀況！
+gup_erika/sentences/engine_damaged_02.json,"Ouch, they hit our engine! This is not good!",erika,哎喲，他們擊中了我們的引擎！這不好！
+gup_erika/sentences/engine_damaged_03.json,Going for our engine... not bad.,erika,瞄準我們的引擎…不錯。
+gup_erika/sentences/engine_damaged_04.json,Engine damaged!? Can we move?,erika,引擎損壞了！？我們能移動嗎？
+gup_erika/sentences/engine_damaged_05.json,Engine damaged! Prepare for low mobility!,erika,引擎損壞！準備低機動性！
+gup_erika/sentences/engine_damaged_06.json,Engine got hit! Speed is going down!,erika,引擎被擊中！速度下降了！
+gup_erika/sentences/engine_damaged_07.json,Engine got hit!? Wait... is that smoke!?,erika,引擎被擊中了！？等等…那是煙嗎！？
+gup_erika/sentences/engine_destroyed_01.json,Engine destroyed! we cannot move!,erika,引擎被摧毀！我們無法移動！
+gup_erika/sentences/engine_destroyed_02.json,"Engine destroyed! Quickly, fix it!",erika,引擎被摧毀！快修好它！
+gup_erika/sentences/engine_destroyed_03.json,The engine...! Repair it quickly!,erika,引擎…！快修好它！
+gup_erika/sentences/engine_destroyed_04.json,We cannot move...! We're just a target to them now!,erika,無法移動了…！我們現在只是他們的靶子！
+gup_erika/sentences/engine_functional_01.json,Engine fixed! Speed is reduced so be careful!,erika,引擎修好了！速度降低所以小心！
+gup_erika/sentences/engine_functional_02.json,"Good, we fixed it! We can move now!",erika,好，我們修好了！現在能移動了！
+gup_erika/sentences/engine_functional_03.json,Power is not that stable... but we can move now!,erika,動力不太穩定…但現在能移動了！
+gup_erika/sentences/engine_functional_04.json,Nice! Engine is back! Let's move!,erika,很好！引擎恢復了！移動吧！
+gup_erika/sentences/fire_started_01.json,"A fire!? Quickly, put it out!",erika,起火了！？快滅火！
+gup_erika/sentences/fire_started_02.json,"This is bad...! Everybody, put out the fire!",erika,很糟…！大家，滅火！
+gup_erika/sentences/fire_started_03.json,Hey...! What do you mean that we're on fire!?,erika,喂…！什麼意思我們起火了！？
+gup_erika/sentences/fire_started_04.json,What... a fire!? Put it out quick!,erika,什麼…起火了！？快滅掉！
+gup_erika/sentences/fire_started_05.json,Whaaat!? We're burning!,erika,什麼！？我們在燃燒！
+gup_erika/sentences/fire_started_06.json,"...Aah! Hey over there, we're burning!",erika,…啊啊！喂，我們在燃燒！
+gup_erika/sentences/fire_started_07.json,What...a fire... let's put it out!,erika,什麼…起火…滅掉它！
+gup_erika/sentences/fire_started_08.json,That's not good... We're burning!,erika,不好…我們在燃燒！
+gup_erika/sentences/fire_stopped_01.json,Yes! Fire is out!,erika,耶！火滅了！
+gup_erika/sentences/fire_stopped_02.json,Phew... somehow we managed to put it out.,erika,呼…總算滅掉了。
+gup_erika/sentences/fire_stopped_03.json,Fire's out! Everybody alright?,erika,火滅了！大家沒事吧？
+gup_erika/sentences/fire_stopped_04.json,Fire's out! Now let's answer back!,erika,火滅了！現在反擊吧！
+gup_erika/sentences/fire_stopped_05.json,"Nice, the fire is out. Luckily we saved the tank...",erika,很好，火滅了。幸好救回了戰車…
+gup_erika/sentences/fuel_tank_damaged_01.json,A hit to our fuel tank!? It's not on fire right!?,erika,擊中我們的油箱！？沒起火吧！？
+gup_erika/sentences/fuel_tank_damaged_02.json,Our fuel tank got damaged...,erika,我們的油箱受損了…
+gup_erika/sentences/fuel_tank_damaged_03.json,Fuel tank damaged!? Careful not to make it worse!,erika,油箱損壞了！？小心別惡化！
+gup_erika/sentences/fuel_tank_damaged_04.json,This is bad...! Our fuel tank has been hit!,erika,很糟…！我們的油箱被擊中了！
+gup_erika/sentences/fuel_tank_damaged_05.json,Aiming for our fuel tank... not bad!,erika,瞄準我們的油箱…不錯！
+gup_erika/sentences/gunner_killed_01.json,Gunner's seat!? What's the damage!?,erika,砲手座！？損壞如何！？
+gup_erika/sentences/gunner_killed_02.json,Gunner's seat got hit!? Ouch... we cannot escape low accuracy now.,erika,砲手座被擊中了！？哎喲…現在無法避免低精準度了。
+gup_erika/sentences/gunner_killed_03.json,Gunner's seat hit! Please endure!,erika,砲手座被擊中！請忍耐！
+gup_erika/sentences/gunner_killed_04.json,Gunner's seat hit! Prepare for low accuracy!,erika,砲手座被擊中！準備低精準度！
+gup_erika/sentences/gun_damaged_01.json,Gun has been hit!? Report the damage!,erika,主砲被擊中了！？報告損壞！
+gup_erika/sentences/gun_damaged_02.json,Seems like they hit our gun...,erika,似乎他們擊中了我們的主砲…
+gup_erika/sentences/gun_damaged_03.json,Ouch... the gun... we can't fire accurately!,erika,哎喲…主砲…我們無法精準射擊了！
+gup_erika/sentences/gun_damaged_04.json,Gun damaged! Prepare for low accuracy!,erika,主砲損壞！準備低精準度！
+gup_erika/sentences/gun_destroyed_01.json,Whaat!? Gun jammed!? We cannot shoot!?,erika,什麼！？主砲卡住了！？我們無法射擊！？
+gup_erika/sentences/gun_destroyed_02.json,Ouch... our gun got knocked out! We can't fire!,erika,哎喲…我們的主砲被打壞了！無法射擊！
+gup_erika/sentences/gun_destroyed_03.json,Main gun down! Fix it quickly!,erika,主砲壞了！快修好！
+gup_erika/sentences/gun_functional_01.json,Seems like the gun is repaired now.,erika,主砲似乎修好了。
+gup_erika/sentences/gun_functional_02.json,Gun fixed! Careful for the lower accuracy!,erika,主砲修好了！小心精準度降低！
+gup_erika/sentences/gun_functional_03.json,Gun fixed! Let's fire back!,erika,主砲修好了！反擊吧！
+gup_erika/sentences/gun_functional_04.json,Nice! We can fire back now!,erika,很好！現在能反擊了！
+gup_erika/sentences/loader_killed_01.json,Loader's seat? What's the damage!?,erika,裝填座？損壞如何！？
+gup_erika/sentences/loader_killed_02.json,Loader's seat got hit!? Our reload will get slower...,erika,裝填座被擊中了！？我們的裝填會變慢…
+gup_erika/sentences/loader_killed_03.json,Are you ok!? I'll do the reload myself!,erika,你沒事吧！？我自己來裝填！
+gup_erika/sentences/loader_killed_04.json,Loader's seat got hit! Prepare for longer reload time!,erika,裝填座被擊中！準備更長的裝填時間！
+gup_erika/sentences/radioman_killed_01.json,Radio operator's seat!? Can you still fight!?,erika,通訊員座！？你還能戰鬥嗎！？
+gup_erika/sentences/radioman_killed_02.json,Radio operator's seat got hit!? We will lose coordination with the allies!,erika,通訊員座被擊中了！？我們會失去與盟友的協調！
+gup_erika/sentences/radioman_killed_03.json,No way... aiming for our Radiooperator's seat...,erika,不可能…瞄準我們的通訊員座…
+gup_erika/sentences/radioman_killed_04.json,"Radio operator's seat got hit! We won't link well with the allies, but don't panic!",erika,通訊員座被擊中！我們無法好好聯絡盟友，但別慌！
+gup_erika/sentences/radio_damaged_01.json,Radio damaged!?,erika,無線電損壞了！？
+gup_erika/sentences/radio_damaged_02.json,What... our radio got hit!?,erika,什麼…我們的無線電被擊中了！？
+gup_erika/sentences/radio_damaged_03.json,Ouch... our radio is damaged! We cannot get long-range comms!,erika,哎喲…我們的無線電損壞了！無法遠程通訊！
+gup_erika/sentences/radio_damaged_04.json,Radio damaged! Communications are breaking!,erika,無線電損壞！通訊中斷了！
+gup_erika/sentences/radio_damaged_05.json,Long-range comms got cut... The radio is damaged!,erika,遠程通訊斷了…無線電損壞了！
+gup_erika/sentences/radio_damaged_06.json,Radio damaged! Careful not to lose coordination with the allies!,erika,無線電損壞！小心別失去與盟友的協調！
+gup_erika/sentences/start_battle_01.json,Such impertinence to challenge me. Especially from a no-name school.,erika,竟敢挑戰我。尤其是來自無名學校的。
+gup_erika/sentences/start_battle_02.json,Watch me. I will crush any evil in our path.,erika,看著我。我會粉碎路上的一切邪惡。
+gup_erika/sentences/start_battle_03.json,"All vehicles, advance!",erika,所有車輛，前進！
+gup_erika/sentences/start_battle_04.json,Hehe... I'll make it end quickly!,erika,呵呵…我會讓它快速結束！
+gup_erika/sentences/start_battle_05.json,I'll make you regret challenging me!,erika,我會讓你後悔挑戰我！
+gup_erika/sentences/start_battle_06.json,I will show you. This is my style of Sensha-do!,erika,我會讓你看看。這就是我的戰車道風格！
+gup_erika/sentences/start_battle_07.json,Everybody ready!? We'll break through the enemies!,erika,大家準備好了！？我們會突破敵人！
+gup_erika/sentences/start_battle_08.json,"My style of Sensha-do... it doesn't stick to tradition, it's only mine.",erika,我的戰車道風格…不拘泥傳統，它只屬於我。
+gup_erika/sentences/start_battle_09.json,I will find it in this battle... my own style of Sensha-do.,erika,我會在這場戰鬥中找到…我自己的戰車道風格。
+gup_erika/sentences/start_battle_10.json,Let's go! Operation Gluhwein & Eisbein!,erika,出發！熱紅酒與豬腳行動！
+gup_erika/sentences/start_battle_11.json,Such impertinence to challenge me. Especially from a no-name school.,erika,竟敢挑戰我。尤其是來自無名學校的。
+gup_erika/sentences/start_battle_12.json,Watch me. I will crush any evil in our path.,erika,看著我。我會粉碎路上的一切邪惡。
+gup_erika/sentences/start_battle_13.json,"All vehicles, advance!",erika,所有車輛，前進！
+gup_erika/sentences/start_battle_14.json,Hehe... I'll make it end quickly!,erika,呵呵…我會讓它快速結束！
+gup_erika/sentences/start_battle_15.json,I'll make you regret challenging me!,erika,我會讓你後悔挑戰我！
+gup_erika/sentences/start_battle_16.json,I will show you. This is my style of Sensha-do!,erika,我會讓你看看。這就是我的戰車道風格！
+gup_erika/sentences/start_battle_17.json,Everybody ready!? We'll break through the enemies!,erika,大家準備好了！？我們會突破敵人！
+gup_erika/sentences/start_battle_18.json,"My style of Sensha-do... it doesn't stick to tradition, it's only mine.",erika,我的戰車道風格…不拘泥傳統，它只屬於我。
+gup_erika/sentences/start_battle_19.json,I will find it in this battle... my own style of Sensha-do.,erika,我會在這場戰鬥中找到…我自己的戰車道風格。
+gup_erika/sentences/start_battle_20.json,Let's go! Operation Gluhwein & Eisbein!,erika,出發！熱紅酒與豬腳行動！
+gup_erika/sentences/start_battle_21.json,Let's go! Everybody follow me!,erika,出發！大家跟著我！
+gup_erika/sentences/surveying_devices_damaged_01.json,Observation device is damaged!,erika,觀測裝置損壞了！
+gup_erika/sentences/surveying_devices_damaged_02.json,They're aiming at our optics! Be careful!,erika,他們瞄準我們的瞄準鏡！小心！
+gup_erika/sentences/surveying_devices_damaged_03.json,Optics damaged! Be careful!,erika,瞄準鏡損壞了！小心！
+gup_erika/sentences/surveying_devices_damaged_04.json,Ouch... our optics... it's dangerous if they keep hitting us...,erika,哎喲…我們的瞄準鏡…如果他們繼續擊中就危險了…
+gup_erika/sentences/surveying_devices_damaged_05.json,Optics damaged! It cannot be... they're aiming at it!?,erika,瞄準鏡損壞了！不可能…他們在瞄準它！？
+gup_erika/sentences/surveying_devices_damaged_06.json,Optics damaged! Be careful!,erika,瞄準鏡損壞了！小心！
+gup_erika/sentences/surveying_devices_damaged_07.json,Ouch... our optics... it's dangerous if they keep hitting us...,erika,哎喲…我們的瞄準鏡…如果他們繼續擊中就危險了…
+gup_erika/sentences/surveying_devices_damaged_08.json,Optics damaged! It cannot be... they're aiming at it!?,erika,瞄準鏡損壞了！不可能…他們在瞄準它！？
+gup_erika/sentences/surveying_devices_destroyed_01.json,Optics got destroyed!,erika,瞄準鏡被摧毀了！
+gup_erika/sentences/surveying_devices_destroyed_02.json,Observation device destroyed! Careful for low visibility!,erika,觀測裝置被摧毀了！小心低能見度！
+gup_erika/sentences/surveying_devices_destroyed_03.json,What...! Our optics...!,erika,什麼…！我們的瞄準鏡…！
+gup_erika/sentences/surveying_devices_destroyed_04.json,Aiming at our optics?...Such impertinence!,erika,瞄準我們的瞄準鏡？…真是無禮！
+gup_erika/sentences/surveying_devices_destroyed_05.json,Our optics... we cannot observe far...,erika,我們的瞄準鏡…無法遠距離觀測…
+gup_erika/sentences/surveying_devices_destroyed_06.json,Optics destroyed! Fix it quickly!,erika,瞄準鏡被摧毀了！快修好！
+gup_erika/sentences/surveying_devices_destroyed_07.json,Ouch... we cannot see far. Quickly fix the optics!,erika,哎喲…無法遠看。快修瞄準鏡！
+gup_erika/sentences/surveying_devices_destroyed_08.json,Optics damaged and visibility decreased! Let's go for closer enemies!,erika,瞄準鏡損壞，能見度降低！瞄準近距離敵人吧！
+gup_erika/sentences/surveying_devices_destroyed_09.json,Optics destroyed!? We cannot see anything!,erika,瞄準鏡被摧毀了！？我們什麼也看不見！
+gup_erika/sentences/surveying_devices_destroyed_10.json,Optics destroyed!? We cannot see anything!,erika,瞄準鏡被摧毀了！？我們什麼也看不見！
+gup_erika/sentences/surveying_devices_functional_01.json,Nice! Optics are back!,erika,很好！瞄準鏡恢復了！
+gup_erika/sentences/surveying_devices_functional_02.json,Observation device repaired! We can see properly!,erika,觀測裝置修好了！我們能正常觀測了！
+gup_erika/sentences/surveying_devices_functional_03.json,We somehow fixed the optics! Let's answer back!,erika,總算修好瞄準鏡了！反擊吧！
+gup_erika/sentences/surveying_devices_functional_04.json,Nice! Our visibility is back!,erika,很好！我們的能見度恢復了！
+gup_erika/sentences/surveying_devices_functional_05.json,Our visilibity is back! We can read the battlefield now!,erika,我們的能見度恢復了！現在能讀取戰場了！
+gup_erika/sentences/surveying_devices_functional_06.json,"Nice! It was just a quick patch, but we can see now!",erika,很好！只是快速修補，但現在能看了！
+gup_erika/sentences/surveying_devices_functional_07.json,Nice! Optics are back!,erika,很好！瞄準鏡恢復了！
+gup_erika/sentences/surveying_devices_functional_08.json,Observation device repaired! We can see properly!,erika,觀測裝置修好了！我們能正常觀測了！
+gup_erika/sentences/surveying_devices_functional_09.json,We somehow fixed the optics! Let's answer back!,erika,總算修好瞄準鏡了！反擊吧！
+gup_erika/sentences/surveying_devices_functional_10.json,Nice! Our visibility is back!,erika,很好！我們的能見度恢復了！
+gup_erika/sentences/surveying_devices_functional_11.json,Our visilibity is back! We can read the battlefield now!,erika,我們的能見度恢復了！現在能讀取戰場了！
+gup_erika/sentences/surveying_devices_functional_12.json,"Nice! It was just a quick patch, but we can see now!",erika,很好！只是快速修補，但現在能看了！
+gup_erika/sentences/surveying_devices_functional_13.json,Observation device repaired! We can see properly!,erika,觀測裝置修好了！我們能正常觀測了！
+gup_erika/sentences/surveying_devices_functional_14.json,Nice! Optics are back!,erika,很好！瞄準鏡恢復了！
+gup_erika/sentences/target_captured_01.json,Target acquired!,erika,目標鎖定！
+gup_erika/sentences/target_captured_02.json,Target on sight!,erika,目標在視線內！
+gup_erika/sentences/target_captured_03.json,Ready to fire!,erika,準備射擊！
+gup_erika/sentences/target_captured_04.json,Target locked! We won't let it escape!,erika,目標鎖定！我們不會讓它逃掉！
+gup_erika/sentences/target_captured_05.json,Let's take this down!,erika,擊倒它吧！
+gup_erika/sentences/target_captured_06.json,Target locked! We won't let it escape!,erika,目標鎖定！我們不會讓它逃掉！
+gup_erika/sentences/target_captured_07.json,Let's take this down!,erika,擊倒它吧！
+gup_erika/sentences/target_lost_01.json,We lost sight of the enemy.,erika,失去敵人的蹤影了。
+gup_erika/sentences/target_lost_02.json,We lost sight of the target.,erika,失去目標的蹤影了。
+gup_erika/sentences/target_lost_03.json,Target lost. Let's look for another one!,erika,目標遺失了。找另一個吧！
+gup_erika/sentences/target_lost_04.json,Target lost! Hehe... are they scared of me?,erika,目標遺失了！呵呵…他們怕我了嗎？
+gup_erika/sentences/target_unlocked_01.json,Let's change target!,erika,換目標吧！
+gup_erika/sentences/target_unlocked_02.json,Let's look for another target!,erika,找另一個目標吧！
+gup_erika/sentences/target_unlocked_03.json,No need to go for them now!,erika,現在不用追他們了！
+gup_erika/sentences/target_unlocked_04.json,Let's focus on other enemies! Look around!,erika,專注其他敵人！看看周圍！
+gup_erika/sentences/target_unlocked_05.json,Leave that to our friends! Let's look for another enemy!,erika,交給我們的夥伴！找另一個敵人吧！
+gup_erika/sentences/target_unlocked_06.json,Let's change target!,erika,換目標吧！
+gup_erika/sentences/target_unlocked_07.json,Let's look for another target!,erika,找另一個目標吧！
+gup_erika/sentences/target_unlocked_08.json,No need to go for them now!,erika,現在不用追他們了！
+gup_erika/sentences/target_unlocked_09.json,Let's focus on other enemies! Look around!,erika,專注其他敵人！看看周圍！
+gup_erika/sentences/target_unlocked_10.json,Leave that to our friends! Let's look for another enemy!,erika,交給我們的夥伴！找另一個敵人吧！
+gup_erika/sentences/target_unlocked_11.json,Let's change target!,erika,換目標吧！
+gup_erika/sentences/target_unlocked_12.json,Let's look for another target!,erika,找另一個目標吧！
+gup_erika/sentences/target_unlocked_13.json,No need to go for them now!,erika,現在不用追他們了！
+gup_erika/sentences/track_damaged_01.json,Ouch... our track got damaged.,erika,哎喲…我們的履帶受損了。
+gup_erika/sentences/track_damaged_02.json,Track hit! We cannot take any more damage!,erika,履帶被擊中！我們不能再受損了！
+gup_erika/sentences/track_damaged_03.json,They're going for our tracks! Avoid the shots!,erika,他們瞄準我們的履帶！避開射擊！
+gup_erika/sentences/track_damaged_04.json,"Ouch... hitting our tracks, not bad!",erika,哎喲…擊中我們的履帶，不錯！
+gup_erika/sentences/track_destroyed_01.json,...We cannot move!? Quickly fix the track!,erika,…無法移動了！？快修履帶！
+gup_erika/sentences/track_destroyed_02.json,"This is bad, we've lost a track! Fix it!",erika,很糟，我們的履帶壞了！修好它！
+gup_erika/sentences/track_destroyed_03.json,"Damnit, our track! We're an easy target now!",erika,該死，我們的履帶！我們現在是輕易的靶子！
+gup_erika/sentences/track_destroyed_04.json,"Ouch, we've lost a track! Such impudence!",erika,哎喲，我們的履帶壞了！真是無禮！
+gup_erika/sentences/track_functional_01.json,Niice! Track is operational!,erika,太好了！履帶運作了！
+gup_erika/sentences/track_functional_02.json,Track is fixed!,erika,履帶修好了！
+gup_erika/sentences/track_functional_03.json,Track's up!,erika,履帶恢復了！
+gup_erika/sentences/track_functional_04.json,Nice! Track is back up!,erika,很好！履帶恢復了！
+gup_erika/sentences/track_functional_can_move_01.json,Track's up! We can move!,erika,履帶恢復了！我們能移動了！
+gup_erika/sentences/track_functional_can_move_02.json,"Nice, track is fixed! Let's answer back!",erika,很好，履帶修好了！反擊吧！
+gup_erika/sentences/track_functional_can_move_03.json,Track's up! Now we can move!,erika,履帶恢復了！現在能移動了！
+gup_erika/sentences/track_functional_can_move_04.json,Track's repair complete! Let's run!,erika,履帶修復完成！跑吧！
+gup_erika/sentences/track_functional_can_move_05.json,Track's up! Let's move before they fire at us!,erika,履帶恢復了！在他們射擊前移動吧！
+gup_erika/sentences/track_functional_can_move_06.json,Niiice! We can move now!,erika,太好了～！現在能移動了！
+gup_erika/sentences/track_functional_can_move_07.json,"Ok, we can move! Let's go!",erika,好，我們能移動了！出發！
+gup_erika/sentences/turret_rotator_damaged_01.json,Ouch... our turret...!,erika,哎喲…我們的砲塔…！
+gup_erika/sentences/turret_rotator_damaged_02.json,Turret hit! Is the turret ring damaged!?,erika,砲塔被擊中！砲塔環損壞了嗎！？
+gup_erika/sentences/turret_rotator_damaged_03.json,Ouch... our turret ring is not working properly!?,erika,哎喲…我們的砲塔環運作不正常！？
+gup_erika/sentences/turret_rotator_destroyed_01.json,Our turret controls got damaged!? Let's fix them!,erika,砲塔控制損壞了！？修好它們！
+gup_erika/sentences/turret_rotator_destroyed_02.json,"The turret is jammed...!? No way, our hydraulics are down!?",erika,砲塔卡住了…！？不可能，我們的液壓壞了！？
+gup_erika/sentences/turret_rotator_destroyed_03.json,What... the turret doesn't turn!? No way!,erika,什麼…砲塔不轉了！？不可能！
+gup_erika/sentences/turret_rotator_destroyed_04.json,What!? Turret is stuck!? Repair it quickly!,erika,什麼！？砲塔卡住了！？快修好！
+gup_erika/sentences/turret_rotator_functional_01.json,Turret repaired!,erika,砲塔修好了！
+gup_erika/sentences/turret_rotator_functional_02.json,Huff... turret can rotate now.,erika,呼…砲塔現在能轉了。
+gup_erika/sentences/vehicle_destroyed_01.json,"So frustrating, but that's the end of the line...",erika,好挫折，但這就是結束…
+gup_erika/sentences/vehicle_destroyed_02.json,"No way... me, losing...",erika,不可能…我，輸了…
+gup_erika/sentences/vehicle_destroyed_03.json,"There... is no way that I'm dishonouring my school, Kuromorimine's name.",erika,絕對…不會讓我玷污學校，黑森峰的名聲。
+gup_erika/sentences/vehicle_destroyed_04.json,"Damn.. My style of Sensha-do... something is missing, but what?",erika,該死…我的戰車道風格…缺少什麼，但那是什麼？
+gup_erika/sentences/vehicle_destroyed_05.json,So this is the end..Review meeting when we're back!,erika,所以這就是結束…回來後檢討會議！

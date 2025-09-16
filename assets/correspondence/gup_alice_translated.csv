@@ -1,0 +1,259 @@
+file_path,original_text,character,zhtw
+gup_alice/sentences/ally_killed_by_player_01.json,You just hit an ally.,alice,你剛剛擊中了友軍。
+gup_alice/sentences/ally_killed_by_player_02.json,What are you doing? You just hit an ally.,alice,你在做什麼？你剛剛擊中了友軍。
+gup_alice/sentences/ally_killed_by_player_03.json,That was our ally.,alice,那是我們的友軍。
+gup_alice/sentences/ally_killed_by_player_04.json,Aim more carefully. You just hit an ally.,alice,瞄準要更小心。你剛剛擊中了友軍。
+gup_alice/sentences/ally_killed_by_player_05.json,Don't shoot our allies.,alice,不要射擊我們的友軍。
+gup_alice/sentences/ammo_bay_damaged_01.json,The ammo rack is damaged. There's a risk of it exploding.,alice,彈藥架受損了。有爆炸的風險。
+gup_alice/sentences/ammo_bay_damaged_02.json,"The ammo rack has been damaged. It might explode, so be careful.",alice,彈藥架受損了。它可能會爆炸，要小心。
+gup_alice/sentences/ammo_bay_damaged_03.json,The enemy's aiming for your ammo rack. Stay alert.,alice,敵人正在瞄準你的彈藥架。保持警戒。
+gup_alice/sentences/ammo_bay_damaged_04.json,The enemy's hitting the ammo rack.,alice,敵人正在攻擊彈藥架。
+gup_alice/sentences/armor_not_pierced_by_player_01.json,That failed to pierce their armor.,alice,那未能貫穿他們的裝甲。
+gup_alice/sentences/armor_not_pierced_by_player_02.json,Your shot didn't make it through their armor.,alice,你的射擊未能穿透他們的裝甲。
+gup_alice/sentences/armor_not_pierced_by_player_03.json,Their armor blocked your shot.,alice,他們的裝甲擋住了你的射擊。
+gup_alice/sentences/armor_not_pierced_by_player_04.json,"You hit the target, but it had little effect.",alice,你擊中了目標，但效果不大。
+gup_alice/sentences/armor_not_pierced_by_player_05.json,That shot failed to penetrate their armor.,alice,那一發未能貫穿他們的裝甲。
+gup_alice/sentences/armor_pierced_by_player_01.json,That pierced their armor.,alice,那貫穿了他們的裝甲。
+gup_alice/sentences/armor_pierced_by_player_02.json,Enemy armor pierced.,alice,敵方裝甲被貫穿了。
+gup_alice/sentences/armor_pierced_by_player_03.json,That shot definitely made it through their armor.,alice,那一發絕對貫穿了他們的裝甲。
+gup_alice/sentences/armor_pierced_by_player_04.json,Nice one.,alice,漂亮的一擊。
+gup_alice/sentences/armor_pierced_by_player_05.json,Keep it up.,alice,繼續保持。
+gup_alice/sentences/armor_pierced_crit_by_player_01.json,Damage to the enemy tank has been confirmed.,alice,敵方戰車損傷已確認。
+gup_alice/sentences/armor_pierced_crit_by_player_02.json,That's effective.,alice,那很有效。
+gup_alice/sentences/armor_pierced_crit_by_player_03.json,Good work. You've hit the target.,alice,幹得好。你擊中了目標。
+gup_alice/sentences/armor_ricochet_by_player_01.json,Looks like it ricocheted.,alice,看起來是跳彈了。
+gup_alice/sentences/armor_ricochet_by_player_02.json,That one ricocheted. Maybe your angle is a little off.,alice,那一發跳彈了。也許你的角度有點偏。
+gup_alice/sentences/armor_ricochet_by_player_03.json,I guess that one ricocheted.,alice,我猜那是跳彈了。
+gup_alice/sentences/armor_ricochet_by_player_04.json,A ricochet. Maybe the angle wasn't right.,alice,是跳彈。也許角度不對。
+gup_alice/sentences/armor_ricochet_by_player_05.json,Seems that was a ricochet.,alice,看起來那是跳彈。
+gup_alice/sentences/armor_ricochet_by_player_06.json,"That hit, but I think it ricocheted.",alice,那擊中了，但我覺得是跳彈了。
+gup_alice/sentences/armor_ricochet_by_player_07.json,It's a ricochet. Load the next round immediately.,alice,是跳彈。立刻裝填下一發。
+gup_alice/sentences/armor_ricochet_by_player_08.json,That bounced off. The next shot will find its mark.,alice,那彈開了。下一發會命中目標。
+gup_alice/sentences/armor_ricochet_by_player_09.json,The shot bounced off their armor.,alice,射擊從他們的裝甲彈開了。
+gup_alice/sentences/armor_ricochet_by_player_10.json,Looks like it ricocheted.,alice,看起來是跳彈了。
+gup_alice/sentences/armor_ricochet_by_player_11.json,Don't panic. Your shot hit its target at least.,alice,別慌。你的射擊至少擊中了目標。
+gup_alice/sentences/armor_ricochet_by_player_12.json,Looks like it ricocheted. Better luck next time.,alice,看起來是跳彈了。下次好運。
+gup_alice/sentences/armor_ricochet_by_player_13.json,That ricocheted. Let's change the angle.,alice,那跳彈了。讓我們換個角度。
+gup_alice/sentences/armor_ricochet_by_player_14.json,That was a ricochet. Maybe the angle was too tight.,alice,那是跳彈。也許角度太陡了。
+gup_alice/sentences/armor_ricochet_by_player_15.json,That ricocheted. Pay close attention to the angle next time.,alice,那跳彈了。下次注意角度。
+gup_alice/sentences/commander_killed_01.json,I've been hit.,alice,我被擊中了。
+gup_alice/sentences/commander_killed_02.json,Didn't see that coming.,alice,沒料到會這樣。
+gup_alice/sentences/commander_killed_03.json,This shock wave... It reminds me of being seasick...,alice,這個衝擊波…讓我想起暈船了…
+gup_alice/sentences/commander_killed_04.json,I think I'm a little seasick.,alice,我覺得有點暈船。
+gup_alice/sentences/commander_killed_05.json,Gah. Are they targeting me?,alice,哎呀。他們在瞄準我嗎？
+gup_alice/sentences/commander_killed_06.json,I've been hit. I need a short rest.,alice,我被擊中了。我需要短暫休息。
+gup_alice/sentences/commander_killed_07.json,"Hey, I'm okay... I can still fight!",alice,嘿，我還好…我還能戰鬥！
+gup_alice/sentences/crew_deactivated_01.json,We lost...,alice,我們輸了…
+gup_alice/sentences/crew_deactivated_02.json,They took down all of us? Let's get out of here.,alice,他們把我們全擊倒了？我們撤退吧。
+gup_alice/sentences/crew_deactivated_03.json,...We'll win next time. I guarantee it!,alice,…我們下次會贏。我保證！
+gup_alice/sentences/crew_deactivated_04.json,This is not your fault. I take full responsibility as captain...,alice,這不是你的錯。我作為隊長負全責…
+gup_alice/sentences/crew_deactivated_05.json,...We're getting out of here.,alice,…我們撤退吧。
+gup_alice/sentences/damage_by_near_explosion_by_player_01.json,It missed.,alice,它沒擊中。
+gup_alice/sentences/damage_by_near_explosion_by_player_02.json,Looks like it wasn't a direct hit.,alice,看起來不是直接命中。
+gup_alice/sentences/damage_by_near_explosion_by_player_03.json,You almost had them.,alice,你差點就擊中他們了。
+gup_alice/sentences/damage_by_near_explosion_by_player_04.json,Looks like it missed. Load the next round quickly.,alice,看起來沒擊中。快速裝填下一發。
+gup_alice/sentences/damage_by_near_explosion_by_player_05.json,"We almost had them, but they managed to avoid it.",alice,我們差點就擊中他們了，但他們設法躲開了。
+gup_alice/sentences/driver_killed_01.json,The driver's seat has been damaged. What's your status?,alice,駕駛座受損了。你的狀況如何？
+gup_alice/sentences/driver_killed_02.json,The driver's seat is taking fire. Give me a status report.,alice,駕駛座正在遭受攻擊。給我狀況報告。
+gup_alice/sentences/driver_killed_03.json,The driver's seat is hit. Can you carry on?,alice,駕駛座被擊中了。你能繼續嗎？
+gup_alice/sentences/driver_killed_04.json,They're aiming for the driver's seat. I need a status report.,alice,他們在瞄準駕駛座。我需要狀況報告。
+gup_alice/sentences/enemy_fire_started_by_player_01.json,A fire has broken out in the enemy tank.,alice,敵方戰車起火了。
+gup_alice/sentences/enemy_fire_started_by_player_02.json,It's in flames.,alice,它在燃燒中。
+gup_alice/sentences/enemy_fire_started_by_player_03.json,The enemy tank is in flames.,alice,敵方戰車在燃燒中。
+gup_alice/sentences/enemy_fire_started_by_player_04.json,Looks like it's burning.,alice,看起來它在燃燒。
+gup_alice/sentences/enemy_fire_started_by_player_05.json,Did you hit the enemy's fuel tank?,alice,你擊中了敵人的燃料箱嗎？
+gup_alice/sentences/enemy_fire_started_by_player_06.json,Looks like you've set the enemy's fuel tank ablaze.,alice,看起來你點燃了敵人的燃料箱。
+gup_alice/sentences/enemy_fire_started_by_player_07.json,They're on fire.,alice,他們起火了。
+gup_alice/sentences/enemy_fire_started_by_player_08.json,The enemy's tank is on fire.,alice,敵人的戰車起火了。
+gup_alice/sentences/enemy_fire_started_by_player_09.json,The enemy tank is on fire. Good work.,alice,敵方戰車起火了。幹得好。
+gup_alice/sentences/enemy_fire_started_by_player_10.json,Excellent. That's started a fire.,alice,優秀。那引發了火災。
+gup_alice/sentences/enemy_fire_started_by_player_11.json,Looks like their engine might have ignited.,alice,看起來他們的引擎可能著火了。
+gup_alice/sentences/enemy_fire_started_by_player_12.json,Did their fuel ignite?,alice,他們的燃料著火了嗎？
+gup_alice/sentences/enemy_killed_01.json,Enemy tank destroyed.,alice,敵方戰車被摧毀了。
+gup_alice/sentences/enemy_killed_02.json,That's one less enemy tank to worry about.,alice,那少了一輛需要擔心的敵方戰車。
+gup_alice/sentences/enemy_killed_03.json,I have confirmed the destruction of an enemy tank.,alice,我已確認一輛敵方戰車被摧毀。
+gup_alice/sentences/enemy_killed_04.json,The enemy tank has been disabled.,alice,敵方戰車已被禁用。
+gup_alice/sentences/enemy_killed_05.json,One enemy tank has been destroyed.,alice,一輛敵方戰車已被摧毀。
+gup_alice/sentences/enemy_killed_06.json,I've confirmed that one enemy tank is badly damaged.,alice,我確認一輛敵方戰車嚴重損壞。
+gup_alice/sentences/enemy_killed_by_player_01.json,Nice. We've destroyed the enemy tank.,alice,漂亮。我們摧毀了敵方戰車。
+gup_alice/sentences/enemy_killed_by_player_02.json,Enemy tank destroyed.,alice,敵方戰車被摧毀了。
+gup_alice/sentences/enemy_killed_by_player_03.json,We've taken out an enemy tank.,alice,我們消滅了一輛敵方戰車。
+gup_alice/sentences/enemy_killed_by_player_04.json,Destroyed!,alice,摧毀了！
+gup_alice/sentences/enemy_killed_by_player_05.json,Enemy tank eliminated. Keep it up.,alice,敵方戰車被消滅了。繼續保持。
+gup_alice/sentences/enemy_killed_by_player_06.json,Enemy tank destroyed. Prepare for the next target.,alice,敵方戰車被摧毀了。準備下一個目標。
+gup_alice/sentences/enemy_killed_by_player_07.json,We've downed an enemy tank.,alice,我們擊落了一輛敵方戰車。
+gup_alice/sentences/enemy_killed_by_player_08.json,Great work. We got them.,alice,好工作。我們抓到他們了。
+gup_alice/sentences/enemy_killed_by_player_09.json,That's the spirit.,alice,那就是精神。
+gup_alice/sentences/enemy_killed_by_player_10.json,That enemy tank is finished.,alice,那輛敵方戰車完蛋了。
+gup_alice/sentences/engine_damaged_01.json,The engine has taken a hit.,alice,引擎被擊中了。
+gup_alice/sentences/engine_damaged_02.json,The engine has been hit. Proceed carefully.,alice,引擎被擊中了。小心前進。
+gup_alice/sentences/engine_damaged_03.json,They've hit the engine. Our mobility is reduced.,alice,他們擊中了引擎。我們的機動性降低了。
+gup_alice/sentences/engine_damaged_04.json,The engine was hit.,alice,引擎被擊中了。
+gup_alice/sentences/engine_damaged_05.json,The engine is damaged. Be ready for reduced mobility.,alice,引擎受損了。準備面對機動性降低。
+gup_alice/sentences/engine_damaged_06.json,They're targeting the engine. Proceed with caution.,alice,他們在瞄準引擎。小心中進。
+gup_alice/sentences/engine_damaged_07.json,Their sights are set on the engine. Stay alert.,alice,他們瞄準了引擎。保持警戒。
+gup_alice/sentences/engine_destroyed_01.json,The engine has been destroyed.,alice,引擎被摧毀了。
+gup_alice/sentences/engine_destroyed_02.json,They've wrecked our engine. We can't move.,alice,他們毀了我們的引擎。我們無法移動。
+gup_alice/sentences/engine_destroyed_03.json,The engine is wrecked. We won't be able to move.,alice,引擎毀壞了。我們無法移動。
+gup_alice/sentences/engine_destroyed_04.json,The engine is down. We're a sitting target if it's not fixed soon.,alice,引擎壞了。如果不快修，我們就是活靶子。
+gup_alice/sentences/engine_functional_01.json,The engine is back online. We can move now.,alice,引擎恢復了。我們現在能移動了。
+gup_alice/sentences/engine_functional_02.json,The engine is up and running again.,alice,引擎又運轉起來了。
+gup_alice/sentences/engine_functional_03.json,The repairs to the engine are complete.,alice,引擎修理完成了。
+gup_alice/sentences/engine_functional_04.json,We've finished the repairs to the engine. Let's move.,alice,我們完成了引擎修理。讓我們移動吧。
+gup_alice/sentences/fire_started_01.json,A fire has broken out in our tank.,alice,我們的戰車起火了。
+gup_alice/sentences/fire_started_02.json,Our tank is on fire.,alice,我們的戰車在燃燒。
+gup_alice/sentences/fire_started_03.json,We have a fire. Put it out quickly.,alice,我們有火災。快滅火。
+gup_alice/sentences/fire_started_04.json,We've got a fire. Extinguish it immediately.,alice,我們有火災。立刻滅火。
+gup_alice/sentences/fire_started_05.json,There's a fire. Put it out as swiftly as possible.,alice,有火災。盡快滅火。
+gup_alice/sentences/fire_started_06.json,A fire has broken out. This isn't good.,alice,火災爆發了。這不妙。
+gup_alice/sentences/fire_started_07.json,There's a fire in our tank. We need to put it out quickly.,alice,我們的戰車有火災。我們需要快滅火。
+gup_alice/sentences/fire_started_08.json,We've got flames. Keep your cool and see to it.,alice,我們有火焰。保持冷靜處理它。
+gup_alice/sentences/fire_stopped_01.json,Fire extinguished.,alice,火災撲滅了。
+gup_alice/sentences/fire_stopped_02.json,The fire has been extinguished.,alice,火災已被撲滅。
+gup_alice/sentences/fire_stopped_03.json,The fire has stopped.,alice,火災停止了。
+gup_alice/sentences/fire_stopped_04.json,The fire is out. Return to your stations.,alice,火滅了。返回你的崗位。
+gup_alice/sentences/fire_stopped_05.json,Excellent. The flames have been put out.,alice,優秀。火焰已被撲滅。
+gup_alice/sentences/fuel_tank_damaged_01.json,The fuel tank has taken damage.,alice,燃料箱受損了。
+gup_alice/sentences/fuel_tank_damaged_02.json,The fuel tank is damaged. There's a greater risk of fire now.,alice,燃料箱受損了。現在火災風險更大。
+gup_alice/sentences/fuel_tank_damaged_03.json,They've hit the fuel tank.,alice,他們擊中了燃料箱。
+gup_alice/sentences/fuel_tank_damaged_04.json,The enemy is targeting the fuel tank. Watch out.,alice,敵人正在瞄準燃料箱。小心。
+gup_alice/sentences/fuel_tank_damaged_05.json,It seems the fuel tank is their aim.,alice,看起來燃料箱是他們的目標。
+gup_alice/sentences/gunner_killed_01.json,Our gunner is down. Accuracy will be reduced.,alice,我們的砲手倒下了。準確度會降低。
+gup_alice/sentences/gunner_killed_02.json,The gunner seat is taking fire. I need a status report.,alice,砲手座正在遭受攻擊。我需要狀況報告。
+gup_alice/sentences/gunner_killed_03.json,A direct hit to the gunner's seat?,alice,直接擊中砲手座？
+gup_alice/sentences/gunner_killed_04.json,"The gunner's seat has been hit. Status report, please.",alice,砲手座被擊中了。請報告狀況。
+gup_alice/sentences/gun_damaged_01.json,The main gun has been damaged.,alice,主砲受損了。
+gup_alice/sentences/gun_damaged_02.json,The gun is damaged.,alice,砲管受損了。
+gup_alice/sentences/gun_damaged_03.json,The main gun has been hit. Its accuracy will be reduced.,alice,主砲被擊中了。它的準確度會降低。
+gup_alice/sentences/gun_damaged_04.json,They hit the gun. Make sure you compensate for the reduced accuracy.,alice,他們擊中了砲管。確保你補償準確度降低。
+gup_alice/sentences/gun_destroyed_01.json,The main gun is badly damaged.,alice,主砲嚴重損壞。
+gup_alice/sentences/gun_destroyed_02.json,They've destroyed the main gun. It won't fire.,alice,他們摧毀了主砲。它無法射擊。
+gup_alice/sentences/gun_destroyed_03.json,The gun is severely damaged. We can't fire it.,alice,砲管嚴重損壞。我們無法射擊。
+gup_alice/sentences/gun_functional_01.json,"The main gun is back up, but firing accuracy is down.",alice,主砲恢復了，但射擊準確度降低了。
+gup_alice/sentences/gun_functional_02.json,The main gun repairs are complete.,alice,主砲修理完成了。
+gup_alice/sentences/gun_functional_03.json,We've finished repairs to the main gun.,alice,我們完成了主砲修理。
+gup_alice/sentences/gun_functional_04.json,Main gun functionality restored. It's ready to be fired again.,alice,主砲功能恢復了。它準備好再次射擊。
+gup_alice/sentences/loader_killed_01.json,The loader has been hit. Are you okay?,alice,裝填手被擊中了。你還好嗎？
+gup_alice/sentences/loader_killed_02.json,"They hit the loader's seat. Unfortunately, this means we'll have slower reloads.",alice,他們擊中了裝填手座。不幸的是，這意味著我們的裝填會變慢。
+gup_alice/sentences/loader_killed_03.json,A direct hit to the loader's seat. Report!,alice,直接擊中裝填手座。報告！
+gup_alice/sentences/loader_killed_04.json,A hit to the loader. Reload speed will be down.,alice,擊中裝填手。裝填速度會降低。
+gup_alice/sentences/radioman_killed_01.json,Radio operator's seat severely damaged.,alice,無線電操作員座嚴重損壞。
+gup_alice/sentences/radioman_killed_02.json,The radio operator has been hit. Can you carry on?,alice,無線電操作員被擊中了。你能繼續嗎？
+gup_alice/sentences/radioman_killed_03.json,Direct hit to the radio operator. Seems they're trying to cut us off from our allies.,alice,直接擊中無線電操作員。看起來他們試圖切斷我們與友軍的聯繫。
+gup_alice/sentences/radioman_killed_04.json,They've hit the radio operator.,alice,他們擊中了無線電操作員。
+gup_alice/sentences/radio_damaged_01.json,The radio has been hit.,alice,無線電被擊中了。
+gup_alice/sentences/radio_damaged_02.json,The radio has been hit. Communicating with our allies will be more difficult now.,alice,無線電被擊中了。現在與友軍溝通會更困難。
+gup_alice/sentences/radio_damaged_03.json,They damaged the radio. The enemy is trying to divide us.,alice,他們損壞了無線電。敵人試圖分化我們。
+gup_alice/sentences/radio_damaged_04.json,Our radio has been hit. That was well played.,alice,我們的無線電被擊中了。那一手不錯。
+gup_alice/sentences/radio_damaged_05.json,Guess they're aiming for the radio.,alice,猜他們在瞄準無線電。
+gup_alice/sentences/radio_damaged_06.json,The radio has been hit. This will reduce our range of communication.,alice,無線電被擊中了。這會減少我們的通訊範圍。
+gup_alice/sentences/start_battle_01.json,It's starting... Thankfully I remembered to hit record.,alice,開始了…幸好我記得按錄製。
+gup_alice/sentences/start_battle_02.json,"If we win, I want you to become the new sponsors for the Boco Museum. It might have to close down otherwise.",alice,如果我們贏了，我希望你成為欠揍熊博物館的新贊助商。否則它可能要關閉。
+gup_alice/sentences/start_battle_03.json,I accept the challenge. Please start the match.,alice,我接受挑戰。請開始比賽。
+gup_alice/sentences/start_battle_04.json,I will crush you. In the name of the Shimada style.,alice,我會粉碎你。以島田流的名義。
+gup_alice/sentences/start_battle_05.json,"I'm ready. Having a sweet potato on my forehead was so strange, I forgot I was seasick.",alice,我準備好了。額頭上放甜薯太奇怪了，我忘了自己暈船。
+gup_alice/sentences/start_battle_06.json,"Don't worry, Boco, I'll help you out. (Talking to Boco)",alice,別擔心，欠揍熊，我會幫你的。（對欠揍熊說）
+gup_alice/sentences/start_battle_07.json,"That team over there is a bit like you. No mater how battered they are, they keep coming back for more. They're not strong, but they won't give up. (Talking to Boco)",alice,那邊的團隊有點像你。不管多破敗，他們都會回來更多。他們不強，但不會放棄。（對欠揍熊說）
+gup_alice/sentences/start_battle_08.json,Let's make this a good one.,alice,讓這成為好的一場。
+gup_alice/sentences/start_battle_09.json,"All tanks, advance.",alice,所有戰車，前進。
+gup_alice/sentences/start_battle_10.json,Let's head out. Deal with any enemies you meet as you see fit.,alice,讓我們出發。處理你遇到的任何敵人隨你便。
+gup_alice/sentences/start_battle_11.json,"We're going all out. Stay on your toes, everyone.",alice,我們全力以赴。大家保持警覺。
+gup_alice/sentences/start_battle_12.json,No need for us to be hasty. Let's take them out calmly.,alice,我們不必匆忙。讓我們冷靜地消滅他們。
+gup_alice/sentences/start_battle_13.json,Prepare for battle.,alice,準備戰鬥。
+gup_alice/sentences/start_battle_14.json,"Everybody, be on your guard.",alice,大家，保持警惕。
+gup_alice/sentences/start_battle_15.json,I can't wait to finish this and go to the Boco Museum.,alice,我迫不及待結束這場，去欠揍熊博物館。
+gup_alice/sentences/start_battle_16.json,Let the battle begin.,alice,讓戰鬥開始。
+gup_alice/sentences/start_battle_17.json,Our only aim is victory.,alice,我們唯一的目標是勝利。
+gup_alice/sentences/start_battle_18.json,Let's give it our all.,alice,讓我們全力以赴。
+gup_alice/sentences/start_battle_19.json,"Whoever our opponent may be, we will give it our all.",alice,不管對手是誰，我們都會全力以赴。
+gup_alice/sentences/start_battle_20.json,Onward!,alice,前進！
+gup_alice/sentences/start_battle_21.json,I'm looking forward to a fun match.,alice,我期待一場有趣的比賽。
+gup_alice/sentences/surveying_devices_damaged_01.json,The observation device has taken damage.,alice,觀測裝置受損了。
+gup_alice/sentences/surveying_devices_damaged_02.json,The observation device has been hit.,alice,觀測裝置被擊中了。
+gup_alice/sentences/surveying_devices_damaged_03.json,They're hitting the observation device.,alice,他們正在擊中觀測裝置。
+gup_alice/sentences/surveying_devices_damaged_04.json,They've damaged the observation device.,alice,他們損壞了觀測裝置。
+gup_alice/sentences/surveying_devices_damaged_05.json,The enemy is targeting the observation device.,alice,敵人正在瞄準觀測裝置。
+gup_alice/sentences/surveying_devices_damaged_06.json,It seems the observation device is their aim.,alice,看起來觀測裝置是他們的目標。
+gup_alice/sentences/surveying_devices_damaged_07.json,They're trying to take down your observation device.,alice,他們試圖擊倒你的觀測裝置。
+gup_alice/sentences/surveying_devices_damaged_08.json,The enemy's target is the observation device.,alice,敵人的目標是觀測裝置。
+gup_alice/sentences/surveying_devices_destroyed_01.json,The observation device is heavily damaged.,alice,觀測裝置嚴重損壞。
+gup_alice/sentences/surveying_devices_destroyed_02.json,They destroyed the observation device.,alice,他們摧毀了觀測裝置。
+gup_alice/sentences/surveying_devices_destroyed_03.json,The observation device has broken down.,alice,觀測裝置故障了。
+gup_alice/sentences/surveying_devices_destroyed_04.json,Observation device destroyed. We can only see close-range enemies now.,alice,觀測裝置被摧毀了。我們現在只能看到近距離敵人。
+gup_alice/sentences/surveying_devices_destroyed_05.json,Observation device heavily damaged. Be careful.,alice,觀測裝置嚴重損壞。小心。
+gup_alice/sentences/surveying_devices_destroyed_06.json,I can't see the terrain around me. Have they destroyed the observation device?,alice,我看不到周圍地形。他們摧毀了觀測裝置嗎？
+gup_alice/sentences/surveying_devices_destroyed_07.json,The observation device is down. Stay calm and see to it.,alice,觀測裝置壞了。保持冷靜處理它。
+gup_alice/sentences/surveying_devices_destroyed_08.json,Heavy damage to the observation device. Respond quickly.,alice,觀測裝置嚴重損壞。快速回應。
+gup_alice/sentences/surveying_devices_destroyed_09.json,They destroyed the observation device. We won't be able to see much now.,alice,他們摧毀了觀測裝置。我們現在看不到太多。
+gup_alice/sentences/surveying_devices_destroyed_10.json,The observation device isn't working. Stay cautious.,alice,觀測裝置不工作了。保持謹慎。
+gup_alice/sentences/surveying_devices_functional_01.json,The observation device is back online.,alice,觀測裝置恢復上線了。
+gup_alice/sentences/surveying_devices_functional_02.json,The observation device has been fixed.,alice,觀測裝置已被修復。
+gup_alice/sentences/surveying_devices_functional_03.json,The repairs to the observation device are complete.,alice,觀測裝置修理完成了。
+gup_alice/sentences/surveying_devices_functional_04.json,Observation device repairs have finished.,alice,觀測裝置修理完成了。
+gup_alice/sentences/surveying_devices_functional_05.json,Observation device restored. We can see what's going on out there now.,alice,觀測裝置恢復了。我們現在可以看到外面的情況。
+gup_alice/sentences/surveying_devices_functional_06.json,The repairs to the observation device are done. Find the enemy.,alice,觀測裝置修理完成了。找到敵人。
+gup_alice/sentences/surveying_devices_functional_07.json,Observation device is now functional. Our view range has been restored.,alice,觀測裝置現在運作了。我們的視野範圍恢復了。
+gup_alice/sentences/surveying_devices_functional_08.json,Visibility has been restored. The observation device is back online.,alice,視野恢復了。觀測裝置回線了。
+gup_alice/sentences/surveying_devices_functional_09.json,I can see everything again. Seems like the observation device has been repaired.,alice,我又能看到一切了。看起來觀測裝置已被修復。
+gup_alice/sentences/surveying_devices_functional_10.json,The observation device is good to go now. Be on the lookout for enemies.,alice,觀測裝置現在好了。留意敵人。
+gup_alice/sentences/surveying_devices_functional_11.json,Great! The observation device is up and running.,alice,太好了！觀測裝置運轉起來了。
+gup_alice/sentences/surveying_devices_functional_12.json,The repairs to the observation device are done. We'll be able to see properly again.,alice,觀測裝置修理完成了。我們又能正常看到了。
+gup_alice/sentences/surveying_devices_functional_13.json,It looks like the observation device has been restored.,alice,看起來觀測裝置恢復了。
+gup_alice/sentences/surveying_devices_functional_14.json,The observation device is working now. Get ready to strike back.,alice,觀測裝置現在運作了。準備反擊。
+gup_alice/sentences/target_captured_01.json,Target acquired.,alice,目標鎖定。
+gup_alice/sentences/target_captured_02.json,Prepare to attack.,alice,準備攻擊。
+gup_alice/sentences/target_captured_03.json,Focus fire.,alice,集中火力。
+gup_alice/sentences/target_captured_04.json,We'll take them out.,alice,我們會消滅他們。
+gup_alice/sentences/target_captured_05.json,Target found.,alice,目標找到了。
+gup_alice/sentences/target_captured_06.json,Let's strike them down in one go.,alice,讓我們一舉擊倒他們。
+gup_alice/sentences/target_captured_07.json,They won't get away.,alice,他們逃不掉。
+gup_alice/sentences/target_lost_01.json,Target lost.,alice,目標丟失。
+gup_alice/sentences/target_lost_02.json,We have lost our target.,alice,我們失去了目標。
+gup_alice/sentences/target_lost_03.json,The target disappeared.,alice,目標消失了。
+gup_alice/sentences/target_lost_04.json,Where has our target gone?,alice,我們的目標去哪了？
+gup_alice/sentences/target_unlocked_01.json,A feint. We'll let them have it later.,alice,是佯攻。我們稍後再給他們一擊。
+gup_alice/sentences/target_unlocked_02.json,Let's change targets.,alice,讓我們更換目標。
+gup_alice/sentences/target_unlocked_03.json,Release target.,alice,釋放目標。
+gup_alice/sentences/target_unlocked_04.json,Leave this one to the others.,alice,把這個留給其他人。
+gup_alice/sentences/target_unlocked_05.json,No need to go after them too hard.,alice,不需要太用力追他們。
+gup_alice/sentences/target_unlocked_06.json,Release the target.,alice,釋放目標。
+gup_alice/sentences/target_unlocked_07.json,Let's go after another enemy.,alice,讓我們追另一個敵人。
+gup_alice/sentences/target_unlocked_08.json,We can let this one go for now.,alice,我們現在可以放過這個。
+gup_alice/sentences/target_unlocked_09.json,Time to find a different target.,alice,該找不同的目標了。
+gup_alice/sentences/target_unlocked_10.json,No need to focus on this one.,alice,不需要專注這個。
+gup_alice/sentences/target_unlocked_11.json,We can leave this tank to someone else.,alice,我們可以把這輛戰車留給別人。
+gup_alice/sentences/target_unlocked_12.json,Let's move on to another target.,alice,讓我們轉到另一個目標。
+gup_alice/sentences/target_unlocked_13.json,Switch targets.,alice,切換目標。
+gup_alice/sentences/track_damaged_01.json,The tracks are damaged.,alice,履帶受損了。
+gup_alice/sentences/track_damaged_02.json,They're targeting our tracks. Proceed with caution.,alice,他們在瞄準我們的履帶。小心中進。
+gup_alice/sentences/track_damaged_03.json,The enemy has hit our tracks. Move carefully.,alice,敵人擊中了我們的履帶。小心移動。
+gup_alice/sentences/track_damaged_04.json,The tracks have been hit. They won't be able to take another.,alice,履帶被擊中了。它們無法承受另一擊。
+gup_alice/sentences/track_destroyed_01.json,The tracks are severely damaged.,alice,履帶嚴重損壞。
+gup_alice/sentences/track_destroyed_02.json,The tracks have broken down. We won't be able to move.,alice,履帶故障了。我們無法移動。
+gup_alice/sentences/track_destroyed_03.json,The tracks have been destroyed. Things aren't looking good.,alice,履帶被摧毀了。情況不妙。
+gup_alice/sentences/track_destroyed_04.json,The tracks have taken heavy damage. Repair them at once.,alice,履帶遭受重損。立即修理。
+gup_alice/sentences/track_functional_01.json,The repairs to the tracks are finished.,alice,履帶修理完成了。
+gup_alice/sentences/track_functional_02.json,The track repairs are complete.,alice,履帶修理完成了。
+gup_alice/sentences/track_functional_03.json,The tracks are now fully repaired.,alice,履帶現在完全修復了。
+gup_alice/sentences/track_functional_04.json,Repairs to the tracks have finished.,alice,履帶修理完成了。
+gup_alice/sentences/track_functional_can_move_01.json,The tracks are now operational.,alice,履帶現在運作了。
+gup_alice/sentences/track_functional_can_move_02.json,The tracks are back online. We can move again.,alice,履帶恢復了。我們又能移動了。
+gup_alice/sentences/track_functional_can_move_03.json,The tracks have been fixed. Let's get moving.,alice,履帶修好了。讓我們移動吧。
+gup_alice/sentences/track_functional_can_move_04.json,The tracks have been restored. Begin our counterattack.,alice,履帶恢復了。開始我們的反擊。
+gup_alice/sentences/track_functional_can_move_05.json,We've fixed the tracks. It's time to move.,alice,我們修好了履帶。該移動了。
+gup_alice/sentences/track_functional_can_move_06.json,We've repaired the tracks. Let's get moving.,alice,我們修復了履帶。讓我們移動吧。
+gup_alice/sentences/track_functional_can_move_07.json,Our tracks have been repaired. Now we can return the favor.,alice,我們的履帶修好了。現在我們可以回敬了。
+gup_alice/sentences/turret_rotator_damaged_01.json,Turret damaged. Its turn speed has decreased.,alice,砲塔受損了。它的轉動速度降低了。
+gup_alice/sentences/turret_rotator_damaged_02.json,The enemy is hitting the turret rotation mechanism.,alice,敵人正在擊中砲塔轉動機構。
+gup_alice/sentences/turret_rotator_damaged_03.json,The turret rotation mechanism has been hit.,alice,砲塔轉動機構被擊中了。
+gup_alice/sentences/turret_rotator_destroyed_01.json,The turret rotation mechanism is heavily damaged.,alice,砲塔轉動機構嚴重損壞。
+gup_alice/sentences/turret_rotator_destroyed_02.json,The turret's rotation mechanism is down. It can't move.,alice,砲塔轉動機構壞了。它無法移動。
+gup_alice/sentences/turret_rotator_destroyed_03.json,They've taken out the turret's rotation mechanism. We can't shift it.,alice,他們摧毀了砲塔轉動機構。我們無法轉動它。
+gup_alice/sentences/turret_rotator_destroyed_04.json,The turret is at a standstill. Its rotation mechanism seems to be down.,alice,砲塔停住了。它的轉動機構似乎壞了。
+gup_alice/sentences/turret_rotator_functional_01.json,Turret rotation mechanism restored. We're mobile now.,alice,砲塔轉動機構恢復了。我們現在能移動了。
+gup_alice/sentences/turret_rotator_functional_02.json,Repairs to the turret rotation mechanism complete.,alice,砲塔轉動機構修理完成了。
+gup_alice/sentences/vehicle_destroyed_01.json,This is not your fault. I take full responsibility as captain...,alice,這不是你的錯。我作為隊長負全責…
+gup_alice/sentences/vehicle_destroyed_02.json,I'll leave the rest to you.,alice,我把剩下的留給你。
+gup_alice/sentences/vehicle_destroyed_03.json,...We'll win next time. I guarantee it!,alice,…我們下次會贏。我保證！
+gup_alice/sentences/vehicle_destroyed_04.json,We've been hit. Let's retreat.,alice,我們被擊中了。讓我們撤退。
+gup_alice/sentences/vehicle_destroyed_05.json,"Next time, we'll try even harder!",alice,下次，我們會更努力！

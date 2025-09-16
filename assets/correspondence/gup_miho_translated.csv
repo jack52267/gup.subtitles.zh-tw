@@ -1,0 +1,259 @@
+file_path,original_text,character,zhtw
+gup_miho/sentences/ally_killed_by_player_01.json,Please don't fire at an ally!,miho,請不要對友軍開火！
+gup_miho/sentences/ally_killed_by_player_02.json,Please avoid friendly fire!,miho,請避免誤傷友軍！
+gup_miho/sentences/ally_killed_by_player_03.json,"We might hit an ally, be careful!",miho,小心，我們可能會擊中友軍！
+gup_miho/sentences/ally_killed_by_player_04.json,Please don't fire at an ally!,miho,請不要對友軍開火！
+gup_miho/sentences/ally_killed_by_player_05.json,"We might hit an ally, be careful!",miho,小心，我們可能會擊中友軍！
+gup_miho/sentences/ammo_bay_damaged_01.json,Ammo rack hit? How bad?,miho,彈藥架被擊中了？損壞程度如何？
+gup_miho/sentences/ammo_bay_damaged_02.json,Ammo rack hit? Be careful not to let it explode,miho,彈藥架被擊中了？小心別讓它爆炸！
+gup_miho/sentences/ammo_bay_damaged_03.json,"Ammo rack? Everybody, be careful!",miho,彈藥架？大家小心！
+gup_miho/sentences/ammo_bay_damaged_04.json,Ammo rack hit? How bad?,miho,彈藥架被擊中了？損壞程度如何？
+gup_miho/sentences/armor_not_pierced_by_player_01.json,Almost...,miho,差一點…
+gup_miho/sentences/armor_not_pierced_by_player_02.json,The enemy vehicle's armor seems to be quite tough,miho,敵方車輛的裝甲似乎很堅固…
+gup_miho/sentences/armor_not_pierced_by_player_03.json,"We've managed to hit, but...",miho,我們擊中了，但是…
+gup_miho/sentences/armor_not_pierced_by_player_04.json,Looks like that didn't penetrate,miho,好像沒能貫穿…
+gup_miho/sentences/armor_not_pierced_by_player_05.json,Let's aim at the weak spots!,miho,瞄準弱點吧！
+gup_miho/sentences/armor_pierced_by_player_01.json,Armor penetration confirmed!,miho,確認貫穿裝甲！
+gup_miho/sentences/armor_pierced_by_player_02.json,"Direct hit! Great, Hana-san!",miho,直接命中！太棒了，華同學！
+gup_miho/sentences/armor_pierced_by_player_03.json,We did it! Armor penetration!,miho,成功了！貫穿裝甲！
+gup_miho/sentences/armor_pierced_by_player_04.json,Great shot!,miho,射擊得很棒！
+gup_miho/sentences/armor_pierced_by_player_05.json,Shell hit!,miho,炮彈命中！
+gup_miho/sentences/armor_pierced_crit_by_player_01.json,"Direct hit! The opponent's seriously damaged, amazing!",miho,直接命中！對方受到重創，太厲害了！
+gup_miho/sentences/armor_pierced_crit_by_player_02.json,We did it! Great shot!,miho,成功了！射擊得很棒！
+gup_miho/sentences/armor_pierced_crit_by_player_03.json,"Hana-san, keep it up!",miho,華同學，繼續加油！
+gup_miho/sentences/armor_ricochet_by_player_01.json,Hit! But... bounced...,miho,擊中了！但是…被彈開了…
+gup_miho/sentences/armor_ricochet_by_player_02.json,That armor... seems to be quite tough...,miho,那裝甲…似乎很堅固…
+gup_miho/sentences/armor_ricochet_by_player_03.json,"It got deflected, huh... Hana-san, can you aim for its weak spot?",miho,被彈開了…華同學，能瞄準它的弱點嗎？
+gup_miho/sentences/armor_ricochet_by_player_04.json,I didn't expect the shell to be bounced...,miho,沒想到炮彈會被彈開…
+gup_miho/sentences/armor_ricochet_by_player_05.json,Hit! But... bounced...,miho,擊中了！但是…被彈開了…
+gup_miho/sentences/armor_ricochet_by_player_06.json,Hit! But... bounced...,miho,擊中了！但是…被彈開了…
+gup_miho/sentences/armor_ricochet_by_player_07.json,Hit! But... bounced...,miho,擊中了！但是…被彈開了…
+gup_miho/sentences/armor_ricochet_by_player_08.json,That armor... seems to be quite tough...,miho,那裝甲…似乎很堅固…
+gup_miho/sentences/armor_ricochet_by_player_09.json,That armor... seems to be quite tough...,miho,那裝甲…似乎很堅固…
+gup_miho/sentences/armor_ricochet_by_player_10.json,That armor... seems to be quite tough...,miho,那裝甲…似乎很堅固…
+gup_miho/sentences/armor_ricochet_by_player_11.json,"It got deflected, huh... Hana-san, can you aim for its weak spot?",miho,被彈開了…華同學，能瞄準它的弱點嗎？
+gup_miho/sentences/armor_ricochet_by_player_12.json,"It got deflected, huh... Hana-san, can you aim for its weak spot?",miho,被彈開了…華同學，能瞄準它的弱點嗎？
+gup_miho/sentences/armor_ricochet_by_player_13.json,"It got deflected, huh... Hana-san, can you aim for its weak spot?",miho,被彈開了…華同學，能瞄準它的弱點嗎？
+gup_miho/sentences/armor_ricochet_by_player_14.json,I didn't expect the shell to be bounced...,miho,沒想到炮彈會被彈開…
+gup_miho/sentences/armor_ricochet_by_player_15.json,I didn't expect the shell to be bounced...,miho,沒想到炮彈會被彈開…
+gup_miho/sentences/commander_killed_01.json,Kyaa! (Augh!),miho,呀啊！（哎喲！）
+gup_miho/sentences/commander_killed_02.json,"I'm alright, no need to worry about me",miho,我沒事，不用擔心我！
+gup_miho/sentences/commander_killed_03.json,I'm fine... I'm still fine,miho,我沒事…我還好…
+gup_miho/sentences/commander_killed_04.json,Kyaa! (Augh!),miho,呀啊！（哎喲！）
+gup_miho/sentences/commander_killed_05.json,Kyaa! (Augh!),miho,呀啊！（哎喲！）
+gup_miho/sentences/commander_killed_06.json,"I'm alright, no need to worry about me",miho,我沒事，不用擔心我！
+gup_miho/sentences/commander_killed_07.json,I'm fine... I'm still fine,miho,我沒事…我還好…
+gup_miho/sentences/crew_deactivated_01.json,Everyone! Are you all okay!?,miho,大家！大家都沒事吧！？
+gup_miho/sentences/crew_deactivated_02.json,"Everyone, please stay safe and be careful!",miho,大家，請保持安全，小心！
+gup_miho/sentences/crew_deactivated_03.json,Let's evacuate! Quickly!,miho,快撤退！趕快！
+gup_miho/sentences/crew_deactivated_04.json,Everyone! Are you all okay!?,miho,大家！大家都沒事吧！？
+gup_miho/sentences/crew_deactivated_05.json,"Everyone, please stay safe and be careful!",miho,大家，請保持安全，小心！
+gup_miho/sentences/damage_by_near_explosion_by_player_01.json,"Landed close to the enemy! Hana-san, keep it up!",miho,落在敵人附近！華同學，繼續加油！
+gup_miho/sentences/damage_by_near_explosion_by_player_02.json,"Landed close to the enemy! Hana-san, keep it up!",miho,落在敵人附近！華同學，繼續加油！
+gup_miho/sentences/damage_by_near_explosion_by_player_03.json,"Landed close to the enemy! Hana-san, keep it up!",miho,落在敵人附近！華同學，繼續加油！
+gup_miho/sentences/damage_by_near_explosion_by_player_04.json,"Landed close to the enemy! Hana-san, keep it up!",miho,落在敵人附近！華同學，繼續加油！
+gup_miho/sentences/damage_by_near_explosion_by_player_05.json,"Landed close to the enemy! Hana-san, keep it up!",miho,落在敵人附近！華同學，繼續加油！
+gup_miho/sentences/driver_killed_01.json,"Mako-san, are you alright!?",miho,麻子同學，你沒事吧！？
+gup_miho/sentences/driver_killed_02.json,Mako-san! Hang in there!,miho,麻子同學！撐住！
+gup_miho/sentences/driver_killed_03.json,Driver's seat!? Mako-san!?,miho,駕駛座！？麻子同學！？
+gup_miho/sentences/driver_killed_04.json,Mako-san! Hang in there!,miho,麻子同學！撐住！
+gup_miho/sentences/enemy_fire_started_by_player_01.json,The enemy vehicle is on fire! Let's call for help!,miho,敵方車輛起火了！快呼叫支援！
+gup_miho/sentences/enemy_fire_started_by_player_02.json,I confirm the shell's landed on the enemy vehicle's fuel tank!,miho,確認炮彈擊中敵方車輛的油箱！
+gup_miho/sentences/enemy_fire_started_by_player_03.json,Did we hit the fuel tank?,miho,我們擊中油箱了嗎？
+gup_miho/sentences/enemy_fire_started_by_player_04.json,The enemy vehicle is on fire! Let's call for help!,miho,敵方車輛起火了！快呼叫支援！
+gup_miho/sentences/enemy_fire_started_by_player_05.json,The enemy vehicle is on fire! Let's call for help!,miho,敵方車輛起火了！快呼叫支援！
+gup_miho/sentences/enemy_fire_started_by_player_06.json,The enemy vehicle is on fire! Let's call for help!,miho,敵方車輛起火了！快呼叫支援！
+gup_miho/sentences/enemy_fire_started_by_player_07.json,I confirm the shell's landed on the enemy vehicle's fuel tank!,miho,確認炮彈擊中敵方車輛的油箱！
+gup_miho/sentences/enemy_fire_started_by_player_08.json,I confirm the shell's landed on the enemy vehicle's fuel tank!,miho,確認炮彈擊中敵方車輛的油箱！
+gup_miho/sentences/enemy_fire_started_by_player_09.json,I confirm the shell's landed on the enemy vehicle's fuel tank!,miho,確認炮彈擊中敵方車輛的油箱！
+gup_miho/sentences/enemy_fire_started_by_player_10.json,Did we hit the fuel tank?,miho,我們擊中油箱了嗎？
+gup_miho/sentences/enemy_fire_started_by_player_11.json,Did we hit the fuel tank?,miho,我們擊中油箱了嗎？
+gup_miho/sentences/enemy_fire_started_by_player_12.json,Did we hit the fuel tank?,miho,我們擊中油箱了嗎？
+gup_miho/sentences/enemy_killed_01.json,I confirm the enemy vehicle's destroyed!,miho,確認敵方車輛被摧毀！
+gup_miho/sentences/enemy_killed_02.json,Enemy vehicle destroyed!,miho,敵方車輛被摧毀！
+gup_miho/sentences/enemy_killed_03.json,We've destroyed the enemy vehicle!,miho,我們摧毀了敵方車輛！
+gup_miho/sentences/enemy_killed_04.json,I confirm the enemy vehicle's destroyed,miho,確認敵方車輛被摧毀！
+gup_miho/sentences/enemy_killed_05.json,Enemy vehicle destroyed!,miho,敵方車輛被摧毀！
+gup_miho/sentences/enemy_killed_06.json,We've destroyed the enemy vehicle!,miho,我們摧毀了敵方車輛！
+gup_miho/sentences/enemy_killed_by_player_01.json,We did it! Enemy vehicle destroyed!,miho,成功了！敵方車輛被摧毀！
+gup_miho/sentences/enemy_killed_by_player_02.json,"We did it! Amazing, Hana-san!",miho,成功了！太棒了，華同學！
+gup_miho/sentences/enemy_killed_by_player_03.json,Enemy vehicle destroyed! Let's keep it up!,miho,敵方車輛被摧毀！繼續努力！
+gup_miho/sentences/enemy_killed_by_player_04.json,Enemy vehicle destroyed! But stay on your guard!,miho,敵方車輛被摧毀！但要保持警戒！
+gup_miho/sentences/enemy_killed_by_player_05.json,"Hana-san, amazing! Destroyed!",miho,華同學，太厲害了！摧毀了！
+gup_miho/sentences/enemy_killed_by_player_06.json,"Destruction confirmed! Hana-san, can you shoot another one?",miho,確認摧毀！華同學，能再射擊一輛嗎？
+gup_miho/sentences/enemy_killed_by_player_07.json,Enemy vehicle destroyed! Let's move on to the next target.,miho,敵方車輛被摧毀！前往下一個目標吧！
+gup_miho/sentences/enemy_killed_by_player_08.json,We did it! Enemy vehicle destroyed!,miho,成功了！敵方車輛被摧毀！
+gup_miho/sentences/enemy_killed_by_player_09.json,"We did it! Amazing, Hana-san!",miho,成功了！太棒了，華同學！
+gup_miho/sentences/enemy_killed_by_player_10.json,Enemy vehicle destroyed! Let's keep it up!,miho,敵方車輛被摧毀！繼續努力！
+gup_miho/sentences/engine_damaged_01.json,"Engine has been hit? Mako-san, how's it going?",miho,引擎被擊中了？麻子同學，情況如何？
+gup_miho/sentences/engine_damaged_02.json,Oh no! Engine's been hit!,miho,糟糕！引擎被擊中了！
+gup_miho/sentences/engine_damaged_03.json,"Engine's been hit? Mako-san, can you still drive the vehicle?",miho,引擎被擊中了？麻子同學，還能駕駛車輛嗎？
+gup_miho/sentences/engine_damaged_04.json,Speed decreased? Oh no! Engine's been hit!,miho,速度下降了？糟糕！引擎被擊中了！
+gup_miho/sentences/engine_damaged_05.json,They hit our engine... They're tough...!,miho,他們擊中了我們的引擎…他們很強…
+gup_miho/sentences/engine_damaged_06.json,"Engine has been hit? Mako-san, how's it going?",miho,引擎被擊中了？麻子同學，情況如何？
+gup_miho/sentences/engine_damaged_07.json,Oh no! Engine's been hit!,miho,糟糕！引擎被擊中了！
+gup_miho/sentences/engine_destroyed_01.json,Oh no! Engine's been destroyed!,miho,糟糕！引擎被摧毀了！
+gup_miho/sentences/engine_destroyed_02.json,Engine destroyed!? We need to fix it quickly!,miho,引擎被摧毀了！？我們得趕快修好！
+gup_miho/sentences/engine_destroyed_03.json,Can't move in this condition... Let's hurry up fixing it!,miho,這種情況下無法移動…趕快修好吧！
+gup_miho/sentences/engine_destroyed_04.json,Oh no! Engine's been destroyed!,miho,糟糕！引擎被摧毀了！
+gup_miho/sentences/engine_functional_01.json,"Repairs are complete! Mako-san, please get going!",miho,修復完成！麻子同學，請開始行動！
+gup_miho/sentences/engine_functional_02.json,"It's just emergency repair, but we can somehow move now!",miho,只是緊急修復，但我們現在能移動了！
+gup_miho/sentences/engine_functional_03.json,Repair done! Let's get going!,miho,修復完成了！出發吧！
+gup_miho/sentences/engine_functional_04.json,"Repairs are complete! Mako-san, please get going!",miho,修復完成！麻子同學，請開始行動！
+gup_miho/sentences/fire_started_01.json,Fire!? Need to extinguish it quickly!,miho,起火了！？得趕快滅火！
+gup_miho/sentences/fire_started_02.json,Oh no! Let's extinguish it together!,miho,糟糕！大家一起滅火吧！
+gup_miho/sentences/fire_started_03.json,"Give me the extinguisher, please!",miho,請把滅火器給我！
+gup_miho/sentences/fire_started_04.json,Fire!? Need to extinguish it quickly!,miho,起火了！？得趕快滅火！
+gup_miho/sentences/fire_started_05.json,Fire!? Need to extinguish it quickly!,miho,起火了！？得趕快滅火！
+gup_miho/sentences/fire_started_06.json,Oh no! Let's extinguish it together!,miho,糟糕！大家一起滅火吧！
+gup_miho/sentences/fire_started_07.json,Oh no! Let's extinguish it together!,miho,糟糕！大家一起滅火吧！
+gup_miho/sentences/fire_started_08.json,"Give me the extinguisher, please!",miho,請把滅火器給我！
+gup_miho/sentences/fire_stopped_01.json,Fire extinguished! Let's get going!,miho,火滅了！出發吧！
+gup_miho/sentences/fire_stopped_02.json,So glad that we've managed to extinguish it...,miho,真高興我們成功滅火了…
+gup_miho/sentences/fire_stopped_03.json,Phew... we've somehow managed to extinguish it,miho,呼…我們總算滅火了…
+gup_miho/sentences/fire_stopped_04.json,Fire extinguished! Let's get going!,miho,火滅了！出發吧！
+gup_miho/sentences/fire_stopped_05.json,So glad that we've managed to extinguish it...,miho,真高興我們成功滅火了…
+gup_miho/sentences/fuel_tank_damaged_01.json,Fuel tank's been hit!,miho,油箱被擊中了！
+gup_miho/sentences/fuel_tank_damaged_02.json,Oh no! Our fuel tank has been hit!,miho,糟糕！我們的油箱被擊中了！
+gup_miho/sentences/fuel_tank_damaged_03.json,Aa... Fuel is leaking...,miho,啊啊…燃料在洩漏…
+gup_miho/sentences/fuel_tank_damaged_04.json,Fuel tank's broken!? Oh no! Let's fix it quickly!,miho,油箱壞了！？糟糕！快修好！
+gup_miho/sentences/fuel_tank_damaged_05.json,Seems like we need to fix the fuel tank,miho,看来我們需要修復油箱…
+gup_miho/sentences/gunner_killed_01.json,gunner_killed_01,miho,砲手座被擊中！？華同學，你沒事吧！？
+gup_miho/sentences/gunner_killed_02.json,gunner_killed_02,miho,華同學！沒受傷吧！？
+gup_miho/sentences/gunner_killed_03.json,gunner_killed_03,miho,砲手座！？華同學，沒事吧！？
+gup_miho/sentences/gunner_killed_04.json,gunner_killed_04,miho,華同學！撐住啊！
+gup_miho/sentences/gun_damaged_01.json,Hit on the barrel!? Hana-san! Are you okay!?,miho,主砲被擊中了！？華同學，你沒事吧！？
+gup_miho/sentences/gun_damaged_02.json,I didn't expect that one would hit our gun barrel...,miho,沒想到會擊中我們的主砲…
+gup_miho/sentences/gun_damaged_03.json,Augh! Gun barrel's been hit!,miho,哎喲！主砲被擊中了！
+gup_miho/sentences/gun_damaged_04.json,"Augh! I'm alright, but the gun barrel...",miho,哎喲！我沒事，但主砲…
+gup_miho/sentences/gun_destroyed_01.json,"We can't fire, we need to fix the barrel!",miho,無法射擊了！得趕快修復主砲！
+gup_miho/sentences/gun_destroyed_02.json,Gun barrel seriously damaged! Unable to fire!,miho,主砲嚴重損壞！無法射擊！
+gup_miho/sentences/gun_destroyed_03.json,Gun barrel... Seems like it's not working at all... Let's fix it quickly!,miho,主砲…看起來完全壞了…快修好吧！
+gup_miho/sentences/gun_functional_01.json,Gun barrel's emergency repair complete!,miho,主砲緊急修復完成！
+gup_miho/sentences/gun_functional_02.json,"Hana-san, we've somehow managed to fix the gun barrel!",miho,華同學，我們總算修好主砲了！
+gup_miho/sentences/gun_functional_03.json,"Not perfect, but I think you can fire now",miho,雖然不完美，但應該可以射擊了！
+gup_miho/sentences/gun_functional_04.json,Gun barrel's emergency repair complete!,miho,主砲緊急修復完成！
+gup_miho/sentences/loader_killed_01.json,"Loader's seat!? Yukari-san, are you alright!?",miho,裝填座！？優花里同學，你沒事吧！？
+gup_miho/sentences/loader_killed_02.json,Yukari-san! Are you alright!?,miho,優花里同學！你沒事吧！？
+gup_miho/sentences/loader_killed_03.json,Yukari-san! Aren't you hurt?,miho,優花里同學！你沒受傷吧？
+gup_miho/sentences/loader_killed_04.json,"Loader's seat!? Yukari-san, are you alright!?",miho,裝填座！？優花里同學，你沒事吧！？
+gup_miho/sentences/radioman_killed_01.json,Saori-san! Are you alright!?,miho,沙織同學！你沒事吧！？
+gup_miho/sentences/radioman_killed_02.json,Radio operator's seat's been hit!? Saori-san!,miho,通訊員座被擊中了！？沙織同學！
+gup_miho/sentences/radioman_killed_03.json,Saori-san! Aren't you hurt?,miho,沙織同學！你沒受傷吧？
+gup_miho/sentences/radioman_killed_04.json,Saori-san! Are you alright!?,miho,沙織同學！你沒事吧！？
+gup_miho/sentences/radio_damaged_01.json,Radio's been hit!?,miho,無線電被擊中了！？
+gup_miho/sentences/radio_damaged_02.json,Let's hurry with the radio repairs!,miho,趕快修復無線電！
+gup_miho/sentences/radio_damaged_03.json,Radio's been hit... Can we fix it?,miho,無線電被擊中了…能修好嗎？
+gup_miho/sentences/radio_damaged_04.json,Radio's been hit!? Saori-san! Are you alright!?,miho,無線電被擊中了！？沙織同學，你沒事吧！？
+gup_miho/sentences/radio_damaged_05.json,Hit on the radio!? Saori-san! Can you confirm?,miho,無線電被擊中了！？沙織同學，能確認嗎？
+gup_miho/sentences/radio_damaged_06.json,Radio's been hit!?,miho,無線電被擊中了！？
+gup_miho/sentences/start_battle_01.json,"Alright, here we go, Panzer Vor!",miho,好，出發了，Panzer Vor！
+gup_miho/sentences/start_battle_02.json,We're executing the 'Slow and Steady Operation'! Panzer Vor!,miho,我們執行「穩紮穩打作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_03.json,Is everyone ready? Panzer Vor!,miho,大家準備好了嗎？Panzer Vor！
+gup_miho/sentences/start_battle_04.json,Let's go! It's the 'Charge Ahead Operation'! Panzer Vor!,miho,出發！這是「向前衝鋒作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_05.json,"This time, we're going with the ""Fluffy Operation""! Tanks, move out!",miho,這次我們執行「忽忽悠悠作戰」！戰車，出發！
+gup_miho/sentences/start_battle_06.json,"Alright, here we go, Panzer Vor!",miho,好，出發了，Panzer Vor！
+gup_miho/sentences/start_battle_07.json,"Alright, here we go, Panzer Vor!",miho,好，出發了，Panzer Vor！
+gup_miho/sentences/start_battle_08.json,"Alright, here we go, Panzer Vor!",miho,好，出發了，Panzer Vor！
+gup_miho/sentences/start_battle_09.json,"Alright, here we go, Panzer Vor!",miho,好，出發了，Panzer Vor！
+gup_miho/sentences/start_battle_10.json,We're executing the 'Slow and Steady Operation'! Panzer Vor!,miho,我們執行「穩紮穩打作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_11.json,We're executing the 'Slow and Steady Operation'! Panzer Vor!,miho,我們執行「穩紮穩打作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_12.json,We're executing the 'Slow and Steady Operation'! Panzer Vor!,miho,我們執行「穩紮穩打作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_13.json,Is everyone ready? Panzer Vor!,miho,大家準備好了嗎？Panzer Vor！
+gup_miho/sentences/start_battle_14.json,Is everyone ready? Panzer Vor!,miho,大家準備好了嗎？Panzer Vor！
+gup_miho/sentences/start_battle_15.json,Is everyone ready? Panzer Vor!,miho,大家準備好了嗎？Panzer Vor！
+gup_miho/sentences/start_battle_16.json,Let's go! It's the 'Charge Ahead Operation'! Panzer Vor!,miho,出發！這是「向前衝鋒作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_17.json,Let's go! It's the 'Charge Ahead Operation'! Panzer Vor!,miho,出發！這是「向前衝鋒作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_18.json,Let's go! It's the 'Charge Ahead Operation'! Panzer Vor!,miho,出發！這是「向前衝鋒作戰」！Panzer Vor！
+gup_miho/sentences/start_battle_19.json,"This time, we're going with the ""Fluffy Operation""! Tanks, move out!",miho,這次我們執行「忽忽悠悠作戰」！戰車，出發！
+gup_miho/sentences/start_battle_20.json,"This time, we're going with the ""Fluffy Operation""! Tanks, move out!",miho,這次我們執行「忽忽悠悠作戰」！戰車，出發！
+gup_miho/sentences/start_battle_21.json,"This time, we're going with the ""Fluffy Operation""! Tanks, move out!",miho,這次我們執行「忽忽悠悠作戰」！戰車，出發！
+gup_miho/sentences/surveying_devices_damaged_01.json,Observation device's been hit!,miho,觀測裝置被擊中了！
+gup_miho/sentences/surveying_devices_damaged_02.json,Visibility is reduced due to observation device damage.,miho,觀測裝置損壞，能見度降低了…
+gup_miho/sentences/surveying_devices_damaged_03.json,Observation device!?,miho,觀測裝置！？
+gup_miho/sentences/surveying_devices_damaged_04.json,It's hard to see! We need to do something about the observation device!,miho,能見度很差！我們得處理觀測裝置！
+gup_miho/sentences/surveying_devices_damaged_05.json,Observation device has been hit,miho,觀測裝置被擊中了…
+gup_miho/sentences/surveying_devices_damaged_06.json,Observation device's been hit!,miho,觀測裝置被擊中了！
+gup_miho/sentences/surveying_devices_damaged_07.json,Visibility is reduced due to observation device damage.,miho,觀測裝置損壞，能見度降低了…
+gup_miho/sentences/surveying_devices_damaged_08.json,Observation device!?,miho,觀測裝置！？
+gup_miho/sentences/surveying_devices_destroyed_01.json,Let's hurry with the observation device repair!,miho,趕快修復觀測裝置！
+gup_miho/sentences/surveying_devices_destroyed_02.json,We'll fix the observation device!,miho,我們來修復觀測裝置！
+gup_miho/sentences/surveying_devices_destroyed_03.json,Observation device destroyed... We need to do something about it...,miho,觀測裝置被摧毀了…我們得想辦法…
+gup_miho/sentences/surveying_devices_destroyed_04.json,Let's hurry with the observation device repair!,miho,趕快修復觀測裝置！
+gup_miho/sentences/surveying_devices_destroyed_05.json,Let's hurry with the observation device repair!,miho,趕快修復觀測裝置！
+gup_miho/sentences/surveying_devices_destroyed_06.json,Let's hurry with the observation device repair!,miho,趕快修復觀測裝置！
+gup_miho/sentences/surveying_devices_destroyed_07.json,We'll fix the observation device!,miho,我們來修復觀測裝置！
+gup_miho/sentences/surveying_devices_destroyed_08.json,We'll fix the observation device!,miho,我們來修復觀測裝置！
+gup_miho/sentences/surveying_devices_destroyed_09.json,Observation device destroyed... We need to do something about it...,miho,觀測裝置被摧毀了…我們得想辦法…
+gup_miho/sentences/surveying_devices_destroyed_10.json,Observation device destroyed... We need to do something about it...,miho,觀測裝置被摧毀了…我們得想辦法…
+gup_miho/sentences/surveying_devices_functional_01.json,We've somehow managed to fix the observation device!,miho,總算修好觀測裝置了！
+gup_miho/sentences/surveying_devices_functional_02.json,"Not perfect, but the observation device is now operational!",miho,雖然不完美，但觀測裝置現在能用了！
+gup_miho/sentences/surveying_devices_functional_03.json,I'm glad we managed to fix the observation device...,miho,很高興我們修好了觀測裝置…
+gup_miho/sentences/surveying_devices_functional_04.json,We've somehow managed to fix the observation device!,miho,總算修好觀測裝置了！
+gup_miho/sentences/surveying_devices_functional_05.json,We've somehow managed to fix the observation device!,miho,總算修好觀測裝置了！
+gup_miho/sentences/surveying_devices_functional_06.json,We've somehow managed to fix the observation device!,miho,總算修好觀測裝置了！
+gup_miho/sentences/surveying_devices_functional_07.json,We've somehow managed to fix the observation device!,miho,總算修好觀測裝置了！
+gup_miho/sentences/surveying_devices_functional_08.json,"Not perfect, but the observation device is now operational!",miho,雖然不完美，但觀測裝置現在能用了！
+gup_miho/sentences/surveying_devices_functional_09.json,"Not perfect, but the observation device is now operational!",miho,雖然不完美，但觀測裝置現在能用了！
+gup_miho/sentences/surveying_devices_functional_10.json,"Not perfect, but the observation device is now operational!",miho,雖然不完美，但觀測裝置現在能用了！
+gup_miho/sentences/surveying_devices_functional_11.json,"Not perfect, but the observation device is now operational!",miho,雖然不完美，但觀測裝置現在能用了！
+gup_miho/sentences/surveying_devices_functional_12.json,I'm glad we managed to fix the observation device...,miho,很高興我們修好了觀測裝置…
+gup_miho/sentences/surveying_devices_functional_13.json,I'm glad we managed to fix the observation device...,miho,很高興我們修好了觀測裝置…
+gup_miho/sentences/surveying_devices_functional_14.json,I'm glad we managed to fix the observation device...,miho,很高興我們修好了觀測裝置…
+gup_miho/sentences/target_captured_01.json,"Target locked! Hana-san, please!",miho,目標鎖定！華同學，請射擊！
+gup_miho/sentences/target_captured_02.json,"Hana-san, please prepare to fire.",miho,華同學，請準備射擊！
+gup_miho/sentences/target_captured_03.json,I confirm the target's in the scope!,miho,確認目標在瞄準範圍內！
+gup_miho/sentences/target_captured_04.json,"Target locked! Hana-san, please!",miho,目標鎖定！華同學，請射擊！
+gup_miho/sentences/target_captured_05.json,"Target locked! Hana-san, please!",miho,目標鎖定！華同學，請射擊！
+gup_miho/sentences/target_captured_06.json,"Hana-san, please prepare to fire.",miho,華同學，請準備射擊！
+gup_miho/sentences/target_captured_07.json,I confirm the target's in the scope!,miho,確認目標在瞄準範圍內！
+gup_miho/sentences/target_lost_01.json,"Target lost... Everybody, please stay vigilant!",miho,目標遺失了…大家請保持警戒！
+gup_miho/sentences/target_lost_02.json,I'm sorry... I've lost the enemy vehicle...,miho,抱歉…我失去了敵方車輛的蹤影…
+gup_miho/sentences/target_lost_03.json,Target lost... Need to find it quickly...,miho,目標遺失了…得趕快找到…
+gup_miho/sentences/target_lost_04.json,"Target lost... Everybody, please stay vigilant!",miho,目標遺失了…大家請保持警戒！
+gup_miho/sentences/target_unlocked_01.json,"Alright, let's change the target",miho,好，換目標吧！
+gup_miho/sentences/target_unlocked_02.json,"Alright, let's leave that vehicle to the other teams.",miho,好，把那輛車交給其他隊伍吧！
+gup_miho/sentences/target_unlocked_03.json,"Alright, let's change the target",miho,好，換目標吧！
+gup_miho/sentences/target_unlocked_04.json,"Alright, let's change the target",miho,好，換目標吧！
+gup_miho/sentences/target_unlocked_05.json,"Alright, let's change the target",miho,好，換目標吧！
+gup_miho/sentences/target_unlocked_06.json,"Alright, let's change the target",miho,好，換目標吧！
+gup_miho/sentences/target_unlocked_07.json,"Alright, let's change the target",miho,好，換目標吧！
+gup_miho/sentences/target_unlocked_08.json,"Alright, let's change the target",miho,好，換目標吧！
+gup_miho/sentences/target_unlocked_09.json,"Alright, let's leave that vehicle to the other teams.",miho,好，把那輛車交給其他隊伍吧！
+gup_miho/sentences/target_unlocked_10.json,"Alright, let's leave that vehicle to the other teams.",miho,好，把那輛車交給其他隊伍吧！
+gup_miho/sentences/target_unlocked_11.json,"Alright, let's leave that vehicle to the other teams.",miho,好，把那輛車交給其他隊伍吧！
+gup_miho/sentences/target_unlocked_12.json,"Alright, let's leave that vehicle to the other teams.",miho,好，把那輛車交給其他隊伍吧！
+gup_miho/sentences/target_unlocked_13.json,"Alright, let's leave that vehicle to the other teams.",miho,好，把那輛車交給其他隊伍吧！
+gup_miho/sentences/track_damaged_01.json,Track's been hit!,miho,履帶被擊中了！
+gup_miho/sentences/track_damaged_02.json,Track's been hit! We can't take any more hits!,miho,履帶被擊中了！我們不能再被擊中了！
+gup_miho/sentences/track_damaged_03.json,They hit our track... The enemy is strong...,miho,他們擊中了我們的履帶…敵人很強…
+gup_miho/sentences/track_damaged_04.json,Track's been hit! Mako-san! Please evade the next one!,miho,履帶被擊中了！麻子同學，請閃避下一擊！
+gup_miho/sentences/track_destroyed_01.json,Let's hurry up to repair the track!,miho,趕快修復履帶！
+gup_miho/sentences/track_destroyed_02.json,Track's been destroyed! We can't move in this condition!,miho,履帶被摧毀了！這種情況下無法移動！
+gup_miho/sentences/track_destroyed_03.json,Unable to move! Need to fix the track!,miho,無法移動！得修好履帶！
+gup_miho/sentences/track_destroyed_04.json,We're immobilized! Let's hurry with the repairs!,miho,我們無法動彈！趕快修復！
+gup_miho/sentences/track_functional_01.json,Phew... we've somehow managed to fix it!,miho,呼…總算修好了！
+gup_miho/sentences/track_functional_02.json,Track's been repaired!,miho,履帶修好了！
+gup_miho/sentences/track_functional_03.json,Track repair done!,miho,履帶修復完成了！
+gup_miho/sentences/track_functional_04.json,Phew... we've somehow managed to fix it!,miho,呼…總算修好了！
+gup_miho/sentences/track_functional_can_move_01.json,"Track's been fixed! Mako-san, please get going!",miho,履帶修好了！麻子同學，請開始行動！
+gup_miho/sentences/track_functional_can_move_02.json,"Track's been fixed! Mako-san, we can move again!",miho,履帶修好了！麻子同學，我們又能移動了！
+gup_miho/sentences/track_functional_can_move_03.json,Phew... we've somehow managed to fix the repair!,miho,呼…總算修好了！
+gup_miho/sentences/track_functional_can_move_04.json,"Track's been fixed! Mako-san, please get going!",miho,履帶修好了！麻子同學，請開始行動！
+gup_miho/sentences/track_functional_can_move_05.json,"Track's been fixed! Mako-san, please get going!",miho,履帶修好了！麻子同學，請開始行動！
+gup_miho/sentences/track_functional_can_move_06.json,"Track's been fixed! Mako-san, we can move again!",miho,履帶修好了！麻子同學，我們又能移動了！
+gup_miho/sentences/track_functional_can_move_07.json,Phew... we've somehow managed to fix the repair!,miho,呼…總算修好了！
+gup_miho/sentences/turret_rotator_damaged_01.json,Augh! The turret's got...,miho,哎喲！砲塔被擊中了…
+gup_miho/sentences/turret_rotator_damaged_02.json,It seems like the turret rotation mechanism got hit...,miho,砲塔旋轉機構好像被擊中了…
+gup_miho/sentences/turret_rotator_damaged_03.json,Anomalies detected in the turret rotation mechanism!?,miho,砲塔旋轉機構有異常！？
+gup_miho/sentences/turret_rotator_destroyed_01.json,The turret rotation mechanism isn't functioning! We need to fix it quickly!,miho,砲塔旋轉機構壞了！得趕快修好！
+gup_miho/sentences/turret_rotator_destroyed_02.json,Let's hurry and fix the turret! It's unable to rotate!,miho,趕快修復砲塔！它無法旋轉了！
+gup_miho/sentences/turret_rotator_destroyed_03.json,"Hana-san, Mako-san, we can't rotate the turret right now, be careful!",miho,華同學，麻子同學，現在砲塔無法旋轉，小心！
+gup_miho/sentences/turret_rotator_destroyed_04.json,Let's hurry and fix the turret! It's unable to rotate!,miho,趕快修復砲塔！它無法旋轉了！
+gup_miho/sentences/turret_rotator_functional_01.json,We've somehow managed to fix the turret rotation mechanics!,miho,總算修好了砲塔旋轉機構！
+gup_miho/sentences/turret_rotator_functional_02.json,Turret rotation mechanism adjustment completed! But we can't afford to let our guard down!,miho,砲塔旋轉機構調整完成了！但我們不能放鬆警惕！
+gup_miho/sentences/vehicle_destroyed_01.json,We've been defeated... That's unfortunate...,miho,我們被擊敗了…真遺憾…
+gup_miho/sentences/vehicle_destroyed_02.json,We've raised the white flag... It's over...,miho,我們舉白旗了…結束了…
+gup_miho/sentences/vehicle_destroyed_03.json,Is everyone okay? Let's do our best next time.,miho,大家沒事吧？下次我們再努力！
+gup_miho/sentences/vehicle_destroyed_04.json,We've been defeated... That's unfortunate...,miho,我們被擊敗了…真遺憾…
+gup_miho/sentences/vehicle_destroyed_05.json,We've raised the white flag... It's over...,miho,我們舉白旗了…結束了…

@@ -1,0 +1,296 @@
+file_path,original_text,character,zhtw
+gup_crew_24/sentences/ally_killed_by_player_01.json,Hey! Why are you shooting at our friends!?,mikko,嘿！為什麼要對我們的朋友開火啊！？
+gup_crew_24/sentences/ally_killed_by_player_02.json,Hey Hey! That's one of ours!,mikko,嘿嘿！那是我們自己人啦！
+gup_crew_24/sentences/ally_killed_by_player_03.json,Ah... I just hit a friendly...,aki,啊啊……我居然打到自己人了……
+gup_crew_24/sentences/ally_killed_by_player_04.json,It's not praiseworthy to shoot our own vehicles.,mika,攻擊自家戰車可不是什麼值得誇耀的事。
+gup_crew_24/sentences/ally_killed_by_player_05.json,"Hey hey, don't shoot our friendly.",mika,嘿嘿，別對自己人開火啊。
+gup_crew_24/sentences/ammo_bay_damaged_01.json,That's baad! Ammo rack got hit!,mikko,糟了！彈藥架被擊中了！
+gup_crew_24/sentences/ammo_bay_damaged_02.json,"Mikaaa, the ammo rack is damaged!",aki,米卡啊啊！彈藥架壞掉了！
+gup_crew_24/sentences/ammo_bay_damaged_03.json,Ammor rack hit? We need to avoid possible explosions.,mika,彈藥架被擊中？得避免可能的爆炸。
+gup_crew_24/sentences/ammo_bay_damaged_04.json,Ammo rack hit? It might not survive the next one.,mika,彈藥架被打中？下一次可能撐不住了。
+gup_crew_24/sentences/armor_not_pierced_by_player_01.json,Hey! That bounced!,mikko,嘿！那發彈跳掉了！
+gup_crew_24/sentences/armor_not_pierced_by_player_01.json,Sorry Mikko...,aki,抱歉，米高……
+gup_crew_24/sentences/armor_not_pierced_by_player_02.json,But I hit that! Why it doesn't go through...?,aki,我明明打中了！為什麼沒穿透啊……？
+gup_crew_24/sentences/armor_not_pierced_by_player_03.json,"Eeh, we bounced that...",aki,呃，我們的炮彈被彈開了……
+gup_crew_24/sentences/armor_not_pierced_by_player_03.json,Don't worry. You got the next one.,mika,別擔心，下一次你會成功的。
+gup_crew_24/sentences/armor_not_pierced_by_player_04.json,"Aki, aim for the thinner side next.",mika,阿基，下次瞄準薄一點的地方。
+gup_crew_24/sentences/armor_not_pierced_by_player_04.json,Gotcha.,aki,知道了！
+gup_crew_24/sentences/armor_not_pierced_by_player_05.json,That's a sturdy armor.,mika,那裝甲真堅固。
+gup_crew_24/sentences/armor_pierced_by_player_01.json,Nice one Aki! That pierce through!,mikko,幹得好，阿基！那發穿透了！
+gup_crew_24/sentences/armor_pierced_by_player_02.json,Niice! Enemy armor penetrated!,aki,太棒了！敵人裝甲被穿透了！
+gup_crew_24/sentences/armor_pierced_by_player_03.json,Penetration!,aki,穿透了！
+gup_crew_24/sentences/armor_pierced_by_player_03.json,Not bad Aki. Better than Youko.,mika,幹得不錯，阿基。比洋子還強。
+gup_crew_24/sentences/armor_pierced_by_player_04.json,"Yes, this one was good.",mika,嗯，這一擊很漂亮。
+gup_crew_24/sentences/armor_pierced_by_player_05.json,"Nice, we penetrated them.",mika,很好，我們穿透了他們。
+gup_crew_24/sentences/armor_pierced_crit_by_player_01.json,Nice one Aki! That's a direct hit!,mikko,好樣的，阿基！那是直接命中！
+gup_crew_24/sentences/armor_pierced_crit_by_player_02.json,Uhm... I think it's a direct it but...,aki,呃……我覺得這是直接命中，但是……
+gup_crew_24/sentences/armor_pierced_crit_by_player_03.json,"Don't worry, this should be working.",mika,別擔心，這應該有效。
+gup_crew_24/sentences/armor_ricochet_by_player_01.json,Damn! That bounced!,mikko,該死！那發彈跳掉了！
+gup_crew_24/sentences/armor_ricochet_by_player_02.json,Whaaat! We bounced that!!!,mikko,什麼！我們那發居然彈開了！
+gup_crew_24/sentences/armor_ricochet_by_player_03.json,"Damn! That was close, a ricochet!",mikko,該死！好險，那是彈開了！
+gup_crew_24/sentences/armor_ricochet_by_player_04.json,A ricochet! I thought we penetrated that!,mikko,彈開了！我還以為穿透了呢！
+gup_crew_24/sentences/armor_ricochet_by_player_05.json,Eeh! But I hit that!,aki,啊啊！可是我明明打中了啊！
+gup_crew_24/sentences/armor_ricochet_by_player_06.json,No way... This one doesn't go through?,aki,不會吧……這發居然沒穿透？
+gup_crew_24/sentences/armor_ricochet_by_player_07.json,Eeh! How does this bounce!?,aki,啊啊！怎麼會彈開啊！？
+gup_crew_24/sentences/armor_ricochet_by_player_08.json,Ricochet!? Youko would laugh at me...,aki,彈開了！？洋子會笑我的……
+gup_crew_24/sentences/armor_ricochet_by_player_09.json,"Mikaa, sorryyy. I bounced that...",aki,米卡，對不起啊啊……我打偏了……
+gup_crew_24/sentences/armor_ricochet_by_player_10.json,Wha... a ricochet!?,aki,啥……彈開了！？
+gup_crew_24/sentences/armor_ricochet_by_player_10.json,Don't panic. It happens right?,mika,別慌，這種事難免的，對吧？
+gup_crew_24/sentences/armor_ricochet_by_player_11.json,"I, I bounced that...",aki,我、我打偏了……
+gup_crew_24/sentences/armor_ricochet_by_player_11.json,"It's fine, pierce next one!",mikko,沒事，下一次穿透它！
+gup_crew_24/sentences/armor_ricochet_by_player_12.json,"Hmm, just a small scratch huh?",mika,嗯，只是擦傷而已，對吧？
+gup_crew_24/sentences/armor_ricochet_by_player_13.json,That bounced. Not like I planned. But that's Sensha-do.,mika,那發彈開了。雖非計劃之中，但這就是戰車道。
+gup_crew_24/sentences/armor_ricochet_by_player_14.json,A ricochet... Our angle was not good enough right?,mika,彈開了……我們的射擊角度不夠好，對吧？
+gup_crew_24/sentences/armor_ricochet_by_player_15.json,"Oh, seems like that one bounced.",mika,哦，看來那發彈開了。
+gup_crew_24/sentences/commander_killed_01.json,Wha! Mika!? Are you ok!?,mikko,啥！米卡！？你沒事吧！？
+gup_crew_24/sentences/commander_killed_02.json,"Ouch...! Mika, are you hurt!?",mikko,哎唷……！米卡，你有沒有受傷！？
+gup_crew_24/sentences/commander_killed_03.json,"Mikaa, are you fine?",aki,米卡啊啊，你還好嗎？
+gup_crew_24/sentences/commander_killed_04.json,Mika! are you hurt!?,aki,米卡！你有沒有受傷！？
+gup_crew_24/sentences/commander_killed_05.json,...This one hurt a little.,mika,……這一擊有點痛。
+gup_crew_24/sentences/commander_killed_06.json,After this one... I need a break...,mika,挨了這一擊……我需要休息一下……
+gup_crew_24/sentences/commander_killed_07.json,I felt this impact. But I can still go.,mika,我感受到這次衝擊了。但我還能繼續。
+gup_crew_24/sentences/crew_deactivated_01.json,Damn! We're done for!,mikko,該死！我們結束了！
+gup_crew_24/sentences/crew_deactivated_02.json,We cannot fight anymore...,aki,我們不能再戰鬥了……
+gup_crew_24/sentences/crew_deactivated_03.json,We're done for. It happens when you ride tanks.,mika,我們結束了。駕駛戰車時，這種事難免。
+gup_crew_24/sentences/crew_deactivated_04.json,"Everybody, do not forget this frustration.",mika,所有人，別忘了這份挫敗感。
+gup_crew_24/sentences/crew_deactivated_05.json,Battles are matter of fortune. Sometimes you lose even after giving all your best.,mika,戰鬥關乎運氣。有時即便全力以赴，也會失敗。
+gup_crew_24/sentences/damage_by_near_explosion_by_player_01.json,Ouch! So close!,mikko,哎唷！好近！
+gup_crew_24/sentences/damage_by_near_explosion_by_player_02.json,Eeh! I thought I got that!,aki,啊啊！我以為我打中了！
+gup_crew_24/sentences/damage_by_near_explosion_by_player_03.json,No way! This doesn't hit!?,aki,不會吧！這沒打中！？
+gup_crew_24/sentences/damage_by_near_explosion_by_player_04.json,I missed!,aki,我失手了！
+gup_crew_24/sentences/damage_by_near_explosion_by_player_04.json,"It's fine, it's still having effect.",mika,沒關係，還是有效果的。
+gup_crew_24/sentences/damage_by_near_explosion_by_player_05.json,This one was close. Next one will hit.,mika,這一發很接近。下一次會命中的。
+gup_crew_24/sentences/driver_killed_01.json,Sh...it... Not bad..!,mikko,該……死……還不賴！
+gup_crew_24/sentences/driver_killed_02.json,"Mikko, are you ok!?",aki,米高，你沒事吧！？
+gup_crew_24/sentences/driver_killed_03.json,"Mikko, are you hurt!?",aki,米高，你有沒有受傷！？
+gup_crew_24/sentences/driver_killed_04.json,"Mikko, are you fine?",mika,米高，你還好嗎？
+gup_crew_24/sentences/enemy_fire_started_by_player_01.json,Woo! Enemy vehicle on fire!,mikko,哇！敵方戰車起火了！
+gup_crew_24/sentences/enemy_fire_started_by_player_02.json,Eh? Is that a fire!? Are they ok!?,mikko,咦？那是火！？他們沒事吧！？
+gup_crew_24/sentences/enemy_fire_started_by_player_03.json,"Ah, I set them on f-fire!",aki,啊，我讓他們著、著火了！
+gup_crew_24/sentences/enemy_fire_started_by_player_04.json,"Enemy vehicle on fire! Mika, what should we do...",aki,敵方戰車起火了！米卡，我們該怎麼辦……
+gup_crew_24/sentences/enemy_fire_started_by_player_05.json,Enemy vehicle on fire... Maybe that was too much.,mika,敵方戰車起火了……或許這有點過頭了。
+gup_crew_24/sentences/enemy_fire_started_by_player_06.json,Enemy vehicle on fire... We should ask for help.,mika,敵方戰車起火了……我們應該呼叫支援。
+gup_crew_24/sentences/enemy_fire_started_by_player_07.json,Enemy is burning. Is that from their engine?,mika,敵方在燃燒。是他們的引擎嗎？
+gup_crew_24/sentences/enemy_fire_started_by_player_08.json,Enemy tank is burning. Did we set their fuel on fire?,mika,敵方戰車在燃燒。我們點燃了他們的燃料？
+gup_crew_24/sentences/enemy_fire_started_by_player_09.json,That... seems like the enemy tank is burning.,mika,嗯……看起來敵方戰車在燃燒。
+gup_crew_24/sentences/enemy_fire_started_by_player_10.json,Woo! Enemy vehicle on fire!,mikko,哇！敵方戰車起火了！
+gup_crew_24/sentences/enemy_fire_started_by_player_11.json,Eh? Is that a fire!? Are they ok!?,mikko,咦？那是火！？他們沒事吧！？
+gup_crew_24/sentences/enemy_fire_started_by_player_12.json,"Enemy vehicle on fire! Mika, what should we do...",aki,敵方戰車起火了！米卡，我們該怎麼辦……
+gup_crew_24/sentences/enemy_killed_01.json,"Niice! Enemy vehicle, silenced!",mikko,太棒了！敵方戰車被擊沉默了！
+gup_crew_24/sentences/enemy_killed_02.json,Nice! Seems like the enemy is down one tank!,mikko,幹得好！看起來敵方少了一輛戰車！
+gup_crew_24/sentences/enemy_killed_03.json,"Mika, seems like the enemy tank is destroyed.",aki,米卡，看起來敵方戰車被摧毀了。
+gup_crew_24/sentences/enemy_killed_04.json,"Nice, seems like the enemy lost one tank.",mika,很好，敵方似乎損失了一輛戰車。
+gup_crew_24/sentences/enemy_killed_05.json,Confirmed enemy vehicle destroyed.,mika,確認敵方戰車已摧毀。
+gup_crew_24/sentences/enemy_killed_06.json,One enemy down. The wind is blowing for us.,mika,擊倒一敵。風正朝我們吹來。
+gup_crew_24/sentences/enemy_killed_by_player_01.json,Niice! We destroyed one!,mikko,太棒了！我們摧毀了一輛！
+gup_crew_24/sentences/enemy_killed_by_player_02.json,Nice! We destroyed one!,aki,好棒！我們摧毀了一輛！
+gup_crew_24/sentences/enemy_killed_by_player_03.json,"Mika, we took down the enemy!",aki,米卡，我們擊倒敵人了！
+gup_crew_24/sentences/enemy_killed_by_player_04.json,Enemy vehicle silenced. Get ready for our next prey.,mika,敵方戰車沉默。準備迎接下一個獵物。
+gup_crew_24/sentences/enemy_killed_by_player_04.json,Yes!,aki,好！
+gup_crew_24/sentences/enemy_killed_by_player_05.json,Enemy vehicle silenced. Get ready for our next prey.,mika,敵方戰車沉默。準備迎接下一個獵物。
+gup_crew_24/sentences/enemy_killed_by_player_05.json,Aye sir!,mikko,遵命！
+gup_crew_24/sentences/enemy_killed_by_player_06.json,Enemy vehicle silenced. Get ready for our next prey.,mika,敵方戰車沉默。準備迎接下一個獵物。
+gup_crew_24/sentences/enemy_killed_by_player_06.json,Yes!,aki,好！
+gup_crew_24/sentences/enemy_killed_by_player_07.json,Enemy vehicle silenced. Get ready for our next prey.,mika,敵方戰車沉默。準備迎接下一個獵物。
+gup_crew_24/sentences/enemy_killed_by_player_07.json,Aye sir!,mikko,遵命！
+gup_crew_24/sentences/enemy_killed_by_player_08.json,Nice! We destroyed one!,aki,好棒！我們摧毀了一輛！
+gup_crew_24/sentences/enemy_killed_by_player_09.json,Enemy vehicle destroyed. The wind is our friend.,mika,敵方戰車摧毀。風是我們的盟友。
+gup_crew_24/sentences/enemy_killed_by_player_10.json,"One vehicle destroyed. Hehe, we cannot rely on Youko every single time.",mika,摧毀一輛戰車。呵呵，我們不能總是依靠洋子。
+gup_crew_24/sentences/engine_damaged_01.json,Engine got hit! Power is going down!,mikko,引擎被擊中了！動力下降了！
+gup_crew_24/sentences/engine_damaged_02.json,Ouch...! Engine's damaged! We cannot speed up!,mikko,哎唷……！引擎壞了！我們無法加速！
+gup_crew_24/sentences/engine_damaged_03.json,Are we slowing down?,aki,我們在減速嗎？
+gup_crew_24/sentences/engine_damaged_03.json,The engine's damaged!,mikko,引擎壞掉了！
+gup_crew_24/sentences/engine_damaged_04.json,Ouch...! Engine's damaged! We cannot speed up!,mikko,哎唷……！引擎壞了！我們無法加速！
+gup_crew_24/sentences/engine_damaged_05.json,Are we slowing down?,aki,我們在減速嗎？
+gup_crew_24/sentences/engine_damaged_05.json,The engine's damaged!,mikko,引擎壞掉了！
+gup_crew_24/sentences/engine_damaged_06.json,"Engine damaged. If they aimed for it, they're not bad.",mika,引擎受損。如果他們是故意瞄準的，還真不賴。
+gup_crew_24/sentences/engine_damaged_07.json,Seems like the engine got damaged. We're slowing down.,mika,引擎似乎受損了。我們正在減速。
+gup_crew_24/sentences/engine_destroyed_01.json,We can't move...!? That's bad! The engine's been destroyed!!,mikko,動不了……！？糟了！引擎被摧毀了！
+gup_crew_24/sentences/engine_destroyed_02.json,Damn! Engine destroyed! We can't move!,mikko,該死！引擎被毀！我們動不了了！
+gup_crew_24/sentences/engine_destroyed_03.json,"Mikko, don't tell me we are stuck...?",aki,米高，別告訴我我們卡住了……？
+gup_crew_24/sentences/engine_destroyed_04.json,"Engine's knocked out. Mikko, fix it.",mika,引擎被毀。米高，修好它。
+gup_crew_24/sentences/engine_destroyed_04.json,Gotcha!,mikko,收到！
+gup_crew_24/sentences/engine_functional_01.json,Niice! Engine's repaired! Let's go!,mikko,太棒了！引擎修好了！出發！
+gup_crew_24/sentences/engine_functional_02.json,Nice! The engine's back!,aki,好棒！引擎恢復了！
+gup_crew_24/sentences/engine_functional_03.json,"Engine's back. Let's move, Mikko.",mika,引擎恢復了。米高，動起來。
+gup_crew_24/sentences/engine_functional_03.json,Aye!,mikko,遵命！
+gup_crew_24/sentences/engine_functional_04.json,Engine repaired. Let's move.,mika,引擎修好了。出發吧。
+gup_crew_24/sentences/fire_started_01.json,Wait! We're on fire!?,mikko,等等！我們著火了！？
+gup_crew_24/sentences/fire_started_02.json,Aah! We're burning!,mikko,啊啊！我們在燃燒！
+gup_crew_24/sentences/fire_started_03.json,"Wait, we're on fire!?",aki,等等，我們著火了！？
+gup_crew_24/sentences/fire_started_04.json,F-fire detected! What should we do...,aki,發、發現火災！我們該怎麼辦……
+gup_crew_24/sentences/fire_started_05.json,Aah! We're burning!,mikko,啊啊！我們在燃燒！
+gup_crew_24/sentences/fire_started_06.json,Fire detected! What should we do...,aki,發現火災！我們該怎麼辦……
+gup_crew_24/sentences/fire_started_07.json,Fire detected. Quickly put it out.,mika,發現火災。快點滅火。
+gup_crew_24/sentences/fire_started_08.json,Fire detected. Probably too much for a sauna.,mika,發現火災。這可不是三溫暖的程度。
+gup_crew_24/sentences/fire_stopped_01.json,Let's gooo! Fire's out!,mika,好！火滅了！
+gup_crew_24/sentences/fire_stopped_02.json,Mika! We've put the fire out!,aki,米卡！我們把火滅了！
+gup_crew_24/sentences/fire_stopped_03.json,Let's gooo! Fire's out!,mika,好！火滅了！
+gup_crew_24/sentences/fire_stopped_04.json,Fire's out. Everybody ok?,mika,火滅了。大家都沒事吧？
+gup_crew_24/sentences/fire_stopped_05.json,"Fire's out. Both in life and Sensha-do, you need to not lose your coolness.",mika,火滅了。無論人生還是戰車道，都得保持冷靜。
+gup_crew_24/sentences/fuel_tank_damaged_01.json,This smell... is our fuel leaking!?,mikko,這個味道……我們的燃料在漏！？
+gup_crew_24/sentences/fuel_tank_damaged_02.json,"That's bad, our fuel tank is damaged!",mikko,糟了，我們的燃料箱壞了！
+gup_crew_24/sentences/fuel_tank_damaged_03.json,Aah... The fuel tank... We need to fix it quickly!,aki,啊啊……燃料箱……得趕快修好！
+gup_crew_24/sentences/fuel_tank_damaged_04.json,Our fuel tank's hit. Don't let it catch fire.,mika,燃料箱被擊中。別讓它著火。
+gup_crew_24/sentences/fuel_tank_damaged_05.json,Fuel tank damaged. That's not good.,mika,燃料箱受損。這可不好。
+gup_crew_24/sentences/gunner_killed_01.json,Gunner's seat!? What's the damage!?,mikko,砲手位置！？損傷如何！？
+gup_crew_24/sentences/gunner_killed_02.json,Mika! Gunner's seat has been hit! Huge damage!,mikko,米卡！砲手位置被擊中！損傷嚴重！
+gup_crew_24/sentences/gunner_killed_03.json,Ouch-ch-ch... They aimed at the gunner's seat...,aki,哎唷唷唷……他們瞄準了砲手位置……
+gup_crew_24/sentences/gunner_killed_04.json,They're aiming for our gunner seat. They're good.,mika,他們瞄準了我們的砲手位置。他們很厲害。
+gup_crew_24/sentences/gun_damaged_01.json,Gun has been hit!? What's the damage!?,mikko,主砲被擊中！？損傷如何！？
+gup_crew_24/sentences/gun_damaged_02.json,"Whattt, the gun is bending!",aki,什麼，主砲彎掉了！
+gup_crew_24/sentences/gun_damaged_03.json,Gun's damaged. We will have low accuracy.,mika,主砲受損。我們的命中率會降低。
+gup_crew_24/sentences/gun_damaged_03.json,Eeh... (cry),aki,啊啊……（哭）
+gup_crew_24/sentences/gun_damaged_04.json,Gun's damaged. Troubles happen both in life and in Sensha-do.,mika,主砲受損。人生與戰車道總會有麻煩。
+gup_crew_24/sentences/gun_destroyed_01.json,The gun... We can't fire!,aki,主砲……我們不能開火了！
+gup_crew_24/sentences/gun_destroyed_02.json,"Gun jammed! Mikaa, what should we dooo (cry)",mika,主砲卡住了！米卡，我們該怎麼辦啊啊（哭）
+gup_crew_24/sentences/gun_destroyed_03.json,We can't fire. We need to fix the gun.,mika,無法開火。得修好主砲。
+gup_crew_24/sentences/gun_functional_01.json,Mika! The gun's back working!,aki,米卡！主砲恢復運作了！
+gup_crew_24/sentences/gun_functional_02.json,Gun fixed!,aki,主砲修好了！
+gup_crew_24/sentences/gun_functional_02.json,Let's gooo! Time to fire back!,mikko,好！是時候反擊了！
+gup_crew_24/sentences/gun_functional_03.json,Gun's working. Just a common trouble.,mika,主砲恢復了。只是常見的麻煩。
+gup_crew_24/sentences/gun_functional_04.json,Gun's working. Let's fire back.,mika,主砲恢復了。反擊吧。
+gup_crew_24/sentences/loader_killed_01.json,Loader's seat!? What's the damage!?,mikko,裝填手位置！？損傷如何！？
+gup_crew_24/sentences/loader_killed_02.json,Ouch...! Huge damage to the loader's seat!,mikko,哎唷……！裝填手位置損傷嚴重！
+gup_crew_24/sentences/loader_killed_03.json,That was a big hit... it will affect loading for a while.,aki,那一擊好重……會影響一段時間的裝填。
+gup_crew_24/sentences/loader_killed_04.json,They're aiming for our loader seat. They're good.,mika,他們瞄準了我們的裝填手位置。他們很厲害。
+gup_crew_24/sentences/radioman_killed_01.json,Radio operator seat got hit! We have to dodge the next one!,mikko,通訊員位置被擊中！得閃避下一擊！
+gup_crew_24/sentences/radioman_killed_02.json,Radio operator seat damaged! Our comms are not working properly!,aki,通訊員位置受損！我們的通訊不正常了！
+gup_crew_24/sentences/radioman_killed_03.json,"Radio operator seat hit! What should we do, we cannot link with our teammates.",aki,通訊員位置被擊中！怎麼辦，我們無法聯繫隊友了！
+gup_crew_24/sentences/radioman_killed_04.json,Radio operator seat suffered damage. We cannot communicate properly.,mika,通訊員位置受損。我們無法正常通訊了。
+gup_crew_24/sentences/radio_damaged_01.json,That's bad...! The radio is damaged!,mikko,糟了……！無線電壞掉了！
+gup_crew_24/sentences/radio_damaged_02.json,Aah! The radio is broken!,mikko,啊啊！無線電壞了！
+gup_crew_24/sentences/radio_damaged_03.json,The radio got hit! Our comms are not stable!,aki,無線電被擊中！我們的通訊不穩定了！
+gup_crew_24/sentences/radio_damaged_04.json,"Mikaa, the radio, it got damaged! We cannot communicate far away.",aki,米卡，無線電壞掉了！我們無法遠距離通訊了！
+gup_crew_24/sentences/radio_damaged_05.json,That sound... I think the radio might be damaged.,mika,那聲音……無線電可能壞了。
+gup_crew_24/sentences/radio_damaged_06.json,Radio not working. Let's give up on long range intel.,mika,無線電壞了。放棄遠距離情報吧。
+gup_crew_24/sentences/start_battle_01.json,"Let's gooo! Everybody, advance!",mikko,衝啊！全員，前進！
+gup_crew_24/sentences/start_battle_02.json,Let's move! Leave the driving to me!,mikko,出發！駕駛交給我！
+gup_crew_24/sentences/start_battle_03.json,Everybody ready? Battle is starting soon.,aki,大家準備好了嗎？戰鬥馬上開始了！
+gup_crew_24/sentences/start_battle_04.json,"Mika, let's give our best!",aki,米卡，我們要全力以赴！
+gup_crew_24/sentences/start_battle_04.json,It's not just about giving our best.,mika,不只是全力以赴而已。
+gup_crew_24/sentences/start_battle_04.json,Whyyy do you have to say that?,aki,為什麼你要這樣說啊？
+gup_crew_24/sentences/start_battle_05.json,"Let's go, Mikko.",mika,出發吧，米高。
+gup_crew_24/sentences/start_battle_05.json,Aye!,mikko,遵命！
+gup_crew_24/sentences/start_battle_06.json,"Hey, Mika, why did you join the Sensha-do?",aki,嘿，米卡，你為什麼參加戰車道？
+gup_crew_24/sentences/start_battle_06.json,You can find all the important things about life in Sensha-do.,mika,在戰車道中，你能找到人生中所有重要的事物。
+gup_crew_24/sentences/start_battle_07.json,We're starting soon. It would be fun to charge all together.,aki,馬上要開始了。全員一起衝鋒應該很好玩！
+gup_crew_24/sentences/start_battle_07.json,I don't agree with the idea of just living for the moment.,mika,我不贊同只為當下而活的觀念。
+gup_crew_24/sentences/start_battle_08.json,Let's gooo! On the move!,mikko,衝啊！開始行動！
+gup_crew_24/sentences/start_battle_08.json,"Mikko, do not mistake courage for recklessness.",mika,米高，別把勇氣誤認為魯莽。
+gup_crew_24/sentences/start_battle_09.json,"Hehe. Mika, in the end we're joining the attack.",aki,呵呵，米卡，我們終究要加入攻擊了。
+gup_crew_24/sentences/start_battle_09.json,Wrong. We're going with the wind.,mika,錯了。我們是隨風而行。
+gup_crew_24/sentences/start_battle_10.json,"Hey, Mika, why did you join the Sensha-do?",aki,嘿，米卡，你為什麼參加戰車道？
+gup_crew_24/sentences/start_battle_10.json,You can find all the important things about life in Sensha-do.,mika,在戰車道中，你能找到人生中所有重要的事物。
+gup_crew_24/sentences/start_battle_11.json,We're starting soon. It would be fun to charge all together.,aki,馬上要開始了。全員一起衝鋒應該很好玩！
+gup_crew_24/sentences/start_battle_11.json,I don't agree with the idea of just living for the moment.,mika,我不贊同只為當下而活的觀念。
+gup_crew_24/sentences/start_battle_12.json,Let's gooo! On the move!,mikko,衝啊！開始行動！
+gup_crew_24/sentences/start_battle_12.json,"Mikko, do not mistake courage for recklessness.",mika,米高，別把勇氣誤認為魯莽。
+gup_crew_24/sentences/start_battle_13.json,"Hehe. Mika, in the end we're joining the attack.",aki,呵呵，米卡，我們終究要加入攻擊了。
+gup_crew_24/sentences/start_battle_13.json,Wrong. We're going with the wind.,mika,錯了。我們是隨風而行。
+gup_crew_24/sentences/start_battle_14.json,"Let's gooo! Everybody, advance!",mikko,衝啊！全員，前進！
+gup_crew_24/sentences/start_battle_15.json,Everybody ready? Battle is starting soon.,aki,大家準備好了嗎？戰鬥馬上開始了！
+gup_crew_24/sentences/start_battle_16.json,A good wind is blowing. Perfect day for tanks.,mika,好風正吹來。完美的戰車日。
+gup_crew_24/sentences/start_battle_17.json,I'm not sure if this battle has a specific meaning. But we trust the judgement of our friends.,mika,我不確定這場戰鬥有什麼特別意義。但我們相信朋友的判斷。
+gup_crew_24/sentences/start_battle_18.json,"Everybody, move!",mika,全員，行動！
+gup_crew_24/sentences/start_battle_19.json,"Everybody, move!",mika,全員，行動！
+gup_crew_24/sentences/start_battle_20.json,"Everybody ready? Yeah. All tanks, advance.",mika,所有人準備好了嗎？好。全車，前進。
+gup_crew_24/sentences/start_battle_21.json,It's almost time. Let's go.,mika,時間差不多了。出發吧。
+gup_crew_24/sentences/surveying_devices_damaged_01.json,"Sorry, I couldn't dodge that! Optics got damaged I think!",mikko,抱歉，我沒能閃開！光學儀器好像壞了！
+gup_crew_24/sentences/surveying_devices_damaged_02.json,"Sorry, I couldn't dodge that! Optics got damaged I think!",mikko,抱歉，我沒能閃開！光學儀器好像壞了！
+gup_crew_24/sentences/surveying_devices_damaged_03.json,Mika...the rangefinder is breaking apart.,aki,米卡……測距儀要壞掉了。
+gup_crew_24/sentences/surveying_devices_damaged_04.json,Mika...the rangefinder is breaking apart.,aki,米卡……測距儀要壞掉了。
+gup_crew_24/sentences/surveying_devices_damaged_05.json,Seems like our optics got hit.,mika,光學儀器似乎被擊中了。
+gup_crew_24/sentences/surveying_devices_damaged_06.json,Observation device hit. It's going to break soon.,mika,觀測裝置被擊中。很快就會壞掉。
+gup_crew_24/sentences/surveying_devices_damaged_07.json,Observation device has likely been damaged.,mika,觀測裝置可能已經受損。
+gup_crew_24/sentences/surveying_devices_damaged_08.json,Are enemies aiming for our observation device?,mika,敵人是在瞄準我們的觀測裝置嗎？
+gup_crew_24/sentences/surveying_devices_destroyed_01.json,Optics destroyed! We cannot see anything!,aki,光學儀器毀了！我們什麼都看不到！
+gup_crew_24/sentences/surveying_devices_destroyed_02.json,The observation device... We cannot see!,aki,觀測裝置……我們看不到東西了！
+gup_crew_24/sentences/surveying_devices_destroyed_03.json,The observation device... We need to do something quickly!,aki,觀測裝置……得趕快想辦法！
+gup_crew_24/sentences/surveying_devices_destroyed_04.json,Observation device destroyed!,aki,觀測裝置被毀了！
+gup_crew_24/sentences/surveying_devices_destroyed_04.json,Eh!? That's not good!,mikko,啥！？這可不好！
+gup_crew_24/sentences/surveying_devices_destroyed_05.json,Ah... The observation device...,aki,啊……觀測裝置……
+gup_crew_24/sentences/surveying_devices_destroyed_05.json,Don't say you cannot see!?,mikko,別說你什麼都看不到！？
+gup_crew_24/sentences/surveying_devices_destroyed_06.json,We can't see through the scope. Optics seem knocked out.,mika,無法透過瞄準鏡觀察。光學儀器似乎壞了。
+gup_crew_24/sentences/surveying_devices_destroyed_07.json,Observation device destroyed. If they aimed for that they're pretty good.,mika,觀測裝置被毀。如果他們是故意瞄準的，還真不錯。
+gup_crew_24/sentences/surveying_devices_destroyed_08.json,Seems like our observation device got destroyed.,mika,觀測裝置似乎被摧毀了。
+gup_crew_24/sentences/surveying_devices_destroyed_09.json,Observation device destroyed. We really need to fix it.,mika,觀測裝置被毀。我們真的得修好它。
+gup_crew_24/sentences/surveying_devices_destroyed_10.json,Observation device destroyed!,aki,觀測裝置被毀了！
+gup_crew_24/sentences/surveying_devices_destroyed_10.json,Eh!? That's not good!,mikko,啥！？這可不好！
+gup_crew_24/sentences/surveying_devices_functional_01.json,Mika! Observation device patched up!,aki,米卡！觀測裝置修好了！
+gup_crew_24/sentences/surveying_devices_functional_02.json,Observation device repaired!,aki,觀測裝置修好了！
+gup_crew_24/sentences/surveying_devices_functional_03.json,The observation device is somehow back working!,aki,觀測裝置不知怎麼又能用了！
+gup_crew_24/sentences/surveying_devices_functional_04.json,Observation device repaired! We can see now!,aki,觀測裝置修好了！我們現在能看到了！
+gup_crew_24/sentences/surveying_devices_functional_05.json,"Observation device emergency fix, completed!",aki,觀測裝置緊急修復，完成！
+gup_crew_24/sentences/surveying_devices_functional_06.json,Observation device patched up! With this we can see!,aki,觀測裝置修好了！這下我們能看到了！
+gup_crew_24/sentences/surveying_devices_functional_07.json,Yes. Observation device is repaired.,mika,嗯，觀測裝置修好了。
+gup_crew_24/sentences/surveying_devices_functional_08.json,"Nice, now we can finally see.",mika,很好，現在我們終於能看到了。
+gup_crew_24/sentences/surveying_devices_functional_09.json,"Observation device back up. Yes, we can see clearly.",mika,觀測裝置恢復了。嗯，我們能清楚看到。
+gup_crew_24/sentences/surveying_devices_functional_10.json,"Observation device is back working, nice.",mika,觀測裝置恢復運作，不錯。
+gup_crew_24/sentences/surveying_devices_functional_11.json,Yes. Observation device is repaired.,mika,嗯，觀測裝置修好了。
+gup_crew_24/sentences/surveying_devices_functional_12.json,"Nice, now we can finally see.",mika,很好，現在我們終於能看到了。
+gup_crew_24/sentences/surveying_devices_functional_13.json,"Observation device back up. Yes, we can see clearly.",mika,觀測裝置恢復了。嗯，我們能清楚看到。
+gup_crew_24/sentences/surveying_devices_functional_14.json,"Visibility increased. I told you, common troubles get fixed somehow.",mika,能見度提升了。我說過，常見的問題總會解決的。
+gup_crew_24/sentences/target_captured_01.json,Let's go! I'm not gonna lose this!,mikko,衝啊！我可不會放過這機會！
+gup_crew_24/sentences/target_captured_02.json,"Mika, target acquired!",aki,米卡，目標鎖定了！
+gup_crew_24/sentences/target_captured_03.json,Enemy vehicle locked on!,aki,敵方戰車鎖定了！
+gup_crew_24/sentences/target_captured_04.json,Target acquired.,mika,目標鎖定。
+gup_crew_24/sentences/target_captured_04.json,Let's gooo! Strike them down!,mikko,衝啊！擊倒他們！
+gup_crew_24/sentences/target_captured_05.json,Ready to fire! Tulta!,mika,準備開火！Tulta！
+gup_crew_24/sentences/target_captured_06.json,Let's start with this one.,mika,先從這輛開始吧。
+gup_crew_24/sentences/target_captured_07.json,Target acquired! Ready!,mika,目標鎖定！準備好了！
+gup_crew_24/sentences/target_lost_01.json,Eeh!? We lost the target!?,mikko,啊啊！？我們失去目標了！？
+gup_crew_24/sentences/target_lost_02.json,"Mika, the target disappeared...",aki,米卡，目標不見了……
+gup_crew_24/sentences/target_lost_03.json,"Target lost. Mika, which one is next?",aki,目標丟失。米卡，下一輛是哪個？
+gup_crew_24/sentences/target_lost_04.json,Target lost. Better check our surroundings.,mika,目標丟失。最好檢查一下周圍。
+gup_crew_24/sentences/target_unlocked_01.json,"We should leave that to our friends, right!",mikko,應該讓我們的隊友處理，對吧！
+gup_crew_24/sentences/target_unlocked_02.json,Tch! It can't be helped! I'll let you go this time!,mikko,嘖！沒辦法！這次就放過你！
+gup_crew_24/sentences/target_unlocked_03.json,"Got it, we should aim for another target!",aki,明白了，我們應該瞄準另一個目標！
+gup_crew_24/sentences/target_unlocked_04.json,Eh? You want to go for another vehicle?,aki,咦？你想換另一輛目標？
+gup_crew_24/sentences/target_unlocked_05.json,Leave that enemy to our teammates.,mika,把那個敵人交給隊友吧。
+gup_crew_24/sentences/target_unlocked_05.json,Oook!,aki,好！
+gup_crew_24/sentences/target_unlocked_06.json,Let's abandon this target.,mika,放棄這個目標吧。
+gup_crew_24/sentences/target_unlocked_07.json,It doesn't have to be us taking down that vehicle.,mika,不一定要我們來擊倒那輛戰車。
+gup_crew_24/sentences/target_unlocked_08.json,I don't like to chase that much. Let's look for another one.,mika,我不喜歡追得太遠。找另一個目標吧。
+gup_crew_24/sentences/target_unlocked_09.json,"We should leave that to our friends, right!",mikko,應該讓我們的隊友處理，對吧！
+gup_crew_24/sentences/target_unlocked_10.json,"Got it, we should aim for another target!",aki,明白了，我們應該瞄準另一個目標！
+gup_crew_24/sentences/target_unlocked_11.json,Eh? You want to go for another vehicle?,aki,咦？你想換另一輛目標？
+gup_crew_24/sentences/target_unlocked_12.json,Leave that enemy to our teammates.,mika,把那個敵人交給隊友吧。
+gup_crew_24/sentences/target_unlocked_12.json,Oook!,aki,好！
+gup_crew_24/sentences/target_unlocked_13.json,I don't like to chase that much. Let's look for another one.,mika,我不喜歡追得太遠。找另一個目標吧。
+gup_crew_24/sentences/track_damaged_01.json,Track hit! Bastards!,mikko,履帶被擊中！混蛋！
+gup_crew_24/sentences/track_damaged_02.json,Sorry Mika! I think the track is damaged!,mikko,抱歉，米卡！履帶好像壞了！
+gup_crew_24/sentences/track_damaged_03.json,This sound... did the track break?,aki,這個聲音……履帶壞掉了嗎？
+gup_crew_24/sentences/track_damaged_04.json,Track hit. I wonder if it's damaged.,mika,履帶被擊中。不知道有沒有壞。
+gup_crew_24/sentences/track_destroyed_01.json,"Damn! Sorry, Mika! We lost a track!",mikko,該死！抱歉，米卡！我們失去一條履帶了！
+gup_crew_24/sentences/track_destroyed_02.json,Whaaaat! Track destroyed! We cannot move!,mikko,什麼！履帶被毀！我們動不了了！
+gup_crew_24/sentences/track_destroyed_03.json,We cannot move. Quickly fix the track.,mika,動不了了。快修好履帶。
+gup_crew_24/sentences/track_destroyed_04.json,Seems like they cut our track. We cannot move.,mika,履帶似乎被打斷了。我們動不了。
+gup_crew_24/sentences/track_functional_01.json,Let's gooo! Track's up!,mikko,衝啊！履帶修好了！
+gup_crew_24/sentences/track_functional_02.json,Track's repaired!,aki,履帶修好了！
+gup_crew_24/sentences/track_functional_03.json,Track fixed.,mika,履帶修好了。
+gup_crew_24/sentences/track_functional_04.json,"Everybody, track's up.",mika,所有人，履帶修好了。
+gup_crew_24/sentences/track_functional_can_move_01.json,Track's fixed! Let's fire back!,mikko,履帶修好了！反擊吧！
+gup_crew_24/sentences/track_functional_can_move_02.json,Track's up! Don't underestimate our techs!,mikko,履帶修好了！別小看我們的技師！
+gup_crew_24/sentences/track_functional_can_move_03.json,"Mikko, track's up!",aki,米高，履帶修好了！
+gup_crew_24/sentences/track_functional_can_move_03.json,Let's gooo! Good job!,mikko,衝啊！幹得好！
+gup_crew_24/sentences/track_functional_can_move_04.json,"Track's up. Mikko, it's on you now.",mika,履帶修好了。米高，交給你了。
+gup_crew_24/sentences/track_functional_can_move_04.json,Leave it to me!,mikko,交給我！
+gup_crew_24/sentences/track_functional_can_move_05.json,Track repaired. Let's move. With the wind.,mika,履帶修好了。出發吧，隨風而行。
+gup_crew_24/sentences/track_functional_can_move_06.json,"Nice, now we can move. Let's go.",mika,很好，現在能動了。走吧。
+gup_crew_24/sentences/track_functional_can_move_07.json,Track's back up. Let's fire back.,mika,履帶恢復了。反擊吧。
+gup_crew_24/sentences/turret_rotator_damaged_01.json,"Mika, the turret ring is not working properly!",aki,米卡，砲塔環壞掉了！
+gup_crew_24/sentences/turret_rotator_damaged_02.json,Turret hit! Rotation is slower now!,aki,砲塔被擊中！現在轉動慢了！
+gup_crew_24/sentences/turret_rotator_damaged_03.json,That hit... can the turret still move?,mika,那一擊……砲塔還能動嗎？
+gup_crew_24/sentences/turret_rotator_destroyed_01.json,"Augh! Mikaaa, the turret, it's not movinggg",aki,啊啊！米卡啊啊，砲塔動不了了！
+gup_crew_24/sentences/turret_rotator_destroyed_02.json,Turret jammed! We need to fix it...!,aki,砲塔卡住了！得修好它……！
+gup_crew_24/sentences/turret_rotator_destroyed_03.json,Turret ring is not working.,mika,砲塔環壞掉了。
+gup_crew_24/sentences/turret_rotator_destroyed_04.json,Turret jammed. This is not good.,mika,砲塔卡住了。這可不好。
+gup_crew_24/sentences/turret_rotator_functional_01.json,Turret controls are back up!,aki,砲塔控制恢復了！
+gup_crew_24/sentences/turret_rotator_functional_02.json,Mika! We can rotate the turret now!,aki,米卡！我們現在能轉動砲塔了！
+gup_crew_24/sentences/vehicle_destroyed_01.json,Damn! This is it!,mikko,該死！這下完了！
+gup_crew_24/sentences/vehicle_destroyed_02.json,We're gonna win the next one for sure!,mikko,下一場我們一定會贏！
+gup_crew_24/sentences/vehicle_destroyed_03.json,Aah... We're done for.,aki,啊啊……我們完蛋了。
+gup_crew_24/sentences/vehicle_destroyed_03.json,True. But sometimes it's not all about surviving.,mika,沒錯。但有時不只是為了生存。
+gup_crew_24/sentences/vehicle_destroyed_04.json,Humans are creatures born to make mistakes. What's important is what you learn from that.,mika,人類是天生會犯錯的生物。重要的是從中學到什麼。
+gup_crew_24/sentences/vehicle_destroyed_05.json,In Sensha-do there are many times where you must keep going. But this is not one of those.,mika,在戰車道中，很多時候你必須繼續前行。但這不是其中之一。

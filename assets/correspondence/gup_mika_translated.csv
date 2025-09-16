@@ -1,0 +1,259 @@
+file_path,original_text,character,zhtw
+gup_mika/sentences/ally_killed_by_player_01.json,"Well well,  don't shoot our friendly.",mika,哎呀，別對友軍開火。
+gup_mika/sentences/ally_killed_by_player_02.json,"Oh, seems like we hit one of ours.",mika,哦，好像打中了我們自己的車。
+gup_mika/sentences/ally_killed_by_player_03.json,That one was a friendly. Let's calm down.,mika,那是友軍。冷靜一點吧。
+gup_mika/sentences/ally_killed_by_player_04.json,You've just shot our own vehicles.,mika,你剛剛打中了我們的車輛。
+gup_mika/sentences/ally_killed_by_player_05.json,"You've made a mistake, haven't you? Oh well.",mika,你犯了錯，對吧？無所謂。
+gup_mika/sentences/ammo_bay_damaged_01.json,"Oh, our ammor rack got damaged?",mika,哦，我們的彈藥架受損了？
+gup_mika/sentences/ammo_bay_damaged_02.json,Ammor rack hit? We need to avoid possible explosions.,mika,彈藥架被擊中了？得避免可能的爆炸。
+gup_mika/sentences/ammo_bay_damaged_03.json,They are aiming at our ammo rack. Seems like it suffered damaged.,mika,他們瞄準了我們的彈藥架，好像受損了。
+gup_mika/sentences/ammo_bay_damaged_04.json,Ammo rack hit? Not sure if it can  survive the next one.,mika,彈藥架被擊中了？不知道下一次還能不能撐住。
+gup_mika/sentences/armor_not_pierced_by_player_01.json,It doesn't penetrate...? That's quite an armor.,mika,沒能貫穿…？那裝甲真厚。
+gup_mika/sentences/armor_not_pierced_by_player_02.json,It seems that it's not working.,mika,好像沒用。
+gup_mika/sentences/armor_not_pierced_by_player_03.json,"Let's aim for a thinner spot next, ok?",mika,下一發瞄準薄一點的地方，好嗎？
+gup_mika/sentences/armor_not_pierced_by_player_04.json,"Oh, that bounced their armor.",mika,哦，炮彈被他們的裝甲彈開了。
+gup_mika/sentences/armor_not_pierced_by_player_05.json,That's a sturdy armor.,mika,那裝甲真堅固。
+gup_mika/sentences/armor_pierced_by_player_01.json,Confirmed penetration.,mika,確認貫穿。
+gup_mika/sentences/armor_pierced_by_player_02.json,"Yes, this one was good.",mika,嗯，這一發不錯。
+gup_mika/sentences/armor_pierced_by_player_03.json,"Nice, we penetrated them.",mika,很好，我們貫穿了他們。
+gup_mika/sentences/armor_pierced_by_player_04.json,Hehe. We have the White Witch.,mika,呵呵，我們有白色魔女。
+gup_mika/sentences/armor_pierced_by_player_05.json,As I thought. With this angle we can damage them.,mika,果然如此。這個角度能傷害他們。
+gup_mika/sentences/armor_pierced_crit_by_player_01.json,"Don't worry, this should be working.",mika,別擔心，這應該有效。
+gup_mika/sentences/armor_pierced_crit_by_player_02.json,Don't panic. We hit them properly isn't it?,mika,別慌，我們打得很好，對吧？
+gup_mika/sentences/armor_pierced_crit_by_player_03.json,Not bad. Let's keep pressuring them.,mika,不錯，繼續施壓吧。
+gup_mika/sentences/armor_ricochet_by_player_01.json,"Hmm, just a small scratch huh?",mika,嗯，只是小擦傷吧？
+gup_mika/sentences/armor_ricochet_by_player_02.json,"Oh, seems like that one bounced.",mika,哦，那一發好像被彈開了。
+gup_mika/sentences/armor_ricochet_by_player_03.json,A ricochet... Our angle was the problem.,mika,彈開了…我們的射擊角度有問題。
+gup_mika/sentences/armor_ricochet_by_player_04.json,Don't panic. We will penetrate next.,mika,別慌，下一發會貫穿。
+gup_mika/sentences/armor_ricochet_by_player_05.json,No need to feel down. Ricochets happen,mika,不用沮喪，彈開是常有的事。
+gup_mika/sentences/armor_ricochet_by_player_06.json,Ricochet? It happens when you ride tanks.,mika,彈開？駕駛戰車時常有的事。
+gup_mika/sentences/armor_ricochet_by_player_07.json,That bounced. Not like I planned. But that's Sensha-do.,mika,彈開了。不是我計劃的那樣，但這就是戰車道。
+gup_mika/sentences/armor_ricochet_by_player_08.json,"Hmm, just a small scratch huh?",mika,嗯，只是小擦傷吧？
+gup_mika/sentences/armor_ricochet_by_player_09.json,"Oh, seems like that one bounced.",mika,哦，那一發好像被彈開了。
+gup_mika/sentences/armor_ricochet_by_player_10.json,A ricochet... Our angle was the problem.,mika,彈開了…我們的射擊角度有問題。
+gup_mika/sentences/armor_ricochet_by_player_11.json,Don't panic. We will penetrate next.,mika,別慌，下一發會貫穿。
+gup_mika/sentences/armor_ricochet_by_player_12.json,No need to feel down. Ricochets happen,mika,不用沮喪，彈開是常有的事。
+gup_mika/sentences/armor_ricochet_by_player_13.json,Ricochet? It happens when you ride tanks.,mika,彈開？駕駛戰車時常有的事。
+gup_mika/sentences/armor_ricochet_by_player_14.json,That bounced. Not like I planned. But that's Sensha-do.,mika,彈開了。不是我計劃的那樣，但這就是戰車道。
+gup_mika/sentences/armor_ricochet_by_player_15.json,That bounced. Not like I planned. But that's Sensha-do.,mika,彈開了。不是我計劃的那樣，但這就是戰車道。
+gup_mika/sentences/commander_killed_01.json,...This one hurt a little.,mika,…這一下有點痛。
+gup_mika/sentences/commander_killed_02.json,After this one... Maybe I need a break...,mika,挨了這一下…或許我需要休息一下…
+gup_mika/sentences/commander_killed_03.json,No point in trying too hard.,mika,太過努力也沒什麼意義。
+gup_mika/sentences/commander_killed_04.json,I felt this impact.,mika,我感覺到這次衝擊了。
+gup_mika/sentences/commander_killed_05.json,I'm fine. No worries.,mika,我沒事，別擔心。
+gup_mika/sentences/commander_killed_06.json,No point in trying too hard. ,mika,太過努力也沒什麼意義。
+gup_mika/sentences/commander_killed_07.json,I'm fine. No worries. ,mika,我沒事，別擔心。
+gup_mika/sentences/crew_deactivated_01.json,Seems like this is the end of the line.,mika,看来這是終點了。
+gup_mika/sentences/crew_deactivated_02.json,We're done for. It happens when you ride tanks.,mika,我們完蛋了。駕駛戰車時常有的事。
+gup_mika/sentences/crew_deactivated_03.json,Losing is part of the game.,mika,失敗也是比賽的一部分。
+gup_mika/sentences/crew_deactivated_04.json,Seems like this is the end of the line.,mika,看来這是終點了。
+gup_mika/sentences/crew_deactivated_05.json,Battles are matter of fortune. Sometimes you lose even after giving all your best.,mika,戰鬥關乎命運。有時即使全力以赴也會輸。
+gup_mika/sentences/damage_by_near_explosion_by_player_01.json,"Yes, this one was close.",mika,嗯，這一發很近。
+gup_mika/sentences/damage_by_near_explosion_by_player_02.json,"We didn't hit them directly, but they are feeling the pressure now.",mika,雖然沒直接命中，但他們現在感受到壓力了。
+gup_mika/sentences/damage_by_near_explosion_by_player_03.json,Don't panic. We can just hit next one right?,mika,別慌，下一發能打中，對吧？
+gup_mika/sentences/damage_by_near_explosion_by_player_04.json,That was close. Let's try to predict the enemy movements.,mika,很近了。試著預測敵人的動向吧。
+gup_mika/sentences/damage_by_near_explosion_by_player_05.json,This one was close. May fair winds blow next time.,mika,這一發很近。願下次順風。
+gup_mika/sentences/driver_killed_01.json,Seems like the driver's seat got hit. Are we ok?,mika,駕駛座好像被擊中了。我們沒事吧？
+gup_mika/sentences/driver_killed_02.json,They're going for our driver's seat. They're good.,mika,他們瞄準了我們的駕駛座。他們很厲害。
+gup_mika/sentences/driver_killed_03.json,Driver's seat got hit. Can we still fight?,mika,駕駛座被擊中了。我們還能戰鬥嗎？
+gup_mika/sentences/driver_killed_04.json,Driver's seat suffered damaged. Our speed will slow down.,mika,駕駛座受損了。我們的速度會變慢。
+gup_mika/sentences/enemy_fire_started_by_player_01.json,Seems like we've set the enemy tank on fire.,mika,好像我們讓敵方戰車起火了。
+gup_mika/sentences/enemy_fire_started_by_player_02.json,That... seems like the enemy tank is burning.,mika,那個…敵方戰車好像在燃燒。
+gup_mika/sentences/enemy_fire_started_by_player_03.json,Enemy vehicle on fire... Maybe that was too much.,mika,敵方車輛起火了…或許有點過頭了。
+gup_mika/sentences/enemy_fire_started_by_player_04.json,Enemy vehicle on fire... We should ask for help.,mika,敵方車輛起火了…我們應該請求支援。
+gup_mika/sentences/enemy_fire_started_by_player_05.json,Did we aim for the fuel tank? Enemy tank is on fire.,mika,我們瞄準了油箱嗎？敵方戰車起火了。
+gup_mika/sentences/enemy_fire_started_by_player_06.json,Enemy tank is burning. Is that from their engine?,mika,敵方戰車在燃燒。是引擎的問題嗎？
+gup_mika/sentences/enemy_fire_started_by_player_07.json,Enemy tank is burning. Did we set their fuel on fire?,mika,敵方戰車在燃燒。我們點燃了他們的燃料嗎？
+gup_mika/sentences/enemy_fire_started_by_player_08.json,Seems like we've set the enemy tank on fire.,mika,好像我們讓敵方戰車起火了。
+gup_mika/sentences/enemy_fire_started_by_player_09.json,That... seems like the enemy tank is burning.,mika,那個…敵方戰車好像在燃燒。
+gup_mika/sentences/enemy_fire_started_by_player_10.json,Did we aim for the fuel tank? Enemy tank is on fire.,mika,我們瞄準了油箱嗎？敵方戰車起火了。
+gup_mika/sentences/enemy_fire_started_by_player_11.json,Enemy tank is burning. Is that from their engine?,mika,敵方戰車在燃燒。是引擎的問題嗎？
+gup_mika/sentences/enemy_fire_started_by_player_12.json,Enemy tank is burning. Did we set their fuel on fire?,mika,敵方戰車在燃燒。我們點燃了他們的燃料嗎？
+gup_mika/sentences/enemy_killed_01.json,"Enemy vehicle, destroyed.",mika,敵方車輛，摧毀。
+gup_mika/sentences/enemy_killed_02.json,"Yep, seems like the enemy lost one tank.",mika,嗯，敵方好像失去了一輛戰車。
+gup_mika/sentences/enemy_killed_03.json,Confirmed enemy vehicle destroyed.,mika,確認敵方車輛被摧毀。
+gup_mika/sentences/enemy_killed_04.json,"Enemy vehicle, immobilized. Seems like we took that one down.",mika,敵方車輛，無法動彈。看來我們擊倒了它。
+gup_mika/sentences/enemy_killed_05.json,Seems like one enemy vehicle is immobilized.,mika,好像一輛敵方車輛被擊毀了。
+gup_mika/sentences/enemy_killed_06.json,One enemy down. The wind is blowing for us.,mika,擊倒一輛敵車。風在為我們吹。
+gup_mika/sentences/enemy_killed_by_player_01.json,We destroyed one.,mika,我們摧毀了一輛。
+gup_mika/sentences/enemy_killed_by_player_02.json,"One enemy destroyed. Yes, this is good.",mika,擊毀一輛敵車。嗯，很好。
+gup_mika/sentences/enemy_killed_by_player_03.json,Enemy vehicle destroyed. But don't let your guard down.,mika,敵方車輛被摧毀。但別放鬆警惕。
+gup_mika/sentences/enemy_killed_by_player_04.json,Enemy vehicle silenced. Get ready for the next enemy vehicle.,mika,敵方車輛被擊毀。準備應對下一輛敵車。
+gup_mika/sentences/enemy_killed_by_player_05.json,Enemy vehicle destroyed. The wind is our friend.,mika,敵方車輛被摧毀。風是我們的盟友。
+gup_mika/sentences/enemy_killed_by_player_06.json,Enemy vehicle silenced. For a tank this must feel empty.,mika,敵方車輛被擊毀。對戰車來說，這一定很空虛。
+gup_mika/sentences/enemy_killed_by_player_07.json,We destroyed the enemy. Let's keep going.,mika,我們摧毀了敵方。繼續前進吧。
+gup_mika/sentences/enemy_killed_by_player_08.json,"Nice, destroyed. But if we let our guard down, that could be us, be careful.",mika,很好，摧毀了。但如果我們放鬆警惕，可能就是我們的下場，小心。
+gup_mika/sentences/enemy_killed_by_player_09.json,We took them down.,mika,我們擊倒了他們。
+gup_mika/sentences/enemy_killed_by_player_10.json,One vehicle destroyed. We cannot rely on Youko every single time.,mika,擊毀一輛車。我們不能每次都依賴洋子同學。
+gup_mika/sentences/engine_damaged_01.json,Engine got hit?,mika,引擎被擊中了？
+gup_mika/sentences/engine_damaged_02.json,Seems like the engine got damaged. We're slowing down.,mika,引擎好像受損了。我們的速度在減慢。
+gup_mika/sentences/engine_damaged_03.json,"Engine damaged. If they aimed for it, they're not bad.",mika,引擎受損。如果他們是故意瞄準的，還不賴。
+gup_mika/sentences/engine_damaged_04.json,"Engine hit. Don't worry, we can still move.",mika,引擎被擊中了。別擔心，我們還能動。
+gup_mika/sentences/engine_damaged_05.json,Engine damaged. We should fix it while we can still move.,mika,引擎受損。我們應該趁還能動時修好它。
+gup_mika/sentences/engine_damaged_06.json,...we cannot speed up? The engine is down?,mika,…無法加速了？引擎壞了？
+gup_mika/sentences/engine_damaged_07.json,This sound... maybe an engine damage?,mika,這個聲音…可能是引擎損壞了？
+gup_mika/sentences/engine_destroyed_01.json,Engine destroyed. We need to fix it.,mika,引擎被摧毀了。我們得修好它。
+gup_mika/sentences/engine_destroyed_02.json,Engine is knocked out. We won't be able to move.,mika,引擎被擊毀了。我們無法移動。
+gup_mika/sentences/engine_destroyed_03.json,We can't move. Let's do something before they target us.,mika,我們無法動彈。在他們再次瞄準前得做點什麼。
+gup_mika/sentences/engine_destroyed_04.json,Engine destroyed. Troubles happen in both life and Sensha-do.,mika,引擎被摧毀了。生活和戰車道都有麻煩。
+gup_mika/sentences/engine_functional_01.json,Engine repairs completed.,mika,引擎修復完成了。
+gup_mika/sentences/engine_functional_02.json,Engine repaired. Let's move.,mika,引擎修好了。出發吧。
+gup_mika/sentences/engine_functional_03.json,Engine is back. We should be able to move now.,mika,引擎恢復了。我們應該能動了。
+gup_mika/sentences/engine_functional_04.json,Engine is fixed. Let's get going.,mika,引擎修好了。走吧。
+gup_mika/sentences/fire_started_01.json,Fire detected. Quickly put it out.,mika,檢測到火災。快滅火。
+gup_mika/sentences/fire_started_02.json,"Fire? Troubles happen in Sensha-do, calm down and take care of it.",mika,火災？戰車道常有麻煩，冷靜處理吧。
+gup_mika/sentences/fire_started_03.json,This is too much. Extinguish it quickly.,mika,太過了。快滅火。
+gup_mika/sentences/fire_started_04.json,Fire? We need to put it out.,mika,火災？我們得滅火。
+gup_mika/sentences/fire_started_05.json,Fire detected. Let's put it out before it spreads.,mika,檢測到火災。在它擴散前滅火吧。
+gup_mika/sentences/fire_started_06.json,Fire? This is problematic.,mika,火災？這有點麻煩。
+gup_mika/sentences/fire_started_07.json,We're burning. Extinguish it now.,mika,我們在燃燒。現在滅火。
+gup_mika/sentences/fire_started_08.json,Fire detected. Quickly put it out.,mika,檢測到火災。快滅火。
+gup_mika/sentences/fire_stopped_01.json,Fire's out. Let's move.,mika,火滅了。走吧。
+gup_mika/sentences/fire_stopped_02.json,Fire extinguished. That's one less trouble.,mika,火滅了。少了一個麻煩。
+gup_mika/sentences/fire_stopped_03.json,Fire's out. We should be fine now.,mika,火滅了。我們應該沒事了。
+gup_mika/sentences/fire_stopped_04.json,Fire extinguished. Let's go.,mika,火滅了。出發吧。
+gup_mika/sentences/fire_stopped_05.json,Fire's out. Let's move.,mika,火滅了。走吧。
+gup_mika/sentences/fuel_tank_damaged_01.json,Fuel tank hit. This might be a problem.,mika,油箱被擊中了。這可能有問題。
+gup_mika/sentences/fuel_tank_damaged_02.json,Fuel tank damaged. We can't let it get worse.,mika,油箱受損了。不能讓情況更糟。
+gup_mika/sentences/fuel_tank_damaged_03.json,Seems like our fuel tank got hit.,mika,好像我們的油箱被擊中了。
+gup_mika/sentences/fuel_tank_damaged_04.json,Fuel tank hit. Let's try to fix it.,mika,油箱被擊中了。試著修好它吧。
+gup_mika/sentences/fuel_tank_damaged_05.json,Fuel tank damaged. Not good.,mika,油箱受損。不妙。
+gup_mika/sentences/gunner_killed_01.json,Gunner's seat hit. Are we ok?,mika,砲手座被擊中了。我們沒事吧？
+gup_mika/sentences/gunner_killed_02.json,Gunner's seat damaged. Can we keep firing?,mika,砲手座受損了。我們還能開火嗎？
+gup_mika/sentences/gunner_killed_03.json,They aimed for our gunner. That's not a bad strategy.,mika,他們瞄準了我們的砲手。這策略不錯。
+gup_mika/sentences/gunner_killed_04.json,Gunner's seat hit. We need to do something.,mika,砲手座被擊中了。我們得做點什麼。
+gup_mika/sentences/gun_damaged_01.json,Gun barrel hit. Can we still fire?,mika,主砲被擊中了。還能開火嗎？
+gup_mika/sentences/gun_damaged_02.json,Gun barrel damaged. This might be problematic.,mika,主砲受損了。這可能有問題。
+gup_mika/sentences/gun_damaged_03.json,Seems like our gun took a hit.,mika,好像我們的主砲被擊中了。
+gup_mika/sentences/gun_damaged_04.json,Gun damaged. Let's try to fix it.,mika,主砲受損了。試著修好它吧。
+gup_mika/sentences/gun_destroyed_01.json,Gun destroyed. We can't fire like this.,mika,主砲被摧毀了。這樣無法開火。
+gup_mika/sentences/gun_destroyed_02.json,Gun's out. We need to repair it.,mika,主砲壞了。我們得修好它。
+gup_mika/sentences/gun_destroyed_03.json,Gun barrel knocked out. This is not good.,mika,主砲被擊毀了。這不妙。
+gup_mika/sentences/gun_functional_01.json,Gun repaired. Let's fire.,mika,主砲修好了。開火吧。
+gup_mika/sentences/gun_functional_02.json,Gun's back. We can fight again.,mika,主砲恢復了。我們又能戰鬥了。
+gup_mika/sentences/gun_functional_03.json,Gun fixed. Let's get back to it.,mika,主砲修好了。繼續吧。
+gup_mika/sentences/gun_functional_04.json,Gun's working again. Nice.,mika,主砲又能用了。很好。
+gup_mika/sentences/loader_killed_01.json,Loader's seat hit. Are we ok?,mika,裝填座被擊中了。我們沒事吧？
+gup_mika/sentences/loader_killed_02.json,Loader's seat damaged. Can we still load shells?,mika,裝填座受損了。我們還能裝填炮彈嗎？
+gup_mika/sentences/loader_killed_03.json,They aimed for our loader. Not a bad move.,mika,他們瞄準了我們的裝填手。挺聰明的。
+gup_mika/sentences/loader_killed_04.json,Loader's seat hit. We need to act.,mika,裝填座被擊中了。我們得採取行動。
+gup_mika/sentences/radioman_killed_01.json,Radio operator's seat hit. Can we still communicate?,mika,通訊員座被擊中了。我們還能通訊嗎？
+gup_mika/sentences/radioman_killed_02.json,Radio operator hit. This might be trouble.,mika,通訊員被擊中了。這可能有麻煩。
+gup_mika/sentences/radioman_killed_03.json,They aimed for our radio operator. They're good.,mika,他們瞄準了我們的通訊員。他們很厲害。
+gup_mika/sentences/radioman_killed_04.json,Radio operator's seat damaged. We need to fix it.,mika,通訊員座受損了。我們得修好它。
+gup_mika/sentences/radio_damaged_01.json,Radio hit. Can we still communicate?,mika,無線電被擊中了。我們還能通訊嗎？
+gup_mika/sentences/radio_damaged_02.json,Radio damaged. Let's fix it.,mika,無線電受損了。修好它吧。
+gup_mika/sentences/radio_damaged_03.json,Seems like our radio took a hit.,mika,好像我們的無線電被擊中了。
+gup_mika/sentences/radio_damaged_04.json,Radio's out. We need to repair it.,mika,無線電壞了。我們得修好它。
+gup_mika/sentences/radio_damaged_05.json,Radio damaged. This is not ideal.,mika,無線電受損了。這不太理想。
+gup_mika/sentences/radio_damaged_06.json,Radio hit. Can we still communicate?,mika,無線電被擊中了。我們還能通訊嗎？
+gup_mika/sentences/start_battle_01.json,Let's go. May the wind be with us.,mika,出發吧。願風與我們同在。
+gup_mika/sentences/start_battle_02.json,Sensha-do is like a storm. You cannot predict it.,mika,戰車道如風暴，無法預測。
+gup_mika/sentences/start_battle_03.json,The wind is blowing. Let's ride it.,mika,風在吹。讓我們乘風而行。
+gup_mika/sentences/start_battle_04.json,Tulta! Here we go.,mika,Tulta！我們上吧。
+gup_mika/sentences/start_battle_05.json,The wind will guide us. Let's move.,mika,風會指引我們。出發吧。
+gup_mika/sentences/start_battle_06.json,This battle is just another moment in life.,mika,這場戰鬥只是人生中的一瞬。
+gup_mika/sentences/start_battle_07.json,Let's move with the wind. Tulta!,mika,隨風而動。Tulta！
+gup_mika/sentences/start_battle_08.json,The wind is calm today. Let's make it a good battle.,mika,今天風很平靜。讓這場戰鬥精彩吧。
+gup_mika/sentences/start_battle_09.json,In Sensha-do you learn to accept whatever comes.,mika,在戰車道中，你學會接受一切。
+gup_mika/sentences/start_battle_10.json,There are many important moments in life. I'm sure this battle is one of them.,mika,人生中有許多重要時刻。這場戰鬥肯定是其中之一。
+gup_mika/sentences/start_battle_11.json,I'm not sure if this battle has a specific meaning. But we trust the judgement of our friends.,mika,我不確定這場戰鬥有什麼特別意義。但我們相信朋友的判斷。
+gup_mika/sentences/start_battle_12.json,It's almost time. Let's go.,mika,時間差不多了。走吧。
+gup_mika/sentences/start_battle_13.json,"Everybody, move!",mika,大家，出發！
+gup_mika/sentences/start_battle_14.json,"Hehe... So, let's go.",mika,呵呵…那就出發吧。
+gup_mika/sentences/start_battle_15.json,A good wind is blowing. Perfect day for tanks.,mika,好風在吹。適合戰車的日子。
+gup_mika/sentences/start_battle_16.json,"Hehe, we're not going into battle. We're going with the wind.",mika,呵呵，我們不是去戰鬥，而是隨風而行。
+gup_mika/sentences/start_battle_17.json,You can find all the important things about life in Sensha-do.,mika,戰車道中蘊含人生的一切重要事物。
+gup_mika/sentences/start_battle_18.json,You don't have to win in Sensha-do. The result doesn't matter that much.,mika,戰車道不必非贏不可。結果沒那麼重要。
+gup_mika/sentences/start_battle_19.json,"So, let's end this quickly and go enjoy a nice sauna.",mika,那就快點結束，去享受桑拿吧。
+gup_mika/sentences/start_battle_20.json,There are many important moments in life. I'm sure this battle is one of them.,mika,人生中有許多重要時刻。這場戰鬥肯定是其中之一。
+gup_mika/sentences/start_battle_21.json,I'm not sure if this battle has a specific meaning. But we trust the judgement of our friends.,mika,我不確定這場戰鬥有什麼特別意義。但我們相信朋友的判斷。
+gup_mika/sentences/surveying_devices_damaged_01.json,Seems like our optics got hit.,mika,好像我們的觀測裝置被擊中了。
+gup_mika/sentences/surveying_devices_damaged_02.json,Are enemies aiming for our observation device?,mika,敵人是在瞄準我們的觀測裝置嗎？
+gup_mika/sentences/surveying_devices_damaged_03.json,Observation device hit?,mika,觀測裝置被擊中了？
+gup_mika/sentences/surveying_devices_damaged_04.json,Observation device got hit.,mika,觀測裝置被擊中了。
+gup_mika/sentences/surveying_devices_damaged_05.json,Observation device has likely been damaged.,mika,觀測裝置可能受損了。
+gup_mika/sentences/surveying_devices_damaged_06.json,"The observation device got hit. If this continues, it'll malfunction.",mika,觀測裝置被擊中了。如果繼續下去，它會壞掉。
+gup_mika/sentences/surveying_devices_damaged_07.json,Seems like our optics got hit.,mika,好像我們的觀測裝置被擊中了。
+gup_mika/sentences/surveying_devices_damaged_08.json,"The observation device got hit. If this continues, it'll malfunction.",mika,觀測裝置被擊中了。如果繼續下去，它會壞掉。
+gup_mika/sentences/surveying_devices_destroyed_01.json,Observation device destroyed. Now we cannot see our surroundings.,mika,觀測裝置被摧毀了。現在我們看不到周圍。
+gup_mika/sentences/surveying_devices_destroyed_02.json,Observation device destroyed. It's not good if we cannot see our surroundings.,mika,觀測裝置被摧毀了。看不到周圍可不好。
+gup_mika/sentences/surveying_devices_destroyed_03.json,Seems like our observation device got destroyed.,mika,好像我們的觀測裝置被摧毀了。
+gup_mika/sentences/surveying_devices_destroyed_04.json,Seems like our observation device got destroyed.,mika,好像我們的觀測裝置被摧毀了。
+gup_mika/sentences/surveying_devices_destroyed_05.json,Observation device destroyed. If they aimed for that they're pretty good.,mika,觀測裝置被摧毀了。如果他們是故意瞄準的，還真不錯。
+gup_mika/sentences/surveying_devices_destroyed_06.json,Observation device destroyed. If they aimed for that they're pretty good.,mika,觀測裝置被摧毀了。如果他們是故意瞄準的，還真不錯。
+gup_mika/sentences/surveying_devices_destroyed_07.json,We can't see through the scope. Optics seem knocked out.,mika,無法通過瞄準鏡看清。觀測裝置好像壞了。
+gup_mika/sentences/surveying_devices_destroyed_08.json,We can't see through the scope. Optics seem knocked out.,mika,無法通過瞄準鏡看清。觀測裝置好像壞了。
+gup_mika/sentences/surveying_devices_destroyed_09.json,Observation device destroyed. We really need to fix it.,mika,觀測裝置被摧毀了。我們真的得修好它。
+gup_mika/sentences/surveying_devices_destroyed_10.json,Observation device destroyed. Darkness awaits in both life and Sensha-do.,mika,觀測裝置被摧毀了。生活和戰車道都將迎來黑暗。
+gup_mika/sentences/surveying_devices_functional_01.json,"Observation device is back working, nice.",mika,觀測裝置恢復運作了，很好。
+gup_mika/sentences/surveying_devices_functional_02.json,Yes. Observation device is repaired.,mika,嗯，觀測裝置修好了。
+gup_mika/sentences/surveying_devices_functional_03.json,"Nice, now we can finally see.",mika,很好，現在我們終於能看見了。
+gup_mika/sentences/surveying_devices_functional_04.json,"Observation device back up. Yes, we can see clearly.",mika,觀測裝置恢復了。嗯，我們能看清楚了。
+gup_mika/sentences/surveying_devices_functional_05.json,"Visibility increased. I told you, common troubles get fixed somehow.",mika,能見度提高了。我說過，普通的麻煩總會解決。
+gup_mika/sentences/surveying_devices_functional_06.json,"Observation device is back working, nice.",mika,觀測裝置恢復運作了，很好。
+gup_mika/sentences/surveying_devices_functional_07.json,Yes. Observation device is repaired.,mika,嗯，觀測裝置修好了。
+gup_mika/sentences/surveying_devices_functional_08.json,"Nice, now we can finally see.",mika,很好，現在我們終於能看見了。
+gup_mika/sentences/surveying_devices_functional_09.json,"Observation device back up. Yes, we can see clearly.",mika,觀測裝置恢復了。嗯，我們能看清楚了。
+gup_mika/sentences/surveying_devices_functional_10.json,"Visibility increased. I told you, common troubles get fixed somehow.",mika,能見度提高了。我說過，普通的麻煩總會解決。
+gup_mika/sentences/surveying_devices_functional_11.json,"Observation device is back working, nice.",mika,觀測裝置恢復運作了，很好。
+gup_mika/sentences/surveying_devices_functional_12.json,Yes. Observation device is repaired.,mika,嗯，觀測裝置修好了。
+gup_mika/sentences/surveying_devices_functional_13.json,"Nice, now we can finally see.",mika,很好，現在我們終於能看見了。
+gup_mika/sentences/surveying_devices_functional_14.json,"Observation device back up. Yes, we can see clearly.",mika,觀測裝置恢復了。嗯，我們能看清楚了。
+gup_mika/sentences/target_captured_01.json,Target acquired! Ready!,mika,目標鎖定！準備好了！
+gup_mika/sentences/target_captured_02.json,"So, let's take down this one.",mika,那就擊倒這一個吧。
+gup_mika/sentences/target_captured_03.json,Let's start with this one.,mika,先從這個開始吧。
+gup_mika/sentences/target_captured_04.json,Ready to fire! Tulta!,mika,準備開火！Tulta！
+gup_mika/sentences/target_captured_05.json,"So, our target is on our line of sight.",mika,目標在我們的視線範圍內。
+gup_mika/sentences/target_captured_06.json,"Nice, now we just have to attack.",mika,很好，現在只要進攻了。
+gup_mika/sentences/target_captured_07.json,"Enemy locked. Everybody, ready to fire?",mika,敵人鎖定。大家，準備開火了嗎？
+gup_mika/sentences/target_lost_01.json,"Oh, the target disappeared?",mika,哦，目標消失了？
+gup_mika/sentences/target_lost_02.json,"Target lost. Don't worry, look for the next one.",mika,目標遺失了。別擔心，找下一個吧。
+gup_mika/sentences/target_lost_03.json,Target lost. Better check our surroundings.,mika,目標遺失了。最好檢查一下周圍。
+gup_mika/sentences/target_lost_04.json,Target gone. Prepare for the next one.,mika,目標不見了。準備下一個。
+gup_mika/sentences/target_unlocked_01.json,We will look for another enemy.,mika,我們去找另一個敵人。
+gup_mika/sentences/target_unlocked_02.json,Better to change our target.,mika,最好換個目標。
+gup_mika/sentences/target_unlocked_03.json,Aming at a different target.May also be an option.,mika,瞄準另一個目標，也是一個選擇。
+gup_mika/sentences/target_unlocked_04.json,Let's abandon this target.,mika,放棄這個目標吧。
+gup_mika/sentences/target_unlocked_05.json,It doesn't have to be us taking down that vehicle.,mika,不一定要我們擊倒那輛車。
+gup_mika/sentences/target_unlocked_06.json,No point in chasing it that much. Let's look for another one.,mika,追得太過沒意義。找下一個吧。
+gup_mika/sentences/target_unlocked_07.json,Leave that enemy to our teammates.,mika,把那個敵人留給隊友吧。
+gup_mika/sentences/target_unlocked_08.json,We will look for another enemy.,mika,我們去找另一個敵人。
+gup_mika/sentences/target_unlocked_09.json,Better to change our target.,mika,最好換個目標。
+gup_mika/sentences/target_unlocked_10.json,Aming at a different target.May also be an option.,mika,瞄準另一個目標，也是一個選擇。
+gup_mika/sentences/target_unlocked_11.json,Let's abandon this target.,mika,放棄這個目標吧。
+gup_mika/sentences/target_unlocked_12.json,It doesn't have to be us taking down that vehicle.,mika,不一定要我們擊倒那輛車。
+gup_mika/sentences/target_unlocked_13.json,No point in chasing it that much. Let's look for another one.,mika,追得太過沒意義。找下一個吧。
+gup_mika/sentences/track_damaged_01.json,Track hit. I wonder if it's damaged.,mika,履帶被擊中了。不知道有沒有損壞。
+gup_mika/sentences/track_damaged_02.json,Track damaged. Better to avoid additional hits.,mika,履帶受損了。最好避免再被擊中。
+gup_mika/sentences/track_damaged_03.json,"Track damaged. It's fine, we can still move.",mika,履帶受損了。沒關係，我們還能動。
+gup_mika/sentences/track_damaged_04.json,Track hit. Can they still keep up?,mika,履帶被擊中了。還能繼續前進嗎？
+gup_mika/sentences/track_destroyed_01.json,We cannot move. Quickly fix the track.,mika,我們無法移動。快修好履帶。
+gup_mika/sentences/track_destroyed_02.json,We're immobilized. It'll be rough if we got pinned down right here.,mika,我們被困住了。如果在這被壓制就麻煩了。
+gup_mika/sentences/track_destroyed_03.json,They're immobilizing us. But we can deal with it.,mika,他們讓我們動彈不得。但我們能應對。
+gup_mika/sentences/track_destroyed_04.json,Seems like they cut our track. We cannot move.,mika,好像他們打斷了我們的履帶。我們無法移動。
+gup_mika/sentences/track_functional_01.json,"Look, we fixed the track.",mika,看，我們修好了履帶。
+gup_mika/sentences/track_functional_02.json,Track fixed.,mika,履帶修好了。
+gup_mika/sentences/track_functional_03.json,"Everybody, track's up.",mika,大家，履帶恢復了。
+gup_mika/sentences/track_functional_04.json,Track repairs are finished.,mika,履帶修復完成了。
+gup_mika/sentences/track_functional_can_move_01.json,Track fixed. We can move.,mika,履帶修好了。我們能動了。
+gup_mika/sentences/track_functional_can_move_02.json,"Nice, track's back up. Let's start moving.",mika,很好，履帶恢復了。開始移動吧。
+gup_mika/sentences/track_functional_can_move_03.json,Track repaired. Let's move. With the wind.,mika,履帶修好了。出發吧，隨風而行。
+gup_mika/sentences/track_functional_can_move_04.json,Track's up. Let's go.,mika,履帶恢復了。走吧。
+gup_mika/sentences/track_functional_can_move_05.json,"Nice, now we can move. Let's go.",mika,很好，現在能動了。走吧。
+gup_mika/sentences/track_functional_can_move_06.json,"Yeah, we can move now. In life and Sensha-do, common troubles get fixed somehow.",mika,嗯，現在能動了。生活和戰車道中，普通問題總會解決。
+gup_mika/sentences/track_functional_can_move_07.json,Track's back up. Let's fire back.,mika,履帶恢復了。反擊吧。
+gup_mika/sentences/turret_rotator_damaged_01.json,Turret ring got hit. Hydraulics might be damaged.,mika,砲塔環被擊中了。液壓系統可能受損。
+gup_mika/sentences/turret_rotator_damaged_02.json,That hit... can the turret still move?,mika,那一擊…砲塔還能動嗎？
+gup_mika/sentences/turret_rotator_damaged_03.json,Turret hit. Seems like the controls are damaged.,mika,砲塔被擊中了。控制系統好像受損了。
+gup_mika/sentences/turret_rotator_destroyed_01.json,Turret ring is not working.,mika,砲塔環壞了。
+gup_mika/sentences/turret_rotator_destroyed_02.json,Turret ring destroyed.,mika,砲塔環被摧毀了。
+gup_mika/sentences/turret_rotator_destroyed_03.json,Turret got damaged badly. We cannot turn it for a while.,mika,砲塔嚴重受損。暫時無法轉動。
+gup_mika/sentences/turret_rotator_destroyed_04.json,Turret jammed. This is not good.,mika,砲塔卡住了。這不妙。
+gup_mika/sentences/turret_rotator_functional_01.json,We fixed the turret controls.,mika,我們修好了砲塔控制系統。
+gup_mika/sentences/turret_rotator_functional_02.json,"Even if it was an emergency repair, the turret should be able to turn now.",mika,即使是緊急修復，砲塔現在應該能轉動了。
+gup_mika/sentences/vehicle_destroyed_01.json,Seems like this is the end. Let's pray for our friends' good efforts in combat.,mika,看来這是終點了。為隊友的努力祈禱吧。
+gup_mika/sentences/vehicle_destroyed_02.json,Getting destroyed doesn't mean you lost. But the majority of people doesn't understand that.,mika,被摧毀不代表你輸了。但大多數人不明白這點。
+gup_mika/sentences/vehicle_destroyed_03.json,Humans are creatures born to make mistakes. What's important is what you learn from that.,mika,人類是會犯錯的生物。重要的是你從中學到什麼。
+gup_mika/sentences/vehicle_destroyed_04.json,In Sensha-do there are many times where you must keep going. But this is not one of those.,mika,戰車道中有許多必須堅持的時刻。但這不是其中之一。
+gup_mika/sentences/vehicle_destroyed_05.json,Battles are matter of fortune. Sometimes you lose even after giving all your best.,mika,戰鬥關乎命運。有時即使全力以赴也會輸。

@@ -1,0 +1,301 @@
+file_path,original_text,character,zhtw
+gup_crew_25/sentences/ally_killed_by_player_01.json,Do pay more attention. That was an ally you hit.,darjeeling,請多加注意，你擊中的是友軍。
+gup_crew_25/sentences/ally_killed_by_player_02.json,Um...that one seems to be one of our own...,orange_pekoe,嗯……那好像是我們的友軍……
+gup_crew_25/sentences/ally_killed_by_player_03.json,Look closely. That is an ally.,assam,仔細看，那是友軍。
+gup_crew_25/sentences/ally_killed_by_player_04.json,Nothing could be more inelegant than fighting among ourselves.,darjeeling,沒有比自相殞地更不雅的事了。
+gup_crew_25/sentences/ally_killed_by_player_05.json,"Erm, I believe that is an ally...",orange_pekoe,呃……我相信那是友軍……
+gup_crew_25/sentences/ammo_bay_damaged_01.json,The ammo rack has been damaged.,orange_pekoe,彈藥架受損了。
+gup_crew_25/sentences/ammo_bay_damaged_02.json,Eek!...The ammo rack has been hit.,orange_pekoe,呀！……彈藥架被擊中了！
+gup_crew_25/sentences/ammo_bay_damaged_03.json,It appears they are targeting the ammo rack.,darjeeling,敵人似乎在瞄準我們的彈藥架。
+gup_crew_25/sentences/ammo_bay_damaged_04.json,The ammo rack is taking fire. Stay calm and attend to the matter.,darjeeling,彈藥架遭到攻擊。保持冷靜，處理這件事。
+gup_crew_25/sentences/armor_not_pierced_by_player_01.json,It seems you must pierce its armor with something else.,darjeeling,看來得用其他方式穿透它的裝甲。
+gup_crew_25/sentences/armor_not_pierced_by_player_02.json,You should try aiming for its weak spot next.,darjeeling,試著瞄準它的弱點。
+gup_crew_25/sentences/armor_not_pierced_by_player_02.json,Roger that.,assam,收到。
+gup_crew_25/sentences/armor_not_pierced_by_player_03.json,"Unlike a scone, this armor is not so easily torn.",darjeeling,不像司康餅，這裝甲可沒那麼容易被撕裂。
+gup_crew_25/sentences/armor_not_pierced_by_player_04.json,"Penetration failed. According to the data, our chance of penetrating that spot is low.",assam,穿透失敗。根據數據，那個部位的穿透機率很低。
+gup_crew_25/sentences/armor_not_pierced_by_player_05.json,It doesn't seem like we've penetrated their armor.,orange_pekoe,似乎沒能穿透他們的裝甲。
+gup_crew_25/sentences/armor_pierced_by_player_01.json,"Just as in my data, we've penetrated their armor.",assam,如我的數據預測，我們穿透了他們的裝甲。
+gup_crew_25/sentences/armor_pierced_by_player_02.json,They are taking damage.,assam,敵方正在受損。
+gup_crew_25/sentences/armor_pierced_by_player_03.json,We have successfully penetrated their armor.,orange_pekoe,我們成功穿透了他們的裝甲。
+gup_crew_25/sentences/armor_pierced_by_player_04.json,"According to the data, that was their weak spot.",assam,根據數據，那是他們的弱點。
+gup_crew_25/sentences/armor_pierced_by_player_04.json,Hehehe... That pierced their armor.,darjeeling,呵呵……那一擊穿透了他們的裝甲。
+gup_crew_25/sentences/armor_pierced_by_player_05.json,"Have you heard the English saying, ""All's fair in love and war""?",darjeeling,你聽過英國諺語「愛與戰爭無所禁忌」嗎？
+gup_crew_25/sentences/armor_pierced_crit_by_player_01.json,"You have damaged the enemy tank. All is fair in love and war, you know.",darjeeling,你擊傷了敵方戰車。愛與戰爭無所禁忌，你知道的。
+gup_crew_25/sentences/armor_pierced_crit_by_player_02.json,They are hit. It's working.,assam,敵方被擊中。有效果。
+gup_crew_25/sentences/armor_pierced_crit_by_player_03.json,"We've hit them, but...",orange_pekoe,我們擊中了他們，但是……
+gup_crew_25/sentences/armor_ricochet_by_player_01.json,It seems that one's ricocheted.,orange_pekoe,好像彈開了。
+gup_crew_25/sentences/armor_ricochet_by_player_02.json,Huh!? Ricochet!?,orange_pekoe,咦！？彈開了！？
+gup_crew_25/sentences/armor_ricochet_by_player_02.json,Do not worry. Just make the next one count.,darjeeling,別擔心，讓下一擊命中。
+gup_crew_25/sentences/armor_ricochet_by_player_03.json,"Your shot bounced, but do not fret. Simply relax and load the next shell.",darjeeling,你的炮彈彈開了，別急，放鬆點，裝填下一發。
+gup_crew_25/sentences/armor_ricochet_by_player_03.json,Got it!,orange_pekoe,明白了！
+gup_crew_25/sentences/armor_ricochet_by_player_04.json,That shot ricocheted. Try aiming for their weak spot next time.,darjeeling,那一發彈開了。下次試著瞄準他們的弱點。
+gup_crew_25/sentences/armor_ricochet_by_player_05.json,Ricochet confirmed.,assam,確認彈開。
+gup_crew_25/sentences/armor_ricochet_by_player_06.json,Penetration failed. That one bounced.,assam,穿透失敗。那發彈開了。
+gup_crew_25/sentences/armor_ricochet_by_player_06.json,Shots will ricochet from time to time. Stay calm and focus on the next one.,darjeeling,炮彈偶爾會彈開。保持冷靜，專注下一發。
+gup_crew_25/sentences/armor_ricochet_by_player_07.json,We've hit them but didn't penetrate their armor.,assam,我們擊中了，但沒穿透他們的裝甲。
+gup_crew_25/sentences/armor_ricochet_by_player_08.json,That shot bounced. Perhaps your firing angle was off.,darjeeling,那一發彈開了。或許是射擊角度不對。
+gup_crew_25/sentences/armor_ricochet_by_player_08.json,I'll collect the data on the ricochet angle.,assam,我會收集關於彈開角度的數據。
+gup_crew_25/sentences/armor_ricochet_by_player_09.json,"According to the data, that one should have penetrated them...",assam,根據數據，那一發應該能穿透他們……
+gup_crew_25/sentences/armor_ricochet_by_player_10.json,You almost had them.,darjeeling,你差點就擊中了。
+gup_crew_25/sentences/armor_ricochet_by_player_11.json,Ricochet. Perhaps the angle wasn't right.,assam,彈開了。或許角度不對。
+gup_crew_25/sentences/armor_ricochet_by_player_12.json,The shell is landing. Let's make the next one count.,orange_pekoe,炮彈落地了。讓下一發命中吧。
+gup_crew_25/sentences/armor_ricochet_by_player_13.json,Their armor deflected it.,darjeeling,他們的裝甲把炮彈彈開了。
+gup_crew_25/sentences/armor_ricochet_by_player_14.json,Ricochet. I'll load the next shell shortly.,orange_pekoe,彈開了。我馬上裝填下一發。
+gup_crew_25/sentences/armor_ricochet_by_player_15.json,It seems the shell has bounced. Perhaps we should adjust the angle.,orange_pekoe,炮彈似乎彈開了。或許該調整角度。
+gup_crew_25/sentences/commander_killed_01.json,Darjeeling-sama! Are you alright?,orange_pekoe,大吉嶺大人！您沒事吧？
+gup_crew_25/sentences/commander_killed_02.json,Darjeeling! Are you okay?,assam,大吉嶺！你還好嗎？
+gup_crew_25/sentences/commander_killed_02.json,Ungh... I think I need to take a short rest...,darjeeling,呃……我想我需要稍作休息……
+gup_crew_25/sentences/commander_killed_03.json,Darjeeling! Are you hurt?,assam,大吉嶺！你受傷了嗎？
+gup_crew_25/sentences/commander_killed_04.json,This enemy is stronger than I gave them credit for!,darjeeling,這個敵人比我想的還要強！
+gup_crew_25/sentences/commander_killed_05.json,Ungh... I most definitely felt that blow!,darjeeling,呃……我確實感受到那一擊了！
+gup_crew_25/sentences/commander_killed_06.json,"They are giving us quite the fight... However, that stops now!",darjeeling,他們給了我們相當的挑戰……但現在得結束了！
+gup_crew_25/sentences/commander_killed_07.json,"Well done... However, I can still fight on!",darjeeling,幹得好……不過，我還能繼續戰鬥！
+gup_crew_25/sentences/crew_deactivated_01.json,They've got the better of us...,orange_pekoe,他們占了上風……
+gup_crew_25/sentences/crew_deactivated_02.json,Seems like this is as far as we go...,assam,似乎我們只能到此為止了……
+gup_crew_25/sentences/crew_deactivated_03.json,I shall not forget this defeat.,darjeeling,我不會忘記這場敗仗。
+gup_crew_25/sentences/crew_deactivated_04.json,"Have we been defeated? Worry not, for we simply need to lead an organized retreat.",darjeeling,我們被擊敗了？別擔心，我們只需有條不紊地撤退。
+gup_crew_25/sentences/crew_deactivated_05.json,Stay elegant even in defeat. That is the St. Gloriana way.,darjeeling,即便失敗，也要保持優雅，這是聖葛羅莉安娜的風範。
+gup_crew_25/sentences/damage_by_near_explosion_by_player_01.json,That was so close.,orange_pekoe,好險，差一點。
+gup_crew_25/sentences/damage_by_near_explosion_by_player_02.json,The next one will be a direct hit.,assam,下一發會直接命中。
+gup_crew_25/sentences/damage_by_near_explosion_by_player_03.json,Do you think you can land your next shot?,darjeeling,你認為下一發能命中嗎？
+gup_crew_25/sentences/damage_by_near_explosion_by_player_03.json,"Yes, the data has been taken.",assam,是的，數據已記錄。
+gup_crew_25/sentences/damage_by_near_explosion_by_player_04.json,That was close.,darjeeling,好險。
+gup_crew_25/sentences/damage_by_near_explosion_by_player_05.json,You just missed a direct hit.,darjeeling,你差點就直接命中了。
+gup_crew_25/sentences/driver_killed_01.json,It seems they hit the driver's seat. I need a status report.,darjeeling,敵人似乎擊中了駕駛位。我需要狀況報告。
+gup_crew_25/sentences/driver_killed_02.json,The diver's seat has been hit. Our mobility is reduced.,assam,駕駛位被擊中。我們的機動性降低了。
+gup_crew_25/sentences/driver_killed_03.json,The driver's seat is hit. I will check on it.,orange_pekoe,駕駛位被擊中。我去檢查。
+gup_crew_25/sentences/driver_killed_04.json,The driver's seat has been hit. Be ready for reduced mobility.,darjeeling,駕駛位被擊中。準備應對機動性降低。
+gup_crew_25/sentences/enemy_fire_started_by_player_01.json,The enemy tank is in flames.,darjeeling,敵方戰車起火了。
+gup_crew_25/sentences/enemy_fire_started_by_player_02.json,The enemy tank seems to be on fire.,orange_pekoe,敵方戰車好像起火了。
+gup_crew_25/sentences/enemy_fire_started_by_player_03.json,The enemy tank is on fire.,darjeeling,敵方戰車在燃燒。
+gup_crew_25/sentences/enemy_fire_started_by_player_04.json,The enemy tank is catching fire. Have we taken it a little too far...?,orange_pekoe,敵方戰車起火了。我們是不是有點過火了……？
+gup_crew_25/sentences/enemy_fire_started_by_player_05.json,The enemy tank is on fire. Luck seems to have taken our side.,orange_pekoe,敵方戰車起火了。運氣似乎站在我們這邊。
+gup_crew_25/sentences/enemy_fire_started_by_player_06.json,The enemy tank's in flames. Their fuel tank seems to have caught fire.,assam,敵方戰車在燃燒。看來是他們的燃料箱著火了。
+gup_crew_25/sentences/enemy_fire_started_by_player_07.json,That is quite the fire burning there.,darjeeling,那火焰燒得真旺。
+gup_crew_25/sentences/enemy_fire_started_by_player_08.json,The enemy tank has been set ablaze. Should we push further?,assam,敵方戰車被點燃了。我們要繼續進攻嗎？
+gup_crew_25/sentences/enemy_fire_started_by_player_09.json,"Oh, would you look at that fire. Perhaps we should have taken it easier on them.",darjeeling,哦，看那火焰。或許我們該對他們手下留情。
+gup_crew_25/sentences/enemy_fire_started_by_player_10.json,The enemy tank has caught fire.,assam,敵方戰車起火了。
+gup_crew_25/sentences/enemy_fire_started_by_player_11.json,That is quite the blaze.,darjeeling,那火勢真不小。
+gup_crew_25/sentences/enemy_fire_started_by_player_12.json,I see fire in the enemy tank.,assam,我看到敵方戰車起火了。
+gup_crew_25/sentences/enemy_killed_01.json,I can confirm that the enemy tank has been destroyed.,orange_pekoe,我確認敵方戰車已被摧毀。
+gup_crew_25/sentences/enemy_killed_02.json,Enemy tank disabled.,assam,敵方戰車已無力化。
+gup_crew_25/sentences/enemy_killed_03.json,The enemy tank has been destroyed.,assam,敵方戰車已被摧毀。
+gup_crew_25/sentences/enemy_killed_04.json,Enemy tank destroyed. Keep up the good work.,darjeeling,敵方戰車摧毀。繼續保持。
+gup_crew_25/sentences/enemy_killed_05.json,That is one less enemy to worry about.,darjeeling,少了一個敵人需要擔心。
+gup_crew_25/sentences/enemy_killed_06.json,I have confirmed the destruction of a single enemy tank.,darjeeling,我確認一輛敵方戰車已被摧毀。
+gup_crew_25/sentences/enemy_killed_by_player_01.json,We did it! We've taken out the enemy tank!,orange_pekoe,成功了！我們擊毀了敵方戰車！
+gup_crew_25/sentences/enemy_killed_by_player_02.json,This battle will be over before I can have my second cup of tea.,darjeeling,這場戰鬥會在我喝第二杯茶前結束。
+gup_crew_25/sentences/enemy_killed_by_player_03.json,"Well, so much for that particular scone.",darjeeling,嗯，那塊司康餅算是完了。
+gup_crew_25/sentences/enemy_killed_by_player_03.json,"Now, we need only to enjoy the taste.",orange_pekoe,現在，我們只需享受這滋味。
+gup_crew_25/sentences/enemy_killed_by_player_04.json,Hehehe... Farewell then.,darjeeling,呵呵……那就再會了。
+gup_crew_25/sentences/enemy_killed_by_player_05.json,Enemy tank destroyed. Assam's reliance on data has its benefits on occasion.,darjeeling,敵方戰車摧毀。阿薩姆對數據的依賴偶爾也有回報。
+gup_crew_25/sentences/enemy_killed_by_player_06.json,Enemy tank destroyed!,assam,敵方戰車摧毀！
+gup_crew_25/sentences/enemy_killed_by_player_06.json,"Victories depend on the turn of fortune, you see.",darjeeling,勝利取決於運氣的轉向，你明白的。
+gup_crew_25/sentences/enemy_killed_by_player_07.json,We have eliminated the enemy tank.,assam,我們消滅了敵方戰車。
+gup_crew_25/sentences/enemy_killed_by_player_08.json,Enemy tank destroyed. Time to move on to the next target.,darjeeling,敵方戰車摧毀。準備轉向下一個目標。
+gup_crew_25/sentences/enemy_killed_by_player_08.json,Copy that.,assam,收到。
+gup_crew_25/sentences/enemy_killed_by_player_09.json,We did it! Enemy tank destroyed!,orange_pekoe,成功了！敵方戰車摧毀！
+gup_crew_25/sentences/enemy_killed_by_player_10.json,There is no place for carelessness in our elegant Sensha-do.,darjeeling,我們優雅的戰車道不容絲毫疏忽。
+gup_crew_25/sentences/enemy_killed_by_player_10.json,We stay focused for the next one.,darjeeling,我們專注於下一個目標。
+gup_crew_25/sentences/enemy_killed_by_player_10.json,Got it!,orange_pekoe,明白了！
+gup_crew_25/sentences/engine_damaged_01.json,The engine is taking fire. Give me a status report.,darjeeling,引擎遭到攻擊。給我狀況報告。
+gup_crew_25/sentences/engine_damaged_02.json,The engine has taken a hit. Could I have you fix it?,darjeeling,引擎被擊中了。請修復它。
+gup_crew_25/sentences/engine_damaged_02.json,Yes!,orange_pekoe,好的！
+gup_crew_25/sentences/engine_damaged_03.json,The engine has been damaged. Be ready for reduced mobility.,assam,引擎受損。準備應對機動性降低。
+gup_crew_25/sentences/engine_damaged_04.json,The engine has taken a hit. Remain calm though; you can still move.,darjeeling,引擎被擊中。保持冷靜，你仍能移動。
+gup_crew_25/sentences/engine_damaged_05.json,The engine is damaged. Remain calm and see to its repairs.,darjeeling,引擎受損。保持冷靜，進行修復。
+gup_crew_25/sentences/engine_damaged_06.json,"They are aiming for the engine. Careful, your mobility has been reduced.",darjeeling,他們在瞄準引擎。小心，機動性已降低。
+gup_crew_25/sentences/engine_damaged_07.json,That noise... It sounds like engine damage. Proceed carefully.,darjeeling,那聲音……聽起來像引擎受損。小心前進。
+gup_crew_25/sentences/engine_destroyed_01.json,The engine is destroyed. We cannot move unless it's repaired.,assam,引擎被毀。除非修復，否則我們無法移動。
+gup_crew_25/sentences/engine_destroyed_02.json,We can't move. Repair the engine quickly!,assam,動不了了。快修引擎！
+gup_crew_25/sentences/engine_destroyed_03.json,The engine is destroyed. You must see to its repairs immediately.,darjeeling,引擎被毀。立即進行修復。
+gup_crew_25/sentences/engine_destroyed_04.json,The engine is broken. Let's stay calm and repair it.,orange_pekoe,引擎壞了。保持冷靜，修復它。
+gup_crew_25/sentences/engine_functional_01.json,The engine repairs are complete. You should be able to move again.,darjeeling,引擎修復完成。你應該能再次移動了。
+gup_crew_25/sentences/engine_functional_02.json,"The engine repairs are completed. However, our mobility is still reduced.",assam,引擎修復完成。但機動性仍受限。
+gup_crew_25/sentences/engine_functional_03.json,The engine is up and running again. Mobility should be restored now.,darjeeling,引擎重新運作。機動性應已恢復。
+gup_crew_25/sentences/engine_functional_04.json,The engine has been repaired. We can move now.,orange_pekoe,引擎修好了。我們現在能移動了。
+gup_crew_25/sentences/fire_started_01.json,A fire has started. Remain calm while you put it out.,darjeeling,起火了。保持冷靜，滅火。
+gup_crew_25/sentences/fire_started_02.json,Can I ask you to put it out?,darjeeling,能否請你滅火？
+gup_crew_25/sentences/fire_started_02.json,Got it.,assam,明白了。
+gup_crew_25/sentences/fire_started_03.json,Watch out for that fire. Make sure to extinguish it quickly.,darjeeling,注意火勢。確保迅速滅火。
+gup_crew_25/sentences/fire_started_04.json,We've caught fire. Put it out quickly.,assam,我們起火了。快滅火。
+gup_crew_25/sentences/fire_started_05.json,Ow! A fire has broken out!,orange_pekoe,哎呀！火燒起來了！
+gup_crew_25/sentences/fire_started_06.json,A fire has started. Let's work together to put it out.,orange_pekoe,起火了。我們一起滅火吧。
+gup_crew_25/sentences/fire_started_07.json,A fire has erupted. Put it out as swiftly as possible.,darjeeling,火勢爆發。盡快滅火。
+gup_crew_25/sentences/fire_started_08.json,We have a fire on our hands. Prepare to respond at once.,darjeeling,我們遇到火情。立即準備應對。
+gup_crew_25/sentences/fire_stopped_01.json,The fire has been put out.,orange_pekoe,火已撲滅。
+gup_crew_25/sentences/fire_stopped_02.json,We've put the fire out.,assam,我們把火滅了。
+gup_crew_25/sentences/fire_stopped_03.json,The fire is out. Return to your stations.,darjeeling,火已滅。回到崗位。
+gup_crew_25/sentences/fire_stopped_04.json,The fire has been extinguished!,orange_pekoe,火已撲滅！
+gup_crew_25/sentences/fire_stopped_04.json,Thank you Pekoe.,darjeeling,謝謝你，白毫。
+gup_crew_25/sentences/fire_stopped_05.json,You extinguished the fire. That is a relief.,darjeeling,你滅了火。真是鬆一口氣。
+gup_crew_25/sentences/fuel_tank_damaged_01.json,The fuel tank has taken damage. Watch for fires.,darjeeling,燃料箱受損。注意火勢。
+gup_crew_25/sentences/fuel_tank_damaged_02.json,They hit the fuel tank. I do not think it can take another.,darjeeling,燃料箱被擊中。恐怕再也承受不住了。
+gup_crew_25/sentences/fuel_tank_damaged_03.json,The fuel tank has been damaged. The chances of catching fire have increased.,assam,燃料箱受損。起火機率增加了。
+gup_crew_25/sentences/fuel_tank_damaged_04.json,The fuel tank has been hit. The risk of catching fire is more likely.,assam,燃料箱被擊中。起火風險更高了。
+gup_crew_25/sentences/fuel_tank_damaged_05.json,The fuel tank has taken a hit. Let's watch out for a fire.,orange_pekoe,燃料箱被擊中。注意火勢。
+gup_crew_25/sentences/gunner_killed_01.json,The gunner seat is taking fire. Status report!,darjeeling,砲手位置遭到攻擊。狀況報告！
+gup_crew_25/sentences/gunner_killed_02.json,"Assam, are you alright?",darjeeling,阿薩姆，你沒事吧？
+gup_crew_25/sentences/gunner_killed_03.json,Ouch! They are aiming for the gunner's seat...,assam,哎唷！他們在瞄準砲手位置……
+gup_crew_25/sentences/gunner_killed_04.json,Gunner's seat hit. Well played...,assam,砲手位置被擊中。打得好……
+gup_crew_25/sentences/gun_damaged_01.json,The gun has been damaged. Its accuracy has decreased.,assam,主砲受損。準確度下降了。
+gup_crew_25/sentences/gun_damaged_02.json,Gun damaged. We cannot aim properly.,assam,主砲受損。我們無法精準瞄準。
+gup_crew_25/sentences/gun_damaged_03.json,That sounded like the gun taking damage. Be mindful of its reduced accuracy.,darjeeling,那聲音像是主砲受損。注意準確度下降。
+gup_crew_25/sentences/gun_damaged_04.json,The gun seems to have taken damage.,orange_pekoe,主砲好像受損了。
+gup_crew_25/sentences/gun_destroyed_01.json,The gun has been destroyed. We cannot shoot.,assam,主砲被毀。我們無法開火。
+gup_crew_25/sentences/gun_destroyed_02.json,They've destroyed the gun. We are unable to shoot.,assam,主砲被他們摧毀。我們無法射擊。
+gup_crew_25/sentences/gun_destroyed_03.json,The gun is out of action. Try to remain calm and see to its repairs.,darjeeling,主砲失靈。保持冷靜，進行修復。
+gup_crew_25/sentences/gun_destroyed_03.json,Copy!,assam,收到！
+gup_crew_25/sentences/gun_functional_01.json,The gun repairs are completed. But its accuracy remains reduced.,assam,主砲修復完成。但準確度仍受限。
+gup_crew_25/sentences/gun_functional_02.json,The gun is functional again. We can shoot now.,assam,主砲恢復運作。我們現在能開火了。
+gup_crew_25/sentences/gun_functional_03.json,We've repaired the gun. Though its accuracy is still reduced.,orange_pekoe,我們修好了主砲。雖然準確度仍受限。
+gup_crew_25/sentences/gun_functional_04.json,The gun has been repaired. Commence the counterattack.,darjeeling,主砲修好了。展開反擊。
+gup_crew_25/sentences/loader_killed_01.json,"The loader's seat has been hit. Pekoe, give me a status report.",darjeeling,裝填手位置被擊中。白毫，給我狀況報告。
+gup_crew_25/sentences/loader_killed_02.json,Eek!...They are aiming for the loader's seat...,orange_pekoe,呀！……他們在瞄準裝填手位置……
+gup_crew_25/sentences/loader_killed_03.json,The loader has been hit. You need to seek cover.,darjeeling,裝填手被擊中。你需要尋找掩護。
+gup_crew_25/sentences/loader_killed_04.json,"They've hit the loader's seat. Pekoe, you okay?",assam,裝填手位置被擊中。白毫，你沒事吧？
+gup_crew_25/sentences/radioman_killed_01.json,The radio operator has been hit. I need a status report.,darjeeling,通訊員被擊中。我需要狀況報告。
+gup_crew_25/sentences/radioman_killed_02.json,They were targeting the radio operator. Is everyone all right?,darjeeling,敵人瞄準了通訊員。大家都沒事吧？
+gup_crew_25/sentences/radioman_killed_03.json,The radio operator is injured. Our ability to coordinate with allies has been affected.,assam,通訊員受傷。我們與盟友的協調能力受到影響。
+gup_crew_25/sentences/radioman_killed_04.json,The radio operator has been injured. Let's stay calm and provide first aid.,orange_pekoe,通訊員受傷了。保持冷靜，提供急救。
+gup_crew_25/sentences/radio_damaged_01.json,The radio has been damaged. Our communications will be disrupted.,darjeeling,無線電受損。我們的通訊將受干擾。
+gup_crew_25/sentences/radio_damaged_02.json,The radio has been hit. This will reduce our effective communication range.,darjeeling,無線電被擊中。這會降低我們的有效通訊範圍。
+gup_crew_25/sentences/radio_damaged_03.json,We have lost our long-range communications. The radio appears to be damaged.,darjeeling,我們失去了遠程通訊。無線電似乎壞了。
+gup_crew_25/sentences/radio_damaged_04.json,The radio is damaged. Long-range communications will be unstable for a while.,assam,無線電受損。遠程通訊暫時不穩定。
+gup_crew_25/sentences/radio_damaged_05.json,They are trying to disable the radio. Their goal is to disrupt our coordination.,assam,敵人試圖破壞無線電。他們的目的是干擾我們的協調。
+gup_crew_25/sentences/radio_damaged_06.json,The radio seems to have stopped working.,orange_pekoe,無線電好像停止運作了。
+gup_crew_25/sentences/start_battle_01.json,Commence Operation Fish and Chips with Vinegar!,darjeeling,啟動「炸魚薯條加醋」行動！
+gup_crew_25/sentences/start_battle_02.json,"Ah, my tea stem is floating upright. Did you know that this means someone wonderful will pay you a visit?",darjeeling,啊，我的茶梗豎起來了。你知道這代表有貴客來訪嗎？
+gup_crew_25/sentences/start_battle_02.json,"With all due respect, they're already here, whether they are ""wonderful"" or not...",orange_pekoe,恕我直言，他們已經來了，不管是不是「貴客」……
+gup_crew_25/sentences/start_battle_03.json,This will be an interesting battle.,darjeeling,這將是一場有趣的戰鬥。
+gup_crew_25/sentences/start_battle_03.json,"With all due respect, the data shows that this will be a tough battle.",assam,恕我直言，數據顯示這將是一場硬仗。
+gup_crew_25/sentences/start_battle_03.json,We are ready for it.,orange_pekoe,我們準備好了。
+gup_crew_25/sentences/start_battle_03.json,"Fortune can be fickle, however, as the side facing a disadvantage sometimes comes out on top.",darjeeling,運氣多變，有時劣勢的一方也能勝出。
+gup_crew_25/sentences/start_battle_04.json,"No matter how we move, our school's tanks will not spill a single drop of tea.",darjeeling,無論如何移動，我們學校的戰車不會灑出一滴茶。
+gup_crew_25/sentences/start_battle_05.json,The tank is ready.,assam,戰車準備就緒。
+gup_crew_25/sentences/start_battle_05.json,Shall we go then?,darjeeling,那就出發吧？
+gup_crew_25/sentences/start_battle_06.json,"""Your soul is carried. To the most suitable place with destiny"".",darjeeling,「你的靈魂被帶往命運中最合適之地。」
+gup_crew_25/sentences/start_battle_06.json,A quote from Shakespeare.,orange_pekoe,莎士比亞的名言。
+gup_crew_25/sentences/start_battle_06.json,We might have been destined to fight here today.,darjeeling,或許我們註定今日在此一戰。
+gup_crew_25/sentences/start_battle_07.json,Is everyone ready? Remember that we at St. Gloriana must remain elegant at all times.,darjeeling,所有人準備好了嗎？記住，聖葛羅莉安娜的我們隨時都要保持優雅。
+gup_crew_25/sentences/start_battle_07.json,Understood!,assam,明白！
+gup_crew_25/sentences/start_battle_07.json,Understood!,orange_pekoe,明白！
+gup_crew_25/sentences/start_battle_08.json,"Your tea is ready, Darjeeling-sama.",orange_pekoe,大吉嶺大人，您的茶準備好了。
+gup_crew_25/sentences/start_battle_08.json,The battle is about to begin. Let us try to finish up before our tea gets cold.,darjeeling,戰鬥即將開始。讓我們在茶涼前結束吧。
+gup_crew_25/sentences/start_battle_09.json,"""Success is the child of audacity."" We should not be afraid to take chances from the very start.",darjeeling,「成功是大膽之子。」我們從一開始就不該害怕冒險。
+gup_crew_25/sentences/start_battle_10.json,Time to move! Let us finish it quickly and enjoy our tea.,assam,出發！快點結束，好好享受我們的茶。
+gup_crew_25/sentences/start_battle_11.json,"The battle has begun. All tanks, advance!",assam,戰鬥開始。全車，前進！
+gup_crew_25/sentences/start_battle_12.json,I have all the data we need to win. Roll out.,assam,我有贏得勝利的全部數據。出發。
+gup_crew_25/sentences/start_battle_13.json,"All set for battle, everyone? Remember to maintain elegance throughout the fight.",darjeeling,所有人準備好戰鬥了嗎？記住，整場戰鬥都要保持優雅。
+gup_crew_25/sentences/start_battle_14.json,Let our battle be a fair one.,orange_pekoe,願我們的戰鬥公平公正。
+gup_crew_25/sentences/start_battle_14.json,"Let us hear the strategy for today from you, our commander-to-be.",darjeeling,請我們的未來指揮官分享今日的策略。
+gup_crew_25/sentences/start_battle_15.json,"Is everyone ready? All tanks, advance!",orange_pekoe,所有人準備好了嗎？全車，前進！
+gup_crew_25/sentences/start_battle_16.json,"Assam, give me the intel on our opponent.",darjeeling,阿薩姆，給我敵人的情報。
+gup_crew_25/sentences/start_battle_16.json,I have collected the reports from GI6 right here.,assam,我已收集好GI6的報告。
+gup_crew_25/sentences/start_battle_17.json,"Have you heard this famous quote? ""Victory belongs to the most persevering"". Let us keep our heads down and aim for victory.",darjeeling,你聽過這句名言嗎？「勝利屬於最堅持的人。」讓我們低調前進，目標勝利。
+gup_crew_25/sentences/start_battle_17.json,Understood!,assam,明白！
+gup_crew_25/sentences/start_battle_17.json,Understood!,orange_pekoe,明白！
+gup_crew_25/sentences/start_battle_18.json,"Have you heard this quote? ""Do full strength for the thing which can be accomplished today"".",darjeeling,你聽過這句話嗎？「全力以赴完成今日之事。」
+gup_crew_25/sentences/start_battle_18.json,"That's Sir Isaac Newton, isn't it?",orange_pekoe,那是艾薩克·牛頓，對吧？
+gup_crew_25/sentences/start_battle_18.json,Let us do full strength for victory.,darjeeling,為了勝利全力以赴吧。
+gup_crew_25/sentences/start_battle_19.json,"The most delicious part of a proper sandwich is not the bread, but rather the cucumbers inside.",darjeeling,真正三明治最美味的部分不是麵包，而是裡面的黃瓜。
+gup_crew_25/sentences/start_battle_19.json,Huh?,orange_pekoe,咦？
+gup_crew_25/sentences/start_battle_19.json,It is the fillings that provide all of the flavor.,darjeeling,內餡才是味道的關鍵。
+gup_crew_25/sentences/start_battle_20.json,Have you heard this quote? Brave actions never want a trumpet.,darjeeling,你聽過這句話嗎？勇敢的行動從不需要號角。
+gup_crew_25/sentences/start_battle_20.json,"That's Thomas Fuller, isn't it?",orange_pekoe,那是托馬斯·富勒，對吧？
+gup_crew_25/sentences/start_battle_21.json,Listen up everyone. This is the time we let our Sensha-do shine!,darjeeling,大家聽好，現在是我們戰車道閃耀的時刻！
+gup_crew_25/sentences/start_battle_21.json,"Yes! Let us try our best, Darjeeling-sama!",orange_pekoe,是！大吉嶺大人，我們全力以赴！
+gup_crew_25/sentences/surveying_devices_damaged_01.json,The observation device has been hit.,orange_pekoe,觀測裝置被擊中了。
+gup_crew_25/sentences/surveying_devices_damaged_02.json,They are hitting our observation device.,orange_pekoe,敵人正在攻擊我們的觀測裝置。
+gup_crew_25/sentences/surveying_devices_damaged_03.json,The enemy seems to be targetting the observation device.,assam,敵人似乎在瞄準觀測裝置。
+gup_crew_25/sentences/surveying_devices_damaged_04.json,The observation device is being targeted. It might get destroyed.,assam,觀測裝置正被攻擊。可能會被摧毀。
+gup_crew_25/sentences/surveying_devices_damaged_05.json,Damage to observation device confirmed. Proceed with caution.,darjeeling,觀測裝置受損確認。小心行動。
+gup_crew_25/sentences/surveying_devices_damaged_06.json,Observation device under fire. Further damage may impair functionality.,darjeeling,觀測裝置遭到攻擊。進一步損傷可能影響功能。
+gup_crew_25/sentences/surveying_devices_damaged_07.json,It seems the enemy has hit our observation device.,darjeeling,敵人似乎擊中了我們的觀測裝置。
+gup_crew_25/sentences/surveying_devices_damaged_08.json,The enemy is aiming to take down our observation device.,darjeeling,敵人正試圖摧毀我們的觀測裝置。
+gup_crew_25/sentences/surveying_devices_destroyed_01.json,Observation device destroyed. We cannot see anything.,orange_pekoe,觀測裝置被毀。我們什麼都看不到。
+gup_crew_25/sentences/surveying_devices_destroyed_02.json,The observation device is broken!,orange_pekoe,觀測裝置壞掉了！
+gup_crew_25/sentences/surveying_devices_destroyed_03.json,The observation device has been destroyed. We have zero visibility.,assam,觀測裝置被摧毀。我們的視野為零。
+gup_crew_25/sentences/surveying_devices_destroyed_04.json,"Observation device destroyed. We have very limited visibility. Darjeeling, are you alright?",assam,觀測裝置被毀。視野極為有限。大吉嶺，你沒事吧？
+gup_crew_25/sentences/surveying_devices_destroyed_05.json,"The observation device is destroyed. If they hit it on purpose, they are good...",assam,觀測裝置被毀。如果他們故意瞄準，真是厲害……
+gup_crew_25/sentences/surveying_devices_destroyed_06.json,The observation device was destroyed. See to its repair.,darjeeling,觀測裝置被毀。進行修復。
+gup_crew_25/sentences/surveying_devices_destroyed_07.json,Observation device destroyed. We must stay focused and work on its repair.,darjeeling,觀測裝置被毀。我們必須專注修復。
+gup_crew_25/sentences/surveying_devices_destroyed_08.json,The observation device is down.,darjeeling,觀測裝置停止運作。
+gup_crew_25/sentences/surveying_devices_destroyed_09.json,They destroyed the observation device. This will severely limit our visibility.,darjeeling,敵人摧毀了觀測裝置。這將嚴重限制我們的視野。
+gup_crew_25/sentences/surveying_devices_destroyed_10.json,Observation device destroyed. We must repair it immediately.,darjeeling,觀測裝置被毀。必須立即修復。
+gup_crew_25/sentences/surveying_devices_functional_01.json,The observation device has been repaired.,orange_pekoe,觀測裝置修好了。
+gup_crew_25/sentences/surveying_devices_functional_02.json,Observation device repairs are complete.,orange_pekoe,觀測裝置修復完成。
+gup_crew_25/sentences/surveying_devices_functional_03.json,We have repaired the observation device. We can see things now.,orange_pekoe,我們修好了觀測裝置。現在能看到了。
+gup_crew_25/sentences/surveying_devices_functional_04.json,"Observation device repaired. Darjeeling, are you able to see outside now?",assam,觀測裝置修好了。大吉嶺，你現在能看到外面了嗎？
+gup_crew_25/sentences/surveying_devices_functional_05.json,Observation device back online.,assam,觀測裝置重新上線。
+gup_crew_25/sentences/surveying_devices_functional_06.json,The observation device is fixed. The view range is back to normal.,assam,觀測裝置修好了。視野範圍恢復正常。
+gup_crew_25/sentences/surveying_devices_functional_07.json,The repairs to the observation device are now completed.,assam,觀測裝置修復現已完成。
+gup_crew_25/sentences/surveying_devices_functional_08.json,The repairs to the observation device are finished.,darjeeling,觀測裝置修復完成。
+gup_crew_25/sentences/surveying_devices_functional_09.json,The observation device is back up. Prepare our counterattack.,darjeeling,觀測裝置恢復運作。準備反擊。
+gup_crew_25/sentences/surveying_devices_functional_10.json,We have finished repairing the observation device. Get ready to strike back!,darjeeling,觀測裝置修復完成。準備反擊！
+gup_crew_25/sentences/surveying_devices_functional_11.json,The observation device is back up. Stay calm and resume tracking the enemy's location.,darjeeling,觀測裝置恢復運作。保持冷靜，繼續追蹤敵人位置。
+gup_crew_25/sentences/surveying_devices_functional_12.json,The observation device repairs are complete. Our view range is now restored.,darjeeling,觀測裝置修復完成。我們的視野範圍已恢復。
+gup_crew_25/sentences/surveying_devices_functional_13.json,The repairs to the observation device are finished. We are ready to go.,darjeeling,觀測裝置修復完成。我們準備好了。
+gup_crew_25/sentences/surveying_devices_functional_14.json,The observation device is now online.,darjeeling,觀測裝置現在上線。
+gup_crew_25/sentences/target_captured_01.json,The target has been acquired!,darjeeling,目標已鎖定！
+gup_crew_25/sentences/target_captured_02.json,"17-pounder, all prepared?",darjeeling,十七磅砲，準備好了嗎？
+gup_crew_25/sentences/target_captured_03.json,Hehehe... It is like a game of tag.,darjeeling,呵呵……就像在玩捉人遊戲。
+gup_crew_25/sentences/target_captured_04.json,Enemy tank acquired.,assam,敵方戰車鎖定。
+gup_crew_25/sentences/target_captured_05.json,"Darjeeling, we have acquired our target.",assam,大吉嶺，我們鎖定了目標。
+gup_crew_25/sentences/target_captured_06.json,Attack.,darjeeling,攻擊。
+gup_crew_25/sentences/target_captured_07.json,Target acquired.,orange_pekoe,目標鎖定。
+gup_crew_25/sentences/target_lost_01.json,The target has disappeared.,darjeeling,目標消失了。
+gup_crew_25/sentences/target_lost_02.json,Huh? Where have they gone...?,darjeeling,咦？他們去哪了……？
+gup_crew_25/sentences/target_lost_03.json,TWe have lost... our target.,orange_pekoe,我們失去了……目標。
+gup_crew_25/sentences/target_lost_04.json,We have lost our sights on the target.,assam,我們失去了目標的視線。
+gup_crew_25/sentences/target_unlocked_01.json,Let us change our target.,orange_pekoe,換個目標吧。
+gup_crew_25/sentences/target_unlocked_02.json,Target released.,orange_pekoe,目標解除。
+gup_crew_25/sentences/target_unlocked_03.json,Let us target another tank.,orange_pekoe,鎖定另一輛戰車吧。
+gup_crew_25/sentences/target_unlocked_04.json,Nothing could be more inelegant than a relentless pursuit.,darjeeling,沒有比執著追擊更不雅的事了。
+gup_crew_25/sentences/target_unlocked_05.json,Changing target.,assam,更換目標。
+gup_crew_25/sentences/target_unlocked_06.json,Changing target to a different tank.,assam,更換到另一輛戰車。
+gup_crew_25/sentences/target_unlocked_07.json,This kind of simplistic bait-and-switch strategy will not work on us.,darjeeling,這種簡單的誘敵策略對我們無效。
+gup_crew_25/sentences/target_unlocked_08.json,Switching targets.,assam,切換目標。
+gup_crew_25/sentences/target_unlocked_09.json,Focus on another tank.,darjeeling,專注於另一輛戰車。
+gup_crew_25/sentences/target_unlocked_10.json,Let us find another target.,darjeeling,找另一個目標吧。
+gup_crew_25/sentences/target_unlocked_11.json,Let us leave this tank to our allies.,darjeeling,把這輛戰車留給盟友吧。
+gup_crew_25/sentences/target_unlocked_12.json,Let us pursue a different enemy.,darjeeling,追擊另一個敵人吧。
+gup_crew_25/sentences/target_unlocked_13.json,Let us stop over-pursuing this particular tank.,orange_pekoe,別過分追擊這輛戰車了。
+gup_crew_25/sentences/track_damaged_01.json,The tracks are damaged. They won't stand another hit.,orange_pekoe,履帶受損。恐怕再也承受不住一擊。
+gup_crew_25/sentences/track_damaged_02.json,The tracks are hit.,orange_pekoe,履帶被擊中了。
+gup_crew_25/sentences/track_damaged_03.json,The enemy is targeting the tracks. It is highly likely that another hit will destroy them.,assam,敵人正瞄準履帶。很可能再一擊就摧毀它們。
+gup_crew_25/sentences/track_damaged_04.json,The tracks have been damaged. Another hit will destroy them completely.,darjeeling,履帶受損。再一擊將完全摧毀它們。
+gup_crew_25/sentences/track_destroyed_01.json,We have lost movement. See to the repairs immediately!,darjeeling,我們失去機動性。立即修復！
+gup_crew_25/sentences/track_destroyed_02.json,The tracks have been destroyed. We canot move...,assam,履帶被摧毀。我們動不了了……
+gup_crew_25/sentences/track_destroyed_03.json,Tracks destroyed. We are at a tight spot.,assam,履帶被毀。我們陷入困境了。
+gup_crew_25/sentences/track_destroyed_04.json,The enemy has destroyed our tracks. We are not able to move.,orange_pekoe,敵人摧毀了我們的履帶。我們無法移動。
+gup_crew_25/sentences/track_functional_01.json,The repairs to the tracks are complete. Well done.,darjeeling,履帶修復完成。幹得好。
+gup_crew_25/sentences/track_functional_02.json,The track repairs are complete.,darjeeling,履帶修復完成。
+gup_crew_25/sentences/track_functional_03.json,It seems the tracks have been restored.,darjeeling,履帶似乎已恢復。
+gup_crew_25/sentences/track_functional_04.json,The tracks are now operational.,darjeeling,履帶現在能運作了。
+gup_crew_25/sentences/track_functional_can_move_01.json,The track repairs are complete. You should be able to move again.,darjeeling,履帶修復完成。你應該能再次移動了。
+gup_crew_25/sentences/track_functional_can_move_02.json,The tracks are operational.,assam,履帶恢復運作。
+gup_crew_25/sentences/track_functional_can_move_03.json,The repairs to the tracks are now complete.,assam,履帶修復現已完成。
+gup_crew_25/sentences/track_functional_can_move_04.json,The tracks are repaired. Let us move quickly.,orange_pekoe,履帶修好了。我們快移動吧。
+gup_crew_25/sentences/track_functional_can_move_05.json,Track repairs are completed.,orange_pekoe,履帶修復完成。
+gup_crew_25/sentences/track_functional_can_move_06.json,We've repaired the tracks.,orange_pekoe,我們修好了履帶。
+gup_crew_25/sentences/track_functional_can_move_06.json,"Thank you, Pekoe.",darjeeling,謝謝你，白毫。
+gup_crew_25/sentences/track_functional_can_move_07.json,The tracks have been restored. Stay alert as you head out.,darjeeling,履帶已恢復。出發時保持警戒。
+gup_crew_25/sentences/track_functional_can_move_07.json,Copy that.,assam,收到。
+gup_crew_25/sentences/turret_rotator_damaged_01.json,Turret rotation mechanism damaged. Its turn speed is dropping.,darjeeling,砲塔旋轉機構受損。轉動速度下降。
+gup_crew_25/sentences/turret_rotator_damaged_02.json,The turret rotation mechanism has been damaged. Be mindful of its reduced turning speed.,assam,砲塔旋轉機構受損。注意轉動速度降低。
+gup_crew_25/sentences/turret_rotator_damaged_03.json,The turret rotation mechanism is hit. Be aware of its reduced turning speed.,orange_pekoe,砲塔旋轉機構被擊中。注意轉動速度降低。
+gup_crew_25/sentences/turret_rotator_destroyed_01.json,Turret rotation mechanism destroyed. The turret is unable to move.,darjeeling,砲塔旋轉機構被毀。砲塔無法移動。
+gup_crew_25/sentences/turret_rotator_destroyed_02.json,Turret rotation mechanism destroyed. Can I rely on you for its immediate repair?,darjeeling,砲塔旋轉機構被毀。能否立即修復？
+gup_crew_25/sentences/turret_rotator_destroyed_02.json,"On it, Darjeeling-sama!",orange_pekoe,遵命，大吉嶺大人！
+gup_crew_25/sentences/turret_rotator_destroyed_03.json,The turret rotation mechanism is destroyed. The turret can't be moved...,assam,砲塔旋轉機構被毀。砲塔動不了了……
+gup_crew_25/sentences/turret_rotator_destroyed_04.json,The turret rotation mechanism has been destroyed. Please repair it at once.,orange_pekoe,砲塔旋轉機構被毀。請立即修復。
+gup_crew_25/sentences/turret_rotator_functional_01.json,The turret has been restored. We can turn it now.,assam,砲塔恢復了。我們現在能轉動它了。
+gup_crew_25/sentences/turret_rotator_functional_02.json,Turret rotation mechanism restored. The turret should have mobility now.,darjeeling,砲塔旋轉機構恢復。砲塔現在應該能移動了。
+gup_crew_25/sentences/vehicle_destroyed_01.json,Stay calm and retreat. We at St. Gloriana must remain elegant at all times.,darjeeling,保持冷靜，撤退。聖葛羅莉安娜的我們隨時都要保持優雅。
+gup_crew_25/sentences/vehicle_destroyed_02.json,My data didn't forsee such a situation...,assam,我的數據沒能預見這種情況……
+gup_crew_25/sentences/vehicle_destroyed_03.json,"""Life is a succession of lessons which must be lived to be understood"".",darjeeling,「人生是一連串的教訓，必須親身經歷才能理解。」
+gup_crew_25/sentences/vehicle_destroyed_03.json,"That's the American thinker Ralph Waldo Emerson, isn't it?",orange_pekoe,那是美國思想家愛默生，對吧？
+gup_crew_25/sentences/vehicle_destroyed_03.json,We have learned our lessons.,darjeeling,我們已學到教訓。
+gup_crew_25/sentences/vehicle_destroyed_04.json,Well played. What might your name be?,darjeeling,打得好。你叫什麼名字？
+gup_crew_25/sentences/vehicle_destroyed_05.json,"Even though it's a friendly match, we might have been a little too careless.",orange_pekoe,雖然是友誼賽，但我們可能太疏忽了。
