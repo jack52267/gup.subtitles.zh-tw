@@ -1,4 +1,4 @@
-這是將戰車世界官方所提供的少女戰車字幕模組內部的文本進行了繁體中文化 
+這是將戰車世界官方所提供的少女戰車字幕模組內部的文本進行中文化，翻譯名詞使用台灣代理翻譯版本
 
 具體使用方法如下
 必須先安裝原本官方的字幕檔模組 [https://wgmods.net/1138/](https://wgmods.net/6725/)
@@ -23,7 +23,7 @@ main_sound_modes.xml-加入代碼的版本(可能會與其他少女戰車語音�
   <img src="./assets/P3.jpg" alt="遊戲內效果" width="49%">
 </div>
 
-此翻譯使用Grok AI進行校驗，由於原文為英文，因此在翻譯上會與日文有差異，如果有發現哪句台詞與日文差太多可以留言告知。
+此翻譯使用Grok AI進行校驗，由於原文為英文，因此在翻譯上會與日文原音有差異，如果有發現哪句台詞與日文差太多可以留言告知。
 
 
 This project provides a Traditional Chinese (繁體中文) localization of the in-mod text used by the official “Girls und Panzer” subtitles mod for World of Tanks.
