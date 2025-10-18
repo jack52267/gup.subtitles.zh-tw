@@ -1,0 +1,12 @@
+{
+  "duration": 2.93,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火災！大家都還好嗎？",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_06"
+}

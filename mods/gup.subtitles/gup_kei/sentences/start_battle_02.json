@@ -1,0 +1,12 @@
+{
+  "duration": 3.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "來場公平的激戰！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_02"
+}

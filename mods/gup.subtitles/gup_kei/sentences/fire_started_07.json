@@ -1,0 +1,12 @@
+{
+  "duration": 1.48,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火災！快滅啊！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_07"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.23,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "駕駛座被打中！機動性下降！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_04"
+}

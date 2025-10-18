@@ -19,8 +19,8 @@ gup_crew_25/sentences/armor_pierced_by_player_02.json,They are taking damage.,as
 gup_crew_25/sentences/armor_pierced_by_player_03.json,We have successfully penetrated their armor.,orange_pekoe,我們成功穿透了他們的裝甲。
 gup_crew_25/sentences/armor_pierced_by_player_04.json,"According to the data, that was their weak spot.",assam,根據數據，那是他們的弱點。
 gup_crew_25/sentences/armor_pierced_by_player_04.json,Hehehe... That pierced their armor.,darjeeling,呵呵……那一擊穿透了他們的裝甲。
-gup_crew_25/sentences/armor_pierced_by_player_05.json,"Have you heard the English saying, ""All's fair in love and war""?",darjeeling,你聽過英國諺語「愛與戰爭無所禁忌」嗎？
-gup_crew_25/sentences/armor_pierced_crit_by_player_01.json,"You have damaged the enemy tank. All is fair in love and war, you know.",darjeeling,你擊傷了敵方戰車。愛與戰爭無所禁忌，你知道的。
+gup_crew_25/sentences/armor_pierced_by_player_05.json,"Have you heard the English saying, ""All's fair in love and war""?",darjeeling,你聽過英國諺語「愛情和戰爭面前人人平等」嗎？
+gup_crew_25/sentences/armor_pierced_crit_by_player_01.json,"You have damaged the enemy tank. All is fair in love and war, you know.",darjeeling,你擊傷了敵方戰車。愛情和戰爭面前人人平等，你知道的。
 gup_crew_25/sentences/armor_pierced_crit_by_player_02.json,They are hit. It's working.,assam,敵方被擊中。有效果。
 gup_crew_25/sentences/armor_pierced_crit_by_player_03.json,"We've hit them, but...",orange_pekoe,我們擊中了他們，但是……
 gup_crew_25/sentences/armor_ricochet_by_player_01.json,It seems that one's ricocheted.,orange_pekoe,好像彈開了。

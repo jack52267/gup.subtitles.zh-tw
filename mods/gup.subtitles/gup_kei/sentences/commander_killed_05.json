@@ -1,0 +1,12 @@
+{
+  "duration": 2.25,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "哎喲！我掛彩了！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_05"
+}

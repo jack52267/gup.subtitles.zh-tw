@@ -1,0 +1,12 @@
+{
+  "duration": 2.84,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "為啥！？砲塔不動啦！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.37,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲修好！幹得好！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_01"
+}

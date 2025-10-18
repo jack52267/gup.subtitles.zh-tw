@@ -1,0 +1,12 @@
+{
+  "duration": 1.95,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "喂！你在轟自己人耶！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_04"
+}

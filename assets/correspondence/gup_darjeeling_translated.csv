@@ -17,8 +17,8 @@ gup_darjeeling/sentences/armor_pierced_by_player_01.json,You have pierced their 
 gup_darjeeling/sentences/armor_pierced_by_player_02.json,Their armor will surely not withstand our shots.,darjeeling,敵人的裝甲絕對抵擋不住我們的攻擊。
 gup_darjeeling/sentences/armor_pierced_by_player_03.json,You pierced their armor. Keep at it.,darjeeling,你貫穿了敵方裝甲，繼續保持！
 gup_darjeeling/sentences/armor_pierced_by_player_04.json,Hehehe... That pierced their armor.,darjeeling,呵呵…你擊穿了他們的裝甲。
-gup_darjeeling/sentences/armor_pierced_by_player_05.json,"Have you heard the English saying, ""All's fair in love and war""?",darjeeling,你聽過英國諺語「愛情與戰爭無所謂公平」嗎？
-gup_darjeeling/sentences/armor_pierced_crit_by_player_01.json,"You have damaged the enemy tank. All is fair in love and war, you know.",darjeeling,你已損壞敵方戰車。愛情與戰爭無所謂公平，你知道的。
+gup_darjeeling/sentences/armor_pierced_by_player_05.json,"Have you heard the English saying, ""All's fair in love and war""?",darjeeling,你聽過英國諺語「愛情和戰爭面前人人平等」嗎？
+gup_darjeeling/sentences/armor_pierced_crit_by_player_01.json,"You have damaged the enemy tank. All is fair in love and war, you know.",darjeeling,你已損壞敵方戰車。愛情和戰爭面前人人平等，你知道的。
 gup_darjeeling/sentences/armor_pierced_crit_by_player_02.json,Try to remain calm. Your attacks are finding their mark.,darjeeling,保持冷靜，你的攻擊正中目標。
 gup_darjeeling/sentences/armor_pierced_crit_by_player_03.json,Excellent work. Keep it up.,darjeeling,出色的工作，繼續保持！
 gup_darjeeling/sentences/armor_ricochet_by_player_01.json,Your shot ricocheted.,darjeeling,你的射擊被彈開了。

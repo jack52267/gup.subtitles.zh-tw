@@ -1,0 +1,12 @@
+{
+  "duration": 2.75,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "謝啦！又能跑了！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_05"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.3,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵車炸爛！恭喜啦！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_01"
+}

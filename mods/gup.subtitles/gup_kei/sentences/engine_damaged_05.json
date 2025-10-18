@@ -1,0 +1,12 @@
+{
+  "duration": 2.37,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們瞄準引擎！小心啊！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_05"
+}

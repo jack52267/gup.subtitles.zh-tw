@@ -1,0 +1,12 @@
+{
+  "duration": 1.32,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "準備就緒！隨時開戰！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_02"
+}

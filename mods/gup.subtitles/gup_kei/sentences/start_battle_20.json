@@ -1,0 +1,12 @@
+{
+  "duration": 5.08,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "作戰開始！上！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_20"
+}

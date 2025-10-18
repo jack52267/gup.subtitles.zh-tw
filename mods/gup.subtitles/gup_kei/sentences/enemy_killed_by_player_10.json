@@ -1,0 +1,12 @@
+{
+  "duration": 2.02,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "成功幹掉敵人！帥！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_10"
+}

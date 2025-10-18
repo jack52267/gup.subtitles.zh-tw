@@ -1,0 +1,12 @@
+{
+  "duration": 3.23,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "幹掉他們啦！超刺激！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_02"
+}

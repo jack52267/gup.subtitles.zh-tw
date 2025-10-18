@@ -1,0 +1,12 @@
+{
+  "duration": 3.14,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "穩住瞄準！開火！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_01"
+}

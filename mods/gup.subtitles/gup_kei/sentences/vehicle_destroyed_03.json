@@ -1,0 +1,12 @@
+{
+  "duration": 3.35,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "超好玩！再來一場！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_03"
+}

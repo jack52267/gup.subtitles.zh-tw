@@ -156,7 +156,7 @@ gup_alice/sentences/start_battle_06.json,"Don't worry, Boco, I'll help you out. 
 gup_alice/sentences/start_battle_07.json,"That team over there is a bit like you. No mater how battered they are, they keep coming back for more. They're not strong, but they won't give up. (Talking to Boco)",alice,那邊的團隊有點像你。不管多破敗，他們都會回來更多。他們不強，但不會放棄。（對欠揍熊說）
 gup_alice/sentences/start_battle_08.json,Let's make this a good one.,alice,讓這成為好的一場。
 gup_alice/sentences/start_battle_09.json,"All tanks, advance.",alice,所有戰車，前進。
-gup_alice/sentences/start_battle_10.json,Let's head out. Deal with any enemies you meet as you see fit.,alice,讓我們出發。處理你遇到的任何敵人隨你便。
+gup_alice/sentences/start_battle_10.json,Let's head out. Deal with any enemies you meet as you see fit.,alice,出發吧。遇到敵人，就照你認為合適的方式處理吧。
 gup_alice/sentences/start_battle_11.json,"We're going all out. Stay on your toes, everyone.",alice,我們全力以赴。大家保持警覺。
 gup_alice/sentences/start_battle_12.json,No need for us to be hasty. Let's take them out calmly.,alice,我們不必匆忙。讓我們冷靜地消滅他們。
 gup_alice/sentences/start_battle_13.json,Prepare for battle.,alice,準備戰鬥。
@@ -253,7 +253,7 @@ gup_alice/sentences/turret_rotator_destroyed_04.json,The turret is at a standsti
 gup_alice/sentences/turret_rotator_functional_01.json,Turret rotation mechanism restored. We're mobile now.,alice,砲塔轉動機構恢復了。我們現在能移動了。
 gup_alice/sentences/turret_rotator_functional_02.json,Repairs to the turret rotation mechanism complete.,alice,砲塔轉動機構修理完成了。
 gup_alice/sentences/vehicle_destroyed_01.json,This is not your fault. I take full responsibility as captain...,alice,這不是你的錯。我作為隊長負全責…
-gup_alice/sentences/vehicle_destroyed_02.json,I'll leave the rest to you.,alice,我把剩下的留給你。
+gup_alice/sentences/vehicle_destroyed_02.json,I'll leave the rest to you.,alice,剩下的就交給你了。
 gup_alice/sentences/vehicle_destroyed_03.json,...We'll win next time. I guarantee it!,alice,…我們下次會贏。我保證！
 gup_alice/sentences/vehicle_destroyed_04.json,We've been hit. Let's retreat.,alice,我們被擊中了。讓我們撤退。
 gup_alice/sentences/vehicle_destroyed_05.json,"Next time, we'll try even harder!",alice,下次，我們會更努力！

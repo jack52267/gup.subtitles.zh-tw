@@ -1,0 +1,12 @@
+{
+  "duration": 4.14,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "戰鬥時刻！耶！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_16"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.4,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "下次狠狠打中他們！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_03"
+}

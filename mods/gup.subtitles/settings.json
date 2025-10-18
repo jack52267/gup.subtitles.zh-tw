@@ -1,0 +1,76 @@
+{
+	"subtitles": [
+		{
+			"name": "Gup - Crew 2020",
+			"language": "gup_jp/gup_crew",
+			"wwbank": "audioww/gup_jp/gup_crew/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_crew/characters.json",
+			"sentences": "mods/gup.subtitles/gup_crew/sentences",
+			"visuals": "mods/gup.subtitles/gup_crew/visuals.json"
+		},
+		{
+			"name": "Gup - Crew 2024",
+			"language": "gup_jp/gup_crew_24",
+			"wwbank": "audioww/gup_jp/gup_crew_24/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_crew_24/characters.json",
+			"sentences": "mods/gup.subtitles/gup_crew_24/sentences",
+			"visuals": "mods/gup.subtitles/gup_crew_24/visuals.json"
+		},
+		{
+			"name": "Gup - Miho Nishizumi",
+			"language": "gup_jp/gup_miho",
+			"wwbank": "audioww/gup_jp/gup_miho/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_miho/characters.json",
+			"sentences": "mods/gup.subtitles/gup_miho/sentences",
+			"visuals": "mods/gup.subtitles/gup_miho/visuals.json"
+		},
+		{
+			"name": "Gup - Erika",
+			"language": "gup_jp/gup_erika",
+			"wwbank": "audioww/gup_jp/gup_erika/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_erika/characters.json",
+			"sentences": "mods/gup.subtitles/gup_erika/sentences",
+			"visuals": "mods/gup.subtitles/gup_erika/visuals.json"
+		},
+		{
+			"name": "Gup - Mika",
+			"language": "gup_jp/gup_mika",
+			"wwbank": "audioww/gup_jp/gup_mika/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_mika/characters.json",
+			"sentences": "mods/gup.subtitles/gup_mika/sentences",
+			"visuals": "mods/gup.subtitles/gup_mika/visuals.json"
+		},
+		{
+			"name": "Gup - Crew 2025",
+			"language": "gup_jp/gup_crew_25",
+			"wwbank": "audioww/gup_jp/gup_crew_25/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_crew_25/characters.json",
+			"sentences": "mods/gup.subtitles/gup_crew_25/sentences",
+			"visuals": "mods/gup.subtitles/gup_crew_25/visuals.json"
+		},
+		{
+			"name": "Gup - Darjeeling",
+			"language": "gup_jp/gup_darjeeling",
+			"wwbank": "audioww/gup_jp/gup_darjeeling/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_darjeeling/characters.json",
+			"sentences": "mods/gup.subtitles/gup_darjeeling/sentences",
+			"visuals": "mods/gup.subtitles/gup_darjeeling/visuals.json"
+		},
+		{
+			"name": "Gup - Alice",
+			"language": "gup_jp/gup_alice",
+			"wwbank": "audioww/gup_jp/gup_alice/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_alice/characters.json",
+			"sentences": "mods/gup.subtitles/gup_alice/sentences",
+			"visuals": "mods/gup.subtitles/gup_alice/visuals.json"
+		},
+		{
+			"name": "Gup - Kei",
+			"language": "gup_jp/gup_kei",
+			"wwbank": "audioww/gup_jp/gup_kei/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_kei/characters.json",
+			"sentences": "mods/gup.subtitles/gup_kei/sentences",
+			"visuals": "mods/gup.subtitles/gup_kei/visuals.json"
+		}
+	]
+}

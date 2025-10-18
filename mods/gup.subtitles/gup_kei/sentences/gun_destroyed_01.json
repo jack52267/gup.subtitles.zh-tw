@@ -1,0 +1,12 @@
+{
+  "duration": 2.82,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲炸了！不能開火！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_01"
+}

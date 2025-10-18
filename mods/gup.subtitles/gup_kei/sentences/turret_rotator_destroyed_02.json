@@ -1,0 +1,12 @@
+{
+  "duration": 2.28,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "砲塔旋轉機構被他們炸了！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.33,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "換目標吧！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_05"
+}

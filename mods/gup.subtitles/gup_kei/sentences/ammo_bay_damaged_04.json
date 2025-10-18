@@ -1,0 +1,12 @@
+{
+  "duration": 2.12,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們在打彈藥架？大家小心啊！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_04"
+}

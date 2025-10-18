@@ -1,0 +1,12 @@
+{
+  "duration": 1.75,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "呼，我得喘口氣！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_01"
+}

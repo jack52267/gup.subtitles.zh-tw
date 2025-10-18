@@ -1,0 +1,12 @@
+{
+  "duration": 1.25,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "被擋下來啦！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_01"
+}

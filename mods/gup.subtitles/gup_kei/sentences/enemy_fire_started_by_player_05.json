@@ -1,0 +1,12 @@
+{
+  "duration": 2.55,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "哇！燒得旺！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_05"
+}

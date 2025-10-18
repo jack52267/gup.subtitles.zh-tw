@@ -1,0 +1,12 @@
+{
+  "duration": 1.68,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲壞了！精準度掉！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

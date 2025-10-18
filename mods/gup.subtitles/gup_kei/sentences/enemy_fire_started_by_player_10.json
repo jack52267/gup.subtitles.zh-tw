@@ -1,0 +1,12 @@
+{
+  "duration": 1.77,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵車起火確認！幹得好！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_10"
+}

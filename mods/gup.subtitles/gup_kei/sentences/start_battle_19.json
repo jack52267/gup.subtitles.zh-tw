@@ -1,0 +1,12 @@
+{
+  "duration": 3.22,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "贏下這一戰！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_19"
+}

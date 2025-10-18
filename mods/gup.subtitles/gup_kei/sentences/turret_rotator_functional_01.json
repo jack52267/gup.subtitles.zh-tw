@@ -1,0 +1,12 @@
+{
+  "duration": 2.34,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "好！砲塔修好啦！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

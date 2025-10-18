@@ -1,0 +1,12 @@
+{
+  "duration": 3.22,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "太棒了！敵車摧毀確認！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_03"
+}

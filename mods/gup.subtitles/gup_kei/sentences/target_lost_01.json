@@ -1,0 +1,12 @@
+{
+  "duration": 2.81,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "抱歉！目標跑掉了！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_01"
+}

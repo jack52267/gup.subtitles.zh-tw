@@ -1,0 +1,12 @@
+{
+  "duration": 1.58,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "太好了！命中啦！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_02"
+}

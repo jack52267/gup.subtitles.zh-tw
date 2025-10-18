@@ -1,0 +1,12 @@
+{
+  "duration": 2.68,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火災！大事不妙！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_04"
+}

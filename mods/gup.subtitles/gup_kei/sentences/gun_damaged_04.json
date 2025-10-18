@@ -1,0 +1,12 @@
+{
+  "duration": 4.18,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲中彈！還能開火嗎？",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_04"
+}

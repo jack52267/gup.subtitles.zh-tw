@@ -1,0 +1,12 @@
+{
+  "duration": 2.18,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "太棒！現在能動啦！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_03"
+}

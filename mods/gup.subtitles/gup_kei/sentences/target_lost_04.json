@@ -1,0 +1,12 @@
+{
+  "duration": 2.6,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "哎呀！跟丟他們了！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_04"
+}

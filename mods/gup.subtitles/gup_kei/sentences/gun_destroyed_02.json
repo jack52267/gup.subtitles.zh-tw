@@ -1,0 +1,12 @@
+{
+  "duration": 3.49,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲壞了！快修！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_02"
+}

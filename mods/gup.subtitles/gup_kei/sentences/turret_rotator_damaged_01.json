@@ -1,0 +1,12 @@
+{
+  "duration": 1.38,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "砲塔壞了！糟！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.49,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "油箱壞了！麻煩大了！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

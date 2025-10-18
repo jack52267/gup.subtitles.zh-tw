@@ -1,0 +1,29 @@
+[
+	{
+		"id": "kei",
+		"name": "凱伊",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/kei_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"confident": [1, 0],
+					"excited": [2, 0],
+					"focused": [1, 0]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/kei_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"confident": [1, 0],
+					"excited": [2, 0],
+					"focused": [1, 0]
+				}
+			}
+		}
+	}
+]

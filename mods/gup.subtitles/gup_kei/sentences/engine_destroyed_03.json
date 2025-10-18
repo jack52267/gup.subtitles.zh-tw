@@ -1,0 +1,12 @@
+{
+  "duration": 2.12,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "引擎炸了！我們卡住了！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_03"
+}

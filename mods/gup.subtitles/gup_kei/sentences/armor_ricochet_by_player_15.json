@@ -1,0 +1,12 @@
+{
+  "duration": 1.2,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "失手了！再來！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_15"
+}

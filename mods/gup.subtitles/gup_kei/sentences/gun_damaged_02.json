@@ -1,0 +1,12 @@
+{
+  "duration": 1.39,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲中彈！報告狀況！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

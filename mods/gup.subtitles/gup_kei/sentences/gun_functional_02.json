@@ -1,0 +1,12 @@
+{
+  "duration": 3.51,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲恢復！開火！",
+      "character": "kei",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_02"
+}
