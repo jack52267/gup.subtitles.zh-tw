@@ -9,18 +9,18 @@ gup_kei/sentences/ammo_bay_damaged_02.json,The possibility of ammo rack explosio
 gup_kei/sentences/ammo_bay_damaged_03.json,Aiming at the ammo rack? They are not fighting fair!,kei,瞄準彈藥架？這招太不公平了吧！
 gup_kei/sentences/ammo_bay_damaged_04.json,Are they aiming at the ammo rack? Be careful!,kei,他們在打彈藥架？大家小心啊！
 gup_kei/sentences/armor_not_pierced_by_player_01.json,That was blocked!,kei,被擋下來啦！
-gup_kei/sentences/armor_not_pierced_by_player_02.json,Penetration failed. Don't worry about it!,kei,沒貫穿！別慌，繼續來！
-gup_kei/sentences/armor_not_pierced_by_player_03.json,"It's okay, load the next shell quickly.",kei,沒事！快裝下一發，衝！
-gup_kei/sentences/armor_not_pierced_by_player_04.json,It'll be a-okay if we penetrate them next time!,kei,下次一定貫穿！沒問題！
-gup_kei/sentences/armor_not_pierced_by_player_05.json,Don't worry about it!,kei,別擔心！我們再來！
-gup_kei/sentences/armor_pierced_by_player_01.json,Nice shot!,kei,超棒一擊！
-gup_kei/sentences/armor_pierced_by_player_02.json,Penetrated! Alright!,kei,貫穿啦！太讚了！
-gup_kei/sentences/armor_pierced_by_player_03.json,Great!,kei,幹得好！
-gup_kei/sentences/armor_pierced_by_player_04.json,Doing well! Keep it up!,kei,表現超棒！繼續加油！
-gup_kei/sentences/armor_pierced_by_player_05.json,Yaaay!,kei,耶！超爽！
+gup_kei/sentences/armor_not_pierced_by_player_02.json,Penetration failed. Don't worry about it!,kei,貫穿失敗了呢！Don't Mind~ Don't Mind~
+gup_kei/sentences/armor_not_pierced_by_player_03.json,"It's okay, load the next shell quickly.",kei,沒事的！快裝填好下一發
+gup_kei/sentences/armor_not_pierced_by_player_04.json,It'll be a-okay if we penetrate them next time!,kei,下次一定會貫穿的！OK啦！
+gup_kei/sentences/armor_not_pierced_by_player_05.json,Don't worry about it!,kei,別在意！別在意！
+gup_kei/sentences/armor_pierced_by_player_01.json,Nice shot!,kei,Nice Shot!
+gup_kei/sentences/armor_pierced_by_player_02.json,Penetrated! Alright!,kei,成功貫穿！Alright！
+gup_kei/sentences/armor_pierced_by_player_03.json,Great!,kei,Great!
+gup_kei/sentences/armor_pierced_by_player_04.json,Doing well! Keep it up!,kei,表現超棒！請繼續多多指教！
+gup_kei/sentences/armor_pierced_by_player_05.json,Yaaay!,kei,Yaaay!
 gup_kei/sentences/armor_pierced_crit_by_player_01.json,"It's alright, we are hitting them!",kei,沒問題！我們狠狠打中他們啦！
-gup_kei/sentences/armor_pierced_crit_by_player_02.json,It's okay! It landed!,kei,太好了！命中啦！
-gup_kei/sentences/armor_pierced_crit_by_player_03.json,Critical damage confirmed!,kei,重創確認！給力！
+gup_kei/sentences/armor_pierced_crit_by_player_02.json,It's okay! It landed!,kei,別慌張！有擊中！
+gup_kei/sentences/armor_pierced_crit_by_player_03.json,Critical damage confirmed!,kei,敵方車輛重傷確認！
 gup_kei/sentences/armor_ricochet_by_player_01.json,Huh? It ricocheted!,kei,啥？彈開了！
 gup_kei/sentences/armor_ricochet_by_player_02.json,Ricochet? No problem!,kei,彈開？小意思！
 gup_kei/sentences/armor_ricochet_by_player_03.json,Seems like that ricocheted.,kei,好像彈開了耶。
@@ -58,32 +58,32 @@ gup_kei/sentences/driver_killed_02.json,They are aiming at our driver! You okay?
 gup_kei/sentences/driver_killed_03.json,Driver injured! Can anybody cover?,kei,駕駛員受傷！有人能頂上嗎？
 gup_kei/sentences/driver_killed_04.json,They hit our driver's seat! Mobility will be reduced!,kei,駕駛座被打中！機動性下降！
 gup_kei/sentences/enemy_fire_started_by_player_01.json,Oops! Enemy vehicle on fire!,kei,哎呀！敵車燒起來啦！
-gup_kei/sentences/enemy_fire_started_by_player_02.json,Nice shot! It caused a fire!,kei,超棒一擊！燒起來了！
+gup_kei/sentences/enemy_fire_started_by_player_02.json,Nice shot! It caused a fire!,kei,Nice shot！發生火災了！
 gup_kei/sentences/enemy_fire_started_by_player_03.json,They are on fire! Lucky us!,kei,他們著火啦！我們好運！
-gup_kei/sentences/enemy_fire_started_by_player_04.json,Enemy vehicle in flames! Keep pushing!,kei,敵車燒成火球！繼續衝！
+gup_kei/sentences/enemy_fire_started_by_player_04.json,Enemy vehicle in flames! Keep pushing!,kei,敵車確認發生火災！繼續衝！
 gup_kei/sentences/enemy_fire_started_by_player_05.json,Whew! It's set ablaze!,kei,哇！燒得旺！
 gup_kei/sentences/enemy_fire_started_by_player_06.json,Wow! I see a fire!,kei,哇！火光衝天！
-gup_kei/sentences/enemy_fire_started_by_player_07.json,OH! We started a fire!,kei,哦！我們點火啦！
+gup_kei/sentences/enemy_fire_started_by_player_07.json,OH! We started a fire!,kei,哦！發生火災啦！
 gup_kei/sentences/enemy_fire_started_by_player_08.json,I see a fire there! Are they okay?,kei,看到火光！他們還好嗎？
-gup_kei/sentences/enemy_fire_started_by_player_09.json,Sorry! We set them ablaze!,kei,抱歉！我們燒了他們！
+gup_kei/sentences/enemy_fire_started_by_player_09.json,Sorry! We set them ablaze!,kei,Sorry！看來是燒起來了！
 gup_kei/sentences/enemy_fire_started_by_player_10.json,Fire in the enemy vehicle confirmed!,kei,敵車起火確認！幹得好！
 gup_kei/sentences/enemy_fire_started_by_player_11.json,We started a fire! Good job!,kei,我們點燃了他們！棒極了！
-gup_kei/sentences/enemy_fire_started_by_player_12.json,"Seem like they are on fire, good luck!",kei,燒起來了！好運啊！
+gup_kei/sentences/enemy_fire_started_by_player_12.json,"Seem like they are on fire, good luck!",kei,燒起來了！Good Luck！
 gup_kei/sentences/enemy_killed_01.json,Enemy vehicle destroyed! Congrats!,kei,敵車炸爛！恭喜啦！
 gup_kei/sentences/enemy_killed_02.json,Alright! One less enemy to deal with!,kei,好耶！少一個敵人！
 gup_kei/sentences/enemy_killed_03.json,Great! Enemy vehicle destruction confirmed!,kei,太棒了！敵車摧毀確認！
 gup_kei/sentences/enemy_killed_04.json,Whew! As expected!,kei,呼！不負眾望！
 gup_kei/sentences/enemy_killed_05.json,Wow! That was great!,kei,哇！超讚！
-gup_kei/sentences/enemy_killed_06.json,Enemy vehicle destroyed! Let's keep it up!,kei,敵車炸爛！繼續衝！
-gup_kei/sentences/enemy_killed_by_player_01.json,Fantastic!,kei,太精彩了！
-gup_kei/sentences/enemy_killed_by_player_02.json,We destroyed them! Exciting!,kei,幹掉他們啦！超刺激！
-gup_kei/sentences/enemy_killed_by_player_03.json,Enemy vehicle destroyed! Stay alert and let's go!,kei,敵車炸爛！保持警戒，衝！
-gup_kei/sentences/enemy_killed_by_player_04.json,We got them! Marvelous!,kei,搞定他們！太妙了！
-gup_kei/sentences/enemy_killed_by_player_05.json,Nice shot! Let's push harder!,kei,漂亮一擊！再加把勁！
-gup_kei/sentences/enemy_killed_by_player_06.json,Enemy vehicle destroyed! Don't sweat it!,kei,敵車炸爛！別緊張！
-gup_kei/sentences/enemy_killed_by_player_07.json,Okay! We destroyed them!,kei,好！我們幹掉他們啦！
-gup_kei/sentences/enemy_killed_by_player_08.json,Nice! We destroyed them! On to the next one!,kei,棒！炸爛他們！下一個！
-gup_kei/sentences/enemy_killed_by_player_09.json,Good! Keep pushing! Let's go!,kei,好！繼續衝！上吧！
+gup_kei/sentences/enemy_killed_06.json,Enemy vehicle destroyed! Let's keep it up!,kei,敵車擊破！繼續衝！
+gup_kei/sentences/enemy_killed_by_player_01.json,Fantastic!,kei,Fantastic!！
+gup_kei/sentences/enemy_killed_by_player_02.json,We destroyed them! Exciting!,kei,擊倒敵車！Exciting!
+gup_kei/sentences/enemy_killed_by_player_03.json,Enemy vehicle destroyed! Stay alert and let's go!,kei,敵車擊破！保持警戒，衝！
+gup_kei/sentences/enemy_killed_by_player_04.json,We got them! Marvelous!,kei,擊倒敵人！Marvelous!
+gup_kei/sentences/enemy_killed_by_player_05.json,Nice shot! Let's push harder!,kei,Nice shot! 繼續保持！
+gup_kei/sentences/enemy_killed_by_player_06.json,Enemy vehicle destroyed! Don't sweat it!,kei,敵車擊破！小菜一碟！
+gup_kei/sentences/enemy_killed_by_player_07.json,Okay! We destroyed them!,kei,Okay！敵方車輛已擊殺！
+gup_kei/sentences/enemy_killed_by_player_08.json,Nice! We destroyed them! On to the next one!,kei,Nice! 擊毀敵方車輛！下一輛也拜託了！
+gup_kei/sentences/enemy_killed_by_player_09.json,Good! Keep pushing! Let's go!,kei,好！繼續衝！Let's go!！
 gup_kei/sentences/enemy_killed_by_player_10.json,We've successfully taken out the enemy!,kei,成功幹掉敵人！帥！
 gup_kei/sentences/engine_damaged_01.json,The engine is damaged!,kei,引擎壞了！糟！
 gup_kei/sentences/engine_damaged_02.json,Engine damaged!,kei,引擎受損！快點！
@@ -121,7 +121,7 @@ gup_kei/sentences/fuel_tank_damaged_05.json,Aiming for fuel tank? Not fair!,kei,
 gup_kei/sentences/gunner_killed_01.json,Gunner injured! You okay?,kei,砲手掛彩！沒事吧？
 gup_kei/sentences/gunner_killed_02.json,Gunner's seat hit! Hang in there!,kei,砲手座被打中！撐住！
 gup_kei/sentences/gunner_killed_03.json,Gunner injured! Accuracy reduced!,kei,砲手受傷！精準度下降！
-gup_kei/sentences/gunner_killed_04.json,Gunner's seat damaged! Be careful!,kei,砲手座壞了！小心！
+gup_kei/sentences/gunner_killed_04.json,Gunner's seat damaged! Be careful!,kei,砲手負傷！精準度下降！
 gup_kei/sentences/gun_damaged_01.json,Gun damaged! Accuracy down!,kei,主砲壞了！精準度掉！
 gup_kei/sentences/gun_damaged_02.json,Gun hit! Report status!,kei,主砲中彈！報告狀況！
 gup_kei/sentences/gun_damaged_03.json,Gun damaged! This is bad!,kei,主砲壞了！麻煩了！
@@ -147,27 +147,27 @@ gup_kei/sentences/radio_damaged_03.json,Long-range comms lost! Radio damaged!,ke
 gup_kei/sentences/radio_damaged_04.json,Radio malfunctioning! No long-range comms!,kei,無線電故障！無遠程通訊！
 gup_kei/sentences/radio_damaged_05.json,Radio damaged! Coordination harder!,kei,無線電壞了！協調更難！
 gup_kei/sentences/radio_damaged_06.json,Radio not working! Fix it!,kei,無線電壞了！快修！
-gup_kei/sentences/start_battle_01.json,"Alright, let's go!",kei,好！衝吧！
-gup_kei/sentences/start_battle_02.json,Let's have a fair fight!,kei,來場公平的激戰！
-gup_kei/sentences/start_battle_03.json,Let's start with a bang!,kei,開場就炸翻全場！
-gup_kei/sentences/start_battle_04.json,Ready? Let's go!,kei,準備好沒？衝啊！
-gup_kei/sentences/start_battle_05.json,Let's do our best!,kei,拼盡全力吧！
-gup_kei/sentences/start_battle_06.json,Time to battle! Yay!,kei,戰鬥時刻！耶！
-gup_kei/sentences/start_battle_07.json,Let's have fun!,kei,玩得開心點！
-gup_kei/sentences/start_battle_08.json,Alright! Charge!,kei,好！全速進攻！
-gup_kei/sentences/start_battle_09.json,Let's win this!,kei,贏下這一戰！
-gup_kei/sentences/start_battle_10.json,Operation start! Go!,kei,作戰開始！上！
-gup_kei/sentences/start_battle_11.json,"Alright, let's go!",kei,好！衝吧！
-gup_kei/sentences/start_battle_12.json,Let's have a fair fight!,kei,來場公平的激戰！
-gup_kei/sentences/start_battle_13.json,Let's start with a bang!,kei,開場就炸翻全場！
-gup_kei/sentences/start_battle_14.json,Ready? Let's go!,kei,準備好沒？衝啊！
-gup_kei/sentences/start_battle_15.json,Let's do our best!,kei,拼盡全力吧！
-gup_kei/sentences/start_battle_16.json,Time to battle! Yay!,kei,戰鬥時刻！耶！
-gup_kei/sentences/start_battle_17.json,Let's have fun!,kei,玩得開心點！
-gup_kei/sentences/start_battle_18.json,Alright! Charge!,kei,好！全速進攻！
-gup_kei/sentences/start_battle_19.json,Let's win this!,kei,贏下這一戰！
-gup_kei/sentences/start_battle_20.json,Operation start! Go!,kei,作戰開始！上！
-gup_kei/sentences/start_battle_21.json,Let's get excited!,kei,燃起來吧！
+gup_kei/sentences/start_battle_01.json,"Alright, let's go!",kei,準備好了吧！全車 Go Ahead！
+gup_kei/sentences/start_battle_02.json,Let's have a fair fight!,kei,比賽開始了！ 看來會是一場Marvelous的比拚呢！
+gup_kei/sentences/start_battle_03.json,Let's start with a bang!,kei,前進前進，砰砰地往前衝！
+gup_kei/sentences/start_battle_04.json,Ready? Let's go!,kei,比賽開始了呢！ Exciting！
+gup_kei/sentences/start_battle_05.json,Let's do our best!,kei,跟對方使用相同的車輛出擊吧！
+gup_kei/sentences/start_battle_06.json,Time to battle! Yay!,kei,讓我們來場Exciting & Crazy的戰鬥吧！
+gup_kei/sentences/start_battle_07.json,Let's have fun!,kei,大夥們！出擊了 Hurry Up！
+gup_kei/sentences/start_battle_08.json,Alright! Charge!,kei,在行動中應該要發揮好優勢火力的職責，並以十輛攻擊一輛
+gup_kei/sentences/start_battle_09.json,Let's win this!,kei,炸雞排with肉汁作戰開始！
+gup_kei/sentences/start_battle_10.json,Operation start! Go!,kei,戰鬥開始了喔，祝各位武運昌隆！Good Luck！
+gup_kei/sentences/start_battle_11.json,"Alright, let's go!",kei,準備好了沒！要突擊了喔！
+gup_kei/sentences/start_battle_12.json,Let's have a fair fight!,kei,戰鬥終於開始了！ 今日來場有趣的比賽吧！
+gup_kei/sentences/start_battle_13.json,Let's start with a bang!,kei,各位聽好，戰鬥要講求公平原則喔！
+gup_kei/sentences/start_battle_14.json,Ready? Let's go!,kei,比賽開始了呢！期待來場公平的對決！
+gup_kei/sentences/start_battle_15.json,Let's do our best!,kei,戰鬥開始了！請各位攜手同心一起戰鬥吧！
+gup_kei/sentences/start_battle_16.json,Time to battle! Yay!,kei,不管對手是誰都不能大意喔！全力以赴吧！
+gup_kei/sentences/start_battle_17.json,Let's have fun!,kei,各位！快到分配好的位置 Hurry Up！
+gup_kei/sentences/start_battle_18.json,Alright! Charge!,kei,我最歡迎公平的戰鬥了，我們隨時都OPEN喔！
+gup_kei/sentences/start_battle_19.json,Let's win this!,kei,比賽開始了呢！互相來場公平的對決吧！
+gup_kei/sentences/start_battle_20.json,Operation start! Go!,kei,下一個對手會是誰呢？ 不管是誰桑德斯一直都是Welcome的！
+gup_kei/sentences/start_battle_21.json,Let's get excited!,kei,公平原則！這可不是戰爭,一旦走錯路可就要被戰火包圍了哦。
 gup_kei/sentences/surveying_devices_damaged_01.json,Observation device is hit!,kei,觀測裝置中彈！
 gup_kei/sentences/surveying_devices_damaged_02.json,Observation device has been hit!,kei,觀測裝置被打中啦！
 gup_kei/sentences/surveying_devices_damaged_03.json,Observation device is hit! Be careful!,kei,觀測裝置中彈！小心！
@@ -208,7 +208,7 @@ gup_kei/sentences/target_captured_05.json,Time to attack!,kei,進攻時刻！上
 gup_kei/sentences/target_captured_06.json,We won't let them escape!,kei,絕不讓他們跑掉！
 gup_kei/sentences/target_captured_07.json,Great! We got them in our sights!,kei,太棒！鎖定他們啦！
 gup_kei/sentences/target_lost_01.json,"Sorry, we've lost our target.",kei,抱歉！目標跑掉了！
-gup_kei/sentences/target_lost_02.json,"They disappeared, but don't worry!",kei,敵人溜了！別慌！
+gup_kei/sentences/target_lost_02.json,"They disappeared, but don't worry!",kei,敵人溜了！Don't Mind！
 gup_kei/sentences/target_lost_03.json,We've lost sight of them.,kei,失去目標蹤影啦！
 gup_kei/sentences/target_lost_04.json,Oops! We lost them.,kei,哎呀！跟丟他們了！
 gup_kei/sentences/target_unlocked_01.json,Chasing them too far is not good!,kei,追太遠可不行！
@@ -224,10 +224,10 @@ gup_kei/sentences/target_unlocked_10.json,We'll focus on a different vehicle for
 gup_kei/sentences/target_unlocked_11.json,Watch out for other vehicles!,kei,注意其他敵車！
 gup_kei/sentences/target_unlocked_12.json,Change targets now! Hurry up!,kei,快換目標！動作快！
 gup_kei/sentences/target_unlocked_13.json,Let's change the targets now!,kei,現在換目標吧！
-gup_kei/sentences/track_damaged_01.json,They are hitting our track.,kei,他們打我們的履帶！
+gup_kei/sentences/track_damaged_01.json,They are hitting our track.,kei,我們的履帶被瞄準了！
 gup_kei/sentences/track_damaged_02.json,"They are trying to break our track, be careful.",kei,他們想斷我們履帶！小心！
-gup_kei/sentences/track_damaged_03.json,"Their target is our tracks, be careful!",kei,瞄準我們的履帶！注意啊！
-gup_kei/sentences/track_damaged_04.json,Track hit! It won't withstand another shot.,kei,履帶中彈！再來一擊就完了！
+gup_kei/sentences/track_damaged_03.json,"Their target is our tracks, be careful!",kei,我們的履帶被瞄準了！注意啊！
+gup_kei/sentences/track_damaged_04.json,Track hit! It won't withstand another shot.,kei,履帶中彈！再來一擊可能就撐不住了！
 gup_kei/sentences/track_destroyed_01.json,Stay calm! Fix them at once!,kei,冷靜！馬上修履帶！
 gup_kei/sentences/track_destroyed_02.json,We are immobilized! Fix the tracks now! Hurry up!,kei,動不了啦！快修履帶！快！
 gup_kei/sentences/track_destroyed_03.json,They got our tracks! They are not fighting fair! ,kei,履帶被打斷！他們太不公平啦！
@@ -253,7 +253,7 @@ gup_kei/sentences/turret_rotator_destroyed_04.json,Why!? The turret is not movin
 gup_kei/sentences/turret_rotator_functional_01.json,Alright! The turret has been fixed!,kei,好！砲塔修好啦！
 gup_kei/sentences/turret_rotator_functional_02.json,The turret is now repaired! Thank you!,kei,砲塔修好！謝啦！
 gup_kei/sentences/vehicle_destroyed_01.json,This is the end. It's a shame but they are a level above us.,kei,結束啦！真可惜，他們比我們強！
-gup_kei/sentences/vehicle_destroyed_02.json,"It's never easy. That's Sensha-Do, huh? ",kei,真不容易！這就是戰車道吧？
-gup_kei/sentences/vehicle_destroyed_03.json,That was good fun. Let's do it again.,kei,超好玩！再來一場！
+gup_kei/sentences/vehicle_destroyed_02.json,"It's never easy. That's Sensha-Do, huh? ",kei,果真不容易！這就是戰車道吧？
+gup_kei/sentences/vehicle_destroyed_03.json,That was good fun. Let's do it again.,kei,是場有趣的比賽！再請多指教了！
 gup_kei/sentences/vehicle_destroyed_04.json,We're going to go over what happened here.,kei,回去好好檢討這一戰！
-gup_kei/sentences/vehicle_destroyed_05.json,We have to accept defeat if we tried our best. Good match!,kei,盡力了就接受失敗！好比賽！
+gup_kei/sentences/vehicle_destroyed_05.json,We have to accept defeat if we tried our best. Good match!,kei,使出全力後的結果是這樣的話也是沒辦法的！Good Fight！
