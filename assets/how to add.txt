@@ -70,3 +70,12 @@
         <bank>gup_jp/gup_alice/voiceover.bnk</bank>
       </wwbanks>
     </mode>
+	<mode>
+      <name>gup_kei</name>
+      <wwise_language>gup_jp/gup_kei</wwise_language>
+      <description>凱伊 wot.ver</description>
+      <invisible>	False	</invisible>
+      <wwbanks>
+        <bank>gup_jp/gup_kei/voiceover.bnk</bank>
+      </wwbanks>
+    </mode>
