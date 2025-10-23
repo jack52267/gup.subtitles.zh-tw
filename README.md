@@ -4,6 +4,7 @@
 必須先安裝原本官方的字幕檔模組 [https://wgmods.net/1138/](https://wgmods.net/6725/)
 
 安裝完畢之後再將整個repo下載下來丟到res_mods/遊戲版號/mods/gup.subtitles
+或者在release下載mods.zip丟到res_mods/遊戲版號/
 
 這個模組觸發的條件為需要套用官方的少女戰車語音才會呈現出字幕樣式
 可以在res_mod/gui/soundModes/main_sound_modes.xml 這個檔案內自行加入代碼
