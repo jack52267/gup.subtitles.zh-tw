@@ -1,7 +1,7 @@
 # 少女與戰車 字幕模組中文化 (World of Tanks: Girls und Panzer Subtitles Traditional Chinese)
 
 [![Game Version](https://img.shields.io/badge/Game-World%20of%20Tanks-red)](https://worldoftanks.com/)
-[![Mod Version](https://img.shields.io/badge/Mod-GuP%20Subtitles-blue)](https://github.com/YourUsername/YourRepo/releases)
+[![Mod Version](https://img.shields.io/badge/Mod-GuP%20Subtitles-blue)](https://github.com/jack52267/gup.subtitles.zh-tw)
 
 本專案將《戰車世界》官方提供的「少女與戰車字幕模組」文本進行**繁體中文化**。  
 翻譯名詞對齊台灣代理版本，並參考 Grok AI 進行校驗。
