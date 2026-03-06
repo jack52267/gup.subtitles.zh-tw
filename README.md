@@ -17,11 +17,11 @@
 
 ### 方案 A：快速安裝 (無其他語音模組)
 如果您**沒有**安裝其他語音模組，想直接一勞永逸：
-1. 前往 [Releases](https://github.com/YourUsername/YourRepo/releases) 下載檔名含 `xml` 的檔案：`gup.subtitles.tw_版號.xml.wotmod`。
+1. 前往 [Releases](https://github.com/jack52267/gup.subtitles.zh-tw/releases) 下載檔名含 `xml` 的檔案：`gup.subtitles.tw_版號.xml.wotmod`。
 2. 將檔案放入：`遊戲目錄/mods/[當前遊戲版本號]/` 即可。
 
-### 方案 B：手動整合 (已有其他語音模組)
-如果您已有安裝其他模組（如 `GuP_VoiceSelector` 或 `Aslain`），請採此方式：
+### 方案 B：手動整合 (已有其他語音模組且想共存)
+如果您已有安裝其他語音模組（如 `GuP_VoiceSelector` 或 `Aslain` 內的其他語音），若想共存使用請採此方式：
 1. 下載 `gup.subtitles.tw_版號.wotmod` 並放入 `遊戲目錄/mods/[當前遊戲版本號]/`。
 2. 編輯（或建立） `res_mods/gui/soundModes/main_sound_modes.xml`。
 3. 將 `Assets/how to add.txt` 內的代碼複製並貼入該 XML 檔案中。
@@ -51,29 +51,32 @@
 ## 🌍 English Description
 
 ### Overview
-This project provides **Traditional Chinese localization** for the official "Girls und Panzer" subtitle mod in World of Tanks. The translation adheres to the official Taiwanese localized terminology and has been verified with Grok AI for accuracy.
+This project provides **Traditional Chinese localization** for the official *World of Tanks* "Girls und Panzer" (GuP) subtitle mod. The translation adheres to the terminology used in the official Taiwanese version and has been verified using Grok AI to ensure accuracy.
 
-### Installation Guide
+### 🛠 Installation Guide
 
-#### Method 1: Standalone Installation (No other voice mods)
-1. Download the version containing `xml` in the filename (e.g., `gup.subtitles.tw_[version].xml.wotmod`) from [Releases].
-2. Move the file to: `[WoT_Directory]/mods/[Current_Game_Version]/`.
+Please choose one of the following methods based on your current mod setup:
 
-#### Method 2: Manual Integration (Compatible with other voice mods)
-Use this method if you already use mods like `GuP_VoiceSelector` or `Aslain's Modpack`.
-1. Download the standard `.wotmod` file (without `xml` in name) to your `mods` folder.
-2. Open (or create) `res_mods/gui/soundModes/main_sound_modes.xml`.
-3. Copy the code snippet from `Assets/how to add.txt` and paste it into the XML file.
-   * *Note: Template files are available in the `Assets` folder if needed.*
+#### Method A: Standalone Installation (No other voice mods)
+Choose this method if you **do not** have any other voice mods installed and want a simple setup.
+1. Go to [Releases](https://github.com/jack52267/gup.subtitles.zh-tw/releases) and download the file with `xml` in its name (e.g., `gup.subtitles.tw_[version].xml.wotmod`).
+2. Place the file into: `[WoT_Directory]/mods/[Current_Game_Version]/`.
 
-### Important Notes
-* **Prerequisite:** Subtitles will only appear when an official GuP voice pack is selected in the audio settings.
-* **Compatibility:** Six-sense (Sixth Sense) audio might conflict with other custom voice mods.
-* **Priority:** Crew-specific voices take precedence. For example, if your crew belongs to the "Ankou Team," their voices will trigger regardless of your menu selection.
-* **Translation:** Since the source text is in English, minor nuances may differ from the original Japanese voice lines.
+#### Method B: Manual Integration (Coexist with other voice mods)
+Choose this method if you already use other voice mods (such as `GuP_VoiceSelector` or voices within `Aslain's Modpack`) and want them to work together.
+1. Download the standard `.wotmod` file (e.g., `gup.subtitles.tw_[version].wotmod`) and place it in the `mods/[Current_Game_Version]/` folder.
+2. Edit (or create) the file: `res_mods/gui/soundModes/main_sound_modes.xml`.
+3. Copy the code snippet from `Assets/how to add.txt` and paste it into that XML file.
+   * *Note: If the XML file does not exist, you can use the template provided in the `Assets` folder.*
+
+### ⚠️ Important Notes
+* **Activation Requirement:** Subtitles will only appear when the official "Girls und Panzer" voice pack is selected in the in-game audio settings.
+* **Compatibility:** Custom "Sixth Sense" audio may conflict with other voice mods.
+* **Crew Priority:** Crew-specific unique voices have higher priority. For example, if your crew is the "Ankou Team" but you select "Jatkosota High School" in the menu, the "Ankou Team" voices will take precedence.
+* **Translation Nuances:** Since the original source text is in English, there may be slight differences in nuance compared to the original Japanese voice lines.
 
 ---
 
 ## 💬 意見回饋 (Feedback)
 如果您發現任何翻譯錯誤或改進建議，歡迎提交 **Issue** 或留言告知！  
-If you encounter any translation errors or have suggestions, feel free to open an **Issue** or leave a comment!
+If you encounter any translation errors or have suggestions for improvement, please feel free to open an **Issue** or leave a comment!
