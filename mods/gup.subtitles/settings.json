@@ -71,6 +71,22 @@
 			"characters": "mods/gup.subtitles/gup_kei/characters.json",
 			"sentences": "mods/gup.subtitles/gup_kei/sentences",
 			"visuals": "mods/gup.subtitles/gup_kei/visuals.json"
+		},
+		{
+			"name": "Gup - Erwin",
+			"language": "gup_jp/gup_erwin",
+			"wwbank": "audioww/gup_jp/gup_erwin/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_erwin/characters.json",
+			"sentences": "mods/gup.subtitles/gup_erwin/sentences",
+			"visuals": "mods/gup.subtitles/gup_erwin/visuals.json"
+		},
+		{
+			"name": "Gup - Crew 2025 Hippo",
+			"language": "gup_jp/gup_crew_25_hippo",
+			"wwbank": "audioww/gup_jp/gup_crew_25_hippo/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_crew_25_hippo/characters.json",
+			"sentences": "mods/gup.subtitles/gup_crew_25_hippo/sentences",
+			"visuals": "mods/gup.subtitles/gup_crew_25_hippo/visuals.json"
 		}
 	]
 }
