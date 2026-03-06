@@ -1,0 +1,12 @@
+{
+  "duration": 3.22,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們盯上油箱了。保持警戒。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

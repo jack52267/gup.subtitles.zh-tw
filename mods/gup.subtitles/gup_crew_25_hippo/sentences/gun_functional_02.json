@@ -1,0 +1,12 @@
+{
+  "duration": 1.51,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主炮修好了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_02"
+}

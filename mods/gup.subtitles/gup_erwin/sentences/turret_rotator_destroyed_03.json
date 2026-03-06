@@ -1,0 +1,12 @@
+{
+  "duration": 3.36,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "旋轉機構完蛋了！我們無法轉動炮塔！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

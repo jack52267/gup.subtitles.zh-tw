@@ -1,0 +1,12 @@
+{
+  "duration": 2.35,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "呃！好痛...",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.46,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那引發了火災！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_09"
+}

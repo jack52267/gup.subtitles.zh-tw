@@ -1,0 +1,12 @@
+{
+  "duration": 4.42,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "出發！你就是自己故事裡的主角。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_01"
+}

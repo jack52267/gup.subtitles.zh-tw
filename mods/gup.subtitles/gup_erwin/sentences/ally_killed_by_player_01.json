@@ -1,0 +1,12 @@
+{
+  "duration": 1.82,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "喂，那是友軍。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_01"
+}

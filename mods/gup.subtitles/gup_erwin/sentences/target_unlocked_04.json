@@ -1,0 +1,12 @@
+{
+  "duration": 2.2,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "沒必要對這個敵人窮追猛打。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_04"
+}

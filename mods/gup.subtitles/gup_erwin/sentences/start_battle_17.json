@@ -1,0 +1,12 @@
+{
+  "duration": 1.25,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "各位，行動！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_17"
+}

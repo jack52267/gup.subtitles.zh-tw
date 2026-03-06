@@ -1,0 +1,12 @@
+{
+  "duration": 1.89,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "炮塔旋轉機構受損！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_01"
+}

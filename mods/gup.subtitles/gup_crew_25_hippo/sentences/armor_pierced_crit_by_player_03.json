@@ -1,0 +1,12 @@
+{
+  "duration": 1.54,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "沒關係，我們確實擊中他們了。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_03"
+}

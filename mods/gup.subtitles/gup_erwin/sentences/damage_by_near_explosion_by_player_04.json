@@ -1,0 +1,12 @@
+{
+  "duration": 0.99,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "下次一定能解決他們！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_04"
+}

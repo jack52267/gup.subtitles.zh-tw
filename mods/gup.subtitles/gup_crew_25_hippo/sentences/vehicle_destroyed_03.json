@@ -1,0 +1,24 @@
+{
+  "duration": 7.62,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "這跟八甲田山事件有什麼兩樣。",
+      "character": "oryou",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "命運已經拋棄了我們。",
+      "character": "caesar",
+      "time": 2.5
+    },
+    {
+      "emotion": "confident",
+      "text": "車長！我記得以前看過那棵樹！",
+      "character": "saemonza",
+      "time": 4.8
+    }
+  ],
+  "audio": "vehicle_destroyed_03"
+}

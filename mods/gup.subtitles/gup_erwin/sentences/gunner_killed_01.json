@@ -1,0 +1,12 @@
+{
+  "duration": 2.04,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "炮手受傷！你還好嗎？",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_01"
+}

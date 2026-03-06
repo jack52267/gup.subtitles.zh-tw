@@ -1,0 +1,12 @@
+{
+  "duration": 1.59,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "火已經撲滅了！",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_03"
+}

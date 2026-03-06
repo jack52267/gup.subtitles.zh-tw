@@ -1,0 +1,48 @@
+{
+  "duration": 10.48,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "終於，這就像是真田攻打砥石城一樣。",
+      "character": "saemonza",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "或者是法薩盧斯戰役。",
+      "character": "caesar",
+      "time": 3.8
+    },
+    {
+      "emotion": "focus",
+      "text": "你是指江戶城無血開城吧。",
+      "character": "oryou",
+      "time": 5.7
+    },
+    {
+      "emotion": "confident",
+      "text": "不，是大薩索山營救行動。",
+      "character": "erwin",
+      "time": 7.3
+    },
+    {
+      "emotion": "confident",
+      "text": "就是這個！",
+      "character": "caesar",
+      "time": 9.6
+    },
+    {
+      "emotion": "excited",
+      "text": "就是這個！",
+      "character": "saemonza",
+      "time": 9.6
+    },
+    {
+      "emotion": "excited",
+      "text": "就是這個！",
+      "character": "oryou",
+      "time": 9.6
+    }
+  ],
+  "audio": "start_battle_12"
+}

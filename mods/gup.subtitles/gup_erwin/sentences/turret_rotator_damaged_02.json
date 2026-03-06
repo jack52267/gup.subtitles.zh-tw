@@ -1,0 +1,12 @@
+{
+  "duration": 2.63,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "咦？炮塔轉得不太順暢。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

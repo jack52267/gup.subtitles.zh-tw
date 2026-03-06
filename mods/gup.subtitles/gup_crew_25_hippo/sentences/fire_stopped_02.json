@@ -1,0 +1,18 @@
+{
+  "duration": 4.06,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "我們把火撲滅了！",
+      "character": "saemonza",
+      "time": 0.0
+    },
+    {
+      "emotion": "excited",
+      "text": "火滅了。幹得好。",
+      "character": "erwin",
+      "time": 1.6
+    }
+  ],
+  "audio": "fire_stopped_02"
+}

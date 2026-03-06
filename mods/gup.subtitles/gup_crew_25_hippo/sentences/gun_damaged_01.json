@@ -1,0 +1,12 @@
+{
+  "duration": 3.39,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "主炮受損！我們的準確度會下降的！",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

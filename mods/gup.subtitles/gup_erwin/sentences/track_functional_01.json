@@ -1,0 +1,12 @@
+{
+  "duration": 1.01,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "履帶運作正常！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_01"
+}

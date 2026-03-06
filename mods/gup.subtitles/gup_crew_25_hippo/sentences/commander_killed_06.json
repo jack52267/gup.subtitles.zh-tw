@@ -1,0 +1,18 @@
+{
+  "duration": 2.96,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "可惡，誰來掩護我。",
+      "character": "caesar",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "了解。",
+      "character": "saemonza",
+      "time": 2.4
+    }
+  ],
+  "audio": "commander_killed_06"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.45,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "他們在瞄準我們的引擎！",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_03"
+}

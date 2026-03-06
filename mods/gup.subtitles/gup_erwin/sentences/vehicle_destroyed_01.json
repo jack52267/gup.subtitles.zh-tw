@@ -1,0 +1,12 @@
+{
+  "duration": 2.44,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "雖然很遺憾，但我們無法再前進了...",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_01"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 4.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "勝利往往是靠運氣。",
+      "character": "oryou",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "呃，我們撤退吧！",
+      "character": "caesar",
+      "time": 3.1
+    }
+  ],
+  "audio": "vehicle_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.56,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們現在可以移動了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.67,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "彈藥架被擊中。不知道還能不能撐過下一發。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_03"
+}

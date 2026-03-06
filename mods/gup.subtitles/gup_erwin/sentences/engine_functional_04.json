@@ -1,0 +1,12 @@
+{
+  "duration": 3.81,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "引擎修理完畢，但我們的機動性依然下降。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_04"
+}

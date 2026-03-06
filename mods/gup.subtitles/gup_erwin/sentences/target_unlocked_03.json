@@ -1,0 +1,12 @@
+{
+  "duration": 1.44,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們尋找其他目標吧。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_03"
+}

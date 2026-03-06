@@ -1,0 +1,12 @@
+{
+  "duration": 1.57,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "火焰現在熄滅了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_05"
+}

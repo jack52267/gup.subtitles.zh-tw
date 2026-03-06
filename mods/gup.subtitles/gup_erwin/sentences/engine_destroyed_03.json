@@ -1,0 +1,12 @@
+{
+  "duration": 2.24,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "動不了了！這下糟了...！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.72,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "那是友軍。我們可不想再體驗兩面作戰了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_02"
+}

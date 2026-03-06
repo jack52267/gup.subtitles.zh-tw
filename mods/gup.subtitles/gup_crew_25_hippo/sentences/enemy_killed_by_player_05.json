@@ -1,0 +1,12 @@
+{
+  "duration": 2.08,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "這裡是河馬隊，擊毀一輛！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_05"
+}

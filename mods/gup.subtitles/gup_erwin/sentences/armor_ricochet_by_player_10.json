@@ -1,0 +1,12 @@
+{
+  "duration": 3.52,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "別擔心，我們有打中。快裝填下一發炮彈。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_10"
+}

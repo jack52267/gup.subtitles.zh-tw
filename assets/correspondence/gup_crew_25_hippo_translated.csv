@@ -1,0 +1,318 @@
+﻿file_path,original_text,character,zhtw
+gup_crew_25_hippo/sentences/ally_killed_by_player_01.json,Hey! That was an ally!,caesar,喂！那是友軍啊！
+gup_crew_25_hippo/sentences/ally_killed_by_player_02.json,That's an ally. We've had enough of two-front war.,erwin,那是友軍。我們可不想再體驗兩面作戰了。
+gup_crew_25_hippo/sentences/ally_killed_by_player_03.json,Hm? That was an ally.,saemonza,嗯？那是友軍啊。
+gup_crew_25_hippo/sentences/ally_killed_by_player_04.json,You hit an ally.,oryou,你打到友軍了。
+gup_crew_25_hippo/sentences/ally_killed_by_player_05.json,Fighting among ourselves is not a great idea.,erwin,自相殘殺可不是個好主意。
+gup_crew_25_hippo/sentences/ammo_bay_damaged_01.json,"They got our ammo rack... Be careful, it might explode.",erwin,我們的彈藥架被擊中了...小心，可能會爆炸的。
+gup_crew_25_hippo/sentences/ammo_bay_damaged_02.json,They are targeting the ammo rack. There is a higher risk of explosion now.,caesar,他們盯上彈藥架了。現在爆炸的風險很高。
+gup_crew_25_hippo/sentences/ammo_bay_damaged_03.json,The ammo rack is hit. It's not looking good.,caesar,彈藥架被擊中了。情況不妙。
+gup_crew_25_hippo/sentences/ammo_bay_damaged_04.json,They've hit the ammo rack. We might have underestimated them.,saemonza,他們擊中了彈藥架。我們可能低估他們了。
+gup_crew_25_hippo/sentences/armor_not_pierced_by_player_01.json,Blocked...,erwin,被擋下了...
+gup_crew_25_hippo/sentences/armor_not_pierced_by_player_02.json,Blocked by their armor.,caesar,被他們的裝甲擋下了。
+gup_crew_25_hippo/sentences/armor_not_pierced_by_player_03.json,We hit them but did not penetrate.,saemonza,打中了，但未能擊穿。
+gup_crew_25_hippo/sentences/armor_not_pierced_by_player_04.json,We've failed to penetrate their armor.,saemonza,我們未能擊穿他們的裝甲。
+gup_crew_25_hippo/sentences/armor_not_pierced_by_player_05.json,It doesn't look like that did any damage.,oryou,看來那沒有造成任何傷害。
+gup_crew_25_hippo/sentences/armor_pierced_by_player_01.json,"Hmm, good work.",erwin,哼，幹得好。
+gup_crew_25_hippo/sentences/armor_pierced_by_player_02.json,Excellent!,caesar,太出色了！
+gup_crew_25_hippo/sentences/armor_pierced_by_player_03.json,Penetrated!,saemonza,擊穿了！
+gup_crew_25_hippo/sentences/armor_pierced_by_player_04.json,We did it!,oryou,成功了！
+gup_crew_25_hippo/sentences/armor_pierced_by_player_05.json,How about that!,saemonza,這下如何啊！
+gup_crew_25_hippo/sentences/armor_pierced_crit_by_player_01.json,Looks like they are taking damage.,oryou,看來他們受到傷害了。
+gup_crew_25_hippo/sentences/armor_pierced_crit_by_player_02.json,Damage to enemy vehicle confirmed!,erwin,確認對敵方車輛造成傷害！
+gup_crew_25_hippo/sentences/armor_pierced_crit_by_player_03.json,"It's alright, we did hit them.",saemonza,沒關係，我們確實擊中他們了。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_01.json,"Hmm, ricochet.",erwin,嗯，跳彈。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_02.json,Looks like that one bounced...,erwin,看來那一發被彈開了...
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_03.json,Ricochet!?,erwin,跳彈！？
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_04.json,That one bounced.,caesar,那一發彈開了。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_05.json,That ricocheted. Maybe it is the angle.,caesar,發生跳彈了。也許是角度的問題。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_06.json,Looks like a ricochet.,caesar,看來是跳彈了。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_07.json,Ricochet. Disappointed...!,saemonza,跳彈。真令人失望...！
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_08.json,That hit them but then bounced off.,saemonza,擊中他們了，但被彈開了。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_09.json,That one bounced...,saemonza,那一發被彈開了...
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_10.json,"No worries, we are hitting them. Load the next shell quickly.",erwin,別擔心，我們有打中他們。快裝填下一發炮彈。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_10.json,Copy that.,caesar,收到。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_11.json,Ricochet.,oryou,跳彈。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_12.json,Bounced off. We may wanna change the angle.,oryou,被彈開了。我們最好換個角度。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_12.json,Uh-huh.,saemonza,嗯。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_13.json,Almost.,oryou,差一點。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_14.json,Ricochet. Maybe the angle was too tight.,oryou,跳彈。也許角度太小了。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_15.json,That one bounced off.,erwin,那一發被彈開了。
+gup_crew_25_hippo/sentences/armor_ricochet_by_player_15.json,Next time...!,saemonza,下一次...！
+gup_crew_25_hippo/sentences/commander_killed_01.json,I got hit. I'll rest for a while...,erwin,我被打中了。我要休息一下...
+gup_crew_25_hippo/sentences/commander_killed_02.json,"Erwin, are you alright!?",caesar,埃爾文，你沒事吧！？
+gup_crew_25_hippo/sentences/commander_killed_02.json,Gah... That one hurt.,erwin,呃...那下真痛。
+gup_crew_25_hippo/sentences/commander_killed_03.json,You got me good...,erwin,你這下打得真狠...
+gup_crew_25_hippo/sentences/commander_killed_04.json,"Erwin, are you hurt?",saemonza,埃爾文，你受傷了嗎？
+gup_crew_25_hippo/sentences/commander_killed_05.json,"Erwin, are you alright!?",oryou,埃爾文，你沒事吧！？
+gup_crew_25_hippo/sentences/commander_killed_06.json,"Darn, someone cover me.",caesar,可惡，誰來掩護我。
+gup_crew_25_hippo/sentences/commander_killed_06.json,Got it.	,saemonza,了解。
+gup_crew_25_hippo/sentences/commander_killed_07.json,I need a short rest...,erwin,我需要稍微休息一下...
+gup_crew_25_hippo/sentences/crew_deactivated_01.json,Looks like it's the end for us. Let's get out.,caesar,看來我們就到此為止了。我們撤退吧。
+gup_crew_25_hippo/sentences/crew_deactivated_02.json,Ugh... We let our guard down.,oryou,呃...我們太大意了。
+gup_crew_25_hippo/sentences/crew_deactivated_03.json,I guess this is where we all fall...,erwin,看來這裡就是我們的殞命之處了...
+gup_crew_25_hippo/sentences/crew_deactivated_04.json,There is no shame in falling on the battlefield...!,saemonza,在戰場上倒下並不丟臉...！
+gup_crew_25_hippo/sentences/crew_deactivated_05.json,I didn't think it would end like this.,caesar,我沒想到會以這種方式結束。
+gup_crew_25_hippo/sentences/crew_deactivated_05.json,We go again.,oryou,我們再來一次。
+gup_crew_25_hippo/sentences/damage_by_near_explosion_by_player_01.json,Almost a direct hit.,erwin,差一點就直接命中了。
+gup_crew_25_hippo/sentences/damage_by_near_explosion_by_player_02.json,That one wasn't a direct hit.,caesar,那一發沒有直接命中。
+gup_crew_25_hippo/sentences/damage_by_near_explosion_by_player_03.json,"Thought we had them, but...",saemonza,還以為我們得手了，但...
+gup_crew_25_hippo/sentences/damage_by_near_explosion_by_player_04.json,We'll get them next time!,oryou,下次一定能解決他們！
+gup_crew_25_hippo/sentences/damage_by_near_explosion_by_player_05.json,Stay calm. We make the next one count.,erwin,保持冷靜。我們讓下一發確實命中。
+gup_crew_25_hippo/sentences/damage_by_near_explosion_by_player_05.json,Oooo!,saemonza,喔喔喔！
+gup_crew_25_hippo/sentences/driver_killed_01.json,Woah! Ouch...,oryou,哇！好痛...
+gup_crew_25_hippo/sentences/driver_killed_02.json,They are aiming at the driver's seat!,erwin,他們在瞄準駕駛座！
+gup_crew_25_hippo/sentences/driver_killed_03.json,"Did that hit the driver's seat!? Oryo, are you alright?",caesar,那發擊中駕駛座了嗎！？阿龍，你沒事吧？
+gup_crew_25_hippo/sentences/driver_killed_03.json,Just about alright...,oryou,勉強沒事...
+gup_crew_25_hippo/sentences/driver_killed_04.json,They are targeting the driver's seat. Be careful!,saemonza,他們盯上駕駛座了。小心點！
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_01.json,Enemy vehicle on fire!,erwin,敵方車輛起火！
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_02.json,The enemy vehicle is on fire!,erwin,敵方車輛起火了！
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_03.json,The enemy vehicle is in flames!,erwin,敵方車輛陷入火海！
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_04.json,A fire broke out! It is like the Great Fire of Rome.,caesar,起火了！這簡直就像羅馬大火一樣。
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_05.json,Enemy vehicle set ablaze!,caesar,敵方車輛起火燃燒！
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_06.json,The enemy vehicle is burning.,caesar,敵方車輛正在燃燒。
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_07.json,I see a fire in the enemy vehicle. Like the siege of Mount Hiei.,excited,我看到敵方車輛起火了。就像比叡山燒討一樣。
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_08.json,Looks like the enemy vehicle has been set ablaze.,saemonza,看來敵方車輛已經起火了。
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_09.json,That caused a fire.,saemonza,那引發了火災。
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_10.json,A fire has broken out in the enemy vehicle.,oryou,敵方車輛起火了。
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_11.json,The enemy vehicle is in flames.,oryou,敵方車輛陷入火海。
+gup_crew_25_hippo/sentences/enemy_fire_started_by_player_12.json,I see a fire breaking out in the enemy vehicle.,oryou,我看到敵方車輛起火了。
+gup_crew_25_hippo/sentences/enemy_killed_01.json,Enemy vehicle destroyed!,erwin,敵方車輛被擊毀！
+gup_crew_25_hippo/sentences/enemy_killed_02.json,I can confirm that the enemy vehicle has been destroyed!,caesar,確認敵方車輛已被擊毀！
+gup_crew_25_hippo/sentences/enemy_killed_03.json,Enemy vehicle destroyed.,saemonza,敵方車輛被擊毀。
+gup_crew_25_hippo/sentences/enemy_killed_04.json,The enemy vehicle is destroyed.,oryou,敵方車輛被擊毀。
+gup_crew_25_hippo/sentences/enemy_killed_05.json,Looks like we have one less enemy vehicle.,oryou,看來敵方車輛少了一輛。
+gup_crew_25_hippo/sentences/enemy_killed_06.json,"Hum, one of the enemy vehicles has been destroyed.",erwin,哼，一輛敵方車輛被擊毀了。
+gup_crew_25_hippo/sentences/enemy_killed_by_player_01.json,Enemy vehicle destroyed! That was as good as Wittmann!,erwin,擊毀敵方車輛！這表現簡直和魏特曼一樣出色！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_02.json,We did it! We've destroyed the enemy vehicle!,erwin,成功了！我們擊毀了敵方車輛！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_02.json,The times are on our side!,caesar,時代站在我們這邊！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_03.json,"Veni, Vidi, Vici!",caesar,擊毀敵方車輛！我來，我見，我征服！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_04.json,HAHAHAHAHAHA!,erwin,哈哈哈哈哈哈！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_04.json,HAHAHAHAHAHA!,caesar,哈哈哈哈哈哈！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_05.json,"This is Kabasan, one vehicle down!",erwin,這裡是河馬隊，擊毀一輛！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_06.json,We've successfully destroyed the enemy vehicle! One step closer to being Wittmann!,erwin,成功擊毀敵方車輛！距離成為魏特曼又更近一步了！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_07.json,Got 'em!,saemonza,得手了！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_08.json,Enemy vehicle destroyed. But don't let your guard down.,erwin,擊毀敵方車輛。但不要掉以輕心。
+gup_crew_25_hippo/sentences/enemy_killed_by_player_08.json,Tighten your helmet straps in the hour of victory.,caesar,勝利之時更應勒緊頭盔的綁帶。
+gup_crew_25_hippo/sentences/enemy_killed_by_player_09.json,Don't turn into a ghost.,oryou,別化成冤魂回來喔！
+gup_crew_25_hippo/sentences/enemy_killed_by_player_10.json,No hard feelings.,saemonza,別見怪啊。
+gup_crew_25_hippo/sentences/engine_damaged_01.json,The engine has been damaged!,oryou,引擎受損了！
+gup_crew_25_hippo/sentences/engine_damaged_02.json,The engine is damaged! Our mobility will be reduced!,oryou,引擎受損！我們的機動性會下降的！
+gup_crew_25_hippo/sentences/engine_damaged_03.json,They are targeting our engine!,oryou,他們在瞄準我們的引擎！
+gup_crew_25_hippo/sentences/engine_damaged_04.json,The engine seems to be damaged. We can't go at full speed.,caesar,引擎似乎受損了。我們沒辦法全速前進。
+gup_crew_25_hippo/sentences/engine_damaged_05.json,The enemy seems to be targeting the engine. Be careful.,saemonza,敵人似乎盯上引擎了。小心點。
+gup_crew_25_hippo/sentences/engine_damaged_06.json,Engine hit! Are they trying to reduce our mobility?,confident,引擎被擊中！他們是想降低我們的機動性嗎？
+gup_crew_25_hippo/sentences/engine_damaged_07.json,"Engine damaged! How is it, Oryo?",caesar,引擎受損！情況如何，阿龍？
+gup_crew_25_hippo/sentences/engine_damaged_07.json,"We are still moving, but not at full speed.",oryou,還能動，但沒辦法全速前進。
+gup_crew_25_hippo/sentences/engine_destroyed_01.json,Engine destroyed! We can't move!,erwin,引擎被毀！我們動不了了！
+gup_crew_25_hippo/sentences/engine_destroyed_01.json,This is like Benkei's last stand...,saemonza,這就像是弁慶的立往生啊...
+gup_crew_25_hippo/sentences/engine_destroyed_02.json,Engine destroyed! We can't move!,oryou,引擎被毀！我們動不了了！
+gup_crew_25_hippo/sentences/engine_destroyed_03.json,We are immobilized! Let's repair the engine!,caesar,我們無法移動了！快修理引擎！
+gup_crew_25_hippo/sentences/engine_destroyed_04.json,The engine is destroyed! They are trying to stop us...,saemonza,引擎被毀了！他們想阻止我們前進...
+gup_crew_25_hippo/sentences/engine_functional_01.json,We've repaired the engine!,oryou,我們修好引擎了！
+gup_crew_25_hippo/sentences/engine_functional_02.json,Engine is operational! We can move now!,oryou,引擎運轉正常！現在可以移動了！
+gup_crew_25_hippo/sentences/engine_functional_03.json,Emergency repair is done! Let's fall back while we still can!,erwin,緊急維修完成！趁還能動的時候撤退吧！
+gup_crew_25_hippo/sentences/engine_functional_04.json,Emergency repair for the engine is done!,caesar,引擎緊急維修完成！
+gup_crew_25_hippo/sentences/fire_started_01.json,Our vehicle is on fire!,caesar,我們的戰車起火了！
+gup_crew_25_hippo/sentences/fire_started_02.json,We are on fire!,erwin,我們起火了！
+gup_crew_25_hippo/sentences/fire_started_02.json,"When you empty your mind, even fire feels cool...!",saemonza,心靜自然涼...！
+gup_crew_25_hippo/sentences/fire_started_02.json,Put it out quick!,caesar,快滅火！
+gup_crew_25_hippo/sentences/fire_started_03.json,Huh? Are they setting us on fire?,saemonza,咦？他們打算把我們燒了嗎？
+gup_crew_25_hippo/sentences/fire_started_04.json,"Fire! Wow, they are using a fire attack on us...!",saemonza,失火了！哇，他們居然對我們使用火攻...！
+gup_crew_25_hippo/sentences/fire_started_05.json,We are on fire!,oryou,我們起火了！
+gup_crew_25_hippo/sentences/fire_started_06.json,"Jeez, our vehicle is burning!",erwin,天啊，我們的戰車燒起來了！
+gup_crew_25_hippo/sentences/fire_started_07.json,Do I smell... something burning...?,erwin,我好像聞到...燒焦的味道...？
+gup_crew_25_hippo/sentences/fire_started_08.json,A fire has broken out! Put it out at once!,oryou,起火了！馬上滅火！
+gup_crew_25_hippo/sentences/fire_stopped_01.json,Phew... The fire is out.,caesar,呼...火滅了。
+gup_crew_25_hippo/sentences/fire_stopped_02.json,We've extinguished it!,saemonza,我們把火撲滅了！
+gup_crew_25_hippo/sentences/fire_stopped_02.json,The fire is out. Well done.,erwin,火滅了。幹得好。
+gup_crew_25_hippo/sentences/fire_stopped_03.json,The fire has been put out!,oryou,火已經撲滅了！
+gup_crew_25_hippo/sentences/fire_stopped_04.json,"Yes, the fire is out now.",caesar,好，火現在滅了。
+gup_crew_25_hippo/sentences/fire_stopped_05.json,We've managed to put the fire out.,saemonza,我們成功把火撲滅了。
+gup_crew_25_hippo/sentences/fuel_tank_damaged_01.json,Fuel tank hit!,erwin,油箱被擊中！
+gup_crew_25_hippo/sentences/fuel_tank_damaged_02.json,"The fuel tank has been hit! Be careful, it might catch fire!",erwin,油箱被擊中了！小心，可能會起火！
+gup_crew_25_hippo/sentences/fuel_tank_damaged_03.json,They are targeting the fuel tank. Stay alert.,caesar,他們盯上油箱了。保持警戒。
+gup_crew_25_hippo/sentences/fuel_tank_damaged_04.json,There is a fuel leak. Be careful.,saemonza,漏油了。小心點。
+gup_crew_25_hippo/sentences/fuel_tank_damaged_05.json,The fuel tank has been damaged.,oryou,油箱受損了。
+gup_crew_25_hippo/sentences/gunner_killed_01.json,Gunner injured! Are you good?,erwin,炮手受傷！你還好嗎？
+gup_crew_25_hippo/sentences/gunner_killed_01.json,Ouch...,saemonza,好痛...
+gup_crew_25_hippo/sentences/gunner_killed_02.json,"I've been hit, need a short rest.",saemonza,我被打中了，需要稍微休息一下。
+gup_crew_25_hippo/sentences/gunner_killed_03.json,Was that the gunner's seat!?,caesar,剛剛那是炮手座嗎！？
+gup_crew_25_hippo/sentences/gunner_killed_04.json,The gunner's seat seems to have been hit.,oryou,炮手座似乎被擊中了。
+gup_crew_25_hippo/sentences/gun_damaged_01.json,The main gun is damaged! Our accuracy is reduced!,saemonza,主炮受損！我們的準確度會下降的！
+gup_crew_25_hippo/sentences/gun_damaged_02.json,They've hit our gun. Can we still shoot straight?,erwin,他們打中了我們的主炮。還能瞄準嗎？
+gup_crew_25_hippo/sentences/gun_damaged_02.json,Our accuracy will be reduced if we don't fix it.,saemonza,如果不修理，我們的準確度會下降的。
+gup_crew_25_hippo/sentences/gun_damaged_03.json,The gun has been damaged!,caesar,主炮受損了！
+gup_crew_25_hippo/sentences/gun_damaged_04.json,The gun has been damaged.,oryou,主炮受損了。
+gup_crew_25_hippo/sentences/gun_destroyed_01.json,The gun is destroyed! We can't shoot!,saemonza,主炮被毀！我們無法射擊了！
+gup_crew_25_hippo/sentences/gun_destroyed_02.json,The gun is broken...!,caesar,主炮壞了...！
+gup_crew_25_hippo/sentences/gun_destroyed_03.json,Gun destroyed! We cannot fire it.,oryou,主炮被毀！我們無法開火。
+gup_crew_25_hippo/sentences/gun_functional_01.json,The main gun is repaired! We can shoot now!,saemonza,主炮修理完畢！現在可以射擊了！
+gup_crew_25_hippo/sentences/gun_functional_02.json,The gun is repaired.,erwin,主炮修好了。
+gup_crew_25_hippo/sentences/gun_functional_03.json,We've fixed the gun. We can fire it now.,saemonza,我們修好主炮了。現在可以開火。
+gup_crew_25_hippo/sentences/gun_functional_04.json,"Alright, the main gun is repaired!",caesar,好，主炮修理完畢！
+gup_crew_25_hippo/sentences/loader_killed_01.json,Gah! Ouch...,caesar,呃！好痛...
+gup_crew_25_hippo/sentences/loader_killed_02.json,"Caesar, are you hurt?",saemonza,凱薩，你受傷了嗎？
+gup_crew_25_hippo/sentences/loader_killed_03.json,They've hit the loader's seat! Status report!,erwin,他們擊中了裝填手座！報告狀況！
+gup_crew_25_hippo/sentences/loader_killed_03.json,It is severely damaged... That one really hurt...,caesar,嚴重受損...那下真的很痛...
+gup_crew_25_hippo/sentences/loader_killed_04.json,"Caesar, are you hurt?",saemonza,凱薩，你受傷了嗎？
+gup_crew_25_hippo/sentences/radioman_killed_01.json,The radio operator's seat has been hit!,erwin,通訊員座被擊中了！
+gup_crew_25_hippo/sentences/radioman_killed_02.json,They've hit the radio operator's seat!,caesar,他們擊中了通訊員座！
+gup_crew_25_hippo/sentences/radioman_killed_03.json,The radio operator's seat has been badly damaged!,saemonza,通訊員座嚴重受損！
+gup_crew_25_hippo/sentences/radioman_killed_04.json,Their target is the radio operator's seat.,oryou,他們的目標是通訊員座。
+gup_crew_25_hippo/sentences/radio_damaged_01.json,Radio damaged!,erwin,無線電受損！
+gup_crew_25_hippo/sentences/radio_damaged_02.json,The radio is down!,erwin,無線電壞了！
+gup_crew_25_hippo/sentences/radio_damaged_03.json,The radio is broken!,erwin,無線電故障！
+gup_crew_25_hippo/sentences/radio_damaged_04.json,Seems the radio's down.,caesar,看來無線電壞了。
+gup_crew_25_hippo/sentences/radio_damaged_05.json,Is the radio broken?,saemonza,無線電壞了嗎？
+gup_crew_25_hippo/sentences/radio_damaged_06.json,The radio has been damaged.,oryou,無線電受損了。
+gup_crew_25_hippo/sentences/start_battle_01.json,Roll out! You are the star of your own story.,erwin,出發！你就是自己故事裡的主角。
+gup_crew_25_hippo/sentences/start_battle_02.json,Let's begin. This battle is similar to the Battle of Arras!,erwin,開始吧。這場戰鬥就和阿拉斯戰役一樣！
+gup_crew_25_hippo/sentences/start_battle_02.json,"No, it's the Battle of Koshu-Katsunuma.",oryou,不，是甲州勝沼之戰。
+gup_crew_25_hippo/sentences/start_battle_02.json,It's obviously the Battle of Tenno-ji.,saemonza,很明顯是天王寺之戰吧。
+gup_crew_25_hippo/sentences/start_battle_02.json,That's it!,erwin,就是這個！
+gup_crew_25_hippo/sentences/start_battle_02.json,That's it!,caesar,就是這個！
+gup_crew_25_hippo/sentences/start_battle_02.json,That's it!,oryou,就是這個！
+gup_crew_25_hippo/sentences/start_battle_03.json,"Roll out! Our goal is to become a tank ace like Michael Wittmann, the Black Baron!",erwin,出發！我們的目標是成為像黑男爵邁克爾·魏特曼那樣的王牌戰車長！
+gup_crew_25_hippo/sentences/start_battle_04.json,Ha! (the sound of a stick falling on the ground),caesar,哈！（木棍掉落地的聲音）
+gup_crew_25_hippo/sentences/start_battle_04.json,The East favors us.,oryou,東方眷顧著我們。
+gup_crew_25_hippo/sentences/start_battle_05.json,"Attacking slowly's fine, but why not attack all at once?",caesar,慢慢進攻是不錯，但何不一口氣發動總攻呢？
+gup_crew_25_hippo/sentences/start_battle_05.json,Indeed.,saemonza,的確。
+gup_crew_25_hippo/sentences/start_battle_05.json,An excellent idea.,erwin,好主意。
+gup_crew_25_hippo/sentences/start_battle_05.json,"Whosoever makes the first move, wins.",oryou,先發制人者勝。
+gup_crew_25_hippo/sentences/start_battle_06.json,Roll out!,saemonza,出發！
+gup_crew_25_hippo/sentences/start_battle_06.json,Should we go with the Kuruma-Gakari formation?,oryou,我們要使用車懸之陣嗎？
+gup_crew_25_hippo/sentences/start_battle_06.json,We go with the Panzerkeil.,erwin,我們要用裝甲楔型陣。
+gup_crew_25_hippo/sentences/start_battle_06.json,We only have one vehicle.,caesar,我們只有一輛戰車啊。
+gup_crew_25_hippo/sentences/start_battle_06.json,,,
+gup_crew_25_hippo/sentences/start_battle_07.json,This vehicle is so cool.,oryou,這輛戰車太酷了。
+gup_crew_25_hippo/sentences/start_battle_07.json,Looks appropriate for a conqueror.,caesar,看起來很適合征服者。
+gup_crew_25_hippo/sentences/start_battle_07.json,Indeed.,saemonza,的確。
+gup_crew_25_hippo/sentences/start_battle_07.json,I would have preferred styling it like the Afrika Korps.,erwin,我還是比較喜歡把它打扮成非洲軍團的風格。
+gup_crew_25_hippo/sentences/start_battle_08.json,Are you ready for battle? We have one strategy: Blitzkrieg!,erwin,準備好戰鬥了嗎？我們的策略只有一個：閃電戰！
+gup_crew_25_hippo/sentences/start_battle_09.json,All tanks advance! We'll move around the Maginot Line and hit their stronghold!,erwin,全車前進！我們將繞過馬其諾防線，直搗他們的據點！
+gup_crew_25_hippo/sentences/start_battle_10.json,Time to move. I feel tension in the air just like in Normandy.,erwin,該行動了。我感覺到了宛如在諾曼第般的緊張氣氛。
+gup_crew_25_hippo/sentences/start_battle_11.json,This is the battle of the century. Like the Battle of El Alamein.,erwin,這是世紀之戰。就像第二次阿拉曼戰役一樣。
+gup_crew_25_hippo/sentences/start_battle_11.json,"No, more like Sekigahara.",saemonza,不，比較像關原之戰。
+gup_crew_25_hippo/sentences/start_battle_11.json,You mean the Battle of Toba-Fushimi.,oryou,你是指鳥羽伏見之戰吧。
+gup_crew_25_hippo/sentences/start_battle_11.json,That's it!,erwin,就是這個！
+gup_crew_25_hippo/sentences/start_battle_11.json,That's it!,caesar,就是這個！
+gup_crew_25_hippo/sentences/start_battle_11.json,That's it!,saemonza,就是這個！
+gup_crew_25_hippo/sentences/start_battle_12.json,"At last, this is just like Sanada's siege on Toishi Castle.",saemonza,終於，這就像是真田攻打砥石城一樣。
+gup_crew_25_hippo/sentences/start_battle_12.json,Or the Battle of Pharsalus.,caesar,或者是法薩盧斯戰役。
+gup_crew_25_hippo/sentences/start_battle_12.json,You mean the bloodless surrender of Edo Castle.,oryou,你是指江戶城無血開城吧。
+gup_crew_25_hippo/sentences/start_battle_12.json,"No, the Gran Sasso raid.",erwin,不，是大薩索山營救行動。
+gup_crew_25_hippo/sentences/start_battle_12.json,That's it!,caesar,就是這個！
+gup_crew_25_hippo/sentences/start_battle_12.json,That's it!,saemonza,就是這個！
+gup_crew_25_hippo/sentences/start_battle_12.json,That's it!,oryou,就是這個！
+gup_crew_25_hippo/sentences/start_battle_13.json,Are you all ready? Let's cross the Rubicon!,caesar,大家準備好了嗎？讓我們渡過盧比孔河吧！
+gup_crew_25_hippo/sentences/start_battle_14.json,"The battle has started. I have cardboard cutouts for disguise, just in case.",erwin,戰鬥開始了。我準備了硬紙板來做偽裝，以防萬一。
+gup_crew_25_hippo/sentences/start_battle_14.json,This one looks nice.,caesar,這個看起來不錯。
+gup_crew_25_hippo/sentences/start_battle_14.json,No this is better.,saemonza,不，這個比較好。
+gup_crew_25_hippo/sentences/start_battle_14.json,I found the best one.,oryou,我找到最棒的了。
+gup_crew_25_hippo/sentences/start_battle_15.json,Let the battle begin. The die is cast.,caesar,讓戰鬥開始吧。骰子已經擲下。
+gup_crew_25_hippo/sentences/start_battle_16.json,Falling in battle is a warrior's honor! Let's give it our best!,saemonza,戰死沙場是武士的榮譽！我們全力以赴吧！
+gup_crew_25_hippo/sentences/start_battle_17.json,Don't forget your six-sen coins. Let's fight fearlessly to the end!,saemonza,別忘了你們的六文錢。讓我們無畏地戰鬥到最後！
+gup_crew_25_hippo/sentences/start_battle_18.json,"All tanks, Festina Lente. Make haste slowly.",saemonza,全車，Festina Lente。欲速則不達。
+gup_crew_25_hippo/sentences/start_battle_19.json,Advance!,oryou,前進！
+gup_crew_25_hippo/sentences/start_battle_20.json,All tanks advance! Like Commodore Perry's Black Ships!,oryou,全車前進！就像培理提督的黑船一樣！
+gup_crew_25_hippo/sentences/start_battle_21.json,"Roll out! Lord, give us the power to win!",oryou,出發！主啊，賜予我們勝利的力量！
+gup_crew_25_hippo/sentences/surveying_devices_damaged_01.json,They hit the observation device.,erwin,他們打中了觀測裝置。
+gup_crew_25_hippo/sentences/surveying_devices_damaged_02.json,The observation device has been hit.,erwin,觀測裝置被擊中了。
+gup_crew_25_hippo/sentences/surveying_devices_damaged_03.json,Hit to the observation device confirmed.,caesar,確認觀測裝置被擊中。
+gup_crew_25_hippo/sentences/surveying_devices_damaged_04.json,They are targeting the observation device.,caesar,他們在瞄準觀測裝置。
+gup_crew_25_hippo/sentences/surveying_devices_damaged_05.json,They are targeting the observation device. Be careful.,saemonza,他們盯上觀測裝置了。小心點。
+gup_crew_25_hippo/sentences/surveying_devices_damaged_06.json,An enemy shell has hit the observation device. Was that on purpose?,saemonza,敵方的炮彈擊中了觀測裝置。那是故意的嗎？
+gup_crew_25_hippo/sentences/surveying_devices_damaged_07.json,Observation device hit.,oryou,觀測裝置被擊中。
+gup_crew_25_hippo/sentences/surveying_devices_damaged_08.json,Observation device hit. Be careful.,oryou,觀測裝置被擊中。小心點。
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_01.json,Observation device destroyed!,erwin,觀測裝置被毀！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_02.json,They've taken down the observation device! Can't see a thing!,erwin,他們打壞了觀測裝置！什麼都看不見！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_03.json,Ugh! We can't see what's outside!,erwin,呃！我們看不見外面！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_04.json,Observation device destroyed! We cannot see outside!,caesar,觀測裝置被毀！我們看不見外面！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_05.json,"What's going on outside? The observation device is down, so I cannot see!",caesar,外面發生了什麼事？觀測裝置壞了，所以我看不見！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_06.json,Observation device destroyed! We cannot see anything!,saemonza,觀測裝置被毀！我們什麼都看不見！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_07.json,The observation device has been severely damaged!,saemonza,觀測裝置嚴重受損！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_08.json,The observation device has been destroyed!,oryou,觀測裝置被毀了！
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_09.json,This is looking bad... The observation device has been destroyed...,oryou,情況不妙...觀測裝置被毀了...
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_10.json,Observation device destroyed. Stay calm and repair it.,erwin,觀測裝置被毀。保持冷靜並進行修理。
+gup_crew_25_hippo/sentences/surveying_devices_destroyed_10.json,Got it.,oryou,了解。
+gup_crew_25_hippo/sentences/surveying_devices_functional_01.json,The observation device is back online.,erwin,觀測裝置恢復運作。
+gup_crew_25_hippo/sentences/surveying_devices_functional_02.json,The observation device has been repaired.,erwin,觀測裝置修好了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_03.json,We've fixed the observation device.,erwin,我們修好觀測裝置了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_04.json,The observation device seems to be repaired.,erwin,觀測裝置似乎修好了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_05.json,Observation device restored. We can see what's going on out there now.,erwin,觀測裝置修復。現在我們可以看見外面的情況了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_06.json,That's it. We should be able to see outside now.,erwin,就是這樣。現在我們應該能看見外面了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_07.json,Observation device repaired. Can you see now?,caesar,觀測裝置修理完畢。現在能看見了嗎？
+gup_crew_25_hippo/sentences/surveying_devices_functional_08.json,The observation device is repaired. Visual is clear.,caesar,觀測裝置修好了。視野清晰。
+gup_crew_25_hippo/sentences/surveying_devices_functional_09.json,The observation device has now been fixed!,caesar,觀測裝置現在已經修復了！
+gup_crew_25_hippo/sentences/surveying_devices_functional_10.json,"Nice, this should allow us to see our surroundings now.",saemonza,太好了，這下我們應該能看清周遭環境了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_11.json,Repair is done! Our view is back!,saemonza,修理完成！我們的視野恢復了！
+gup_crew_25_hippo/sentences/surveying_devices_functional_12.json,We repaired the observation device.,oryou,我們修好觀測裝置了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_13.json,The repair of the observation device is complete.,oryou,觀測裝置的修理完成了。
+gup_crew_25_hippo/sentences/surveying_devices_functional_14.json,The observation device is back online.,oryou,觀測裝置恢復運作。
+gup_crew_25_hippo/sentences/target_captured_01.json,We've got them in our sights!,caesar,我們把他們鎖定在視野內了！
+gup_crew_25_hippo/sentences/target_captured_02.json,Shoot anywhere!,erwin,隨便打哪裡都行！
+gup_crew_25_hippo/sentences/target_captured_03.json,Target acquired!,saemonza,鎖定目標！
+gup_crew_25_hippo/sentences/target_captured_04.json,We will take this one!,oryou,就決定是這個了！
+gup_crew_25_hippo/sentences/target_captured_05.json,Fire!,erwin,開火！
+gup_crew_25_hippo/sentences/target_captured_06.json,Just hit them wherever you can!,caesar,能打到哪裡就打哪裡！
+gup_crew_25_hippo/sentences/target_captured_07.json,This is our target now.,saemonza,這就是我們現在的目標。
+gup_crew_25_hippo/sentences/target_lost_01.json,Target lost.,erwin,失去目標。
+gup_crew_25_hippo/sentences/target_lost_02.json,"Hm, the target seems to disappear.",caesar,嗯，目標似乎消失了。
+gup_crew_25_hippo/sentences/target_lost_03.json,We've lost the target.,saemonza,我們失去目標了。
+gup_crew_25_hippo/sentences/target_lost_04.json,Target gone.,oryou,目標不見了。
+gup_crew_25_hippo/sentences/target_unlocked_01.json,Let's change targets.,erwin,我們更換目標吧。
+gup_crew_25_hippo/sentences/target_unlocked_02.json,Changing targets.,erwin,正在更換目標。
+gup_crew_25_hippo/sentences/target_unlocked_03.json,Let's look for another target.,erwin,我們尋找其他目標吧。
+gup_crew_25_hippo/sentences/target_unlocked_04.json,No need to dwell on this enemy.,erwin,沒必要對這個敵人窮追猛打。
+gup_crew_25_hippo/sentences/target_unlocked_05.json,Let's focus on another enemy.,caesar,我們專注於其他敵人吧。
+gup_crew_25_hippo/sentences/target_unlocked_06.json,Maybe we should leave this one for now.,caesar,也許我們該暫時放過這一個。
+gup_crew_25_hippo/sentences/target_unlocked_07.json,Let our allies take care of this one.,caesar,把這個交給盟軍處理吧。
+gup_crew_25_hippo/sentences/target_unlocked_08.json,Let's find another target.,saemonza,我們尋找下一個目標吧。
+gup_crew_25_hippo/sentences/target_unlocked_09.json,Let's not dwell on this target.,saemonza,別執著於這個目標了。
+gup_crew_25_hippo/sentences/target_unlocked_10.json,Changing targets now.,saemonza,現在更換目標。
+gup_crew_25_hippo/sentences/target_unlocked_11.json,Let's focus on a different vehicle.,oryou,我們專注於不同的車輛吧。
+gup_crew_25_hippo/sentences/target_unlocked_12.json,Find another target.,oryou,尋找其他目標。
+gup_crew_25_hippo/sentences/target_unlocked_13.json,We are changing targets.,oryou,我們要更換目標。
+gup_crew_25_hippo/sentences/track_damaged_01.json,Tracks damaged. They won't be able to take another hit.,erwin,履帶受損。他們承受不了下一擊的。
+gup_crew_25_hippo/sentences/track_damaged_02.json,Tracks damaged. The next hit might destroy them.,caesar,履帶受損。下一擊可能會把它們打斷。
+gup_crew_25_hippo/sentences/track_damaged_03.json,They are targeting the tracks!,saemonza,他們在瞄準履帶！
+gup_crew_25_hippo/sentences/track_damaged_04.json,Their target is the tracks.,oryou,他們的目標是履帶。
+gup_crew_25_hippo/sentences/track_destroyed_01.json,The tracks are severely damaged. Repair them quickly and fall back!,erwin,履帶嚴重受損。快修好它們並撤退！
+gup_crew_25_hippo/sentences/track_destroyed_02.json,They've destroyed our tracks! We are immobilized!,caesar,他們打斷了我們的履帶！我們動不了了！
+gup_crew_25_hippo/sentences/track_destroyed_03.json,"Tracks destroyed, we can't move! Fix them at once!",saemonza,履帶斷了，我們無法移動！馬上修理！
+gup_crew_25_hippo/sentences/track_destroyed_04.json,Tracks are destroyed! We are an easy target!,oryou,履帶斷了！我們現在是活靶子！
+gup_crew_25_hippo/sentences/track_functional_01.json,Tracks operational!,erwin,履帶運作正常！
+gup_crew_25_hippo/sentences/track_functional_02.json,We've fixed the tracks!,caesar,我們修好履帶了！
+gup_crew_25_hippo/sentences/track_functional_03.json,The tracks have been repaired!,saemonza,履帶修好了！
+gup_crew_25_hippo/sentences/track_functional_04.json,We repaired the tracks.,oryou,我們修好履帶了。
+gup_crew_25_hippo/sentences/track_functional_can_move_01.json,The tracks are repaired now!,erwin,履帶現在修好了！
+gup_crew_25_hippo/sentences/track_functional_can_move_02.json,The tracks are fixed! We can move now.,erwin,履帶修好了！我們現在可以移動了。
+gup_crew_25_hippo/sentences/track_functional_can_move_03.json,We can move now!,caesar,我們現在可以移動了！
+gup_crew_25_hippo/sentences/track_functional_can_move_04.json,Let's move again!,saemonza,讓我們再次移動吧！
+gup_crew_25_hippo/sentences/track_functional_can_move_05.json,Tracks have been fixed! We are mobile now.,oryou,履帶修好了！我們現在能移動了。
+gup_crew_25_hippo/sentences/track_functional_can_move_06.json,Tracks repaired. Time to move.,oryou,履帶修理完畢。該移動了。
+gup_crew_25_hippo/sentences/track_functional_can_move_07.json,We have fixed the tracks.,oryou,我們已經修好履帶了。
+gup_crew_25_hippo/sentences/turret_rotator_damaged_01.json,The turret rotation mechanism has been damaged!,erwin,炮塔旋轉機構受損！
+gup_crew_25_hippo/sentences/turret_rotator_damaged_02.json,The turret isn't turning properly. Is it okay?,saemonza,炮塔轉得不太順暢。沒問題吧？
+gup_crew_25_hippo/sentences/turret_rotator_damaged_03.json,The turret rotation mechanism seems to be broken.,caesar,炮塔旋轉機構似乎壞了。
+gup_crew_25_hippo/sentences/turret_rotator_destroyed_01.json,We can't move the turret! Repair it at once!,erwin,我們無法轉動炮塔！馬上修理！
+gup_crew_25_hippo/sentences/turret_rotator_destroyed_02.json,The turret rotation mechanism is destroyed!,caesar,炮塔旋轉機構被毀！
+gup_crew_25_hippo/sentences/turret_rotator_destroyed_03.json,The rotation mechanism has been destroyed! We cannot move the turret!,saemonza,旋轉機構被毀！我們無法轉動炮塔！
+gup_crew_25_hippo/sentences/turret_rotator_destroyed_04.json,We cannot turn the turret! The rotation mechanism has been destroyed!,oryou,我們無法轉動炮塔！旋轉機構被毀了！
+gup_crew_25_hippo/sentences/turret_rotator_functional_01.json,Turret rotation mechanism restored!,erwin,炮塔旋轉機構修復！
+gup_crew_25_hippo/sentences/turret_rotator_functional_02.json,We fixed the turret rotation mechanism. We should be able to turn it now.,saemonza,我們修好炮塔旋轉機構了。現在應該能轉動了。
+gup_crew_25_hippo/sentences/vehicle_destroyed_01.json,The curtain.,erwin,帷幕。
+gup_crew_25_hippo/sentences/vehicle_destroyed_01.json,Has just fallen.,caesar,剛剛落下了。
+gup_crew_25_hippo/sentences/vehicle_destroyed_01.json,On our.,saemonza,在我們的。
+gup_crew_25_hippo/sentences/vehicle_destroyed_01.json,History.,oryou,歷史上。
+gup_crew_25_hippo/sentences/vehicle_destroyed_02.json,This looks like the end...,erwin,看來這就是結局了...
+gup_crew_25_hippo/sentences/vehicle_destroyed_02.json,"A tank filled with holes. For that is what we shall be. Boom we go, goodbye.",oryou,一輛滿是彈孔的戰車。這就是我們的下場。碰的一聲，再見了。
+gup_crew_25_hippo/sentences/vehicle_destroyed_02.json,This isn't the time to say a parting haiku!,caesar,現在不是唸辭世句的時候！
+gup_crew_25_hippo/sentences/vehicle_destroyed_03.json,This is no different from Hakkouda.,oryou,這跟八甲田山事件有什麼兩樣。
+gup_crew_25_hippo/sentences/vehicle_destroyed_03.json,Fate has abandoned us.,caesar,命運已經拋棄了我們。
+gup_crew_25_hippo/sentences/vehicle_destroyed_03.json,Commander! I remember seeing that tree before!,saemonza,車長！我記得以前看過那棵樹！
+gup_crew_25_hippo/sentences/vehicle_destroyed_04.json,Victory is often a matter of luck.,oryou,勝利往往是靠運氣。
+gup_crew_25_hippo/sentences/vehicle_destroyed_04.json,"Ugh, let's get out!",caesar,呃，我們撤退吧！
+gup_crew_25_hippo/sentences/vehicle_destroyed_05.json,Our roles to play in this have come to an end.,caesar,我們在這裡的角色已經落幕了。
+gup_crew_25_hippo/sentences/vehicle_destroyed_05.json,Matabei Goto would say it is alright if we win next time.,saemonza,後藤又兵衛會說，下次贏回來就好了。

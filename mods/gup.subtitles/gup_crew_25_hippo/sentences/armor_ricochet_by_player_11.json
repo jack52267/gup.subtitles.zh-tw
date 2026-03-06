@@ -1,0 +1,12 @@
+{
+  "duration": 0.85,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "跳彈。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_11"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.47,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "觀測裝置被擊中。下一擊可能會弄壞它。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_06"
+}

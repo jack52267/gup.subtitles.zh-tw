@@ -1,0 +1,30 @@
+{
+  "duration": 9.09,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "戰鬥開始了。我準備了硬紙板來做偽裝，以防萬一。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "content",
+      "text": "這個看起來不錯。",
+      "character": "caesar",
+      "time": 5.8
+    },
+    {
+      "emotion": "content",
+      "text": "不，這個比較好。",
+      "character": "saemonza",
+      "time": 6.9
+    },
+    {
+      "emotion": "focused",
+      "text": "我找到最棒的了。",
+      "character": "oryou",
+      "time": 8.0
+    }
+  ],
+  "audio": "start_battle_14"
+}

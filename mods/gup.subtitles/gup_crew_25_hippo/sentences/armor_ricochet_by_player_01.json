@@ -1,0 +1,12 @@
+{
+  "duration": 2.27,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "嗯，跳彈。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_01"
+}

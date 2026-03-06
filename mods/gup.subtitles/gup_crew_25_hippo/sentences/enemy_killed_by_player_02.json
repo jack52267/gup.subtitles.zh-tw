@@ -1,0 +1,18 @@
+{
+  "duration": 4.59,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "成功了！我們擊毀了敵方車輛！",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "時代站在我們這邊！",
+      "character": "caesar",
+      "time": 2.7
+    }
+  ],
+  "audio": "enemy_killed_by_player_02"
+}

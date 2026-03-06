@@ -1,0 +1,12 @@
+{
+  "duration": 3.98,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "外面發生了什麼事？觀測裝置壞了，所以我看不見！",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_destroyed_05"
+}

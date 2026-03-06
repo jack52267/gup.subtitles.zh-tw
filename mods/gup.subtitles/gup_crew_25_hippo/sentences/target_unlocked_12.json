@@ -1,0 +1,12 @@
+{
+  "duration": 1.56,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "尋找其他目標。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_12"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.25,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "目標不見了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_04"
+}

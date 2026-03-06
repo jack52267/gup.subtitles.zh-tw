@@ -1,0 +1,42 @@
+{
+  "duration": 10.71,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "開始吧。這場戰鬥就和阿拉斯戰役一樣！",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "不，是甲州勝沼之戰。",
+      "character": "oryou",
+      "time": 5.3
+    },
+    {
+      "emotion": "confident",
+      "text": "很明顯是天王寺之戰吧。",
+      "character": "saemonza",
+      "time": 8.1
+    },
+    {
+      "emotion": "excited",
+      "text": "就是這個！",
+      "character": "erwin",
+      "time": 9.9
+    },
+    {
+      "emotion": "confident",
+      "text": "就是這個！",
+      "character": "caesar",
+      "time": 9.9
+    },
+    {
+      "emotion": "excited",
+      "text": "就是這個！",
+      "character": "oryou",
+      "time": 9.9
+    }
+  ],
+  "audio": "start_battle_02"
+}

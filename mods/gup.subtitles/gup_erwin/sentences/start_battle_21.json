@@ -1,0 +1,12 @@
+{
+  "duration": 4.62,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "戰鬥開始。我們將無畏地拼盡全力！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_21"
+}

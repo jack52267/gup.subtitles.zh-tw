@@ -1,0 +1,12 @@
+{
+  "duration": 3.16,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們的彈藥架被擊中了...小心，可能會爆炸的。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_01"
+}

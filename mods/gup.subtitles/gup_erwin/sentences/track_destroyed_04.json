@@ -1,0 +1,12 @@
+{
+  "duration": 2.25,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "履帶被毀！我們無法移動了！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_04"
+}

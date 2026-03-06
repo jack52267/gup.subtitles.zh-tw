@@ -1,0 +1,12 @@
+{
+  "duration": 1.38,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們打中了我們的無線電！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_05"
+}

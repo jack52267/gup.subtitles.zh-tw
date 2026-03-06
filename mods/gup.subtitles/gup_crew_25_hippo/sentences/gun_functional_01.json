@@ -1,0 +1,12 @@
+{
+  "duration": 2.26,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "主炮修理完畢！現在可以射擊了！",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_01"
+}

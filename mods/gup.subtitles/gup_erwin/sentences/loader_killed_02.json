@@ -1,0 +1,12 @@
+{
+  "duration": 1.52,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "裝填手倒下了！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_02"
+}

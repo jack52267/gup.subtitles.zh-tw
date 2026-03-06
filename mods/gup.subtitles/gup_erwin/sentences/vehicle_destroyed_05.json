@@ -1,0 +1,12 @@
+{
+  "duration": 1.57,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "奇蹟還是沒有發生...",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_05"
+}

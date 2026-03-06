@@ -1,0 +1,12 @@
+{
+  "duration": 1.23,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "主炮受損了！",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_03"
+}

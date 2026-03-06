@@ -1,0 +1,12 @@
+{
+  "duration": 2.81,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "我們修好履帶了。該再次移動了！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_05"
+}

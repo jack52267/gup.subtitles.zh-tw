@@ -1,0 +1,12 @@
+{
+  "duration": 1.56,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "你這下打得真狠...",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_03"
+}

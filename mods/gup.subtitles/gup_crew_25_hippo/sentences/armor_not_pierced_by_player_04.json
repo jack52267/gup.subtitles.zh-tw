@@ -1,0 +1,12 @@
+{
+  "duration": 2.04,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們未能擊穿他們的裝甲。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_04"
+}

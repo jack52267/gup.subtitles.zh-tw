@@ -1,0 +1,12 @@
+{
+  "duration": 3.06,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "主炮被毀！無法射擊！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_01"
+}

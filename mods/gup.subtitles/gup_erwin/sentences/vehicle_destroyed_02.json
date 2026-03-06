@@ -1,0 +1,12 @@
+{
+  "duration": 1.5,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "看來這就是結局了...",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.09,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "起火了！這簡直就像羅馬大火一樣。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_04"
+}

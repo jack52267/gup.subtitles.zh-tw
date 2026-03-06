@@ -1,0 +1,12 @@
+{
+  "duration": 3.75,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "呃...我沒事，只是擦傷...",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_06"
+}

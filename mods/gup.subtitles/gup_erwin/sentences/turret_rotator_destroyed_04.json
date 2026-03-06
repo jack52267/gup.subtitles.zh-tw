@@ -1,0 +1,12 @@
+{
+  "duration": 3.85,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們摧毀了炮塔旋轉機構。我們無法轉動它了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.25,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我被打中了。我要休息一下...",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "commander_killed_01"
+}

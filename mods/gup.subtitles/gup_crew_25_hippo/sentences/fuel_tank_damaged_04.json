@@ -1,0 +1,12 @@
+{
+  "duration": 2.31,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "漏油了。小心點。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_04"
+}

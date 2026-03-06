@@ -1,0 +1,12 @@
+{
+  "duration": 2.09,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們的戰車被擊毀了！快逃！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_04"
+}

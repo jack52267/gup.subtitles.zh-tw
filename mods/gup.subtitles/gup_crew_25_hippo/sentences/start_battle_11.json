@@ -1,0 +1,42 @@
+{
+  "duration": 9.0,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "這是世紀之戰。就像第二次阿拉曼戰役一樣。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "不，比較像關原之戰。",
+      "character": "saemonza",
+      "time": 4.8
+    },
+    {
+      "emotion": "focused",
+      "text": "你是指鳥羽伏見之戰吧。",
+      "character": "oryou",
+      "time": 6.7
+    },
+    {
+      "emotion": "excited",
+      "text": "就是這個！",
+      "character": "erwin",
+      "time": 8.3
+    },
+    {
+      "emotion": "excited",
+      "text": "就是這個！",
+      "character": "caesar",
+      "time": 8.3
+    },
+    {
+      "emotion": "excited",
+      "text": "就是這個！",
+      "character": "saemonza",
+      "time": 8.3
+    }
+  ],
+  "audio": "start_battle_11"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.69,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "敵方車輛陷入火海。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_11"
+}

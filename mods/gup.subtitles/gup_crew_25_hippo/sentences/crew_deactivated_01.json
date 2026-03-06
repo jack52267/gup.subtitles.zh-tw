@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "看來我們就到此為止了。我們撤退吧。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "crew_deactivated_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.88,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們擊中了彈藥架。我們可能低估他們了。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_04"
+}

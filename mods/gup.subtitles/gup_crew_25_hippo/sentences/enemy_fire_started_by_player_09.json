@@ -1,0 +1,12 @@
+{
+  "duration": 1.49,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那引發了火災。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_09"
+}

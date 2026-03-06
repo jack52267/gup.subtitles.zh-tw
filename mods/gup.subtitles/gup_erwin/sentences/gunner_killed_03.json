@@ -1,0 +1,12 @@
+{
+  "duration": 1.34,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "炮手座被擊中了！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_03"
+}

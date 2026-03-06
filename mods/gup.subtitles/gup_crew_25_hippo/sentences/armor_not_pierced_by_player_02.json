@@ -1,0 +1,12 @@
+{
+  "duration": 1.55,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "被他們的裝甲擋下了。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_not_pierced_by_player_02"
+}

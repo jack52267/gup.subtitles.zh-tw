@@ -1,0 +1,24 @@
+{
+  "duration": 5.52,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們起火了！",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "心靜自然涼...！",
+      "character": "saemonza",
+      "time": 1.4
+    },
+    {
+      "emotion": "confident",
+      "text": "快滅火！",
+      "character": "caesar",
+      "time": 4.5
+    }
+  ],
+  "audio": "fire_started_02"
+}

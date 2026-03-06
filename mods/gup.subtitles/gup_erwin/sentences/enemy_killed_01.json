@@ -1,0 +1,12 @@
+{
+  "duration": 1.22,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵方車輛被擊毀！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_01"
+}

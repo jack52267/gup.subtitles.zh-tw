@@ -1,0 +1,18 @@
+{
+  "duration": 2.87,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我沒想到會以這種方式結束。",
+      "character": "caesar",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "我們再來一次。",
+      "character": "oryou",
+      "time": 2.0
+    }
+  ],
+  "audio": "crew_deactivated_05"
+}

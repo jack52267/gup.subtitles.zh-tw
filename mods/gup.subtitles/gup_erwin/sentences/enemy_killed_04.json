@@ -1,0 +1,12 @@
+{
+  "duration": 3.39,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "看來一輛敵方車輛被擊毀了。繼續保持！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.52,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "擊毀敵方車輛。但不要掉以輕心。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_08"
+}

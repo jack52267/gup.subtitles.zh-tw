@@ -1,0 +1,12 @@
+{
+  "duration": 1.76,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們打中了我們的引擎！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_07"
+}

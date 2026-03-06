@@ -1,0 +1,18 @@
+{
+  "duration": 2.48,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "那一發被彈開了。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "下一次...！",
+      "character": "saemonza",
+      "time": 1.4
+    }
+  ],
+  "audio": "armor_ricochet_by_player_15"
+}

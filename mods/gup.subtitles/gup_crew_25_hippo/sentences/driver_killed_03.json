@@ -1,0 +1,18 @@
+{
+  "duration": 3.6,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "那發擊中駕駛座了嗎！？阿龍，你沒事吧？",
+      "character": "caesar",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "勉強沒事...",
+      "character": "oryou",
+      "time": 2.8
+    }
+  ],
+  "audio": "driver_killed_03"
+}

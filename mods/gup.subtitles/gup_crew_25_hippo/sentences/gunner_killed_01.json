@@ -1,0 +1,18 @@
+{
+  "duration": 3.34,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "炮手受傷！你還好嗎？",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "好痛...",
+      "character": "saemonza",
+      "time": 2.3
+    }
+  ],
+  "audio": "gunner_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.51,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "我們現在可以移動了。前往更安全的位置！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_04"
+}

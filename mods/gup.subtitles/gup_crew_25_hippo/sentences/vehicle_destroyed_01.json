@@ -1,0 +1,30 @@
+{
+  "duration": 4.79,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "帷幕。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "剛剛落下了。",
+      "character": "caesar",
+      "time": 1.4
+    },
+    {
+      "emotion": "default",
+      "text": "在我們的。",
+      "character": "saemonza",
+      "time": 2.5
+    },
+    {
+      "emotion": "default",
+      "text": "歷史上。",
+      "character": "oryou",
+      "time": 3.6
+    }
+  ],
+  "audio": "vehicle_destroyed_01"
+}

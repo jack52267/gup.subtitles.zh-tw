@@ -1,0 +1,12 @@
+{
+  "duration": 1.74,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "炮手座似乎被擊中了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_04"
+}

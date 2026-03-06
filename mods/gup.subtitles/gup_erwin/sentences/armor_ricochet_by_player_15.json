@@ -1,0 +1,12 @@
+{
+  "duration": 1.17,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那一發被彈開了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_15"
+}

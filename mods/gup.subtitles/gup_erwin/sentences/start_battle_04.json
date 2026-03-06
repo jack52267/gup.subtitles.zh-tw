@@ -1,0 +1,12 @@
+{
+  "duration": 2.45,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "出發。我感覺熱血沸騰了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.6,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵方車輛起火燃燒！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_07"
+}

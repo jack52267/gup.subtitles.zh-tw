@@ -1,0 +1,18 @@
+{
+  "duration": 3.91,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "被彈開了。我們最好換個角度。",
+      "character": "oryou",
+      "time": 0.0
+    },
+    {
+      "emotion": "confused",
+      "text": "嗯。",
+      "character": "saemonza",
+      "time": 3.5
+    }
+  ],
+  "audio": "armor_ricochet_by_player_12"
+}

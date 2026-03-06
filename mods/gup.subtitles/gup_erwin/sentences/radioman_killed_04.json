@@ -1,0 +1,12 @@
+{
+  "duration": 1.45,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們打中了通訊員座。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_04"
+}

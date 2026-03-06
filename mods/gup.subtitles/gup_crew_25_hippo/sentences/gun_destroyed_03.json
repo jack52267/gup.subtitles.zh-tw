@@ -1,0 +1,12 @@
+{
+  "duration": 2.96,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主炮被毀！我們無法開火。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_03"
+}

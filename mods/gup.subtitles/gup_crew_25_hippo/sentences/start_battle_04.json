@@ -1,0 +1,18 @@
+{
+  "duration": 2.48,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "哈！（木棍掉落地的聲音）",
+      "character": "caesar",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "東方眷顧著我們。",
+      "character": "oryou",
+      "time": 1.0
+    }
+  ],
+  "audio": "start_battle_04"
+}

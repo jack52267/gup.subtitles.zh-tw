@@ -1,0 +1,12 @@
+{
+  "duration": 3.32,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "我們修好炮塔旋轉機構了。現在應該能轉動了。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_02"
+}

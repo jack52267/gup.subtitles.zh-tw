@@ -1,0 +1,12 @@
+{
+  "duration": 2.47,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "戰鬥開始了。準備好了嗎？",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_18"
+}

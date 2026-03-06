@@ -1,0 +1,30 @@
+{
+  "duration": 7.6,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "這輛戰車太酷了。",
+      "character": "oryou",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "看起來很適合征服者。",
+      "character": "caesar",
+      "time": 2.6
+    },
+    {
+      "emotion": "default",
+      "text": "的確。",
+      "character": "saemonza",
+      "time": 4.4
+    },
+    {
+      "emotion": "default",
+      "text": "我還是比較喜歡把它打扮成非洲軍團的風格。",
+      "character": "erwin",
+      "time": 4.9
+    }
+  ],
+  "audio": "start_battle_07"
+}

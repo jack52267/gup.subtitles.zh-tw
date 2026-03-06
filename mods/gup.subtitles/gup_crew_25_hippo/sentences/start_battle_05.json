@@ -1,0 +1,30 @@
+{
+  "duration": 6.61,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "慢慢進攻是不錯，但何不一口氣發動總攻呢？",
+      "character": "caesar",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "的確。",
+      "character": "saemonza",
+      "time": 3.5
+    },
+    {
+      "emotion": "content",
+      "text": "好主意。",
+      "character": "erwin",
+      "time": 4.1
+    },
+    {
+      "emotion": "focused",
+      "text": "先發制人者勝。",
+      "character": "oryou",
+      "time": 5.2
+    }
+  ],
+  "audio": "start_battle_05"
+}

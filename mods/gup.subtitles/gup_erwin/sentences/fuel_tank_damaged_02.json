@@ -1,0 +1,12 @@
+{
+  "duration": 2.96,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "油箱被擊中了！小心，可能會起火！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

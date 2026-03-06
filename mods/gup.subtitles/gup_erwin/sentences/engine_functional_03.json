@@ -1,0 +1,12 @@
+{
+  "duration": 3.14,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "緊急維修完成！趁還能動的時候撤退吧！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_functional_03"
+}

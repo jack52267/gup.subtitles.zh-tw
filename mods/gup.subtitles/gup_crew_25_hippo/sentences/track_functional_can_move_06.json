@@ -1,0 +1,12 @@
+{
+  "duration": 2.78,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "履帶修理完畢。該移動了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_06"
+}

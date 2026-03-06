@@ -1,0 +1,18 @@
+{
+  "duration": 4.35,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "別擔心，我們有打中他們。快裝填下一發炮彈。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "收到。",
+      "character": "caesar",
+      "time": 3.9
+    }
+  ],
+  "audio": "armor_ricochet_by_player_10"
+}

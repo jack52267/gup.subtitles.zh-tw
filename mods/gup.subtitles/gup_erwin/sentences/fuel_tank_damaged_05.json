@@ -1,0 +1,12 @@
+{
+  "duration": 1.84,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "油箱受損了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_05"
+}

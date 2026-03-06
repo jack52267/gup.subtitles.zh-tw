@@ -1,0 +1,12 @@
+{
+  "duration": 1.73,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "看來無線電壞了。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_04"
+}

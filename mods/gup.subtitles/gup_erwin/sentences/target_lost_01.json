@@ -1,0 +1,12 @@
+{
+  "duration": 1.37,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "失去目標。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_01"
+}

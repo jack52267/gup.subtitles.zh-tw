@@ -1,0 +1,12 @@
+{
+  "duration": 1.4,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵人又少了一個！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.31,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "現在可以轉動炮塔了。讓他們為此付出代價！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_02"
+}

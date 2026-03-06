@@ -1,0 +1,12 @@
+{
+  "duration": 3.97,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "旋轉機構被毀！我們無法轉動炮塔！",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

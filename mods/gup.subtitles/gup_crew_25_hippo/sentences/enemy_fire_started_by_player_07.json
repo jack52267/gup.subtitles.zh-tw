@@ -1,0 +1,12 @@
+{
+  "duration": 3.49,
+  "timeline": [
+    {
+      "emotion": "saemonza",
+      "text": "我看到敵方車輛起火了。就像比叡山燒討一樣。",
+      "character": "excited",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_07"
+}

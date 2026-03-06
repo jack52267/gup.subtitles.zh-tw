@@ -1,0 +1,12 @@
+{
+  "duration": 1.48,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "引擎受損了！",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_01"
+}

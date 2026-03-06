@@ -1,0 +1,12 @@
+{
+  "duration": 2.51,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "炮塔轉得不太順暢。沒問題吧？",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

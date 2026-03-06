@@ -1,0 +1,12 @@
+{
+  "duration": 1.36,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "那一發沒有直接命中。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_02"
+}

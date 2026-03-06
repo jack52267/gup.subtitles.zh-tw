@@ -1,0 +1,12 @@
+{
+  "duration": 1.98,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "炮塔旋轉機構修復！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

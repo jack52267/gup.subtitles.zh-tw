@@ -1,0 +1,12 @@
+{
+  "duration": 2.12,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "自相殘殺可不是個好主意。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_05"
+}

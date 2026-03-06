@@ -1,0 +1,12 @@
+{
+  "duration": 1.99,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "觀測裝置被擊中。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_07"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.36,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "嗯，目標似乎消失了。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_02"
+}

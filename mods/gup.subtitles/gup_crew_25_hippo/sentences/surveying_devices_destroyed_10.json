@@ -1,0 +1,18 @@
+{
+  "duration": 4.25,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "觀測裝置被毀。保持冷靜並進行修理。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "了解。",
+      "character": "oryou",
+      "time": 3.7
+    }
+  ],
+  "audio": "surveying_devices_destroyed_10"
+}

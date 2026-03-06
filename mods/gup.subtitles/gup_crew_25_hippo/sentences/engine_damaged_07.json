@@ -1,0 +1,18 @@
+{
+  "duration": 5.79,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "引擎受損！情況如何，阿龍？",
+      "character": "caesar",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "還能動，但沒辦法全速前進。",
+      "character": "oryou",
+      "time": 2.9
+    }
+  ],
+  "audio": "engine_damaged_07"
+}

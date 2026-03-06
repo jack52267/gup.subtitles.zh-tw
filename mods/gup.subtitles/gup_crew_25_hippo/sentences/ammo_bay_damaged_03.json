@@ -1,0 +1,12 @@
+{
+  "duration": 2.44,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "彈藥架被擊中了。情況不妙。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_03"
+}

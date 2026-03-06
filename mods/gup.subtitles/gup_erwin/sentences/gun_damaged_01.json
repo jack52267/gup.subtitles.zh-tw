@@ -1,0 +1,12 @@
+{
+  "duration": 1.11,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "主炮受損！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_01"
+}

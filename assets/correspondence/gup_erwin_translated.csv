@@ -1,0 +1,259 @@
+﻿file_path,original_text,character,zhtw
+gup_erwin/sentences/ally_killed_by_player_01.json,"Hey, that's an ally.",erwin,喂，那是友軍。
+gup_erwin/sentences/ally_killed_by_player_02.json,That's an ally. We've had enough of two-front war.,erwin,那是友軍。我們可不想再體驗兩面作戰了。
+gup_erwin/sentences/ally_killed_by_player_03.json,"Calm down, that is an ally.",erwin,冷靜點，那是友軍。
+gup_erwin/sentences/ally_killed_by_player_04.json,"Stop, that is an ally you hit.",erwin,住手，你打到友軍了。
+gup_erwin/sentences/ally_killed_by_player_05.json,Fighting among ourselves is not a great idea.,erwin,自相殘殺可不是個好主意。
+gup_erwin/sentences/ammo_bay_damaged_01.json,"They got our ammo rack... Be careful, it might explode.",erwin,我們的彈藥架被擊中了...小心，可能會爆炸的。
+gup_erwin/sentences/ammo_bay_damaged_02.json,The ammo rack has been damaged.,erwin,彈藥架受損了。
+gup_erwin/sentences/ammo_bay_damaged_03.json,Ammo rack hit. Not sure if it can stand the next hit.,erwin,彈藥架被擊中。不知道還能不能撐過下一發。
+gup_erwin/sentences/ammo_bay_damaged_04.json,Are they targeting the ammo rack!?,erwin,他們在瞄準彈藥架嗎！？
+gup_erwin/sentences/armor_not_pierced_by_player_01.json,Blocked...,erwin,被擋下了...
+gup_erwin/sentences/armor_not_pierced_by_player_02.json,We couldn't penetrate it.,erwin,我們未能擊穿。
+gup_erwin/sentences/armor_not_pierced_by_player_03.json,Armor penetration failed. Aim for a weak spot next time.,erwin,裝甲擊穿失敗。下次瞄準弱點。
+gup_erwin/sentences/armor_not_pierced_by_player_04.json,Couldn't penetrate. Load the next shell quickly.,erwin,未能擊穿。快裝填下一發炮彈。
+gup_erwin/sentences/armor_not_pierced_by_player_05.json,Failed to penetrate...,erwin,擊穿失敗...
+gup_erwin/sentences/armor_pierced_by_player_01.json,"Hmm, good work.",erwin,哼，幹得好。
+gup_erwin/sentences/armor_pierced_by_player_02.json,Yes! Penetrated!,erwin,太好了！擊穿了！
+gup_erwin/sentences/armor_pierced_by_player_03.json,Yes! Nice one!,erwin,太好了！幹得漂亮！
+gup_erwin/sentences/armor_pierced_by_player_04.json,Penetration!,erwin,擊穿！
+gup_erwin/sentences/armor_pierced_by_player_05.json,Yes! It's working!,erwin,太好了！起作用了！
+gup_erwin/sentences/armor_pierced_crit_by_player_01.json,"Don't worry, it is working!",erwin,別擔心，這招有效！
+gup_erwin/sentences/armor_pierced_crit_by_player_02.json,Damage to the enemy vehicle confirmed!,erwin,確認對敵方車輛造成傷害！
+gup_erwin/sentences/armor_pierced_crit_by_player_03.json,Damage to the enemy vehicle has been confirmed! Let's keep it up!,erwin,確認對敵方車輛造成傷害！繼續保持！
+gup_erwin/sentences/armor_ricochet_by_player_01.json,"Hmm, ricochet.",erwin,嗯，跳彈。
+gup_erwin/sentences/armor_ricochet_by_player_02.json,Looks like that one bounced...,erwin,看來那一發被彈開了...
+gup_erwin/sentences/armor_ricochet_by_player_03.json,Ricochet!?,erwin,跳彈！？
+gup_erwin/sentences/armor_ricochet_by_player_04.json,We hit them but seems like it bounced.,erwin,我們擊中了，但似乎被彈開了。
+gup_erwin/sentences/armor_ricochet_by_player_05.json,I guess that was a ricochet.,erwin,我猜那是一發跳彈。
+gup_erwin/sentences/armor_ricochet_by_player_06.json,Ricochet. Maybe the angle wasn't right.,erwin,跳彈。也許角度不對。
+gup_erwin/sentences/armor_ricochet_by_player_07.json,"We did hit them, but...",erwin,我們確實擊中他們了，但...
+gup_erwin/sentences/armor_ricochet_by_player_08.json,"We hit them, but didn't penetrate...",erwin,我們擊中他們了，但未能擊穿...
+gup_erwin/sentences/armor_ricochet_by_player_09.json,Ricochet. We'll get 'em next time...!,erwin,跳彈。下次一定能解決他們...！
+gup_erwin/sentences/armor_ricochet_by_player_10.json,"No worries, we are hitting them. Load the next shell quickly.",erwin,別擔心，我們有打中。快裝填下一發炮彈。
+gup_erwin/sentences/armor_ricochet_by_player_11.json,It bounced!? We have to give them credit for that.,erwin,被彈開了！？這點不得不佩服他們。
+gup_erwin/sentences/armor_ricochet_by_player_12.json,That one bounced. Angle it better.,erwin,那一發被彈開了。角度抓好點。
+gup_erwin/sentences/armor_ricochet_by_player_13.json,"Tsk, ricochet.",erwin,嘖，跳彈。
+gup_erwin/sentences/armor_ricochet_by_player_14.json,Seems like it bounced.,erwin,似乎被彈開了。
+gup_erwin/sentences/armor_ricochet_by_player_15.json,That one bounced off.,erwin,那一發被彈開了。
+gup_erwin/sentences/commander_killed_01.json,I got hit. I'll rest for a while...,erwin,我被打中了。我要休息一下...
+gup_erwin/sentences/commander_killed_02.json,Gah... That one hurt.,erwin,呃...那下真痛。
+gup_erwin/sentences/commander_killed_03.json,You got me good...,erwin,你這下打得真狠...
+gup_erwin/sentences/commander_killed_04.json,Ugh... guess they're targeting me...,erwin,呃...看來他們盯上我了...
+gup_erwin/sentences/commander_killed_05.json,"I have to admit, that one hurt...",erwin,我得承認，那下還挺痛的...
+gup_erwin/sentences/commander_killed_06.json,"Gah... I'm alright, it's just a scratch...",erwin,呃...我沒事，只是擦傷...
+gup_erwin/sentences/commander_killed_07.json,I need a short rest...,erwin,我需要稍微休息一下...
+gup_erwin/sentences/crew_deactivated_01.json,They got us all... Retreat.,erwin,我們全軍覆沒了...撤退。
+gup_erwin/sentences/crew_deactivated_02.json,I didn't think this was where it ends...,erwin,我沒想到會在這裡結束...
+gup_erwin/sentences/crew_deactivated_03.json,I guess this is where we all fall...,erwin,看來這裡就是我們的殞命之處了...
+gup_erwin/sentences/crew_deactivated_04.json,Guess this is as far as we go...,erwin,看來我們只能走到這了...
+gup_erwin/sentences/crew_deactivated_05.json,This loss... I won't forget it.,erwin,這次的敗北...我不會忘記的。
+gup_erwin/sentences/damage_by_near_explosion_by_player_01.json,Almost a direct hit.,erwin,差一點就直接命中了。
+gup_erwin/sentences/damage_by_near_explosion_by_player_02.json,That was so close.,erwin,就差那麼一點。
+gup_erwin/sentences/damage_by_near_explosion_by_player_03.json,"Not a direct hit, huh? Let's keep the pressure on.",erwin,不是直接命中嗎？我們繼續施加壓力。
+gup_erwin/sentences/damage_by_near_explosion_by_player_04.json,We'll get them next time!,erwin,下次一定能解決他們！
+gup_erwin/sentences/damage_by_near_explosion_by_player_05.json,Stay calm. We make the next one count.,erwin,保持冷靜。我們讓下一發確實命中。
+gup_erwin/sentences/driver_killed_01.json,The driver's seat has been hit!,erwin,駕駛座被擊中了！
+gup_erwin/sentences/driver_killed_02.json,They are aiming at the driver's seat!,erwin,他們在瞄準駕駛座！
+gup_erwin/sentences/driver_killed_03.json,They've hit the driver's seat! Mobility reduced!,erwin,他們擊中了駕駛座！機動性下降！
+gup_erwin/sentences/driver_killed_04.json,Seems like they've hit our driver's seat.,erwin,看來他們打中了我們的駕駛座。
+gup_erwin/sentences/enemy_fire_started_by_player_01.json,Enemy vehicle on fire!,erwin,敵方車輛起火！
+gup_erwin/sentences/enemy_fire_started_by_player_02.json,The enemy vehicle is on fire!,erwin,敵方車輛起火了！
+gup_erwin/sentences/enemy_fire_started_by_player_03.json,The enemy vehicle is in flames!,erwin,敵方車輛陷入火海！
+gup_erwin/sentences/enemy_fire_started_by_player_04.json,A fire broke out in the enemy vehicle!,erwin,敵方車輛起火了！
+gup_erwin/sentences/enemy_fire_started_by_player_05.json,That's... a fire breaking out in the enemy vehicle!,erwin,那是...敵方車輛起火了！
+gup_erwin/sentences/enemy_fire_started_by_player_06.json,Huh? The enemy vehicle seems to be on fire.,erwin,咦？敵方車輛似乎起火了。
+gup_erwin/sentences/enemy_fire_started_by_player_07.json,Enemy vehicle set ablaze!,erwin,敵方車輛起火燃燒！
+gup_erwin/sentences/enemy_fire_started_by_player_08.json,The enemy vehicle has been set ablaze!,erwin,敵方車輛已經起火燃燒！
+gup_erwin/sentences/enemy_fire_started_by_player_09.json,That started a fire!,erwin,那引發了火災！
+gup_erwin/sentences/enemy_fire_started_by_player_10.json,Fire! I see a fire in the enemy vehicle!,erwin,起火了！我看到敵方車輛起火了！
+gup_erwin/sentences/enemy_fire_started_by_player_11.json,Enemy vehicle set ablaze! Let's keep going!,erwin,敵方車輛起火燃燒！我們繼續前進！
+gup_erwin/sentences/enemy_fire_started_by_player_12.json,A fire has broken out in the enemy vehicle.,erwin,敵方車輛起火了。
+gup_erwin/sentences/enemy_killed_01.json,Enemy vehicle destroyed!,erwin,敵方車輛被擊毀！
+gup_erwin/sentences/enemy_killed_02.json,That's one less enemy!,erwin,敵人又少了一個！
+gup_erwin/sentences/enemy_killed_03.json,Enemy vehicle destruction confirmed!,erwin,確認敵方車輛被擊毀！
+gup_erwin/sentences/enemy_killed_04.json,Seems like an enemy vehicle has been destroyed. Keep it up!,erwin,看來一輛敵方車輛被擊毀了。繼續保持！
+gup_erwin/sentences/enemy_killed_05.json,An enemy vehicle has been destroyed!,erwin,一輛敵方車輛被擊毀了！
+gup_erwin/sentences/enemy_killed_06.json,"Hum, one of the enemy vehicles has been destroyed.",erwin,哼，一輛敵方車輛被擊毀了。
+gup_erwin/sentences/enemy_killed_by_player_01.json,Enemy vehicle destroyed! That was Wittmann-esque!,erwin,擊毀敵方車輛！這表現簡直跟魏特曼一樣！
+gup_erwin/sentences/enemy_killed_by_player_02.json,We did it! We've destroyed the enemy vehicle!,erwin,成功了！我們擊毀了敵方車輛！
+gup_erwin/sentences/enemy_killed_by_player_03.json,"Alright, moving onto the next!",erwin,好，繼續對付下一個！
+gup_erwin/sentences/enemy_killed_by_player_04.json,HAHAHAHAHAHA!,erwin,哈哈哈哈哈哈！
+gup_erwin/sentences/enemy_killed_by_player_05.json,"This is Hippo, one vehicle down!",erwin,這裡是河馬隊，擊毀一輛！
+gup_erwin/sentences/enemy_killed_by_player_06.json,We've successfully destroyed the enemy vehicle! One step closer to being Wittmann!,erwin,成功擊毀敵方車輛！距離成為魏特曼又更近一步了！
+gup_erwin/sentences/enemy_killed_by_player_07.json,Enemy vehicle destroyed! This is our true strength!,erwin,擊毀敵方車輛！這就是我們的真正實力！
+gup_erwin/sentences/enemy_killed_by_player_08.json,Enemy vehicle destroyed. But don't let your guard down.,erwin,擊毀敵方車輛。但不要掉以輕心。
+gup_erwin/sentences/enemy_killed_by_player_09.json,Yes! We've destroyed the enemy vehicle!,erwin,太好了！我們擊毀了敵方車輛！
+gup_erwin/sentences/enemy_killed_by_player_10.json,Enemy vehicle destroyed! This is Blitzkrieg at its peak!,erwin,擊毀敵方車輛！這就是閃電戰的巔峰！
+gup_erwin/sentences/engine_damaged_01.json,Engine damaged!,erwin,引擎受損！
+gup_erwin/sentences/engine_damaged_02.json,The engine has been damaged! Be aware of our reduced mobility!,erwin,引擎受損了！注意我們的機動性會下降！
+gup_erwin/sentences/engine_damaged_03.json,Can't speed it up!? They got our engine.,erwin,無法加速了嗎！？他們打中了我們的引擎。
+gup_erwin/sentences/engine_damaged_04.json,Engine hit! Our speed is reduced!,erwin,引擎被擊中！我們的速度下降了！
+gup_erwin/sentences/engine_damaged_05.json,Darn! They are aiming at our engine!,erwin,可惡！他們在瞄準我們的引擎！
+gup_erwin/sentences/engine_damaged_06.json,Engine hit! Are they trying to reduce our mobility?,erwin,引擎被擊中！他們是想降低我們的機動性嗎？
+gup_erwin/sentences/engine_damaged_07.json,They are hitting our engine!,erwin,他們打中了我們的引擎！
+gup_erwin/sentences/engine_destroyed_01.json,Engine destroyed! Can't move!,erwin,引擎被毀！動不了了！
+gup_erwin/sentences/engine_destroyed_02.json,Engine destroyed! We are immobilized!,erwin,引擎被毀！我們無法移動了！
+gup_erwin/sentences/engine_destroyed_03.json,Can't move! This is bad...!,erwin,動不了了！這下糟了...！
+gup_erwin/sentences/engine_destroyed_04.json,We can't move! Repair the engine at once!,erwin,我們無法移動了！馬上修理引擎！
+gup_erwin/sentences/engine_functional_01.json,Emergency repair of the engine is completed!,erwin,引擎緊急維修完成！
+gup_erwin/sentences/engine_functional_02.json,Engine repaired! We can move now!,erwin,引擎修好了！我們現在可以移動了！
+gup_erwin/sentences/engine_functional_03.json,Emergency repair is done! Let's fall back while we still can!,erwin,緊急維修完成！趁還能動的時候撤退吧！
+gup_erwin/sentences/engine_functional_04.json,"Engine repair is done, but our mobility is still reduced.",erwin,引擎修理完畢，但我們的機動性依然下降。
+gup_erwin/sentences/fire_started_01.json,Oops! Fire!,erwin,糟了！起火了！
+gup_erwin/sentences/fire_started_02.json,We are on fire!,erwin,我們起火了！
+gup_erwin/sentences/fire_started_03.json,We're on fire! What do we do!?,erwin,我們起火了！該怎麼辦！？
+gup_erwin/sentences/fire_started_04.json,Fire! Put it out fast!,erwin,起火了！快滅火！
+gup_erwin/sentences/fire_started_05.json,Fire! They got us good...!,erwin,起火了！他們打得真狠...！
+gup_erwin/sentences/fire_started_06.json,"Jeez, our vehicle is burning!",erwin,天啊，我們的戰車燒起來了！
+gup_erwin/sentences/fire_started_07.json,Do I smell... something burning...?,erwin,我好像聞到...燒焦的味道...？
+gup_erwin/sentences/fire_started_08.json,A fire has broken out! Extinguish it at once!,erwin,起火了！馬上滅火！
+gup_erwin/sentences/fire_stopped_01.json,Fire extinguished. That was close...,erwin,火滅了。好險...
+gup_erwin/sentences/fire_stopped_02.json,The fire is out. Well done.,erwin,火滅了。幹得好。
+gup_erwin/sentences/fire_stopped_03.json,"Okay, the fire is put out.",erwin,好，火勢已經撲滅了。
+gup_erwin/sentences/fire_stopped_04.json,We've managed to put the fire out.,erwin,我們成功把火撲滅了。
+gup_erwin/sentences/fire_stopped_05.json,The flames are out now.,erwin,火焰現在熄滅了。
+gup_erwin/sentences/fuel_tank_damaged_01.json,Fuel tank hit!,erwin,油箱被擊中！
+gup_erwin/sentences/fuel_tank_damaged_02.json,"The fuel tank has been hit! Be careful, it might catch fire!",erwin,油箱被擊中了！小心，可能會起火！
+gup_erwin/sentences/fuel_tank_damaged_03.json,They've hit our fuel tank.,erwin,他們打中我們的油箱了。
+gup_erwin/sentences/fuel_tank_damaged_04.json,Fuel is leaking...? There is a risk of fire.,erwin,漏油了...？有起火的風險。
+gup_erwin/sentences/fuel_tank_damaged_05.json,The fuel tank has been damaged.,erwin,油箱受損了。
+gup_erwin/sentences/gunner_killed_01.json,Gunner injured! Are you good?,erwin,炮手受傷！你還好嗎？
+gup_erwin/sentences/gunner_killed_02.json,Gunner down!,erwin,炮手倒下了！
+gup_erwin/sentences/gunner_killed_03.json,The gunner's seat has been hit!,erwin,炮手座被擊中了！
+gup_erwin/sentences/gunner_killed_04.json,They are hitting the gunner's seat! What cowardice...!,erwin,他們居然打中炮手座！真是卑鄙...！
+gup_erwin/sentences/gun_damaged_01.json,Main gun damaged!,erwin,主炮受損！
+gup_erwin/sentences/gun_damaged_02.json,They've hit our gun. Can we still shoot straight?,erwin,他們打中了我們的主炮。還能瞄準嗎？
+gup_erwin/sentences/gun_damaged_03.json,The gun is damaged! Its accuracy will be reduced.,erwin,主炮受損！準確度會下降的。
+gup_erwin/sentences/gun_damaged_04.json,The gun is damaged. Be aware that accuracy will be reduced.,erwin,主炮受損。注意準確度會下降。
+gup_erwin/sentences/gun_destroyed_01.json,The gun is destroyed! Can't shoot!,erwin,主炮被毀！無法射擊！
+gup_erwin/sentences/gun_destroyed_02.json,They destroyed our gun! We can't fire it!,erwin,他們摧毀了我們的主炮！我們無法開火！
+gup_erwin/sentences/gun_destroyed_03.json,The main gun is severely damaged!,erwin,主炮嚴重受損！
+gup_erwin/sentences/gun_functional_01.json,The main gun is repaired!,erwin,主炮修理完畢！
+gup_erwin/sentences/gun_functional_02.json,The gun is repaired.,erwin,主炮修好了。
+gup_erwin/sentences/gun_functional_03.json,The gun repair is done. We can shoot but not very well.,erwin,主炮修理完畢。可以射擊但準度不高。
+gup_erwin/sentences/gun_functional_04.json,Emergency repair is done. We can shoot now.,erwin,緊急維修完成。我們現在可以射擊了。
+gup_erwin/sentences/loader_killed_01.json,Loader hit!,erwin,裝填手被擊中！
+gup_erwin/sentences/loader_killed_02.json,The loader is down!,erwin,裝填手倒下了！
+gup_erwin/sentences/loader_killed_03.json,They've hit the loader's seat! Status report!,erwin,他們擊中了裝填手座！報告狀況！
+gup_erwin/sentences/loader_killed_04.json,The loader is injured!,erwin,裝填手受傷了！
+gup_erwin/sentences/radioman_killed_01.json,The radio operator's seat is hit!,erwin,通訊員座被擊中！
+gup_erwin/sentences/radioman_killed_02.json,They are aiming at the radio operator's seat!,erwin,他們在瞄準通訊員座！
+gup_erwin/sentences/radioman_killed_03.json,Their target is the radio operator's seat!,erwin,他們的目標是通訊員座！
+gup_erwin/sentences/radioman_killed_04.json,They've hit the radio operator's seat.,erwin,他們打中了通訊員座。
+gup_erwin/sentences/radio_damaged_01.json,Radio damaged!,erwin,無線電受損！
+gup_erwin/sentences/radio_damaged_02.json,The radio is down!,erwin,無線電壞了！
+gup_erwin/sentences/radio_damaged_03.json,The radio is broken!,erwin,無線電故障！
+gup_erwin/sentences/radio_damaged_04.json,They got our radio. It'll be difficult to communicate with our allies.,erwin,我們的無線電被打壞了。要跟友軍通訊會有困難。
+gup_erwin/sentences/radio_damaged_05.json,They hit our radio!,erwin,他們打中了我們的無線電！
+gup_erwin/sentences/radio_damaged_06.json,Huh? The radio seems off.,erwin,咦？無線電好像怪怪的。
+gup_erwin/sentences/start_battle_01.json,Roll out! We direct the movie of our own lives.,erwin,出發！我們可是自己人生電影的導演。
+gup_erwin/sentences/start_battle_02.json,Let the battle begin. It looks like the Battle of Arras!,erwin,讓戰鬥開始吧。這就像是阿拉斯戰役一樣！
+gup_erwin/sentences/start_battle_03.json,"Roll out! Our goal is to become a tank ace like Michael Wittmann, the Black Baron!",erwin,出發！我們的目標是成為像黑男爵邁克爾·魏特曼那樣的王牌戰車長！
+gup_erwin/sentences/start_battle_04.json,Let's go. I am feeling the heat.,erwin,出發。我感覺熱血沸騰了。
+gup_erwin/sentences/start_battle_05.json,Roll out! We'll earn this victory.,erwin,出發！我們會贏得這場勝利。
+gup_erwin/sentences/start_battle_06.json,"Are you ready? All tanks, advance!",erwin,準備好了嗎？全車前進！
+gup_erwin/sentences/start_battle_07.json,We'll coordinate with our allies and take out our enemies. Our secret pact has been signed already.,erwin,我們將與盟軍協調並消滅敵人。我們的密約已經簽訂了。
+gup_erwin/sentences/start_battle_08.json,Are you ready for battle? We have one strategy: Blitzkrieg!,erwin,準備好戰鬥了嗎？我們的策略只有一個：閃電戰！
+gup_erwin/sentences/start_battle_09.json,All tanks advance! We'll move around the Maginot Line and hit their stronghold!,erwin,全車前進！我們將繞過馬其諾防線，直搗他們的據點！
+gup_erwin/sentences/start_battle_10.json,Time to move. I feel tension in the air just like in Normandy.,erwin,該行動了。我感覺到了宛如在諾曼第般的緊張氣氛。
+gup_erwin/sentences/start_battle_11.json,This is the battle of the century. Like the Battle of El Alamein.,erwin,這是世紀之戰。就像第二次阿拉曼戰役一樣。
+gup_erwin/sentences/start_battle_12.json,"At last, this is our time to shine!",erwin,終於，這是我們大顯身手的時刻了！
+gup_erwin/sentences/start_battle_13.json,Get ready! Move!,erwin,準備！前進！
+gup_erwin/sentences/start_battle_14.json,"The battle has started. I have cardboard cutouts for disguise, just in case.",erwin,戰鬥開始了。我準備了硬紙板來做偽裝，以防萬一。
+gup_erwin/sentences/start_battle_15.json,"Let's begin. We fight for one thing, and one thing only: victory.",erwin,開始吧。我們只為一件事而戰：勝利。
+gup_erwin/sentences/start_battle_16.json,Let's go. We'll fight as best we can.,erwin,出發。我們會盡全力戰鬥。
+gup_erwin/sentences/start_battle_17.json,"Everybody, let's move!",erwin,各位，行動！
+gup_erwin/sentences/start_battle_18.json,The battle has started. Are you ready?,erwin,戰鬥開始了。準備好了嗎？
+gup_erwin/sentences/start_battle_19.json,The battle has started. They will see the true power of the Desert Fox.,erwin,戰鬥開始了。他們將會見識到沙漠之狐的真正實力。
+gup_erwin/sentences/start_battle_20.json,At last. Let our enemies feel our true strength!,erwin,終於。讓敵人見識我們真正的實力吧！
+gup_erwin/sentences/start_battle_21.json,The battle is on. We fight fearlessly to the best of our ability!,erwin,戰鬥開始。我們將無畏地拼盡全力！
+gup_erwin/sentences/surveying_devices_damaged_01.json,They hit the observation device.,erwin,他們打中了觀測裝置。
+gup_erwin/sentences/surveying_devices_damaged_02.json,The observation device has been hit.,erwin,觀測裝置被擊中了。
+gup_erwin/sentences/surveying_devices_damaged_03.json,A hit to the observation device has been confirmed.,erwin,確認觀測裝置被擊中。
+gup_erwin/sentences/surveying_devices_damaged_04.json,Are they targeting the observation device?,erwin,他們在瞄準觀測裝置嗎？
+gup_erwin/sentences/surveying_devices_damaged_05.json,The observation device has been hit. They are trying to blind us.,erwin,觀測裝置被擊中。他們試圖奪走我們的視野。
+gup_erwin/sentences/surveying_devices_damaged_06.json,The observation device is hit. The next hit might break it.,erwin,觀測裝置被擊中。下一擊可能會弄壞它。
+gup_erwin/sentences/surveying_devices_damaged_07.json,They are hitting the observation device. Be careful.,erwin,他們打中了觀測裝置。小心點。
+gup_erwin/sentences/surveying_devices_damaged_08.json,Observation device hit.,erwin,觀測裝置被擊中。
+gup_erwin/sentences/surveying_devices_destroyed_01.json,Observation device destroyed!,erwin,觀測裝置被毀！
+gup_erwin/sentences/surveying_devices_destroyed_02.json,They've taken down the observation device! Can't see a thing!,erwin,他們打壞了觀測裝置！什麼都看不見！
+gup_erwin/sentences/surveying_devices_destroyed_03.json,Ugh! We can't see what's outside!,erwin,呃！我們看不見外面！
+gup_erwin/sentences/surveying_devices_destroyed_04.json,What!? I cannot see a single thing!,erwin,什麼！？我什麼都看不見！
+gup_erwin/sentences/surveying_devices_destroyed_05.json,The observation device is severely damaged! We cannot see well!,erwin,觀測裝置嚴重受損！我們看不清楚！
+gup_erwin/sentences/surveying_devices_destroyed_06.json,Gah! I cannot see anything!,erwin,呃！我什麼都看不見！
+gup_erwin/sentences/surveying_devices_destroyed_07.json,Observation device destroyed! We won't see a thing if we don't repair it.,erwin,觀測裝置被毀！如果不修理的話，我們什麼也看不見。
+gup_erwin/sentences/surveying_devices_destroyed_08.json,Observation device destroyed! That was a crafty trick.,erwin,觀測裝置被毀！這招還真狡猾。
+gup_erwin/sentences/surveying_devices_destroyed_09.json,"This is bad, we cannot see outside.",erwin,糟了，我們看不見外面。
+gup_erwin/sentences/surveying_devices_destroyed_10.json,Observation device destroyed. Stay calm and repair it.,erwin,觀測裝置被毀。保持冷靜並進行修理。
+gup_erwin/sentences/surveying_devices_functional_01.json,The observation device is back online.,erwin,觀測裝置恢復運作。
+gup_erwin/sentences/surveying_devices_functional_02.json,The observation device has been repaired.,erwin,觀測裝置修好了。
+gup_erwin/sentences/surveying_devices_functional_03.json,We've fixed the observation device.,erwin,我們修好觀測裝置了。
+gup_erwin/sentences/surveying_devices_functional_04.json,The observation device seems to be repaired.,erwin,觀測裝置似乎修好了。
+gup_erwin/sentences/surveying_devices_functional_05.json,Observation device restored. We can see what's going on out there now.,erwin,觀測裝置修復。現在我們可以看見外面的情況了。
+gup_erwin/sentences/surveying_devices_functional_06.json,That's it. We should be able to see outside now.,erwin,就是這樣。現在我們應該能看見外面了。
+gup_erwin/sentences/surveying_devices_functional_07.json,"Observation device repaired. Yes, we can see far now.",erwin,觀測裝置修理完畢。好，我們現在能看得很遠了。
+gup_erwin/sentences/surveying_devices_functional_08.json,We have a clear visual on what's going on outside. It is fixed.,erwin,我們能清楚看見外面的情況。修好了。
+gup_erwin/sentences/surveying_devices_functional_09.json,The observation has been repaired!,erwin,觀測裝置修好了！
+gup_erwin/sentences/surveying_devices_functional_10.json,This should allow us to see outside.,erwin,這下我們應該能看見外面了。
+gup_erwin/sentences/surveying_devices_functional_11.json,"How about now, we can see far, can't we?",erwin,現在怎樣，我們能看得很遠了吧？
+gup_erwin/sentences/surveying_devices_functional_12.json,"Nice, the view range is back to normal now.",erwin,太好了，視野範圍現在恢復正常了。
+gup_erwin/sentences/surveying_devices_functional_13.json,It seems like the observation device is now fixed.,erwin,看來觀測裝置現在修好了。
+gup_erwin/sentences/surveying_devices_functional_14.json,Observation device back online. One less thing to worry about.,erwin,觀測裝置恢復運作。少了一件煩心事。
+gup_erwin/sentences/target_captured_01.json,We've set our sights on the enemy vehicle!,erwin,我們已經鎖定敵方車輛！
+gup_erwin/sentences/target_captured_02.json,Shoot anywhere!,erwin,隨便打哪裡都行！
+gup_erwin/sentences/target_captured_03.json,Enemy vehicle acquired!,erwin,鎖定敵方車輛！
+gup_erwin/sentences/target_captured_04.json,Let's take this one down!,erwin,把這個傢伙解決掉！
+gup_erwin/sentences/target_captured_05.json,Fire!,erwin,開火！
+gup_erwin/sentences/target_captured_06.json,Target acquired!,erwin,鎖定目標！
+gup_erwin/sentences/target_captured_07.json,Let this one be our target.,erwin,就以這傢伙為目標吧。
+gup_erwin/sentences/target_lost_01.json,Target lost.,erwin,失去目標。
+gup_erwin/sentences/target_lost_02.json,"Hmm, the target disappeared.",erwin,嗯，目標消失了。
+gup_erwin/sentences/target_lost_03.json,We lost our target.,erwin,我們失去目標了。
+gup_erwin/sentences/target_lost_04.json,Target gone. Let's find another one.,erwin,目標不見了。我們找另一個吧。
+gup_erwin/sentences/target_unlocked_01.json,Let's change targets.,erwin,我們更換目標吧。
+gup_erwin/sentences/target_unlocked_02.json,Changing targets.,erwin,正在更換目標。
+gup_erwin/sentences/target_unlocked_03.json,Let's look for another target.,erwin,我們尋找其他目標吧。
+gup_erwin/sentences/target_unlocked_04.json,No need to dwell on this enemy.,erwin,沒必要對這個敵人窮追猛打。
+gup_erwin/sentences/target_unlocked_05.json,Look for a different one.,erwin,尋找不同的目標吧。
+gup_erwin/sentences/target_unlocked_06.json,Let's leave this one for now.,erwin,我們暫時放過這一個吧。
+gup_erwin/sentences/target_unlocked_07.json,Let our allies take care of this one.,erwin,把這個交給盟軍處理吧。
+gup_erwin/sentences/target_unlocked_08.json,Focus on another target.,erwin,專注於其他目標吧。
+gup_erwin/sentences/target_unlocked_09.json,Let's not dwell on this target.,erwin,別執著於這個目標了。
+gup_erwin/sentences/target_unlocked_10.json,We should change targets.,erwin,我們應該更換目標。
+gup_erwin/sentences/target_unlocked_11.json,Changing targets might be a good idea.,erwin,更換目標或許是個好主意。
+gup_erwin/sentences/target_unlocked_12.json,No need to focus on this one.,erwin,沒必要專注於這個目標。
+gup_erwin/sentences/target_unlocked_13.json,Let's move on to the next target.,erwin,我們轉向下一個目標吧。
+gup_erwin/sentences/track_damaged_01.json,Tracks damaged. They won't be able to take another hit.,erwin,履帶受損。承受不了下一擊的。
+gup_erwin/sentences/track_damaged_02.json,They're targeting our tracks. Won't stand the next shots.,erwin,他們在瞄準我們的履帶。撐不過下一發了。
+gup_erwin/sentences/track_damaged_03.json,The tracks have been hit. They don't look too good...,erwin,履帶被擊中了。情況看來不太妙...
+gup_erwin/sentences/track_damaged_04.json,The tracks have been damaged. Be careful!,erwin,履帶受損了。小心點！
+gup_erwin/sentences/track_destroyed_01.json,The tracks are severely damaged. Repair them quickly and fall back!,erwin,履帶嚴重受損。快修好它們並撤退！
+gup_erwin/sentences/track_destroyed_02.json,We cannot move! Fix the tracks up quickly!,erwin,我們無法移動！快把履帶修好！
+gup_erwin/sentences/track_destroyed_03.json,We are an easy target if we stay here!,erwin,待在這裡我們就是活靶子！
+gup_erwin/sentences/track_destroyed_04.json,Tracks destroyed! We are immobilized!,erwin,履帶被毀！我們無法移動了！
+gup_erwin/sentences/track_functional_01.json,Tracks operational!,erwin,履帶運作正常！
+gup_erwin/sentences/track_functional_02.json,Tracks fixed!,erwin,履帶修好了！
+gup_erwin/sentences/track_functional_03.json,The tracks have been repaired!,erwin,履帶已經修好！
+gup_erwin/sentences/track_functional_04.json,Tracks repaired!,erwin,履帶修理完畢！
+gup_erwin/sentences/track_functional_can_move_01.json,The tracks are repaired now!,erwin,履帶現在修好了！
+gup_erwin/sentences/track_functional_can_move_02.json,The tracks are fixed! We can move now.,erwin,履帶修好了！我們現在可以移動了。
+gup_erwin/sentences/track_functional_can_move_03.json,We are able to move now.,erwin,我們現在可以移動了。
+gup_erwin/sentences/track_functional_can_move_04.json,We can move now. To a safer position!,erwin,我們現在可以移動了。前往更安全的位置！
+gup_erwin/sentences/track_functional_can_move_05.json,We've fixed the tracks. Time to move again!,erwin,我們修好履帶了。該再次移動了！
+gup_erwin/sentences/track_functional_can_move_06.json,Yes! We've repaired the tracks!,erwin,太好了！我們修好履帶了！
+gup_erwin/sentences/track_functional_can_move_07.json,The tracks are operational! Let's hit them back!,erwin,履帶運作正常！我們反擊吧！
+gup_erwin/sentences/turret_rotator_damaged_01.json,The turret rotation mechanism has been damaged!,erwin,炮塔旋轉機構受損！
+gup_erwin/sentences/turret_rotator_damaged_02.json,Huh? The turret isn't turning smoothly.,erwin,咦？炮塔轉得不太順暢。
+gup_erwin/sentences/turret_rotator_damaged_03.json,The turn speed of the turret has been decreased.,erwin,炮塔的旋轉速度下降了。
+gup_erwin/sentences/turret_rotator_destroyed_01.json,We can't move the turret! Repair it at once!,erwin,我們無法轉動炮塔！馬上修理！
+gup_erwin/sentences/turret_rotator_destroyed_02.json,The turret rotation mechanism is destroyed!,erwin,炮塔旋轉機構被毀！
+gup_erwin/sentences/turret_rotator_destroyed_03.json,The rotation mechanism is done for! We cannot move the turret!,erwin,旋轉機構完蛋了！我們無法轉動炮塔！
+gup_erwin/sentences/turret_rotator_destroyed_04.json,They've destroyed the turret rotation mechanism. We cannot move it.,erwin,他們摧毀了炮塔旋轉機構。我們無法轉動它了。
+gup_erwin/sentences/turret_rotator_functional_01.json,Turret rotation mechanism restored!,erwin,炮塔旋轉機構修復！
+gup_erwin/sentences/turret_rotator_functional_02.json,We can move the turret now. Let's make them pay for this!,erwin,現在可以轉動炮塔了。讓他們為此付出代價！
+gup_erwin/sentences/vehicle_destroyed_01.json,"It is disappointing, but we cannot go further...",erwin,雖然很遺憾，但我們無法再前進了...
+gup_erwin/sentences/vehicle_destroyed_02.json,This looks like the end...,erwin,看來這就是結局了...
+gup_erwin/sentences/vehicle_destroyed_03.json,We leave the rest to you...!,erwin,剩下的就交給你們了...！
+gup_erwin/sentences/vehicle_destroyed_04.json,Our vehicle has been destroyed! Get out!,erwin,我們的戰車被擊毀了！快逃！
+gup_erwin/sentences/vehicle_destroyed_05.json,The upset wasn't to be...,erwin,奇蹟還是沒有發生...

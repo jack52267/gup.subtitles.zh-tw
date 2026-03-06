@@ -1,0 +1,12 @@
+{
+  "duration": 3.6,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們無法轉動炮塔！旋轉機構被毀了！",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

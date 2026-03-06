@@ -1,0 +1,12 @@
+{
+  "duration": 1.42,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們成功把火撲滅了。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_05"
+}

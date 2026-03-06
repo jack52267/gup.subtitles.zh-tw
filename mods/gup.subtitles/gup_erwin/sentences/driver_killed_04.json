@@ -1,0 +1,12 @@
+{
+  "duration": 1.95,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "看來他們打中了我們的駕駛座。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_04"
+}

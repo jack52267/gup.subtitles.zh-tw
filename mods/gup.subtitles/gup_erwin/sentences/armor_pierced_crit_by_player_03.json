@@ -1,0 +1,12 @@
+{
+  "duration": 3.15,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "確認對敵方車輛造成傷害！繼續保持！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_03"
+}

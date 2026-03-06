@@ -1,0 +1,18 @@
+{
+  "duration": 5.6,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "他們打中了我們的主炮。還能瞄準嗎？",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "如果不修理，我們的準確度會下降的。",
+      "character": "saemonza",
+      "time": 3.3
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

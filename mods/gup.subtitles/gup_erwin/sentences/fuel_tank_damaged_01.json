@@ -1,0 +1,12 @@
+{
+  "duration": 1.19,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "油箱被擊中！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_01"
+}

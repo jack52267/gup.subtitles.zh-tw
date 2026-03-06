@@ -1,0 +1,12 @@
+{
+  "duration": 2.43,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "履帶被擊中了。情況看來不太妙...",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_03"
+}

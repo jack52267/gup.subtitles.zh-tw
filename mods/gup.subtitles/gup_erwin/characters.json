@@ -1,0 +1,31 @@
+[
+	{
+		"id": "erwin",
+		"name": "埃爾文",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/erwin_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"confused": [1, 0],
+					"content": [2, 0],
+					"confident": [0, 1],
+					"excited": [1, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/erwin_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"confused": [1, 0],
+					"content": [2, 0],
+					"confident": [0, 1],
+					"excited": [1, 1]
+				}
+			}
+		}
+	}
+]

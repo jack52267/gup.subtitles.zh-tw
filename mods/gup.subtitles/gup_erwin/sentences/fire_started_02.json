@@ -1,0 +1,12 @@
+{
+  "duration": 0.91,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們起火了！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_02"
+}

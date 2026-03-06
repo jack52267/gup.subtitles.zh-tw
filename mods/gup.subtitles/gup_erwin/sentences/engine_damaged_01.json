@@ -1,0 +1,12 @@
+{
+  "duration": 1.05,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "引擎受損！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_01"
+}

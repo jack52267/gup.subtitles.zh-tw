@@ -1,0 +1,12 @@
+{
+  "duration": 1.83,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "無線電受損了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_06"
+}

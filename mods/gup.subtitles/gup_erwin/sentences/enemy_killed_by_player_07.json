@@ -1,0 +1,12 @@
+{
+  "duration": 3.71,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "擊毀敵方車輛！這就是我們的真正實力！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_07"
+}

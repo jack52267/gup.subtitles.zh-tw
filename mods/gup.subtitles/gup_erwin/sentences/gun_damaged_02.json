@@ -1,0 +1,12 @@
+{
+  "duration": 2.95,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們打中了我們的主炮。還能瞄準嗎？",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.44,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "炮塔的旋轉速度下降了。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_03"
+}

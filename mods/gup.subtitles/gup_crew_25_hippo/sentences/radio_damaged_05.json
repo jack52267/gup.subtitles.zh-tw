@@ -1,0 +1,12 @@
+{
+  "duration": 1.4,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "無線電壞了嗎？",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_05"
+}

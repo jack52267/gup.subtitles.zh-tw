@@ -1,0 +1,12 @@
+{
+  "duration": 1.23,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "凱薩，你受傷了嗎？",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_02"
+}

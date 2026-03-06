@@ -1,0 +1,18 @@
+{
+  "duration": 3.78,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "保持冷靜。我們讓下一發確實命中。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "喔喔喔！",
+      "character": "saemonza",
+      "time": 3.2
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_05"
+}

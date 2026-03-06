@@ -1,0 +1,12 @@
+{
+  "duration": 2.43,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "他們擊中了裝填手座！報告狀況！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_03"
+}

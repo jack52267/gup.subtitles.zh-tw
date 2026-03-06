@@ -1,0 +1,12 @@
+{
+  "duration": 4.27,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "成功擊毀敵方車輛！距離成為魏特曼又更近一步了！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_06"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.35,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "炮塔旋轉機構似乎壞了。",
+      "character": "caesar",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_03"
+}

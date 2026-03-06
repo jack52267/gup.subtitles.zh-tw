@@ -1,0 +1,12 @@
+{
+  "duration": 4.7,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "讓戰鬥開始吧。這就像是阿拉斯戰役一樣！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_02"
+}

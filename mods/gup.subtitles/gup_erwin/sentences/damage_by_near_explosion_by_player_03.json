@@ -1,0 +1,12 @@
+{
+  "duration": 2.98,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "不是直接命中嗎？我們繼續施加壓力。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.55,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們已經修好履帶了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_07"
+}

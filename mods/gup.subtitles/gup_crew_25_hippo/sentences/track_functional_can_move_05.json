@@ -1,0 +1,12 @@
+{
+  "duration": 2.91,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "履帶修好了！我們現在能移動了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_05"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 6.85,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "擊毀敵方車輛。但不要掉以輕心。",
+      "character": "erwin",
+      "time": 0.0
+    },
+    {
+      "emotion": "confident",
+      "text": "勝利之時更應勒緊頭盔的綁帶。",
+      "character": "caesar",
+      "time": 3.8
+    }
+  ],
+  "audio": "enemy_killed_by_player_08"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.05,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "擊毀敵方車輛！這就是閃電戰的巔峰！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_10"
+}

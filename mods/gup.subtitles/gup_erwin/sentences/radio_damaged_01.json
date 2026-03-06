@@ -1,0 +1,12 @@
+{
+  "duration": 1.29,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "無線電受損！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_01"
+}

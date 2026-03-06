@@ -1,0 +1,12 @@
+{
+  "duration": 2.52,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "起火了！他們打得真狠...！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_05"
+}

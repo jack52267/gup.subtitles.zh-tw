@@ -2,7 +2,7 @@
       <name>gup_jp_commander</name>
       <wwise_language>gup_jp/gup_miho</wwise_language>
       <description>西住美穗 wot.ver</description>
-      <invisible>	False	</invisible>
+      <invisible>False</invisible>
       <wwbanks>
         <bank>gup_jp/gup_miho/voiceover.bnk</bank>
       </wwbanks>
@@ -11,7 +11,7 @@
       <name>gup_jp_crew</name>
       <wwise_language>gup_jp/gup_crew</wwise_language>
       <description>鮟鱇魚小隊 wot.ver</description>
-      <invisible>	False	</invisible>
+      <invisible>False</invisible>
       <wwbanks>
         <bank>gup_jp/gup_crew/voiceover.bnk</bank>
       </wwbanks>
@@ -20,7 +20,7 @@
       <name>gup_erika</name>
       <wwise_language>gup_jp/gup_erika</wwise_language>
       <description>逸見艾麗卡 wot.ver</description>
-      <invisible>	False	</invisible>
+      <invisible>False</invisible>
       <wwbanks>
         <bank>gup_jp/gup_erika/voiceover.bnk</bank>
       </wwbanks>
@@ -29,7 +29,7 @@
       <name>gup_mika</name>
       <wwise_language>gup_jp/gup_mika</wwise_language>
       <description>米卡 wot.ver</description>
-      <invisible>	False	</invisible>
+      <invisible>False</invisible>
       <wwbanks>
         <bank>gup_jp/gup_mika/voiceover.bnk</bank>
       </wwbanks>
@@ -38,7 +38,7 @@
       <name>gup_crew_24</name>
       <wwise_language>gup_jp/gup_crew_24</wwise_language>
       <description>継続高校 wot.ver</description>
-      <invisible>	False	</invisible>
+      <invisible>False</invisible>
       <wwbanks>
         <bank>gup_jp/gup_crew_24/voiceover.bnk</bank>
       </wwbanks>
@@ -47,7 +47,7 @@
       <name>gup_crew_25</name>
       <wwise_language>gup_jp/gup_crew_25</wwise_language>
       <description>邱吉爾小隊 wot.ver</description>
-      <invisible>	False	</invisible>
+      <invisible>False</invisible>
       <wwbanks>
         <bank>gup_jp/gup_crew_25/voiceover.bnk</bank>
       </wwbanks>
@@ -70,12 +70,30 @@
         <bank>gup_jp/gup_alice/voiceover.bnk</bank>
       </wwbanks>
     </mode>
-	<mode>
+    <mode>
       <name>gup_kei</name>
       <wwise_language>gup_jp/gup_kei</wwise_language>
       <description>凱伊 wot.ver</description>
-      <invisible>	False	</invisible>
+      <invisible>False</invisible>
       <wwbanks>
         <bank>gup_jp/gup_kei/voiceover.bnk</bank>
       </wwbanks>
+    </mode>
+    <mode>
+      <name>gup_erwin_en</name>
+	<wwise_language>gup_jp/gup_erwin</wwise_language>
+	<description>埃爾文 wot.ver</description>
+	<invisible>False</invisible>
+	<wwbanks>
+	   <bank>gup_jp/gup_erwin/voiceover.bnk</bank>
+	</wwbanks>
+    </mode>
+    <mode>
+	<name>gup_crew_hippo_en</name>
+	<wwise_language>gup_jp/gup_crew_25_hippo</wwise_language>
+	<description>河馬隊 wot.ver</description>
+	<invisible>False</invisible>
+	<wwbanks>
+	   <bank>gup_jp/gup_crew_25_hippo/voiceover.bnk</bank>
+	</wwbanks>
     </mode>

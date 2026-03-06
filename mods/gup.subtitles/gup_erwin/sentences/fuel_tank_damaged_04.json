@@ -1,0 +1,12 @@
+{
+  "duration": 3.13,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "漏油了...？有起火的風險。",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_04"
+}

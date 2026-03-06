@@ -1,0 +1,12 @@
+{
+  "duration": 2.49,
+  "timeline": [
+    {
+      "emotion": "confident",
+      "text": "好，繼續對付下一個！",
+      "character": "erwin",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_03"
+}

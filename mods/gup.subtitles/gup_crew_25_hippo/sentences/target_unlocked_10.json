@@ -1,0 +1,12 @@
+{
+  "duration": 1.2,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "現在更換目標。",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_10"
+}

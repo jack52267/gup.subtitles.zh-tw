@@ -1,0 +1,12 @@
+{
+  "duration": 1.68,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主炮受損了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_04"
+}

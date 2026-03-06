@@ -1,0 +1,12 @@
+{
+  "duration": 1.12,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "看來他們受到傷害了。",
+      "character": "oryou",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_01"
+}

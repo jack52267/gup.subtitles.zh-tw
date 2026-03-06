@@ -1,0 +1,12 @@
+{
+  "duration": 2.83,
+  "timeline": [
+    {
+      "emotion": "confused",
+      "text": "主炮被毀！我們無法射擊了！",
+      "character": "saemonza",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_01"
+}
