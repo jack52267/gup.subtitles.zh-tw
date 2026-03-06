@@ -23,9 +23,9 @@
 ### 方案 B：手動整合 (已有其他語音模組且想共存)
 如果您已有安裝其他語音模組（如 `GuP_VoiceSelector` 或 `Aslain` 內的其他語音），若想共存使用請採此方式：
 1. 下載 `gup.subtitles.tw_版號.wotmod` 並放入 `遊戲目錄/mods/[當前遊戲版本號]/`。
-2. 編輯（或建立） `res_mods/gui/soundModes/main_sound_modes.xml`。
+2. 編輯原有的 `res_mods/gui/soundModes/main_sound_modes.xml`。
 3. 將 `Assets/how to add.txt` 內的代碼複製並貼入該 XML 檔案中。
-   * *註：若無此 XML 檔案，可直接使用 `Assets` 資料夾內提供的範本。*
+   * *註：若無此 XML 檔案代表你裝的語音模組沒有整合選單，可直接使用 Assets 資料夾內提供的範本依照你安裝過的audioww內格式新增。*
 
 > [!CAUTION]
 > **相容性提醒：**
