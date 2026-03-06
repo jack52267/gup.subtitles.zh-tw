@@ -1,64 +1,79 @@
-這是將戰車世界官方所提供的少女戰車字幕模組內部的文本進行中文化，翻譯名詞使用台灣代理翻譯版本
+# 少女與戰車 字幕模組中文化 (World of Tanks: Girls und Panzer Subtitles Traditional Chinese)
 
-具體使用方法如下
-必須先安裝原本官方的字幕檔模組 [https://wgmods.net/1138/](https://wgmods.net/6725/)
+[![Game Version](https://img.shields.io/badge/Game-World%20of%20Tanks-red)](https://worldoftanks.com/)
+[![Mod Version](https://img.shields.io/badge/Mod-GuP%20Subtitles-blue)](https://github.com/YourUsername/YourRepo/releases)
 
-安裝完畢之後再將整個repo下載下來把mods資料夾丟到res_mods/遊戲版號/
-或者在release下載mods.zip解壓縮後將mods丟到res_mods/遊戲版號/
+本專案將《戰車世界》官方提供的「少女與戰車字幕模組」文本進行**繁體中文化**。  
+翻譯名詞對齊台灣代理版本，並參考 Grok AI 進行校驗。
 
-這個模組觸發的條件為需要套用官方的少女戰車語音才會呈現出字幕樣式
-可以相容於其他語音模組
-只要在res_mod/gui/soundModes/main_sound_modes.xml 這個檔案內自行加入代碼
-要加入的代碼可以在 Assets/how to add.txt 裡面找到
+> [!NOTE]
+> 原官方字幕模組來源：[WGMods.net (1138)](https://wgmods.net/1138/) / [WGMods.net (6725)](https://wgmods.net/6725/)
 
-如果沒有main_sound_modes.xml可以在Assets裡面找到
-main_sound_modes-original.xml-為原始遊戲版本
-main_sound_modes.xml-加入代碼的版本(第六感語音可能會與其他少女戰車語音模組衝突)
+---
 
-上面動作完成後在遊戲中語音設定選單中選擇對應的語音
+## 🛠 安裝教學 (Installation)
+
+根據您的需求，請選擇以下其中一種安裝方式：
+
+### 方案 A：快速安裝 (無其他語音模組)
+如果您**沒有**安裝其他語音模組，想直接一勞永逸：
+1. 前往 [Releases](https://github.com/YourUsername/YourRepo/releases) 下載檔名含 `xml` 的檔案：`gup.subtitles.tw_版號.xml.wotmod`。
+2. 將檔案放入：`遊戲目錄/mods/[當前遊戲版本號]/` 即可。
+
+### 方案 B：手動整合 (已有其他語音模組)
+如果您已有安裝其他模組（如 `GuP_VoiceSelector` 或 `Aslain`），請採此方式：
+1. 下載 `gup.subtitles.tw_版號.wotmod` 並放入 `遊戲目錄/mods/[當前遊戲版本號]/`。
+2. 編輯（或建立） `res_mods/gui/soundModes/main_sound_modes.xml`。
+3. 將 `Assets/how to add.txt` 內的代碼複製並貼入該 XML 檔案中。
+   * *註：若無此 XML 檔案，可直接使用 `Assets` 資料夾內提供的範本。*
+
+> [!CAUTION]
+> **相容性提醒：**
+> - 字幕觸發前提：需套用官方少女與戰車語音才會呈現字幕樣式。
+> - 第六感語音可能會與其他模組產生衝突。
+> - 乘員語音優先權：若乘員為「鮟鱇隊」但選單選「繼續高中」，會以「鮟鱇隊」語音優先。
+
+---
+
+## 📸 遊戲截圖 (Screenshots)
+
+### 設定方式 (Settings)
 <img src="./assets/P1.jpg" width="640" alt="設定選單">
 
-進入遊戲就可以看見效果了
-
+### 遊戲效果 (In-game Preview)
 <div align="center">
   <img src="./assets/P2.jpg" alt="遊戲內效果" width="49%">
   <img src="./assets/P3.jpg" alt="遊戲內效果" width="49%">
 </div>
 
-此翻譯使用Grok AI進行校驗，由於原文為英文，因此在翻譯上會與日文原音有差異，如果有發現哪句台詞與日文差太多可以留言告知。
+---
 
+## 🌍 English Description
 
-This project provides a Traditional Chinese (繁體中文) localization of the in-mod text used by the official “Girls und Panzer” subtitles mod for World of Tanks.
+### Overview
+This project provides **Traditional Chinese localization** for the official "Girls und Panzer" subtitle mod in World of Tanks. The translation adheres to the official Taiwanese localized terminology and has been verified with Grok AI for accuracy.
 
-How to use
+### Installation Guide
 
-First install the original official subtitles mod: [https://wgmods.net/1138/](https://wgmods.net/6725/)
+#### Method 1: Standalone Installation (No other voice mods)
+1. Download the version containing `xml` in the filename (e.g., `gup.subtitles.tw_[version].xml.wotmod`) from [Releases].
+2. Move the file to: `[WoT_Directory]/mods/[Current_Game_Version]/`.
 
-After installation, download this repository and copy the entire folder to:
-res_mods/<game_version>/mods/gup.subtitles
-(replace <game_version> with your current World of Tanks version)
+#### Method 2: Manual Integration (Compatible with other voice mods)
+Use this method if you already use mods like `GuP_VoiceSelector` or `Aslain's Modpack`.
+1. Download the standard `.wotmod` file (without `xml` in name) to your `mods` folder.
+2. Open (or create) `res_mods/gui/soundModes/main_sound_modes.xml`.
+3. Copy the code snippet from `Assets/how to add.txt` and paste it into the XML file.
+   * *Note: Template files are available in the `Assets` folder if needed.*
 
-After installation, download this repository and copy the entire folder to:
-res_mods/<game_version>/mods/gup.subtitles
+### Important Notes
+* **Prerequisite:** Subtitles will only appear when an official GuP voice pack is selected in the audio settings.
+* **Compatibility:** Six-sense (Sixth Sense) audio might conflict with other custom voice mods.
+* **Priority:** Crew-specific voices take precedence. For example, if your crew belongs to the "Ankou Team," their voices will trigger regardless of your menu selection.
+* **Translation:** Since the source text is in English, minor nuances may differ from the original Japanese voice lines.
 
-This mod is activated only when the crew voice pack is set to the official collaboration Girls und Panzer voice; only then will the subtitle style appear.
+---
 
-You can manually add the required code in res_mods/gui/soundModes/main_sound_modes.xml.
-The snippet to add can be found in Assets/how to add.txt.
-If main_sound_modes.xml does not exist, you can also find these files in Assets:
-
-main_sound_modes-original.xml — the original game file
-
-main_sound_modes.xml — the version with the code added (may conflict with other Girls und Panzer voice mods)
-
-After completing the steps above, select the corresponding voice in the in-game audio settings menu:
-<img src="./assets/P1.jpg" width="640" alt="Audio settings menu">
-
-Enter the game and you should see the effect:
-
-<div align="center">
-<img src="./assets/P2.jpg" alt="In-game effect" width="49%">
-<img src="./assets/P3.jpg" alt="In-game effect" width="49%">
-</div>
-
-The translation quality has been verified using Grok AI. If you find any translation errors, please leave a message.
+## 💬 意見回饋 (Feedback)
+如果您發現任何翻譯錯誤或改進建議，歡迎提交 **Issue** 或留言告知！  
+If you encounter any translation errors or have suggestions, feel free to open an **Issue** or leave a comment!
