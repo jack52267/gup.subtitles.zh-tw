@@ -7,7 +7,7 @@
 翻譯名詞對齊台灣代理版本，並參考 Grok AI 進行校驗。
 
 > [!NOTE]
-> 原官方字幕模組來源：[WGMods.net (1138)](https://wgmods.net/1138/) / [WGMods.net (6725)](https://wgmods.net/6725/)
+> 原官方字幕模組來源：[WGMods.net (6725)](https://wgmods.net/6725/)
 
 ---
 
