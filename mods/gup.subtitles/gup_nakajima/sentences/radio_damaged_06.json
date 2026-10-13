@@ -1,0 +1,12 @@
+{
+  "duration": 1.8,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們瞄準我們的無線電。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_06"
+}

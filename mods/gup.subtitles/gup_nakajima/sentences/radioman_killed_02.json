@@ -1,0 +1,12 @@
+{
+  "duration": 4.16,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "通訊員座被擊中。現在更難同步。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_02"
+}

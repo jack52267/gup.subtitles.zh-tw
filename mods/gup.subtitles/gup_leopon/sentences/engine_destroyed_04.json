@@ -1,0 +1,18 @@
+{
+  "duration": 3.95,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "看來這趟到此為止。快修引擎！",
+      "character": "nakajima",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "收到。",
+      "character": "tsuchiya",
+      "time": 3.0
+    }
+  ],
+  "audio": "engine_destroyed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.69,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "那是友軍。打錯目標了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_01"
+}

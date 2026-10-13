@@ -1,0 +1,12 @@
+{
+  "duration": 3.01,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "引擎受損。我邊跑邊修。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_05"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.41,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "耶！",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_08"
+}

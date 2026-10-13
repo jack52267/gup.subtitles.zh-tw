@@ -87,6 +87,22 @@
 			"characters": "mods/gup.subtitles/gup_crew_25_hippo/characters.json",
 			"sentences": "mods/gup.subtitles/gup_crew_25_hippo/sentences",
 			"visuals": "mods/gup.subtitles/gup_crew_25_hippo/visuals.json"
+		},
+		{
+			"name": "Gup - Nakajima",
+			"language": "gup_jp/gup_nakajima",
+			"wwbank": "audioww/gup_jp/gup_nakajima/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_nakajima/characters.json",
+			"sentences": "mods/gup.subtitles/gup_nakajima/sentences",
+			"visuals": "mods/gup.subtitles/gup_nakajima/visuals.json"
+		},
+		{
+			"name": "Gup - Leopon",
+			"language": "gup_jp/gup_leopon",
+			"wwbank": "audioww/gup_jp/gup_leopon/voiceover.bnk",
+			"characters": "mods/gup.subtitles/gup_leopon/characters.json",
+			"sentences": "mods/gup.subtitles/gup_leopon/sentences",
+			"visuals": "mods/gup.subtitles/gup_leopon/visuals.json"
 		}
 	]
 }

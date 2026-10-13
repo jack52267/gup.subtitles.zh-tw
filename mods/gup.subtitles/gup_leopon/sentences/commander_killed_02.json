@@ -1,0 +1,18 @@
+{
+  "duration": 5.13,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "中嶋，你沒事吧！？",
+      "character": "hoshino",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "好痛，我需要休息一下！",
+      "character": "nakajima",
+      "time": 2.21
+    }
+  ],
+  "audio": "commander_killed_02"
+}

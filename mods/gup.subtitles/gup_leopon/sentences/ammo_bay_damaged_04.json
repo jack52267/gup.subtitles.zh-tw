@@ -1,0 +1,12 @@
+{
+  "duration": 4.2,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "彈藥架中彈了。我們小心處理。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_04"
+}

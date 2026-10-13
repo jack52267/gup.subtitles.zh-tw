@@ -1,0 +1,12 @@
+{
+  "duration": 4.1,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "他們消失了啊。還會出現的。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_lost_03"
+}

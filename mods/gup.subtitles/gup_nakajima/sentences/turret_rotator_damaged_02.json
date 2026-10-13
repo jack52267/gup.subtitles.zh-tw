@@ -1,0 +1,12 @@
+{
+  "duration": 1.87,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲塔轉動變慢了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

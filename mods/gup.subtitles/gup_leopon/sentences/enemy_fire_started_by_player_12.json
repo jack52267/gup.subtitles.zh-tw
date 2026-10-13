@@ -1,0 +1,12 @@
+{
+  "duration": 1.57,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "燒得很旺！",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_12"
+}

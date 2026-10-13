@@ -1,0 +1,12 @@
+{
+  "duration": 3.01,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "引擎炸了。現在進站！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_destroyed_02"
+}

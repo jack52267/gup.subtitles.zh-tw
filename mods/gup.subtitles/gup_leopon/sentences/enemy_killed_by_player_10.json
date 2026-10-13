@@ -1,0 +1,18 @@
+{
+  "duration": 3.14,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵車摧毀。",
+      "character": "suzuki",
+      "time": 0.0
+    },
+    {
+      "emotion": "excited",
+      "text": "繼續來啊！",
+      "character": "tsuchiya",
+      "time": 1.3
+    }
+  ],
+  "audio": "enemy_killed_by_player_10"
+}

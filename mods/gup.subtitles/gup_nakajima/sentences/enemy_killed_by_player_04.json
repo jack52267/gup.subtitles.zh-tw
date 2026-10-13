@@ -1,0 +1,12 @@
+{
+  "duration": 3.2,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "嗯，看起來我們搞定了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_04"
+}

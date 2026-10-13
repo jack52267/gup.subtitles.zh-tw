@@ -1,0 +1,12 @@
+{
+  "duration": 1.42,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們準備好了。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_11"
+}

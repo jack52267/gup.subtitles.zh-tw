@@ -1,0 +1,12 @@
+{
+  "duration": 3.51,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲手座被擊中！星野，你沒事吧？",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_02"
+}

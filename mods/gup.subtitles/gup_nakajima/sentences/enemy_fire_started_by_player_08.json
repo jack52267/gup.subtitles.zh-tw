@@ -1,0 +1,12 @@
+{
+  "duration": 3.67,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們點燃他們了。作為技師的我心情複雜。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_08"
+}

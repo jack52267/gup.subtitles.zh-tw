@@ -1,0 +1,12 @@
+{
+  "duration": 3.32,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "油箱中彈。那很危險。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

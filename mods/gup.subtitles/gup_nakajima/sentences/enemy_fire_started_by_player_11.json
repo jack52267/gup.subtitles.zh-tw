@@ -1,0 +1,12 @@
+{
+  "duration": 1.66,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "這造成了一些傷害。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_11"
+}

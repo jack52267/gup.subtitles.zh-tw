@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "目標解除鎖定。尋找下一個。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_08"
+}

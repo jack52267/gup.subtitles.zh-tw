@@ -1,0 +1,12 @@
+{
+  "duration": 3.55,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "無線電中彈。友軍情報會變少。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_03"
+}

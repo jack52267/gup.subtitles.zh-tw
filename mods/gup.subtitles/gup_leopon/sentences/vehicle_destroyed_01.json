@@ -1,0 +1,18 @@
+{
+  "duration": 2.43,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "拖車組，慢慢來！",
+      "character": "nakajima",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "拖車組，慢慢來！",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_01"
+}

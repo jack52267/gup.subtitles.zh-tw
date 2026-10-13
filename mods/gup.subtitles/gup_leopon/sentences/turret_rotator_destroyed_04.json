@@ -1,0 +1,12 @@
+{
+  "duration": 2.29,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "砲塔轉不了了！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_04"
+}

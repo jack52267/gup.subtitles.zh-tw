@@ -1,0 +1,12 @@
+{
+  "duration": 2.52,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "哎呀，彈開了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_ricochet_by_player_13"
+}

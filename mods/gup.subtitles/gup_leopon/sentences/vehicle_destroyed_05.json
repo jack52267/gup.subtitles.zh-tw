@@ -1,0 +1,30 @@
+{
+  "duration": 7.72,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "今晚我們通宵把戰車修好。",
+      "character": "nakajima",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "好！",
+      "character": "suzuki",
+      "time": 3.95
+    },
+    {
+      "emotion": "content",
+      "text": "我來處理！",
+      "character": "hoshino",
+      "time": 4.85
+    },
+    {
+      "emotion": "excited",
+      "text": "這才對！",
+      "character": "tsuchiya",
+      "time": 5.9
+    }
+  ],
+  "audio": "vehicle_destroyed_05"
+}

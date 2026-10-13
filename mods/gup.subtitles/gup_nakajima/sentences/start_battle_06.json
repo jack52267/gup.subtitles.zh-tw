@@ -1,0 +1,12 @@
+{
+  "duration": 2.76,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "這裡是豹獅隊。準備出發！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_06"
+}

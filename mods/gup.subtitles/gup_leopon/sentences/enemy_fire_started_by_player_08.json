@@ -1,0 +1,12 @@
+{
+  "duration": 1.59,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "看起來他們起火了。",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_08"
+}

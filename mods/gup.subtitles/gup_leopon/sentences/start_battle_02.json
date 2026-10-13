@@ -1,0 +1,18 @@
+{
+  "duration": 5.99,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "熱身結束！真正的跑開始了！",
+      "character": "hoshino",
+      "time": 0.0
+    },
+    {
+      "emotion": "excited",
+      "text": "不錯，我們從一開始就全速！",
+      "character": "tsuchiya",
+      "time": 3.25
+    }
+  ],
+  "audio": "start_battle_02"
+}

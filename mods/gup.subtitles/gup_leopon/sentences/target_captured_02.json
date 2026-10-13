@@ -1,0 +1,12 @@
+{
+  "duration": 1.23,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "鎖定他們了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_captured_02"
+}

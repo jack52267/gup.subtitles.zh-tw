@@ -1,0 +1,12 @@
+{
+  "duration": 2.04,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "轉動機構受損了。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_damaged_02"
+}

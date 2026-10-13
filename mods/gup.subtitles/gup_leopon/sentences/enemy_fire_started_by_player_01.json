@@ -1,0 +1,12 @@
+{
+  "duration": 2.74,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "他們燒起來了。打中要害了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_01"
+}

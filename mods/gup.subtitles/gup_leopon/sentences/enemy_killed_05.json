@@ -1,0 +1,12 @@
+{
+  "duration": 1.99,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵車被摧毀了。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_05"
+}

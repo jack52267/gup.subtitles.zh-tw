@@ -1,0 +1,12 @@
+{
+  "duration": 3.02,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "主砲沒了。快修！",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_02"
+}

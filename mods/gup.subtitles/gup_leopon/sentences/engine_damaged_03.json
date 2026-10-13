@@ -1,0 +1,12 @@
+{
+  "duration": 4.72,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "引擎不對勁。喂，快點動啊！",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_03"
+}

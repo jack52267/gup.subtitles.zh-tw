@@ -1,0 +1,12 @@
+{
+  "duration": 1.65,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "保持冷靜，滅火！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_08"
+}

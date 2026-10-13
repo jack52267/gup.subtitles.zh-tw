@@ -1,0 +1,12 @@
+{
+  "duration": 2.02,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "下一發會直接命中！",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "damage_by_near_explosion_by_player_05"
+}

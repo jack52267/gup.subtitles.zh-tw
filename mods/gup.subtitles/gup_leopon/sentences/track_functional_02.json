@@ -1,0 +1,12 @@
+{
+  "duration": 1.92,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "行走裝置恢復了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_02"
+}

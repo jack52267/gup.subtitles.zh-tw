@@ -1,0 +1,12 @@
+{
+  "duration": 1.93,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "主砲修復完成。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_03"
+}

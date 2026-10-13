@@ -1,0 +1,12 @@
+{
+  "duration": 1.01,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "重創！",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_03"
+}

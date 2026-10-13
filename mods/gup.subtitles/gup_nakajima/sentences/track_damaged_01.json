@@ -1,0 +1,12 @@
+{
+  "duration": 2.86,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "履帶被擊中。現在進站嗎？",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_01"
+}

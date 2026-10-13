@@ -1,0 +1,12 @@
+{
+  "duration": 1.81,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "這一發命中了。沒問題。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_01"
+}

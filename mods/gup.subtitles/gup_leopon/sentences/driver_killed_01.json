@@ -1,0 +1,12 @@
+{
+  "duration": 2.08,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "噢，我被打中了！",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_01"
+}

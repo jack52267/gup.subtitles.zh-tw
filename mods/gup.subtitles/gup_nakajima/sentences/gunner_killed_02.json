@@ -1,0 +1,12 @@
+{
+  "duration": 2.97,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "砲手受傷！瞄準會偏。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_02"
+}

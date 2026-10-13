@@ -1,0 +1,12 @@
+{
+  "duration": 2.03,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們暫時放著那個目標。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_11"
+}

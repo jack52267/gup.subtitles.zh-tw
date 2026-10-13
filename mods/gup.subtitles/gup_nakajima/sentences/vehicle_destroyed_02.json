@@ -1,0 +1,12 @@
+{
+  "duration": 4.27,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這場比賽我們結束了，但跑得還不錯。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_02"
+}

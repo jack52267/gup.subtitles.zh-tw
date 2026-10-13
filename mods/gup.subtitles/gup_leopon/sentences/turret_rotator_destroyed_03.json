@@ -1,0 +1,12 @@
+{
+  "duration": 2.69,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "咦？砲塔轉不了！",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_destroyed_03"
+}

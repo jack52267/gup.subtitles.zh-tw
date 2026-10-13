@@ -1,0 +1,12 @@
+{
+  "duration": 2.33,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "無線電有問題。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "radio_damaged_05"
+}

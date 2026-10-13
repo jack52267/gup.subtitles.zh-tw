@@ -1,0 +1,12 @@
+{
+  "duration": 1.39,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "砲塔回來了！",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

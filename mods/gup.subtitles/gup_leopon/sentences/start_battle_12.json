@@ -1,0 +1,12 @@
+{
+  "duration": 1.75,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "這會很有趣！",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_12"
+}

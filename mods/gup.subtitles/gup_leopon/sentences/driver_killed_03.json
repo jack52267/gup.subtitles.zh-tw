@@ -1,0 +1,12 @@
+{
+  "duration": 2.0,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "土屋，你沒事吧？",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "driver_killed_03"
+}

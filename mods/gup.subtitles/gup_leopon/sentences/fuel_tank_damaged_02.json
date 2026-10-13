@@ -1,0 +1,12 @@
+{
+  "duration": 2.48,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "我們可能有燃料洩漏…",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_02"
+}

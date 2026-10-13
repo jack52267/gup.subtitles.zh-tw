@@ -1,0 +1,12 @@
+{
+  "duration": 3.14,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵車被摧毀。少一輛了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_02"
+}

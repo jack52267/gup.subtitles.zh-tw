@@ -1,0 +1,12 @@
+{
+  "duration": 2.8,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "火災是壞事。現在滅掉。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_06"
+}

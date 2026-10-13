@@ -1,0 +1,12 @@
+{
+  "duration": 3.56,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "裝填手被擊中！裝填變慢了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "loader_killed_01"
+}

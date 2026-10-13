@@ -1,0 +1,12 @@
+{
+  "duration": 3.35,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "引擎受損。我們不能跑太快。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_01"
+}

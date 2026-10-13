@@ -1,0 +1,12 @@
+{
+  "duration": 2.38,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "哎呀，起火了！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_01"
+}

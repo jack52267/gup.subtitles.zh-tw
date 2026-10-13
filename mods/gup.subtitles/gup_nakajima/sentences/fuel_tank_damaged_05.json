@@ -1,0 +1,12 @@
+{
+  "duration": 1.51,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "油箱被擊中。幸好沒起火。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_05"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 0.97,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "耶！我們成功了！",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_05"
+}

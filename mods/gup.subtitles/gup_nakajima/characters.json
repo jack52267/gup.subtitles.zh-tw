@@ -1,0 +1,29 @@
+[
+	{
+		"id": "nakajima",
+		"name": "中嶋 麗羅",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/nakajima_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"angry": [2, 0],
+					"excited": [0, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/nakajima_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"angry": [2, 0],
+					"excited": [0, 1]
+				}
+			}
+		}
+	}
+]

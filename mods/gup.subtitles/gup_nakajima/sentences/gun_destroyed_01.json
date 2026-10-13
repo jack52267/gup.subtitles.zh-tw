@@ -1,0 +1,12 @@
+{
+  "duration": 3.26,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "主砲炸了。不能開火。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_destroyed_01"
+}

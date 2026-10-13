@@ -1,0 +1,12 @@
+{
+  "duration": 2.61,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "這裡是豹獅隊。敵車摧毀。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_01"
+}

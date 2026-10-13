@@ -1,0 +1,12 @@
+{
+  "duration": 1.41,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "主砲恢復了！",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 2.28,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "砲塔又能轉了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "turret_rotator_functional_01"
+}

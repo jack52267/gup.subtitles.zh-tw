@@ -1,0 +1,12 @@
+{
+  "duration": 1.47,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "敵車受損！",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_02"
+}

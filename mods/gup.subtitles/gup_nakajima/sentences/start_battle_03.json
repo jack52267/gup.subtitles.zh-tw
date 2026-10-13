@@ -1,0 +1,12 @@
+{
+  "duration": 4.44,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "所有車輛前進。保養完成——認真開。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_03"
+}

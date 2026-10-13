@@ -1,0 +1,12 @@
+{
+  "duration": 3.24,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "他們打中砲管。精準度下降。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_02"
+}

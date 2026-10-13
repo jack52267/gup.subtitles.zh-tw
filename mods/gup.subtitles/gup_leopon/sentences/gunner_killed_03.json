@@ -1,0 +1,12 @@
+{
+  "duration": 1.95,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "星野，你還好嗎？",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_03"
+}

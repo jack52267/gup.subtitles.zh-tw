@@ -1,0 +1,18 @@
+{
+  "duration": 6.27,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "以我們戰車的重量，這路況挺難開的。",
+      "character": "nakajima",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "比希臘拉力賽好多了。",
+      "character": "hoshino",
+      "time": 4.02
+    }
+  ],
+  "audio": "start_battle_21"
+}

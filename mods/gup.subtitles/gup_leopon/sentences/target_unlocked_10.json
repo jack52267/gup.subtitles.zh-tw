@@ -1,0 +1,12 @@
+{
+  "duration": 1.58,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "解除目標鎖定。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "target_unlocked_10"
+}

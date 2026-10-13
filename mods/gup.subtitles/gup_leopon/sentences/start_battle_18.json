@@ -1,0 +1,18 @@
+{
+  "duration": 4.29,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "我們試試加速後退？",
+      "character": "hoshino",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "那是拉力賽的本地技巧。",
+      "character": "nakajima",
+      "time": 2.05
+    }
+  ],
+  "audio": "start_battle_18"
+}

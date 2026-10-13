@@ -1,0 +1,12 @@
+{
+  "duration": 3.71,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "機器會回應——如果你好好對待它們。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_19"
+}

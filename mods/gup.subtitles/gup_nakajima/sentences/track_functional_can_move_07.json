@@ -1,0 +1,12 @@
+{
+  "duration": 2.42,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "好，我們再動吧。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_functional_can_move_07"
+}

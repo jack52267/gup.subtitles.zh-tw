@@ -1,0 +1,12 @@
+{
+  "duration": 2.53,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "拖車組，慢慢來！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_01"
+}

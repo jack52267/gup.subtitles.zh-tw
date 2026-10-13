@@ -1,0 +1,12 @@
+{
+  "duration": 3.5,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "他們瞄準引擎。射得聰明。",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "engine_damaged_06"
+}

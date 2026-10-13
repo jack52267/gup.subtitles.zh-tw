@@ -1,0 +1,106 @@
+[
+	{
+		"id": "nakajima",
+		"name": "中嶋 麗羅",
+		"color": "#01402E",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/nakajima_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"angry": [2, 0],
+					"excited": [0, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/nakajima_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"angry": [2, 0],
+					"excited": [0, 1]
+				}
+			}
+		}
+	},
+	{
+		"id": "tsuchiya",
+		"name": "土屋 夢屯",
+		"color": "#47854F",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/tsuchiya_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"excited": [2, 0],
+					"content": [0, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/tsuchiya_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0],
+					"excited": [2, 0],
+					"content": [0, 1]
+				}
+			}
+		}
+	},
+	{
+		"id": "suzuki",
+		"name": "鈴木 真莉阿",
+		"color": "#592E25",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/suzuki_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/suzuki_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"focused": [1, 0]
+				}
+			}
+		}
+	},
+	{
+		"id": "hoshino",
+		"name": "星野 慶子",
+		"color": "#4E3954",
+		"presets": {
+			"small": {
+				"image": "mods/gup.subtitles/images/hoshino_270.png",
+				"size": [90, 90],
+				"emotions": {
+					"default": [0, 0],
+					"content": [1, 0],
+					"focused": [2, 0],
+					"angry": [0, 1]
+				}
+			},
+			"default": {
+				"image": "mods/gup.subtitles/images/hoshino_330.png",
+				"size": [110, 110],
+				"emotions": {
+					"default": [0, 0],
+					"content": [1, 0],
+					"focused": [2, 0],
+					"angry": [0, 1]
+				}
+			}
+		}
+	}
+]

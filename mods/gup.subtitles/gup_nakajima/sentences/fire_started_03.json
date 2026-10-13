@@ -1,0 +1,12 @@
+{
+  "duration": 2.69,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "喂，滅火器，現在！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_03"
+}

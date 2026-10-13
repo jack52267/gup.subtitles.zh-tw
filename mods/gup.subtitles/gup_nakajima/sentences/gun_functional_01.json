@@ -1,0 +1,12 @@
+{
+  "duration": 2.55,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "主砲恢復。我們又能開火了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_functional_01"
+}

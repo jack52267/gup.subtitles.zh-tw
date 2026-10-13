@@ -1,0 +1,12 @@
+{
+  "duration": 3.34,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "砲手被擊中！精準度會下降。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_01"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 4.06,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "無線電台被擊中。情報變少了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "radioman_killed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.81,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這裡是豹獅隊。我們結束了，抱歉。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_04"
+}

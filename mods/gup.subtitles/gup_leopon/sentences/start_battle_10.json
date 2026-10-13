@@ -1,0 +1,24 @@
+{
+  "duration": 5.62,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "彎道交給我！",
+      "character": "hoshino",
+      "time": 0.0
+    },
+    {
+      "emotion": "excited",
+      "text": "我們試試甩尾！",
+      "character": "tsuchiya",
+      "time": 1.78
+    },
+    {
+      "emotion": "default",
+      "text": "戰車做不到甩尾。",
+      "character": "suzuki",
+      "time": 3.81
+    }
+  ],
+  "audio": "start_battle_10"
+}

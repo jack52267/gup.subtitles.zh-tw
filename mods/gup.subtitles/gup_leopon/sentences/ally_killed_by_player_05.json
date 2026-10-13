@@ -1,0 +1,12 @@
+{
+  "duration": 2.63,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "小心別打到友軍。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "ally_killed_by_player_05"
+}

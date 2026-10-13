@@ -1,0 +1,18 @@
+{
+  "duration": 3.23,
+  "timeline": [
+    {
+      "emotion": "content",
+      "text": "修好了！",
+      "character": "hoshino",
+      "time": 0.0
+    },
+    {
+      "emotion": "excited",
+      "text": "星野，謝謝。",
+      "character": "nakajima",
+      "time": 1.37
+    }
+  ],
+  "audio": "surveying_devices_functional_14"
+}

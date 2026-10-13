@@ -1,0 +1,18 @@
+{
+  "duration": 3.25,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "我們又能移動了。",
+      "character": "nakajima",
+      "time": 0.0
+    },
+    {
+      "emotion": "excited",
+      "text": "耶呼！",
+      "character": "tsuchiya",
+      "time": 1.65
+    }
+  ],
+  "audio": "track_functional_can_move_02"
+}

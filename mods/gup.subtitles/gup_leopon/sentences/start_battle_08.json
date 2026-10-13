@@ -1,0 +1,18 @@
+{
+  "duration": 6.99,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "控制甩尾？呃…我試試！",
+      "character": "tsuchiya",
+      "time": 0.0
+    },
+    {
+      "emotion": "default",
+      "text": "請真的控制好！",
+      "character": "nakajima",
+      "time": 4.51
+    }
+  ],
+  "audio": "start_battle_08"
+}

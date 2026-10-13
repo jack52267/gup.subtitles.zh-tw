@@ -1,0 +1,12 @@
+{
+  "duration": 2.48,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "哦，他們燒得挺好。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.65,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "觀測裝置被擊中！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "surveying_devices_damaged_01"
+}

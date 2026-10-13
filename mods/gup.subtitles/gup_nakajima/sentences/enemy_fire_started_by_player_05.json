@@ -1,0 +1,12 @@
+{
+  "duration": 3.23,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "敵車起火。繼續施壓！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_05"
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 2.71,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "繼續保持！",
+      "character": "nakajima",
+      "time": 0.0
+    },
+    {
+      "emotion": "content",
+      "text": "我搞定了！",
+      "character": "hoshino",
+      "time": 1.55
+    }
+  ],
+  "audio": "enemy_killed_by_player_09"
+}

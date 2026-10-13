@@ -1,0 +1,12 @@
+{
+  "duration": 1.65,
+  "timeline": [
+    {
+      "emotion": "excited",
+      "text": "射得漂亮！",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_fire_started_by_player_09"
+}

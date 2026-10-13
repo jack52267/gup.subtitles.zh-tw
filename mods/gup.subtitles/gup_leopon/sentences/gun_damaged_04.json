@@ -1,0 +1,12 @@
+{
+  "duration": 2.19,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "主砲受損了。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "gun_damaged_04"
+}

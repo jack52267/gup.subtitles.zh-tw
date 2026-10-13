@@ -1,0 +1,18 @@
+{
+  "duration": 4.18,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "喂，星野，快拿滅火器！",
+      "character": "nakajima",
+      "time": 0.0
+    },
+    {
+      "emotion": "focused",
+      "text": "好！",
+      "character": "hoshino",
+      "time": 3.25
+    }
+  ],
+  "audio": "fire_started_03"
+}

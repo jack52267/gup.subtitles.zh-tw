@@ -1,0 +1,12 @@
+{
+  "duration": 3.02,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "履帶脫了！現在進站吧。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_01"
+}

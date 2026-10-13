@@ -1,0 +1,12 @@
+{
+  "duration": 3.25,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "好痛…讓我休息一下。",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "gunner_killed_04"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.86,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "確認敵車重創。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_crit_by_player_02"
+}

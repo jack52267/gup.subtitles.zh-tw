@@ -1,0 +1,12 @@
+{
+  "duration": 2.99,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "不妙。彈藥架壞了。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 3.48,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "彈藥架被擊中。小心別引爆！",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_01"
+}

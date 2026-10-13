@@ -1,0 +1,12 @@
+{
+  "duration": 4.18,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "檢查完成，裝填就緒。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "start_battle_03"
+}

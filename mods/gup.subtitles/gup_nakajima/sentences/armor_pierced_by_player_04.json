@@ -1,0 +1,12 @@
+{
+  "duration": 1.58,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這是一記乾淨的命中。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "armor_pierced_by_player_04"
+}

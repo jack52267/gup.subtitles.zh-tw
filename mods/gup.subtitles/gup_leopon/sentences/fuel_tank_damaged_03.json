@@ -1,0 +1,12 @@
+{
+  "duration": 2.71,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "糟了，燃料在漏。",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "fuel_tank_damaged_03"
+}

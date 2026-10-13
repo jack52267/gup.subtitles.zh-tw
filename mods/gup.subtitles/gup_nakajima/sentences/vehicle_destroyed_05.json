@@ -1,0 +1,12 @@
+{
+  "duration": 4.25,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "今晚我們通宵把戰車修好。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_05"
+}

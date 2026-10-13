@@ -1,0 +1,12 @@
+{
+  "duration": 2.75,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "啊，履帶沒了。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_destroyed_03"
+}

@@ -1,0 +1,12 @@
+{
+  "duration": 1.51,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "敵車摧毀。",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "enemy_killed_by_player_06"
+}

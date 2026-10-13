@@ -1,0 +1,12 @@
+{
+  "duration": 2.65,
+  "timeline": [
+    {
+      "emotion": "angry",
+      "text": "火在蔓延！快點！",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_started_04"
+}

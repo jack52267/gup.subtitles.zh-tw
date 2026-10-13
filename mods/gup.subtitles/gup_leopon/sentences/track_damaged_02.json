@@ -1,0 +1,12 @@
+{
+  "duration": 3.1,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "他們打中履帶。下一擊可能很糟。",
+      "character": "tsuchiya",
+      "time": 0.0
+    }
+  ],
+  "audio": "track_damaged_02"
+}

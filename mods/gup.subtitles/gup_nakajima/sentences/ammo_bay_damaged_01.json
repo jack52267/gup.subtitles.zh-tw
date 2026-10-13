@@ -1,0 +1,12 @@
+{
+  "duration": 3.66,
+  "timeline": [
+    {
+      "emotion": "focused",
+      "text": "彈藥架被擊中了。小心別引爆！",
+      "character": "nakajima",
+      "time": 0.0
+    }
+  ],
+  "audio": "ammo_bay_damaged_01"
+}

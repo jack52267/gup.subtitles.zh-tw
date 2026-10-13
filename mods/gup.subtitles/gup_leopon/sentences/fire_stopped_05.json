@@ -1,0 +1,12 @@
+{
+  "duration": 1.33,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "火滅了。",
+      "character": "suzuki",
+      "time": 0.0
+    }
+  ],
+  "audio": "fire_stopped_05"
+}

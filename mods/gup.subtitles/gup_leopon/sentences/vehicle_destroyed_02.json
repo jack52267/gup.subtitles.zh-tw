@@ -1,0 +1,12 @@
+{
+  "duration": 2.07,
+  "timeline": [
+    {
+      "emotion": "default",
+      "text": "這場比賽我們結束了吧？",
+      "character": "hoshino",
+      "time": 0.0
+    }
+  ],
+  "audio": "vehicle_destroyed_02"
+}
