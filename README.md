@@ -35,6 +35,8 @@
 
 > [!CAUTION]
 > ## ⚠️ 注意事項與相容性 (Important Notes)
+> - **單一方案安裝：** 方案 A 與 方案 B 的檔案不可同時安裝。
+> - **避免模組重複：** 透過 Aslain 下載的 `gup.subtitles.wotmod` 不可與本專案的 `gup.subtitles.tw_版號.wotmod` 或 `gup.subtitles.tw_版號.xml.wotmod` 同時使用。
 > - **觸發條件：** 必須在遊戲音效設定中套用**官方少女與戰車語音**才會出現字幕。
 > - **第六感衝突：** 若有安裝其他整合音效包內自定義的「第六感」音效，可能會與此字幕模組產生衝突，請自行斟酌。
 > - **語音優先權：** 乘員專屬語音的優先權較高。例如：乘員為「鮟鱇隊」但選單選擇「繼續高中」，系統會優先播放「鮟鱇隊」的語音。
@@ -77,6 +79,15 @@ Choose this method if you already use other voice mods (such as `GuP_VoiceSelect
    * *Note: If the XML file does not exist, you can use the template provided in the `Assets` folder.*
 
 ### ⚠️ Important Notes
+* **Mutually Exclusive Setup:** Do NOT install the files from Method A and Method B at the same time.
+* **Avoid Mod Duplication:** The `gup.subtitles.wotmod` downloaded via Aslain's Modpack CANNOT be used simultaneously with this project's `gup.subtitles.tw_[version].wotmod` or `gup.subtitles.tw_[version].xml.wotmod`.
 * **Activation Requirement:** Subtitles will only appear when the official "Girls und Panzer" voice pack is selected in the in-game audio settings.
 * **Compatibility:** Custom "Sixth Sense" audio may conflict with other voice mods.
-* **Crew Priority:** Crew-specific unique voices have higher priority. For example, if your crew is the "Ankou Team" but you select "Jatkosota High School" in the menu, the "Ankou Team" voices will take
+* **Crew Priority:** Crew-specific unique voices have higher priority. For example, if your crew is the "Ankou Team" but you select "Jatkosota High School" in the menu, the "Ankou Team" voices will take precedence.
+* **Translation Nuances:** Since the original source text is in English, there may be slight differences in nuance compared to the original Japanese voice lines.
+
+---
+
+## 💬 意見回饋 (Feedback)
+如果您發現任何翻譯錯誤或改進建議，歡迎提交 **Issue** 或留言告知！  
+If you encounter any translation errors or have suggestions for improvement, please feel free to open an **Issue** or leave a comment!
