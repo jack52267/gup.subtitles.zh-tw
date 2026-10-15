@@ -1,259 +1,259 @@
-file_path,original_text,character,zhtw
-gup_nakajima/sentences/ally_killed_by_player_01.json,That's an ally. Wrong target.,nakajima,那是友軍。打錯目標了。
-gup_nakajima/sentences/ally_killed_by_player_02.json,Easy there. That's a friendly.,nakajima,冷靜一點。那是友軍。
-gup_nakajima/sentences/ally_killed_by_player_03.json,Let's skip the friendly fire.,nakajima,別打友軍了。
-gup_nakajima/sentences/ally_killed_by_player_04.json,Aim drifted a bit. That's one of ours.,nakajima,瞄準偏了一點。那是我們自己人。
-gup_nakajima/sentences/ally_killed_by_player_05.json,Be careful not to hit our allies.,nakajima,小心別打到友軍。
-gup_nakajima/sentences/ammo_bay_damaged_01.json,They hit the ammo rack. Watch it doesn't detonate!,nakajima,彈藥架被擊中了。小心別引爆！
-gup_nakajima/sentences/ammo_bay_damaged_02.json,Ammo rack damaged! The next hit could be bad.,nakajima,彈藥架受損！下一擊可能很糟。
-gup_nakajima/sentences/ammo_bay_damaged_03.json,"So they're aiming there. Ammo rack, watch it!",nakajima,他們瞄準那邊。彈藥架，小心！
-gup_nakajima/sentences/ammo_bay_damaged_04.json,Ammo rack took a hit. Let's handle this carefully.,nakajima,彈藥架中彈了。我們小心處理。
-gup_nakajima/sentences/armor_not_pierced_by_player_01.json,Didn't go through.,nakajima,沒貫穿。
-gup_nakajima/sentences/armor_not_pierced_by_player_02.json,Gotta give it to them.,nakajima,得承認他們裝甲不錯。
-gup_nakajima/sentences/armor_not_pierced_by_player_03.json,Uh oh.,nakajima,糟了。
-gup_nakajima/sentences/armor_not_pierced_by_player_04.json,Close one. Maybe aim for a weak spot.,nakajima,差一點。或許瞄準弱點。
-gup_nakajima/sentences/armor_not_pierced_by_player_05.json,"Hmm, their armor blocked it.",nakajima,嗯，被他們的裝甲擋住了。
-gup_nakajima/sentences/armor_pierced_by_player_01.json,Penetration. We're looking sharp.,nakajima,貫穿了。我們狀態不錯。
-gup_nakajima/sentences/armor_pierced_by_player_02.json,That went through. Nicely done.,nakajima,打穿了。打得好。
-gup_nakajima/sentences/armor_pierced_by_player_03.json,Nice. It went through.,nakajima,不錯。打穿了。
-gup_nakajima/sentences/armor_pierced_by_player_04.json,That was a clean hit.,nakajima,這是一記乾淨的命中。
-gup_nakajima/sentences/armor_pierced_by_player_05.json,Keep it up. It's working.,nakajima,繼續保持。有效。
-gup_nakajima/sentences/armor_pierced_crit_by_player_01.json,That one landed. We're good.,nakajima,這一發命中了。沒問題。
-gup_nakajima/sentences/armor_pierced_crit_by_player_02.json,Critical damage to enemy vehicle confirmed.,nakajima,確認敵車重創。
-gup_nakajima/sentences/armor_pierced_crit_by_player_03.json,Let's keep pushing.,nakajima,繼續施壓。
-gup_nakajima/sentences/armor_ricochet_by_player_01.json,"Ricochet, huh.",nakajima,彈開了啊。
-gup_nakajima/sentences/armor_ricochet_by_player_02.json,That bounced. Bad angle.,nakajima,彈開了。角度不好。
-gup_nakajima/sentences/armor_ricochet_by_player_03.json,"Hmm, ricochet. Let's shift position next time.",nakajima,嗯，彈開了。下次換個位置。
-gup_nakajima/sentences/armor_ricochet_by_player_04.json,They had a good angle on that one.,nakajima,他們那一發角度很好。
-gup_nakajima/sentences/armor_ricochet_by_player_05.json,Ricochet confirmed. Don't force it.,nakajima,確認彈開。別硬來。
-gup_nakajima/sentences/armor_ricochet_by_player_06.json,It's fine. No need to rush.,nakajima,沒關係。不必急。
-gup_nakajima/sentences/armor_ricochet_by_player_07.json,Let's find a weaker spot.,nakajima,找個弱點吧。
-gup_nakajima/sentences/armor_ricochet_by_player_08.json,"Oops, that one slipped off.",nakajima,哎呀，那一發滑掉了。
-gup_nakajima/sentences/armor_ricochet_by_player_09.json,They're not that tough. Stay calm.,nakajima,他們沒那麼硬。保持冷靜。
-gup_nakajima/sentences/armor_ricochet_by_player_10.json,"Hmm, ricochet.",nakajima,嗯，彈開了。
-gup_nakajima/sentences/armor_ricochet_by_player_11.json,That one bounced back.,nakajima,那一發彈回來了。
-gup_nakajima/sentences/armor_ricochet_by_player_12.json,So close!,nakajima,差一點！
-gup_nakajima/sentences/armor_ricochet_by_player_13.json,"Oops, ricochet.",nakajima,哎呀，彈開了。
-gup_nakajima/sentences/armor_ricochet_by_player_14.json,The angle was too tight there.,nakajima,那裡角度太小了。
-gup_nakajima/sentences/armor_ricochet_by_player_15.json,"That ricocheted, but we're still in this.",nakajima,彈開了，但我們還在。
-gup_nakajima/sentences/commander_killed_01.json,"Ah, I got hit! I'll leave the rest to you.",nakajima,啊，我被打中了！剩下的交給你們。
-gup_nakajima/sentences/commander_killed_02.json,"Ouch, I think I need a break!",nakajima,好痛，我需要休息一下！
-gup_nakajima/sentences/commander_killed_03.json,"Wow, that one hurt!",nakajima,哇，這一擊真痛！
-gup_nakajima/sentences/commander_killed_04.json,They got me good!,nakajima,他們打得真準！
-gup_nakajima/sentences/commander_killed_05.json,"Ouch, they really mean business!",nakajima,好痛，他們是認真的！
-gup_nakajima/sentences/commander_killed_06.json,I'm out for a bit. Counting on you!,nakajima,我暫時退場。靠你們了！
-gup_nakajima/sentences/commander_killed_07.json,I need a pitstop for myself!,nakajima,我需要進站休息一下！
-gup_nakajima/sentences/crew_deactivated_01.json,What's the point of all this if we have to retire?,nakajima,如果要退場，這些還有什麼意義？
-gup_nakajima/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是豹獅隊。我們退場了。
-gup_nakajima/sentences/crew_deactivated_03.json,"Oh man, we did it again.",nakajima,天哪，我們又這樣了。
-gup_nakajima/sentences/crew_deactivated_04.json,We'll fix it up and go again.,nakajima,我們修好再來一次。
-gup_nakajima/sentences/crew_deactivated_05.json,We are going back.,nakajima,我們要回去了。
-gup_nakajima/sentences/damage_by_near_explosion_by_player_01.json,Close. We're getting there!,nakajima,很近了。我們快成功了！
-gup_nakajima/sentences/damage_by_near_explosion_by_player_02.json,"Not a direct hit, but we rattled them.",nakajima,雖然不是直接命中，但震到他們了。
-gup_nakajima/sentences/damage_by_near_explosion_by_player_03.json,We grazed them. Next one will land right in the middle.,nakajima,擦到了。下一發會打中正中。
-gup_nakajima/sentences/damage_by_near_explosion_by_player_04.json,Not bad. We're getting to them.,nakajima,不錯。我們快打中了。
-gup_nakajima/sentences/damage_by_near_explosion_by_player_05.json,Tighten it up a bit. We're getting close.,nakajima,再緊一點。我們很近了。
-gup_nakajima/sentences/driver_killed_01.json,Driver's hit. Our mobility will be reduced.,nakajima,駕駛員被擊中。機動性會下降。
-gup_nakajima/sentences/driver_killed_02.json,Hit to the driver's seat. We'll lose speed.,nakajima,駕駛座被擊中。速度會掉。
-gup_nakajima/sentences/driver_killed_03.json,Driver injured. No hard maneuvers for now.,nakajima,駕駛員受傷。暫時別做激烈動作。
-gup_nakajima/sentences/driver_killed_04.json,Driver down.,nakajima,駕駛員倒下了。
-gup_nakajima/sentences/enemy_fire_started_by_player_01.json,They're burning. Hit the sweet spot!,nakajima,他們燒起來了。打中要害了！
-gup_nakajima/sentences/enemy_fire_started_by_player_02.json,Fire started. That'll shake them up.,nakajima,起火了。這會震到他們。
-gup_nakajima/sentences/enemy_fire_started_by_player_03.json,They're on fire. It's wearing them down!,nakajima,他們起火了。這會消耗他們！
-gup_nakajima/sentences/enemy_fire_started_by_player_04.json,"Oh, they're burning nicely.",nakajima,哦，他們燒得挺好。
-gup_nakajima/sentences/enemy_fire_started_by_player_05.json,Enemy on fire. Keep the pressure on!,nakajima,敵車起火。繼續施壓！
-gup_nakajima/sentences/enemy_fire_started_by_player_06.json,We caused a fire. Well done!,nakajima,我們引起火災了。幹得好！
-gup_nakajima/sentences/enemy_fire_started_by_player_07.json,"Yeah, they're running hot.",nakajima,嗯，他們跑得很熱。
-gup_nakajima/sentences/enemy_fire_started_by_player_08.json,We lit them up. The mechanic in me has mixed feelings.,nakajima,我們點燃他們了。作為技師的我心情複雜。
-gup_nakajima/sentences/enemy_fire_started_by_player_09.json,Fire! They'll be all over the place now.,nakajima,起火！他們現在會亂成一團。
-gup_nakajima/sentences/enemy_fire_started_by_player_10.json,That's a fire. Let's follow it up!,nakajima,起火了。我們跟進！
-gup_nakajima/sentences/enemy_fire_started_by_player_11.json,That's doing some damage.,nakajima,這造成了一些傷害。
-gup_nakajima/sentences/enemy_fire_started_by_player_12.json,That was flashy!,nakajima,那挺華麗的！
-gup_nakajima/sentences/enemy_killed_01.json,Enemy vehicle's stopped moving.,nakajima,敵車停止移動了。
-gup_nakajima/sentences/enemy_killed_02.json,Enemy vehicle destroyed. That's one down.,nakajima,敵車被摧毀。少一輛了。
-gup_nakajima/sentences/enemy_killed_03.json,Good. That's handled.,nakajima,好。處理完了。
-gup_nakajima/sentences/enemy_killed_04.json,Looks like that's the end for them.,nakajima,看起來他們結束了。
-gup_nakajima/sentences/enemy_killed_05.json,It's going our way. One less enemy.,nakajima,情況對我們有利。少一個敵人。
-gup_nakajima/sentences/enemy_killed_06.json,Enemy destroyed. Let's keep rolling.,nakajima,敵車摧毀。我們繼續跑。
-gup_nakajima/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是豹獅隊。敵車摧毀。
-gup_nakajima/sentences/enemy_killed_by_player_02.json,"Yes, we got 'em!",nakajima,耶，我們搞定他們了！
-gup_nakajima/sentences/enemy_killed_by_player_03.json,Target destroyed. Let's look for the next one.,nakajima,目標摧毀。找下一個吧。
-gup_nakajima/sentences/enemy_killed_by_player_04.json,"Hm, looks like we got 'em.",nakajima,嗯，看起來我們搞定了。
-gup_nakajima/sentences/enemy_killed_by_player_05.json,That was a job well done.,nakajima,這是做得好的工作。
-gup_nakajima/sentences/enemy_killed_by_player_06.json,Enemy destroyed.,nakajima,敵車摧毀。
-gup_nakajima/sentences/enemy_killed_by_player_07.json,Nice. Keep that pace.,nakajima,不錯。保持這個節奏。
-gup_nakajima/sentences/enemy_killed_by_player_08.json,You nailed it. Let's keep it smooth.,nakajima,打得漂亮。繼續保持順暢。
-gup_nakajima/sentences/enemy_killed_by_player_09.json,Let's keep rolling.,nakajima,我們繼續跑。
-gup_nakajima/sentences/enemy_killed_by_player_10.json,Yay! Nicely done!,nakajima,耶！打得好！
-gup_nakajima/sentences/engine_damaged_01.json,Engine damaged. We can't move so fast.,nakajima,引擎受損。我們不能跑太快。
-gup_nakajima/sentences/engine_damaged_02.json,Hit to the engine. I'll go pacify her.,nakajima,引擎被擊中。我去安撫她。
-gup_nakajima/sentences/engine_damaged_03.json,Engine took a hit. Don't push it too hard.,nakajima,引擎被擊中。別太用力推。
-gup_nakajima/sentences/engine_damaged_04.json,Engine hit. Let's not push too hard.,nakajima,引擎中彈。別太勉強。
-gup_nakajima/sentences/engine_damaged_05.json,Engine damaged. I'll fix it while running.,nakajima,引擎受損。我邊跑邊修。
-gup_nakajima/sentences/engine_damaged_06.json,The engine is making a weird noise.,nakajima,引擎發出奇怪的聲音。
-gup_nakajima/sentences/engine_damaged_07.json,Engine damaged. Where's the pit?,nakajima,引擎受損。進站在哪？
-gup_nakajima/sentences/engine_destroyed_01.json,Engine's gone. We can't move!,nakajima,引擎沒了。動不了了！
-gup_nakajima/sentences/engine_destroyed_02.json,Engine destroyed. Pit now!,nakajima,引擎炸了。現在進站！
-gup_nakajima/sentences/engine_destroyed_03.json,"Oops, they destroyed our engine.",nakajima,哎呀，他們炸了我們的引擎。
-gup_nakajima/sentences/engine_destroyed_04.json,"Guess our run ends here. Repair the engine, fast!",nakajima,看來這趟到此為止。快修引擎！
-gup_nakajima/sentences/engine_functional_01.json,Engine's up and running again!,nakajima,引擎又跑起來了！
-gup_nakajima/sentences/engine_functional_02.json,"There, there. It'll be fine.",nakajima,好了好了。沒問題的。
-gup_nakajima/sentences/engine_functional_03.json,Fixed. Let's get back on the throttle.,nakajima,修好了。我們再踩油門。
-gup_nakajima/sentences/engine_functional_04.json,Emergency repair complete. We can run again.,nakajima,緊急修復完成。我們又能跑了。
-gup_nakajima/sentences/fire_started_01.json,"Oops, we've got a fire.",nakajima,哎呀，我們起火了。
-gup_nakajima/sentences/fire_started_02.json,We're burning! Stay calm and put it out.,nakajima,我們在燒！冷靜滅火。
-gup_nakajima/sentences/fire_started_03.json,"Hey, extinguisher, now!",nakajima,喂，滅火器，現在！
-gup_nakajima/sentences/fire_started_04.json,"Whoa, hot hot. Extinguish it!",nakajima,哇，好燙。滅火！
-gup_nakajima/sentences/fire_started_05.json,We've got a fire. Watch out for the engine!,nakajima,我們起火了。小心引擎！
-gup_nakajima/sentences/fire_started_06.json,Fire is bad news. Put it out now.,nakajima,火災是壞事。現在滅掉。
-gup_nakajima/sentences/fire_started_07.json,We can still save this. Extinguish the fire!,nakajima,我們還能救。滅火！
-gup_nakajima/sentences/fire_started_08.json,Keep calm and put the fire out!,nakajima,保持冷靜，滅火！
-gup_nakajima/sentences/fire_stopped_01.json,Fire's out. Good save.,nakajima,火滅了。處理得好。
-gup_nakajima/sentences/fire_stopped_02.json,"It's out. Good, let's continue.",nakajima,滅了。好，繼續。
-gup_nakajima/sentences/fire_stopped_03.json,Thanks for the extinguisher. We can still roll.,nakajima,謝謝滅火器。我們還能跑。
-gup_nakajima/sentences/fire_stopped_04.json,Fire's stopped. Let's get her back in the mood.,nakajima,火停了。讓她恢復心情。
-gup_nakajima/sentences/fire_stopped_05.json,"Okay, it's out. We can hit back now.",nakajima,好，滅了。我們可以反擊了。
-gup_nakajima/sentences/fuel_tank_damaged_01.json,Fuel tank hit! Watch for fire.,nakajima,油箱被擊中！小心起火。
-gup_nakajima/sentences/fuel_tank_damaged_02.json,Fuel tank took a hit. That's dangerous.,nakajima,油箱中彈。那很危險。
-gup_nakajima/sentences/fuel_tank_damaged_03.json,Fuel tank damaged. Let's avoid ignition.,nakajima,油箱受損。避免起火。
-gup_nakajima/sentences/fuel_tank_damaged_04.json,"Fuel tank, watch it!",nakajima,油箱，小心！
-gup_nakajima/sentences/fuel_tank_damaged_05.json,Fuel tank hit. Lucky it didn't ignite.,nakajima,油箱被擊中。幸好沒起火。
-gup_nakajima/sentences/gunner_killed_01.json,Gunner's hit! Accuracy will drop.,nakajima,砲手被擊中！精準度會下降。
-gup_nakajima/sentences/gunner_killed_02.json,Gunner injured! Our aim's going to be off.,nakajima,砲手受傷！瞄準會偏。
-gup_nakajima/sentences/gunner_killed_03.json,Hit to the gunner's station! Fire carefully.,nakajima,砲手座被擊中！小心射擊。
-gup_nakajima/sentences/gunner_killed_04.json,Gunner's down! Let's keep things careful.,nakajima,砲手倒下了！我們小心行事。
-gup_nakajima/sentences/gun_damaged_01.json,Gun damaged. Aim's going to get rough.,nakajima,主砲受損。瞄準會變粗。
-gup_nakajima/sentences/gun_damaged_02.json,They hit the barrel. Accuracy's down.,nakajima,他們打中砲管。精準度下降。
-gup_nakajima/sentences/gun_damaged_03.json,Gun's not feeling right. Let's shoot carefully.,nakajima,主砲感覺不對。我們小心射擊。
-gup_nakajima/sentences/gun_damaged_04.json,Gun's damaged. Be careful with the next shot.,nakajima,主砲受損。下一發射擊小心。
-gup_nakajima/sentences/gun_destroyed_01.json,Gun destroyed. We can't fire.,nakajima,主砲炸了。不能開火。
-gup_nakajima/sentences/gun_destroyed_02.json,"They got our gun. Let's fix it up, now.",nakajima,他們打壞主砲。現在修吧。
-gup_nakajima/sentences/gun_destroyed_03.json,"So, the gun's gone. That's a serious problem.",nakajima,主砲沒了。這是大問題。
-gup_nakajima/sentences/gun_functional_01.json,Gun restored. We can fire again.,nakajima,主砲恢復。我們又能開火了。
-gup_nakajima/sentences/gun_functional_02.json,Gun's fixed. Good work.,nakajima,主砲修好了。幹得好。
-gup_nakajima/sentences/gun_functional_03.json,Emergency gun repair complete. Aim carefully.,nakajima,緊急主砲修復完成。小心瞄準。
-gup_nakajima/sentences/gun_functional_04.json,We can fire again. That's reassuring.,nakajima,我們又能開火了。這讓人安心。
-gup_nakajima/sentences/loader_killed_01.json,Loader's hit! Reload's slowing down.,nakajima,裝填手被擊中！裝填變慢了。
-gup_nakajima/sentences/loader_killed_02.json,Loader injured! Next round will take longer.,nakajima,裝填手受傷！下一發會比較久。
-gup_nakajima/sentences/loader_killed_03.json,Hit to the loader's station! Our tempo's dropping.,nakajima,裝填座被擊中！我們的節奏下降了。
-gup_nakajima/sentences/loader_killed_04.json,Loader's down! Keep it steady.,nakajima,裝填手倒下了！保持穩定。
-gup_nakajima/sentences/radioman_killed_01.json,Radio operator's seat is hit. Comms will be rough.,nakajima,通訊員座被擊中。通訊會很困難。
-gup_nakajima/sentences/radioman_killed_02.json,Radio operator's seat is hit. Harder to stay in sync now.,nakajima,通訊員座被擊中。現在更難同步。
-gup_nakajima/sentences/radioman_killed_03.json,Radio operator's seat has been hit.,nakajima,通訊員座被擊中了。
-gup_nakajima/sentences/radioman_killed_04.json,Hit to the radio station. Our info feed is thinning out.,nakajima,無線電台被擊中。情報變少了。
-gup_nakajima/sentences/radio_damaged_01.json,Radio damaged. Coordination is getting harder.,nakajima,無線電受損。協調變難了。
-gup_nakajima/sentences/radio_damaged_02.json,Hit to the radio. It's harder to get our voice through.,nakajima,無線電被擊中。聲音很難傳出去。
-gup_nakajima/sentences/radio_damaged_03.json,Radio took a hit. We'll have less info from allies.,nakajima,無線電中彈。友軍情報會變少。
-gup_nakajima/sentences/radio_damaged_04.json,Radio damaged.,nakajima,無線電受損。
-gup_nakajima/sentences/radio_damaged_05.json,Radio damaged. Our signal range is reduced.,nakajima,無線電受損。訊號範圍縮小了。
-gup_nakajima/sentences/radio_damaged_06.json,They're aiming at our radio.,nakajima,他們瞄準我們的無線電。
-gup_nakajima/sentences/start_battle_01.json,"Go, Supersonic Prince!",nakajima,出發，超音速王子！
-gup_nakajima/sentences/start_battle_02.json,Match start. No rushing—let's take a good line.,nakajima,比賽開始。別急——選好路線。
-gup_nakajima/sentences/start_battle_03.json,All vehicles forward. Maintenance is done—drive it like you mean it.,nakajima,所有車輛前進。保養完成——認真開。
-gup_nakajima/sentences/start_battle_04.json,"Here we go. Read the field first, but don't lag behind.",nakajima,出發了。先讀場地，但別落後。
-gup_nakajima/sentences/start_battle_05.json,"Alright, let's take a lap.",nakajima,好，我們跑一圈。
-gup_nakajima/sentences/start_battle_06.json,This is Team-Leoponsan. Ready to roll out!,nakajima,這裡是豹獅隊。準備出發！
-gup_nakajima/sentences/start_battle_07.json,I won't let you pass through here.,nakajima,我不會讓你們從這裡通過。
-gup_nakajima/sentences/start_battle_08.json,Conditions aren't bad today. We can do this.,nakajima,今天條件還不錯。我們可以做到。
-gup_nakajima/sentences/start_battle_09.json,Roll out! Let's keep both engine and motor intact.,nakajima,出發！引擎和馬達都保持完好。
-gup_nakajima/sentences/start_battle_10.json,"Sounds great. Okay, let's go!",nakajima,聽起來不錯。好，出發！
-gup_nakajima/sentences/start_battle_11.json,Push straight to the front—but keep it tidy.,nakajima,直衝前方——但保持整齊。
-gup_nakajima/sentences/start_battle_12.json,"Alright, let's do this for the team.",nakajima,好，為了隊伍我們來吧。
-gup_nakajima/sentences/start_battle_13.json,"Everyone, let's go. Don't fall behind.",nakajima,大家，出發。別落後。
-gup_nakajima/sentences/start_battle_14.json,Feels like the race is on.,nakajima,感覺比賽開始了。
-gup_nakajima/sentences/start_battle_15.json,"Alright, let's show them what we can do.",nakajima,好，讓他們看看我們的實力。
-gup_nakajima/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是豹獅隊。出發！
-gup_nakajima/sentences/start_battle_17.json,Prep is good. Now we just run it.,nakajima,準備好了。現在就跑。
-gup_nakajima/sentences/start_battle_18.json,"No matter who we're facing, same plan. Stay cool.",nakajima,不管面對誰，計畫一樣。保持冷靜。
-gup_nakajima/sentences/start_battle_19.json,Machines answer back—if you treat them right.,nakajima,機器會回應——如果你好好對待它們。
-gup_nakajima/sentences/start_battle_20.json,We're live. Let's make it a good one.,nakajima,我們上線了。讓它成為好的一場。
-gup_nakajima/sentences/start_battle_21.json,"I'll tune her up again after this. For now, let's run.",nakajima,這之後我會再調校她。現在，我們跑。
+﻿file_path,original_text,character,zhtw
+gup_nakajima/sentences/ally_killed_by_player_01.json,That's an ally. Wrong target.,nakajima,是盟友啊！打錯對象了吧。
+gup_nakajima/sentences/ally_killed_by_player_02.json,Easy there. That's a friendly.,nakajima,喔哦，那邊是盟友啊。
+gup_nakajima/sentences/ally_killed_by_player_03.json,Let's skip the friendly fire.,nakajima,請別互相殘殺拜託了喔。
+gup_nakajima/sentences/ally_killed_by_player_04.json,Aim drifted a bit. That's one of ours.,nakajima,是瞄準偏移了嗎？是盟友喔？
+gup_nakajima/sentences/ally_killed_by_player_05.json,Be careful not to hit our allies.,nakajima,注意別打到盟友了。
+gup_nakajima/sentences/ammo_bay_damaged_01.json,They hit the ammo rack. Watch it doesn't detonate!,nakajima,打到彈藥庫了呢，要注意防止誘爆喔。
+gup_nakajima/sentences/ammo_bay_damaged_02.json,Ammo rack damaged! The next hit could be bad.,nakajima,彈藥庫受損，下一發可能就危險了。
+gup_nakajima/sentences/ammo_bay_damaged_03.json,"So they're aiming there. Ammo rack, watch it!",nakajima,瞄準那裡打過來嗎！彈藥庫要特別注意了呢！
+gup_nakajima/sentences/ammo_bay_damaged_04.json,Ammo rack took a hit. Let's handle this carefully.,nakajima,彈藥庫被擊中了呢。操作要小心謹慎一點。
+gup_nakajima/sentences/armor_not_pierced_by_player_01.json,Didn't go through.,nakajima,沒機會能貫穿嗎～
+gup_nakajima/sentences/armor_not_pierced_by_player_02.json,Gotta give it to them.,nakajima,敵人也有兩把刷子呢～
+gup_nakajima/sentences/armor_not_pierced_by_player_03.json,Uh oh.,nakajima,哎呀呀。
+gup_nakajima/sentences/armor_not_pierced_by_player_04.json,Close one. Maybe aim for a weak spot.,nakajima,好可惜呢，來瞄準薄弱部位吧。
+gup_nakajima/sentences/armor_not_pierced_by_player_05.json,"Hmm, their armor blocked it.",nakajima,唔，被裝甲擋下來了呢。
+gup_nakajima/sentences/armor_pierced_by_player_01.json,Penetration. We're looking sharp.,nakajima,貫穿成功！狀態很好呢！
+gup_nakajima/sentences/armor_pierced_by_player_02.json,That went through. Nicely done.,nakajima,打中了打中了！感覺很好！
+gup_nakajima/sentences/armor_pierced_by_player_03.json,Nice. It went through.,nakajima,太棒了！確實貫穿了！
+gup_nakajima/sentences/armor_pierced_by_player_04.json,That was a clean hit.,nakajima,完美命中呢。
+gup_nakajima/sentences/armor_pierced_by_player_05.json,Keep it up. It's working.,nakajima,就這樣保持下去！非常有效喔！
+gup_nakajima/sentences/armor_pierced_crit_by_player_01.json,That one landed. We're good.,nakajima,沒問題，打中了！
+gup_nakajima/sentences/armor_pierced_crit_by_player_02.json,Critical damage to enemy vehicle confirmed.,nakajima,敵方戰車受損了呢。
+gup_nakajima/sentences/armor_pierced_crit_by_player_03.json,Let's keep pushing.,nakajima,就這樣一口氣壓制過去！
+gup_nakajima/sentences/armor_ricochet_by_player_01.json,"Ricochet, huh.",nakajima,被彈開了嗎～
+gup_nakajima/sentences/armor_ricochet_by_player_02.json,That bounced. Bad angle.,nakajima,剛才那發跳彈了呢，入射角太斜了。
+gup_nakajima/sentences/armor_ricochet_by_player_03.json,"Hmm, ricochet. Let's shift position next time.",nakajima,嗯——被彈開了。下一次換個位置吧。
+gup_nakajima/sentences/armor_ricochet_by_player_04.json,They had a good angle on that one.,nakajima,對方的裝甲角度擺得很好呢。
+gup_nakajima/sentences/armor_ricochet_by_player_05.json,Ricochet confirmed. Don't force it.,nakajima,確認跳彈，不要勉強硬來。
+gup_nakajima/sentences/armor_ricochet_by_player_06.json,It's fine. No need to rush.,nakajima,沒關係，別急著衝！
+gup_nakajima/sentences/armor_ricochet_by_player_07.json,Let's find a weaker spot.,nakajima,下一發尋找防禦薄弱的地方吧。
+gup_nakajima/sentences/armor_ricochet_by_player_08.json,"Oops, that one slipped off.",nakajima,喔哦，打滑彈開了呢。
+gup_nakajima/sentences/armor_ricochet_by_player_09.json,They're not that tough. Stay calm.,nakajima,並非無法貫穿的對手！冷靜點！
+gup_nakajima/sentences/armor_ricochet_by_player_10.json,"Hmm, ricochet.",nakajima,唔，跳彈了嗎？
+gup_nakajima/sentences/armor_ricochet_by_player_11.json,That one bounced back.,nakajima,被彈回來了呢。
+gup_nakajima/sentences/armor_ricochet_by_player_12.json,So close!,nakajima,好可惜！
+gup_nakajima/sentences/armor_ricochet_by_player_13.json,"Oops, ricochet.",nakajima,啊哈——被彈開了呢～
+gup_nakajima/sentences/armor_ricochet_by_player_14.json,The angle was too tight there.,nakajima,這個角度不行嗎～
+gup_nakajima/sentences/armor_ricochet_by_player_15.json,"That ricocheted, but we're still in this.",nakajima,雖然被彈開了，但節奏並不壞。
+gup_nakajima/sentences/commander_killed_01.json,"Ah, I got hit! I'll leave the rest to you.",nakajima,啊，被幹掉了，剩下的就交給你們了。
+gup_nakajima/sentences/commander_killed_02.json,"Ouch, I think I need a break!",nakajima,疼疼疼，要稍微休息一下了嗎？
+gup_nakajima/sentences/commander_killed_03.json,"Wow, that one hurt!",nakajima,剛才那下還真夠嗆的呢。
+gup_nakajima/sentences/commander_killed_04.json,They got me good!,nakajima,還真敢幹啊。
+gup_nakajima/sentences/commander_killed_05.json,"Ouch, they really mean business!",nakajima,痛痛痛，敵人也是動真格的呢。
+gup_nakajima/sentences/commander_killed_06.json,I'm out for a bit. Counting on you!,nakajima,我先稍微脫離一下，拜託你們囉。
+gup_nakajima/sentences/commander_killed_07.json,I need a pitstop for myself!,nakajima,讓我稍微進維修站一下。
+gup_nakajima/sentences/crew_deactivated_01.json,What's the point of all this if we have to retire?,nakajima,要是退賽的話就血本無歸了啊。
+gup_nakajima/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是由豹獅隊，要脫離戰場囉！
+gup_nakajima/sentences/crew_deactivated_03.json,"Oh man, we did it again.",nakajima,啊呀——搞砸了～
+gup_nakajima/sentences/crew_deactivated_04.json,We'll fix it up and go again.,nakajima,修理好之後再重新出發吧。
+gup_nakajima/sentences/crew_deactivated_05.json,We are going back.,nakajima,豹獅隊要返回囉！
+gup_nakajima/sentences/damage_by_near_explosion_by_player_01.json,Close. We're getting there!,nakajima,好可惜，就差那麼一點點。
+gup_nakajima/sentences/damage_by_near_explosion_by_player_02.json,"Not a direct hit, but we rattled them.",nakajima,雖然沒直擊，但對方已經被震懾到了呢。
+gup_nakajima/sentences/damage_by_near_explosion_by_player_03.json,We grazed them. Next one will land right in the middle.,nakajima,擦邊中了呢！下次瞄準中心！
+gup_nakajima/sentences/damage_by_near_explosion_by_player_04.json,Not bad. We're getting to them.,nakajima,不壞！有削弱到對方、有削弱到！
+gup_nakajima/sentences/damage_by_near_explosion_by_player_05.json,Tighten it up a bit. We're getting close.,nakajima,再逼近一點吧，手感不錯。
+gup_nakajima/sentences/driver_killed_01.json,Driver's hit. Our mobility will be reduced.,nakajima,駕駛員被幹掉了！機動性會下降喔！
+gup_nakajima/sentences/driver_killed_02.json,Hit to the driver's seat. We'll lose speed.,nakajima,駕駛員席被擊中！速度會降低呢！
+gup_nakajima/sentences/driver_killed_03.json,Driver injured. No hard maneuvers for now.,nakajima,駕駛員負傷？別勉強硬來。
+gup_nakajima/sentences/driver_killed_04.json,Driver down.,nakajima,駕駛員被擊中了。
+gup_nakajima/sentences/enemy_fire_started_by_player_01.json,They're burning. Hit the sweet spot!,nakajima,著火了呢，打中要害了。
+gup_nakajima/sentences/enemy_fire_started_by_player_02.json,Fire started. That'll shake them up.,nakajima,發生火災！對面手忙腳亂了呢！
+gup_nakajima/sentences/enemy_fire_started_by_player_03.json,They're on fire. It's wearing them down!,nakajima,著火了喔，正在持續造成傷害呢。
+gup_nakajima/sentences/enemy_fire_started_by_player_04.json,"Oh, they're burning nicely.",nakajima,哦，燒得真旺呢～
+gup_nakajima/sentences/enemy_fire_started_by_player_05.json,Enemy on fire. Keep the pressure on!,nakajima,確認敵車起火！就這樣繼續施加壓力吧！
+gup_nakajima/sentences/enemy_fire_started_by_player_06.json,We caused a fire. Well done!,nakajima,起火了！立大功了呢！
+gup_nakajima/sentences/enemy_fire_started_by_player_07.json,"Yeah, they're running hot.",nakajima,恩，看起來很燙！
+gup_nakajima/sentences/enemy_fire_started_by_player_08.json,We lit them up. The mechanic in me has mixed feelings.,nakajima,燒起來了呢～雖然作為整備士心情有點複雜就是了。
+gup_nakajima/sentences/enemy_fire_started_by_player_09.json,Fire! They'll be all over the place now.,nakajima,起火了！對方是不是慌成一團了呀？
+gup_nakajima/sentences/enemy_fire_started_by_player_10.json,That's a fire. Let's follow it up!,nakajima,起火了呢，發動追擊吧！
+gup_nakajima/sentences/enemy_fire_started_by_player_11.json,That's doing some damage.,nakajima,很有效很有效！
+gup_nakajima/sentences/enemy_fire_started_by_player_12.json,That was flashy!,nakajima,猛烈地起火延燒了呢。
+gup_nakajima/sentences/enemy_killed_01.json,Enemy vehicle's stopped moving.,nakajima,敵方戰車不動了呢。
+gup_nakajima/sentences/enemy_killed_02.json,Enemy vehicle destroyed. That's one down.,nakajima,確認擊破！總算解決了一輛呢。
+gup_nakajima/sentences/enemy_killed_03.json,Good. That's handled.,nakajima,看起來解決掉了呢。
+gup_nakajima/sentences/enemy_killed_04.json,Looks like that's the end for them.,nakajima,對面看起來到此為止了。
+gup_nakajima/sentences/enemy_killed_05.json,It's going our way. One less enemy.,nakajima,很好的節奏！敵人減少了！
+gup_nakajima/sentences/enemy_killed_06.json,Enemy destroyed. Let's keep rolling.,nakajima,擊破了呢，保持這個勢頭前進吧！
+gup_nakajima/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是由豹獅隊，擊破一輛！
+gup_nakajima/sentences/enemy_killed_by_player_02.json,"Yes, we got 'em!",nakajima,好勒，搞定它了！
+gup_nakajima/sentences/enemy_killed_by_player_03.json,Target destroyed. Let's look for the next one.,nakajima,確認擊破！來尋找下一個對手吧！
+gup_nakajima/sentences/enemy_killed_by_player_04.json,"Hm, looks like we got 'em.",nakajima,呃——是不是解決了一輛？
+gup_nakajima/sentences/enemy_killed_by_player_05.json,That was a job well done.,nakajima,進展很順利呢！
+gup_nakajima/sentences/enemy_killed_by_player_06.json,Enemy destroyed.,nakajima,擊破敵方戰車。
+gup_nakajima/sentences/enemy_killed_by_player_07.json,Nice. Keep that pace.,nakajima,很好！保持這個勢頭！
+gup_nakajima/sentences/enemy_killed_by_player_08.json,You nailed it. Let's keep it smooth.,nakajima,順利搞定呢！下一發也輕快地推進吧！
+gup_nakajima/sentences/enemy_killed_by_player_09.json,Let's keep rolling.,nakajima,就這樣繼續推進吧！
+gup_nakajima/sentences/enemy_killed_by_player_10.json,Yay! Nicely done!,nakajima,太好了呢！
+gup_nakajima/sentences/engine_damaged_01.json,Engine damaged. We can't move so fast.,nakajima,引擎受損！機動性會降低喔！
+gup_nakajima/sentences/engine_damaged_02.json,Hit to the engine. I'll go pacify her.,nakajima,引擎被擊中！我稍微安撫它一下！
+gup_nakajima/sentences/engine_damaged_03.json,Engine took a hit. Don't push it too hard.,nakajima,引擎被擊中了呢，不要勉強重踩油門。
+gup_nakajima/sentences/engine_damaged_04.json,Engine hit. Let's not push too hard.,nakajima,引擎被擊中了！可不能勉強硬來喔！
+gup_nakajima/sentences/engine_damaged_05.json,Engine damaged. I'll fix it while running.,nakajima,引擎受損！一邊跑一邊修好它！
+gup_nakajima/sentences/engine_damaged_06.json,The engine is making a weird noise.,nakajima,引擎傳出怪聲音了呢。
+gup_nakajima/sentences/engine_damaged_07.json,Engine damaged. Where's the pit?,nakajima,引擎受損？維修站（Pit）在哪裡？
+gup_nakajima/sentences/engine_destroyed_01.json,Engine's gone. We can't move!,nakajima,引擎報廢了，跑不動了。
+gup_nakajima/sentences/engine_destroyed_02.json,Engine destroyed. Pit now!,nakajima,引擎大破！緊急進維修站！
+gup_nakajima/sentences/engine_destroyed_03.json,"Oops, they destroyed our engine.",nakajima,哎呀呀，引擎被弄壞了啦。
+gup_nakajima/sentences/engine_destroyed_04.json,"Guess our run ends here. Repair the engine, fast!",nakajima,這樣可跑不動呢，趕快修好！
+gup_nakajima/sentences/engine_functional_01.json,Engine's up and running again!,nakajima,引擎恢復了！又能繼續跑囉！
+gup_nakajima/sentences/engine_functional_02.json,"There, there. It'll be fine.",nakajima,好啦好啦，沒問題了喔～
+gup_nakajima/sentences/engine_functional_03.json,Fixed. Let's get back on the throttle.,nakajima,修好了呢。那麼，繼續補油門前進吧！
+gup_nakajima/sentences/engine_functional_04.json,Emergency repair complete. We can run again.,nakajima,緊急修復完成！這樣又能跑了！
+gup_nakajima/sentences/fire_started_01.json,"Oops, we've got a fire.",nakajima,哎呀呀，起火了～
+gup_nakajima/sentences/fire_started_02.json,We're burning! Stay calm and put it out.,nakajima,著火了呢。冷靜一點把火撲滅！
+gup_nakajima/sentences/fire_started_03.json,"Hey, extinguisher, now!",nakajima,喂！滅火器、滅火器！
+gup_nakajima/sentences/fire_started_04.json,"Whoa, hot hot. Extinguish it!",nakajima,哇，好燙好燙，拜託快滅火！
+gup_nakajima/sentences/fire_started_05.json,We've got a fire. Watch out for the engine!,nakajima,冒出火焰了！引擎周邊要小心！
+gup_nakajima/sentences/fire_started_06.json,Fire is bad news. Put it out now.,nakajima,火災可不太妙呢，立刻撲滅吧。
+gup_nakajima/sentences/fire_started_07.json,We can still save this. Extinguish the fire!,nakajima,還來得及！快滅火！
+gup_nakajima/sentences/fire_started_08.json,Keep calm and put the fire out!,nakajima,冷靜下來滅火吧！
+gup_nakajima/sentences/fire_stopped_01.json,Fire's out. Good save.,nakajima,滅火完成！太好了～！
+gup_nakajima/sentences/fire_stopped_02.json,"It's out. Good, let's continue.",nakajima,火滅了呢。好，出發！
+gup_nakajima/sentences/fire_stopped_03.json,Thanks for the extinguisher. We can still roll.,nakajima,謝謝幫忙滅火，還能繼續跑。
+gup_nakajima/sentences/fire_stopped_04.json,Fire's stopped. Let's get her back in the mood.,nakajima,火勢止住了，撫平脾氣重新出發吧！
+gup_nakajima/sentences/fire_stopped_05.json,"Okay, it's out. We can hit back now.",nakajima,OK！火滅掉了！可以發動反擊囉！
+gup_nakajima/sentences/fuel_tank_damaged_01.json,Fuel tank hit! Watch for fire.,nakajima,油箱被擊中！注意別起火！
+gup_nakajima/sentences/fuel_tank_damaged_02.json,Fuel tank took a hit. That's dangerous.,nakajima,油箱被擊中了呢，有點危險了呢。
+gup_nakajima/sentences/fuel_tank_damaged_03.json,Fuel tank damaged. Let's avoid ignition.,nakajima,油箱受損！真想避免引火起火呀～
+gup_nakajima/sentences/fuel_tank_damaged_04.json,"Fuel tank, watch it!",nakajima,油箱需要特別注意！
+gup_nakajima/sentences/fuel_tank_damaged_05.json,Fuel tank hit. Lucky it didn't ignite.,nakajima,油箱被擊中。
+gup_nakajima/sentences/gunner_killed_01.json,Gunner's hit! Accuracy will drop.,nakajima,砲手被幹掉了！精度會下降喔！
+gup_nakajima/sentences/gunner_killed_02.json,Gunner injured! Our aim's going to be off.,nakajima,砲手負傷！瞄準容易產生偏差！
+gup_nakajima/sentences/gunner_killed_03.json,Hit to the gunner's station! Fire carefully.,nakajima,砲手席被擊中！射擊要謹慎！
+gup_nakajima/sentences/gunner_killed_04.json,Gunner's down! Let's keep things careful.,nakajima,砲手失能！現在要小心操作！
+gup_nakajima/sentences/gun_damaged_01.json,Gun damaged. Aim's going to get rough.,nakajima,主砲受損！瞄準會有點偏差喔！
+gup_nakajima/sentences/gun_damaged_02.json,They hit the barrel. Accuracy's down.,nakajima,打到砲管了呢，精度會下降。
+gup_nakajima/sentences/gun_damaged_03.json,Gun's not feeling right. Let's shoot carefully.,nakajima,主砲狀況不太好，謹慎地發射吧。
+gup_nakajima/sentences/gun_damaged_04.json,Gun's damaged. Be careful with the next shot.,nakajima,主砲被擊中了！下一發要慎重！
+gup_nakajima/sentences/gun_destroyed_01.json,Gun destroyed. We can't fire.,nakajima,主砲大破！這樣根本無法開火！
+gup_nakajima/sentences/gun_destroyed_02.json,"They got our gun. Let's fix it up, now.",nakajima,主砲被弄壞了呢，立刻修理吧。
+gup_nakajima/sentences/gun_destroyed_03.json,"So, the gun's gone. That's a serious problem.",nakajima,主砲毀損了，這下可真的困擾了呢。
+gup_nakajima/sentences/gun_functional_01.json,Gun restored. We can fire again.,nakajima,主砲修復，可以開火囉！
+gup_nakajima/sentences/gun_functional_02.json,Gun's fixed. Good work.,nakajima,主砲修好了呢，謝謝。
+gup_nakajima/sentences/gun_functional_03.json,Emergency gun repair complete. Aim carefully.,nakajima,主砲緊急修復完成！好好瞄準吧！
+gup_nakajima/sentences/gun_functional_04.json,We can fire again. That's reassuring.,nakajima,這樣又能開火了！真可靠呢！
+gup_nakajima/sentences/loader_killed_01.json,Loader's hit! Reload's slowing down.,nakajima,裝填手被幹掉了！裝填速度會變慢喔！
+gup_nakajima/sentences/loader_killed_02.json,Loader injured! Next round will take longer.,nakajima,裝填手負傷！離下一發裝填時間會很久喔！
+gup_nakajima/sentences/loader_killed_03.json,Hit to the loader's station! Our tempo's dropping.,nakajima,裝填手席被擊中！節奏會慢下來呢！
+gup_nakajima/sentences/loader_killed_04.json,Loader's down! Keep it steady.,nakajima,裝填手失能，操作謹慎一點吧。
+gup_nakajima/sentences/radioman_killed_01.json,Radio operator's seat is hit. Comms will be rough.,nakajima,通訊員席被擊中了，聯絡會變得困難呢。
+gup_nakajima/sentences/radioman_killed_02.json,Radio operator's seat is hit. Harder to stay in sync now.,nakajima,通訊員席被擊中！很難跟盟友保持默契配合呢！
+gup_nakajima/sentences/radioman_killed_03.json,Radio operator's seat has been hit.,nakajima,通訊員席被擊中了。
+gup_nakajima/sentences/radioman_killed_04.json,Hit to the radio station. Our info feed is thinning out.,nakajima,通訊員席被擊中，情報都傳不進來了呢。
+gup_nakajima/sentences/radio_damaged_01.json,Radio damaged. Coordination is getting harder.,nakajima,無線電受損！這樣很難跟隊友配合呢！
+gup_nakajima/sentences/radio_damaged_02.json,Hit to the radio. It's harder to get our voice through.,nakajima,無線電被擊中！聲音很難傳過去呢！
+gup_nakajima/sentences/radio_damaged_03.json,Radio took a hit. We'll have less info from allies.,nakajima,無線電被搞垮了！來自盟友的情報會減少喔！
+gup_nakajima/sentences/radio_damaged_04.json,Radio damaged.,nakajima,無線電受損了！
+gup_nakajima/sentences/radio_damaged_05.json,Radio damaged. Our signal range is reduced.,nakajima,無線電受損！收訊範圍變窄了！
+gup_nakajima/sentences/radio_damaged_06.json,They're aiming at our radio.,nakajima,無線電被瞄準了！
+gup_nakajima/sentences/start_battle_01.json,"Go, Supersonic Prince!",nakajima,上吧！超音速貴公子！
+gup_nakajima/sentences/start_battle_02.json,Match start. No rushing—let's take a good line.,nakajima,比賽開始！別著急，沿著好路線推進吧！
+gup_nakajima/sentences/start_battle_03.json,All vehicles forward. Maintenance is done—drive it like you mean it.,nakajima,全車前進，整備已經完成，放手一搏出發吧！
+gup_nakajima/sentences/start_battle_04.json,"Here we go. Read the field first, but don't lag behind.",nakajima,開始了呢，先觀察情況，但可別掉隊了喔！
+gup_nakajima/sentences/start_battle_05.json,"Alright, let's take a lap.",nakajima,好，趕快跑起來看看吧！
+gup_nakajima/sentences/start_battle_06.json,This is Team-Leoponsan. Ready to roll out!,nakajima,這裡是由豹獅隊，準備完畢！
+gup_nakajima/sentences/start_battle_07.json,I won't let you pass through here.,nakajima,絕不讓你再往前進一步！
+gup_nakajima/sentences/start_battle_08.json,Conditions aren't bad today. We can do this.,nakajima,今天的車況不壞喔，開幹吧！
+gup_nakajima/sentences/start_battle_09.json,Roll out! Let's keep both engine and motor intact.,nakajima,來吧出發！可別把馬達跟引擎給操壞了喔！
+gup_nakajima/sentences/start_battle_10.json,"Sounds great. Okay, let's go!",nakajima,好聲音！好，出發！
+gup_nakajima/sentences/start_battle_11.json,Push straight to the front—but keep it tidy.,nakajima,一口氣衝到前線，但要謹慎一點喔。
+gup_nakajima/sentences/start_battle_12.json,"Alright, let's do this for the team.",nakajima,好勒，為了隊伍加油吧！
+gup_nakajima/sentences/start_battle_13.json,"Everyone, let's go. Don't fall behind.",nakajima,大家要出發囉！可別被落下了喔！
+gup_nakajima/sentences/start_battle_14.json,Feels like the race is on.,nakajima,那麼，感覺就像賽車開跑了呢？
+gup_nakajima/sentences/start_battle_15.json,"Alright, let's show them what we can do.",nakajima,好勒，大家一起展現精彩的跑法給他們看吧！
+gup_nakajima/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是由豹獅隊，要出擊囉！
+gup_nakajima/sentences/start_battle_17.json,Prep is good. Now we just run it.,nakajima,準備OK！剩下的就只管跑了！
+gup_nakajima/sentences/start_battle_18.json,"No matter who we're facing, same plan. Stay cool.",nakajima,無論對手是誰該做的事都一樣，冷靜推進吧！
+gup_nakajima/sentences/start_battle_19.json,Machines answer back—if you treat them right.,nakajima,只要好好對待，機械就會給予回應。
+gup_nakajima/sentences/start_battle_20.json,We're live. Let's make it a good one.,nakajima,起跑囉！熱熱鬧鬧地上吧！
+gup_nakajima/sentences/start_battle_21.json,"I'll tune her up again after this. For now, let's run.",nakajima,結束後我會再幫妳好好保養整備的，現在就衝吧！
 gup_nakajima/sentences/surveying_devices_damaged_01.json,Observation device hit!,nakajima,觀測裝置被擊中！
-gup_nakajima/sentences/surveying_devices_damaged_02.json,They're targeting our optics.,nakajima,他們瞄準我們的瞄準鏡。
-gup_nakajima/sentences/surveying_devices_damaged_03.json,Optics damaged! View range reduced.,nakajima,瞄準鏡受損！視野範圍縮小。
-gup_nakajima/sentences/surveying_devices_damaged_04.json,It's hard to look outside now.,nakajima,現在外面很難看。
-gup_nakajima/sentences/surveying_devices_damaged_05.json,They're aiming for the optics. Nasty.,nakajima,他們瞄準瞄準鏡。很討厭。
-gup_nakajima/sentences/surveying_devices_damaged_06.json,Our optics took damage. Keep your eyes open.,nakajima,瞄準鏡受損。睜大眼睛。
-gup_nakajima/sentences/surveying_devices_damaged_07.json,Observation devices are in trouble.,nakajima,觀測裝置有問題。
-gup_nakajima/sentences/surveying_devices_damaged_08.json,"It's a little harder to see, but still workable.",nakajima,看稍微難一點，但還能用。
-gup_nakajima/sentences/surveying_devices_destroyed_01.json,Observation devices destroyed. We can barely see.,nakajima,觀測裝置摧毀。幾乎看不見。
-gup_nakajima/sentences/surveying_devices_destroyed_02.json,They blinded us. That's rough.,nakajima,他們讓我們失明。很糟。
-gup_nakajima/sentences/surveying_devices_destroyed_03.json,Optics are completely done for.,nakajima,瞄準鏡完全壞了。
-gup_nakajima/sentences/surveying_devices_destroyed_04.json,We can't spot like this.,nakajima,這樣無法偵查。
-gup_nakajima/sentences/surveying_devices_destroyed_05.json,"Can't see much. Repair the optics, fast!",nakajima,看不太見。快修瞄準鏡！
-gup_nakajima/sentences/surveying_devices_destroyed_06.json,We can't see outside.,nakajima,外面看不見。
-gup_nakajima/sentences/surveying_devices_destroyed_07.json,Optics are destroyed. That's bad.,nakajima,瞄準鏡被摧毀。很糟。
-gup_nakajima/sentences/surveying_devices_destroyed_08.json,Visibility's close to zero. Don't take any risks.,nakajima,能見度接近零。別冒險。
-gup_nakajima/sentences/surveying_devices_destroyed_09.json,Observation device is done. We're driving blind now.,nakajima,觀測裝置完了。我們現在盲目駕駛。
-gup_nakajima/sentences/surveying_devices_destroyed_10.json,"View range is limited. We need it fixed, fast.",nakajima,視野範圍有限。我們需要快修。
-gup_nakajima/sentences/surveying_devices_functional_01.json,Optics fixed. We can see outside again.,nakajima,瞄準鏡修好了。我們又能看外面。
-gup_nakajima/sentences/surveying_devices_functional_02.json,View range is back. Good save.,nakajima,視野恢復了。處理得好。
-gup_nakajima/sentences/surveying_devices_functional_03.json,Optics restored. They're back on.,nakajima,瞄準鏡恢復。又好了。
-gup_nakajima/sentences/surveying_devices_functional_04.json,Emergency repair done. Our eyes are back.,nakajima,緊急修復完成。我們的眼睛回來了。
-gup_nakajima/sentences/surveying_devices_functional_05.json,Now we can pick up the field again.,nakajima,現在我們又能讀場地了。
-gup_nakajima/sentences/surveying_devices_functional_06.json,We can see now. Nice.,nakajima,現在能看見了。不錯。
-gup_nakajima/sentences/surveying_devices_functional_07.json,Observation gear is back in shape.,nakajima,觀測裝置恢復了。
-gup_nakajima/sentences/surveying_devices_functional_08.json,Sight's clearer now. Much easier to move.,nakajima,視野更清楚了。移動容易多了。
-gup_nakajima/sentences/surveying_devices_functional_09.json,"Good, we can spot again.",nakajima,好，我們又能偵查了。
-gup_nakajima/sentences/surveying_devices_functional_10.json,We can see outside again.,nakajima,我們又能看外面了。
-gup_nakajima/sentences/surveying_devices_functional_11.json,Optics restored. We can see around us now.,nakajima,瞄準鏡恢復。現在能看周圍了。
-gup_nakajima/sentences/surveying_devices_functional_12.json,It's easier when you have your sight back.,nakajima,有了視野就容易多了。
-gup_nakajima/sentences/surveying_devices_functional_13.json,Repairs complete. Resume spotting.,nakajima,修復完成。恢復偵查。
-gup_nakajima/sentences/surveying_devices_functional_14.json,"Okay, the optics are healthy again.",nakajima,好，瞄準鏡又健康了。
-gup_nakajima/sentences/target_captured_01.json,Target acquired.,nakajima,目標鎖定。
-gup_nakajima/sentences/target_captured_02.json,Got them.,nakajima,鎖定他們了。
-gup_nakajima/sentences/target_captured_03.json,Locked on. They're not getting away.,nakajima,鎖定了。他們跑不掉。
-gup_nakajima/sentences/target_captured_04.json,Target confirmed. Let's cook.,nakajima,目標確認。我們開火吧。
-gup_nakajima/sentences/target_captured_05.json,Target tracked. Let's land it calmly.,nakajima,目標追蹤。冷靜命中。
-gup_nakajima/sentences/target_captured_06.json,We see them. Now we finish it.,nakajima,我們看見他們了。現在結束它。
-gup_nakajima/sentences/target_captured_07.json,Enemy acquired.,nakajima,敵方鎖定。
-gup_nakajima/sentences/target_lost_01.json,Lost them. Don't force the chase.,nakajima,失去他們了。別硬追。
-gup_nakajima/sentences/target_lost_02.json,Target lost. Break off for now.,nakajima,目標遺失。暫時脫離。
-gup_nakajima/sentences/target_lost_03.json,"They vanished, huh. They'll show again.",nakajima,他們消失了啊。還會出現的。
-gup_nakajima/sentences/target_lost_04.json,They're out of sight. Look for the next play.,nakajima,他們不在視線內。找下一個機會。
-gup_nakajima/sentences/target_unlocked_01.json,"Switching targets, got it.",nakajima,換目標，收到。
-gup_nakajima/sentences/target_unlocked_02.json,Drop that one. On to the next.,nakajima,放棄那個。下一個。
-gup_nakajima/sentences/target_unlocked_03.json,No tunnel vision. Good call.,nakajima,沒有隧道視野。好決定。
-gup_nakajima/sentences/target_unlocked_04.json,We're moving to another target.,nakajima,我們換到另一個目標。
-gup_nakajima/sentences/target_unlocked_05.json,Let's change targets.,nakajima,我們換目標吧。
-gup_nakajima/sentences/target_unlocked_06.json,We can leave that one to others.,nakajima,那個可以交給別人。
-gup_nakajima/sentences/target_unlocked_07.json,Let's go for a cleaner shot.,nakajima,我們找個更乾淨的射擊。
-gup_nakajima/sentences/target_unlocked_08.json,Target unlocked. Searching for the next.,nakajima,目標解除鎖定。尋找下一個。
-gup_nakajima/sentences/target_unlocked_09.json,Priority changed.,nakajima,優先順序改變了。
-gup_nakajima/sentences/target_unlocked_10.json,"Copy, new target.",nakajima,收到，新目標。
-gup_nakajima/sentences/target_unlocked_11.json,Let's leave that target behind.,nakajima,我們暫時放著那個目標。
-gup_nakajima/sentences/target_unlocked_12.json,Target switching matters. Read the flow.,nakajima,換目標很重要。讀懂節奏。
-gup_nakajima/sentences/target_unlocked_13.json,Let's leave them be for now.,nakajima,暫時放著他們。
-gup_nakajima/sentences/track_damaged_01.json,Tracks took a hit. Should we make a pit stop now?,nakajima,履帶被擊中。現在進站嗎？
-gup_nakajima/sentences/track_damaged_02.json,Tracks damaged. No wild moves.,nakajima,履帶受損。別做激烈動作。
-gup_nakajima/sentences/track_damaged_03.json,Track damaged. We can make an early pit stop.,nakajima,履帶受損。我們可以提早進站。
-gup_nakajima/sentences/track_damaged_04.json,They're going for our tracks. Watch out!,nakajima,他們瞄準我們的履帶。小心！
-gup_nakajima/sentences/track_destroyed_01.json,Tracks are off! Let's make a pit stop now.,nakajima,履帶脫了！現在進站吧。
-gup_nakajima/sentences/track_destroyed_02.json,They got our running gear! Repair it fast.,nakajima,他們打壞行走裝置！快修。
-gup_nakajima/sentences/track_destroyed_03.json,"Ah, there go the tracks.",nakajima,啊，履帶沒了。
-gup_nakajima/sentences/track_destroyed_04.json,"We can't move like this. Tracks, please.",nakajima,這樣動不了。履帶，拜託。
-gup_nakajima/sentences/track_functional_01.json,Tracks restored.,nakajima,履帶恢復了。
-gup_nakajima/sentences/track_functional_02.json,Running gear is fixed.,nakajima,行走裝置修好了。
-gup_nakajima/sentences/track_functional_03.json,Track repair complete.,nakajima,履帶修復完成。
-gup_nakajima/sentences/track_functional_04.json,"Good, they're back on properly.",nakajima,好，它們正確裝回去了。
-gup_nakajima/sentences/track_functional_can_move_01.json,We can move. Let's go.,nakajima,我們能動了。出發吧。
-gup_nakajima/sentences/track_functional_can_move_02.json,Tracks are back. We're rolling again.,nakajima,履帶回來了。我們又能跑了。
-gup_nakajima/sentences/track_functional_can_move_03.json,"Good, we can roll again.",nakajima,好，我們又能跑了。
-gup_nakajima/sentences/track_functional_can_move_04.json,"There, there. You can move now.",nakajima,好了好了。現在能動了。
-gup_nakajima/sentences/track_functional_can_move_05.json,Thanks for waiting. Let's move.,nakajima,謝謝等待。我們動吧。
-gup_nakajima/sentences/track_functional_can_move_06.json,Still got some running to do.,nakajima,還有路要跑。
-gup_nakajima/sentences/track_functional_can_move_07.json,"Okay, let's move again.",nakajima,好，我們再動吧。
-gup_nakajima/sentences/turret_rotator_damaged_01.json,Turret drive is damaged. Traverse is slower.,nakajima,砲塔驅動受損。轉動變慢了。
-gup_nakajima/sentences/turret_rotator_damaged_02.json,Turret rotation's sluggish.,nakajima,砲塔轉動變慢了。
-gup_nakajima/sentences/turret_rotator_damaged_03.json,They hit the traverse system. Don't rush it.,nakajima,他們打中轉動系統。別急。
-gup_nakajima/sentences/turret_rotator_destroyed_01.json,Turret won't turn. Traverse mechanism destroyed.,nakajima,砲塔轉不了。轉動機構被摧毀。
-gup_nakajima/sentences/turret_rotator_destroyed_02.json,Rotator's destroyed!,nakajima,旋轉機構被摧毀！
-gup_nakajima/sentences/turret_rotator_destroyed_03.json,"No good, the turret's stuck.",nakajima,不好，砲塔卡住了。
-gup_nakajima/sentences/turret_rotator_destroyed_04.json,Can't rotate the turret.,nakajima,砲塔轉不了。
-gup_nakajima/sentences/turret_rotator_functional_01.json,Turret's turning again.,nakajima,砲塔又能轉了。
-gup_nakajima/sentences/turret_rotator_functional_02.json,Traverse restored. We can realign now.,nakajima,轉動恢復。現在可以重新對準。
-gup_nakajima/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",nakajima,拖車組，慢慢來！
-gup_nakajima/sentences/vehicle_destroyed_02.json,"The race is over for us, but that wasn't a bad run.",nakajima,這場比賽我們結束了，但跑得還不錯。
-gup_nakajima/sentences/vehicle_destroyed_03.json,Oarai's defensive line has been breached.,nakajima,大洗的防線被突破了。
-gup_nakajima/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We're done for, sorry.",nakajima,這裡是豹獅隊。我們結束了，抱歉。
-gup_nakajima/sentences/vehicle_destroyed_05.json,We'll stay up all night tonight and get those tanks back in running order.,nakajima,今晚我們通宵把戰車修好。
+gup_nakajima/sentences/surveying_devices_damaged_02.json,They're targeting our optics.,nakajima,對方瞄準我們的眼睛打過來了呢。
+gup_nakajima/sentences/surveying_devices_damaged_03.json,Optics damaged! View range reduced.,nakajima,觀測裝置受損，視野變差了喔。
+gup_nakajima/sentences/surveying_devices_damaged_04.json,It's hard to look outside now.,nakajima,不太看得見外面了。
+gup_nakajima/sentences/surveying_devices_damaged_05.json,They're aiming for the optics. Nasty.,nakajima,瞄準觀測裝置嗎，真是陰險呢。
+gup_nakajima/sentences/surveying_devices_damaged_06.json,Our optics took damage. Keep your eyes open.,nakajima,觀測裝置被擊中了！小心一點！
+gup_nakajima/sentences/surveying_devices_damaged_07.json,Observation devices are in trouble.,nakajima,觀測裝置危險了！
+gup_nakajima/sentences/surveying_devices_damaged_08.json,"It's a little harder to see, but still workable.",nakajima,雖然有點難看清楚，但還撐得住！
+gup_nakajima/sentences/surveying_devices_destroyed_01.json,Observation devices destroyed. We can barely see.,nakajima,觀測裝置大破！幾乎看不見了喔。
+gup_nakajima/sentences/surveying_devices_destroyed_02.json,They blinded us. That's rough.,nakajima,眼睛被用瞎了呢，這下很吃緊。
+gup_nakajima/sentences/surveying_devices_destroyed_03.json,Optics are completely done for.,nakajima,觀測裝置被徹底弄壞了！
+gup_nakajima/sentences/surveying_devices_destroyed_04.json,We can't spot like this.,nakajima,這樣根本無法索敵！
+gup_nakajima/sentences/surveying_devices_destroyed_05.json,"Can't see much. Repair the optics, fast!",nakajima,看不見了呢～快點修理！
+gup_nakajima/sentences/surveying_devices_destroyed_06.json,We can't see outside.,nakajima,外部的情報消失了。
+gup_nakajima/sentences/surveying_devices_destroyed_07.json,Optics are destroyed. That's bad.,nakajima,觀測裝置大破，相當不妙！
+gup_nakajima/sentences/surveying_devices_destroyed_08.json,Visibility's close to zero. Don't take any risks.,nakajima,視野接近歸零了，不要勉強！
+gup_nakajima/sentences/surveying_devices_destroyed_09.json,Observation device is done. We're driving blind now.,nakajima,觀測裝置被搞垮了！只能摸黑應戰了喔！
+gup_nakajima/sentences/surveying_devices_destroyed_10.json,"View range is limited. We need it fixed, fast.",nakajima,視野範圍變窄了，想快點修好它。
+gup_nakajima/sentences/surveying_devices_functional_01.json,Optics fixed. We can see outside again.,nakajima,觀測裝置修好了！看得見外面了！
+gup_nakajima/sentences/surveying_devices_functional_02.json,View range is back. Good save.,nakajima,視野恢復了呢！太好了！
+gup_nakajima/sentences/surveying_devices_functional_03.json,Optics restored. They're back on.,nakajima,觀測裝置修復！沒問題的！
+gup_nakajima/sentences/surveying_devices_functional_04.json,Emergency repair done. Our eyes are back.,nakajima,緊急修復完成！眼睛重新復活了呢！
+gup_nakajima/sentences/surveying_devices_functional_05.json,Now we can pick up the field again.,nakajima,這樣就能掌握周圍的情報了！
+gup_nakajima/sentences/surveying_devices_functional_06.json,We can see now. Nice.,nakajima,看得見看得見！很好呢！
+gup_nakajima/sentences/surveying_devices_functional_07.json,Observation gear is back in shape.,nakajima,觀測裝置的狀況恢復了喔！
+gup_nakajima/sentences/surveying_devices_functional_08.json,Sight's clearer now. Much easier to move.,nakajima,總之能看得見了，駕駛起來順手多了呢。
+gup_nakajima/sentences/surveying_devices_functional_09.json,"Good, we can spot again.",nakajima,好，又可以繼續搜尋了呢！
+gup_nakajima/sentences/surveying_devices_functional_10.json,We can see outside again.,nakajima,外部的情報傳回來了！
+gup_nakajima/sentences/surveying_devices_functional_11.json,Optics restored. We can see around us now.,nakajima,觀測裝置修復！這樣就能看到遠方了！
+gup_nakajima/sentences/surveying_devices_functional_12.json,It's easier when you have your sight back.,nakajima,視野恢復後就輕鬆多了呢～
+gup_nakajima/sentences/surveying_devices_functional_13.json,Repairs complete. Resume spotting.,nakajima,修理完成！重新展開索敵！
+gup_nakajima/sentences/surveying_devices_functional_14.json,"Okay, the optics are healthy again.",nakajima,OK！觀測裝置運作良好！
+gup_nakajima/sentences/target_captured_01.json,Target acquired.,nakajima,鎖定目標囉。
+gup_nakajima/sentences/target_captured_02.json,Got them.,nakajima,發現了呢。
+gup_nakajima/sentences/target_captured_03.json,Locked on. They're not getting away.,nakajima,已經鎖定，絕不讓你逃掉！
+gup_nakajima/sentences/target_captured_04.json,Target confirmed. Let's cook.,nakajima,確認目標！要怎麼做？
+gup_nakajima/sentences/target_captured_05.json,Target tracked. Let's land it calmly.,nakajima,捕捉完成！冷靜瞄準命中吧！
+gup_nakajima/sentences/target_captured_06.json,We see them. Now we finish it.,nakajima,看得到了，剩下的就是搞定它！
+gup_nakajima/sentences/target_captured_07.json,Enemy acquired.,nakajima,捕捉敵車！
+gup_nakajima/sentences/target_lost_01.json,Lost them. Don't force the chase.,nakajima,跟丟了呢，不要勉強硬追！
+gup_nakajima/sentences/target_lost_02.json,Target lost. Break off for now.,nakajima,失去目標！先暫時放棄！
+gup_nakajima/sentences/target_lost_03.json,"They vanished, huh. They'll show again.",nakajima,消失了嗎…算了，之後會再現身的。
+gup_nakajima/sentences/target_lost_04.json,They're out of sight. Look for the next play.,nakajima,脫離視野了呢，看下一個目標吧。
+gup_nakajima/sentences/target_unlocked_01.json,"Switching targets, got it.",nakajima,變更目標了呢，收到。
+gup_nakajima/sentences/target_unlocked_02.json,Drop that one. On to the next.,nakajima,那邊就放掉吧，換下一個。
+gup_nakajima/sentences/target_unlocked_03.json,No tunnel vision. Good call.,nakajima,不深追，這是明智的判斷喔。
+gup_nakajima/sentences/target_unlocked_04.json,We're moving to another target.,nakajima,轉向別的目標囉。
+gup_nakajima/sentences/target_unlocked_05.json,Let's change targets.,nakajima,來更換瞄準目標吧。
+gup_nakajima/sentences/target_unlocked_06.json,We can leave that one to others.,nakajima,那個交給其他人處理就好。
+gup_nakajima/sentences/target_unlocked_07.json,Let's go for a cleaner shot.,nakajima,轉向火線角度更好的敵人。
+gup_nakajima/sentences/target_unlocked_08.json,Target unlocked. Searching for the next.,nakajima,解除目標，搜尋下一個。
+gup_nakajima/sentences/target_unlocked_09.json,Priority changed.,nakajima,優先順序改變了呢。
+gup_nakajima/sentences/target_unlocked_10.json,"Copy, new target.",nakajima,收到，更換目標。
+gup_nakajima/sentences/target_unlocked_11.json,Let's leave that target behind.,nakajima,先放過剛才的對手吧。
+gup_nakajima/sentences/target_unlocked_12.json,Target switching matters. Read the flow.,nakajima,切換目標很關鍵！觀察形勢吧！
+gup_nakajima/sentences/target_unlocked_13.json,Let's leave them be for now.,nakajima,這邊先暫時擱置吧！
+gup_nakajima/sentences/track_damaged_01.json,Tracks took a hit. Should we make a pit stop now?,nakajima,履帶受損，要進維修站嗎？
+gup_nakajima/sentences/track_damaged_02.json,Tracks damaged. No wild moves.,nakajima,履帶受損，別做勉強的操縱動作。
+gup_nakajima/sentences/track_damaged_03.json,Track damaged. We can make an early pit stop.,nakajima,履帶受損！要提早進維修站嗎？
+gup_nakajima/sentences/track_damaged_04.json,They're going for our tracks. Watch out!,nakajima,對方在瞄準腳程呢，注意！
+gup_nakajima/sentences/track_destroyed_01.json,Tracks are off! Let's make a pit stop now.,nakajima,履帶斷了，先進維修站吧。
+gup_nakajima/sentences/track_destroyed_02.json,They got our running gear! Repair it fast.,nakajima,腳程被破壞了呢，快點修理！
+gup_nakajima/sentences/track_destroyed_03.json,"Ah, there go the tracks.",nakajima,啊，履帶被打了斷。
+gup_nakajima/sentences/track_destroyed_04.json,"We can't move like this. Tracks, please.",nakajima,這樣動彈不得，履帶修理拜託了！
+gup_nakajima/sentences/track_functional_01.json,Tracks restored.,nakajima,履帶修復。
+gup_nakajima/sentences/track_functional_02.json,Running gear is fixed.,nakajima,底盤懸吊系統修好囉！
+gup_nakajima/sentences/track_functional_03.json,Track repair complete.,nakajima,履帶的修理完成！
+gup_nakajima/sentences/track_functional_04.json,"Good, they're back on properly.",nakajima,確實接合上了呢。
+gup_nakajima/sentences/track_functional_can_move_01.json,We can move. Let's go.,nakajima,可以動了！出發！
+gup_nakajima/sentences/track_functional_can_move_02.json,Tracks are back. We're rolling again.,nakajima,履帶修好了！來吧，出發！
+gup_nakajima/sentences/track_functional_can_move_03.json,"Good, we can roll again.",nakajima,好，又能繼續跑了！
+gup_nakajima/sentences/track_functional_can_move_04.json,"There, there. You can move now.",nakajima,好啦好啦，可以動囉～！
+gup_nakajima/sentences/track_functional_can_move_05.json,Thanks for waiting. Let's move.,nakajima,讓你們久等了，出發吧！
+gup_nakajima/sentences/track_functional_can_move_06.json,Still got some running to do.,nakajima,我們還能跑得更快！
+gup_nakajima/sentences/track_functional_can_move_07.json,"Okay, let's move again.",nakajima,OK，恢復移動！
+gup_nakajima/sentences/turret_rotator_damaged_01.json,Turret drive is damaged. Traverse is slower.,nakajima,砲塔旋轉裝置故障了，砲塔很難轉動。
+gup_nakajima/sentences/turret_rotator_damaged_02.json,Turret rotation's sluggish.,nakajima,砲塔轉動變得很鈍。
+gup_nakajima/sentences/turret_rotator_damaged_03.json,They hit the traverse system. Don't rush it.,nakajima,旋轉裝置被擊中了，別慌張。
+gup_nakajima/sentences/turret_rotator_destroyed_01.json,Turret won't turn. Traverse mechanism destroyed.,nakajima,砲塔轉不動了！
+gup_nakajima/sentences/turret_rotator_destroyed_02.json,Rotator's destroyed!,nakajima,旋轉裝置大破。
+gup_nakajima/sentences/turret_rotator_destroyed_03.json,"No good, the turret's stuck.",nakajima,不行！砲塔動不了了！
+gup_nakajima/sentences/turret_rotator_destroyed_04.json,Can't rotate the turret.,nakajima,沒辦法改變砲塔的方向！
+gup_nakajima/sentences/turret_rotator_functional_01.json,Turret's turning again.,nakajima,砲塔可以轉動了！
+gup_nakajima/sentences/turret_rotator_functional_02.json,Traverse restored. We can realign now.,nakajima,旋轉裝置修復，可以重新瞄準囉！
+gup_nakajima/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",nakajima,回收救援慢慢來沒關係喔～
+gup_nakajima/sentences/vehicle_destroyed_02.json,"The race is over for us, but that wasn't a bad run.",nakajima,退賽了嗎。不過跑得還算不賴喔。
+gup_nakajima/sentences/vehicle_destroyed_03.json,Oarai's defensive line has been breached.,nakajima,大洗防衛線崩潰了！
+gup_nakajima/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We're done for, sorry.",nakajima,這裡是由豹獅隊，被幹掉了，對不起喔。
+gup_nakajima/sentences/vehicle_destroyed_05.json,We'll stay up all night tonight and get those tanks back in running order.,nakajima,今晚徹夜也要把戰車修到能自力的程度！

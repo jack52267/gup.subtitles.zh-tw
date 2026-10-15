@@ -3,13 +3,13 @@
   "timeline": [
     {
       "emotion": "angry",
-      "text": "喂，星野，快拿滅火器！",
+      "text": "喂，星野！滅火器、滅火器！",
       "character": "nakajima",
       "time": 0.0
     },
     {
       "emotion": "focused",
-      "text": "好！",
+      "text": "OK！",
       "character": "hoshino",
       "time": 3.25
     }

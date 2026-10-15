@@ -3,25 +3,25 @@
   "timeline": [
     {
       "emotion": "default",
-      "text": "今晚我們通宵把戰車修好。",
+      "text": "今晚徹夜也要把戰車修到能自力的程度！",
       "character": "nakajima",
       "time": 0.0
     },
     {
       "emotion": "default",
-      "text": "好！",
+      "text": "OK",
       "character": "suzuki",
       "time": 3.95
     },
     {
       "emotion": "content",
-      "text": "我來處理！",
+      "text": "包在我們身上",
       "character": "hoshino",
       "time": 4.85
     },
     {
       "emotion": "excited",
-      "text": "這才對！",
+      "text": "就該這樣才對！",
       "character": "tsuchiya",
       "time": 5.9
     }

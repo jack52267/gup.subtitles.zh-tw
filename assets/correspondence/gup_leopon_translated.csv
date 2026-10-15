@@ -1,277 +1,277 @@
-file_path,original_text,character,zhtw
-gup_leopon/sentences/ally_killed_by_player_01.json,That's an ally. Wrong target.,nakajima,那是友軍。打錯目標了。
-gup_leopon/sentences/ally_killed_by_player_02.json,"Hey, hey, no friendly fire!",hoshino,喂喂，別打友軍啊！
-gup_leopon/sentences/ally_killed_by_player_03.json,"Ah, that was a friendly. Let's be careful.",suzuki,啊，那是友軍。我們小心點。
-gup_leopon/sentences/ally_killed_by_player_04.json,"Whoa, we hit a teammate!? Let's change our line!",tsuchiya,哇，我們打到隊友了！？換條路線吧！
-gup_leopon/sentences/ally_killed_by_player_05.json,Be careful not to hit our allies.,nakajima,小心別打到友軍。
-gup_leopon/sentences/ammo_bay_damaged_01.json,Ammo rack hit. Watch it doesn't detonate!,suzuki,彈藥架被擊中。小心別引爆！
-gup_leopon/sentences/ammo_bay_damaged_02.json,Ammo rack damaged. The next hit could be bad.,nakajima,彈藥架受損了。下一擊可能很糟。
-gup_leopon/sentences/ammo_bay_damaged_03.json,Not good. The ammo rack's damaged.,suzuki,不妙。彈藥架壞了。
-gup_leopon/sentences/ammo_bay_damaged_04.json,Ammo rack took a hit. Let's handle this carefully.,nakajima,彈藥架中彈了。我們小心處理。
-gup_leopon/sentences/armor_not_pierced_by_player_01.json,No pen.,hoshino,沒貫穿。
-gup_leopon/sentences/armor_not_pierced_by_player_02.json,What? Couldn't pen?,hoshino,什麼？沒貫穿？
-gup_leopon/sentences/armor_not_pierced_by_player_02.json,Gotta give it to them.,nakajima,得承認他們裝甲不錯。
-gup_leopon/sentences/armor_not_pierced_by_player_03.json,I tried too hard.,hoshino,我太用力了。
-gup_leopon/sentences/armor_not_pierced_by_player_04.json,"We hit them, but it wasn't enough.",suzuki,我們打中了，但還不夠。
-gup_leopon/sentences/armor_not_pierced_by_player_05.json,"Hmm, their armor blocked it.",nakajima,嗯，被他們的裝甲擋住了。
-gup_leopon/sentences/armor_pierced_by_player_01.json,Yes! Punched right through!,hoshino,耶！直接打穿了！
-gup_leopon/sentences/armor_pierced_by_player_02.json,That went through. Nicely done.,nakajima,貫穿了。打得好。
-gup_leopon/sentences/armor_pierced_by_player_03.json,Nice. It went through.,nakajima,不錯。打穿了。
-gup_leopon/sentences/armor_pierced_by_player_04.json,Penetration confirmed!,hoshino,確認貫穿！
-gup_leopon/sentences/armor_pierced_by_player_05.json,That felt good!,tsuchiya,感覺超爽！
-gup_leopon/sentences/armor_pierced_crit_by_player_01.json,That one landed. We're good.,nakajima,這一發命中了。沒問題。
-gup_leopon/sentences/armor_pierced_crit_by_player_02.json,Enemy vehicle damaged!,hoshino,敵車受損！
-gup_leopon/sentences/armor_pierced_crit_by_player_03.json,Critical hit!,suzuki,重創！
-gup_leopon/sentences/armor_ricochet_by_player_01.json,"Ricochet, huh.",nakajima,彈開了啊。
-gup_leopon/sentences/armor_ricochet_by_player_02.json,That bounced. Bad angle.,nakajima,彈開了。角度不好。
-gup_leopon/sentences/armor_ricochet_by_player_03.json,"Mm, ricochet. Let's shift position next time.",nakajima,嗯，彈開了。下次換個位置。
-gup_leopon/sentences/armor_ricochet_by_player_04.json,They had a good angle on that one.,nakajima,他們那一發角度很好。
-gup_leopon/sentences/armor_ricochet_by_player_05.json,"Tsk, ricochet.",hoshino,嘖，彈開了。
+﻿file_path,original_text,character,zhtw
+gup_leopon/sentences/ally_killed_by_player_01.json,That's an ally. Wrong target.,nakajima,是盟友啊！打錯對象了吧。
+gup_leopon/sentences/ally_killed_by_player_02.json,"Hey, hey, no friendly fire!",hoshino,等等、等等，不能攻擊盟友啊！
+gup_leopon/sentences/ally_killed_by_player_03.json,"Ah, that was a friendly. Let's be careful.",suzuki,啊，剛才那是盟友啊，小心一點。
+gup_leopon/sentences/ally_killed_by_player_04.json,"Whoa, we hit a teammate!? Let's change our line!",tsuchiya,哇！打到盟友了！？換個路線吧！
+gup_leopon/sentences/ally_killed_by_player_05.json,Be careful not to hit our allies.,nakajima,注意別打到盟友了。
+gup_leopon/sentences/ammo_bay_damaged_01.json,Ammo rack hit. Watch it doesn't detonate!,suzuki,彈藥庫被擊中了！注意防止誘爆。
+gup_leopon/sentences/ammo_bay_damaged_02.json,Ammo rack damaged. The next hit could be bad.,nakajima,彈藥庫受損，下一發可能就危險了。
+gup_leopon/sentences/ammo_bay_damaged_03.json,Not good. The ammo rack's damaged.,suzuki,不妙呢，彈藥庫被擊中了。
+gup_leopon/sentences/ammo_bay_damaged_04.json,Ammo rack took a hit. Let's handle this carefully.,nakajima,彈藥庫被擊中了呢。操作要小心謹慎一點。
+gup_leopon/sentences/armor_not_pierced_by_player_01.json,No pen.,hoshino,沒貫穿嗎？
+gup_leopon/sentences/armor_not_pierced_by_player_02.json,What? Couldn't pen?,hoshino,怎麼沒貫穿！
+gup_leopon/sentences/armor_not_pierced_by_player_02.json,Gotta give it to them.,nakajima,敵人也有兩把刷子呢～
+gup_leopon/sentences/armor_not_pierced_by_player_03.json,I tried too hard.,hoshino,太用力了嗎？
+gup_leopon/sentences/armor_not_pierced_by_player_04.json,"We hit them, but it wasn't enough.",suzuki,打中了但沒有貫穿呢。
+gup_leopon/sentences/armor_not_pierced_by_player_05.json,"Hmm, their armor blocked it.",nakajima,唔，被裝甲擋下來了呢。
+gup_leopon/sentences/armor_pierced_by_player_01.json,Yes! Punched right through!,hoshino,好，貫穿了！
+gup_leopon/sentences/armor_pierced_by_player_02.json,That went through. Nicely done.,nakajima,打中了打中了！感覺很好！
+gup_leopon/sentences/armor_pierced_by_player_03.json,Nice. It went through.,nakajima,太棒了！確實貫穿了！
+gup_leopon/sentences/armor_pierced_by_player_04.json,Penetration confirmed!,hoshino,貫穿成功了！
+gup_leopon/sentences/armor_pierced_by_player_05.json,That felt good!,tsuchiya,感覺很不錯呢！
+gup_leopon/sentences/armor_pierced_crit_by_player_01.json,That one landed. We're good.,nakajima,沒問題，打中了！
+gup_leopon/sentences/armor_pierced_crit_by_player_02.json,Enemy vehicle damaged!,hoshino,敵方戰車受損！
+gup_leopon/sentences/armor_pierced_crit_by_player_03.json,Critical hit!,suzuki,很有效呢！
+gup_leopon/sentences/armor_ricochet_by_player_01.json,"Ricochet, huh.",nakajima,被彈開了嗎～
+gup_leopon/sentences/armor_ricochet_by_player_02.json,That bounced. Bad angle.,nakajima,剛才那發跳彈了呢，入射角太斜了。
+gup_leopon/sentences/armor_ricochet_by_player_03.json,"Mm, ricochet. Let's shift position next time.",nakajima,嗯——被彈開了。下一次換個位置吧。
+gup_leopon/sentences/armor_ricochet_by_player_04.json,They had a good angle on that one.,nakajima,對方的裝甲角度擺得很好呢。
+gup_leopon/sentences/armor_ricochet_by_player_05.json,"Tsk, ricochet.",hoshino,切，跳彈了嗎？
 gup_leopon/sentences/armor_ricochet_by_player_06.json,Ricochet!,hoshino,彈開了！
-gup_leopon/sentences/armor_ricochet_by_player_07.json,"Solid hit, but it bounced.",hoshino,打得很實，但彈開了。
-gup_leopon/sentences/armor_ricochet_by_player_08.json,Ricochet. The angle wasn't right.,hoshino,彈開了。角度不對。
-gup_leopon/sentences/armor_ricochet_by_player_09.json,That one bounced.,suzuki,那一發彈開了。
-gup_leopon/sentences/armor_ricochet_by_player_10.json,Maybe we hit the wrong spot.,suzuki,或許打錯位置了。
-gup_leopon/sentences/armor_ricochet_by_player_11.json,We'll pen next time.,suzuki,下次會貫穿。
-gup_leopon/sentences/armor_ricochet_by_player_12.json,It's okay. Stay calm and go again.,suzuki,沒關係。冷靜再來一次。
-gup_leopon/sentences/armor_ricochet_by_player_13.json,Keep hitting them. We'll crack it!,tsuchiya,繼續打！我們會打穿的！
-gup_leopon/sentences/armor_ricochet_by_player_14.json,Let's make the next one count.,tsuchiya,下一發一定要打中！
-gup_leopon/sentences/armor_ricochet_by_player_15.json,Oops.,tsuchiya,哎呀。
-gup_leopon/sentences/commander_killed_01.json,"Ah, I got hit! I'll leave the rest to you.",nakajima,啊，我被打中了！剩下的交給你們。
-gup_leopon/sentences/commander_killed_02.json,"Nakajima, are you okay!?",hoshino,中嶋，你沒事吧！？
-gup_leopon/sentences/commander_killed_02.json,"Ouch, I think I need a break!",nakajima,好痛，我需要休息一下！
-gup_leopon/sentences/commander_killed_03.json,"Wow, that one hurt!",nakajima,哇，這一擊真痛！
-gup_leopon/sentences/commander_killed_04.json,They got me good!,nakajima,他們打得真準！
-gup_leopon/sentences/commander_killed_05.json,"Nakajima, are you alright?",hoshino,中嶋，你還好嗎？
-gup_leopon/sentences/commander_killed_06.json,Commander is injured!,tsuchiya,車長受傷了！
-gup_leopon/sentences/commander_killed_07.json,"Nakajima, need a little break?",suzuki,中嶋，需要休息一下嗎？
-gup_leopon/sentences/crew_deactivated_01.json,What's the point of all this if we have to retire?,nakajima,如果要退場，這些還有什麼意義？
-gup_leopon/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是豹獅隊。我們退場了。
-gup_leopon/sentences/crew_deactivated_03.json,Back to the pits this time.,hoshino,這次回維修區了。
-gup_leopon/sentences/crew_deactivated_04.json,"That's it for us, then.",suzuki,那就到此為止吧。
-gup_leopon/sentences/crew_deactivated_05.json,We'll go even harder next time!,tsuchiya,下次我們會更猛！
-gup_leopon/sentences/damage_by_near_explosion_by_player_01.json,Close. We're getting there!,nakajima,很近了。我們快成功了！
-gup_leopon/sentences/damage_by_near_explosion_by_player_02.json,"Not a direct hit, but we rattled them.",nakajima,雖然不是直接命中，但震到他們了。
-gup_leopon/sentences/damage_by_near_explosion_by_player_03.json,That was close. I'll load the next shell!,suzuki,好險。我裝下一發！
-gup_leopon/sentences/damage_by_near_explosion_by_player_04.json,Almost!,tsuchiya,差一點！
-gup_leopon/sentences/damage_by_near_explosion_by_player_05.json,Next one will be a direct hit!,hoshino,下一發會直接命中！
-gup_leopon/sentences/driver_killed_01.json,"Ow, I got hit!",tsuchiya,噢，我被打中了！
-gup_leopon/sentences/driver_killed_02.json,Driver's hit! We'll cover her!,nakajima,駕駛員被擊中！我們掩護她！
-gup_leopon/sentences/driver_killed_03.json,"Tsuchiya, you okay?",hoshino,土屋，你沒事吧？
-gup_leopon/sentences/driver_killed_04.json,They are targeting the driver's seat. Watch out!,suzuki,他們瞄準駕駛座。小心！
-gup_leopon/sentences/enemy_fire_started_by_player_01.json,They're burning. Hit the sweet spot.,nakajima,他們燒起來了。打中要害了。
-gup_leopon/sentences/enemy_fire_started_by_player_02.json,Fire started. That'll shake them up.,nakajima,起火了。這會震到他們。
-gup_leopon/sentences/enemy_fire_started_by_player_03.json,They're on fire. It's wearing them down!,nakajima,他們起火了。這會消耗他們！
-gup_leopon/sentences/enemy_fire_started_by_player_04.json,"Nice, we'll keep the pressure on.",hoshino,不錯，我們繼續施壓。
-gup_leopon/sentences/enemy_fire_started_by_player_05.json,They are on fire!,hoshino,他們起火了！
-gup_leopon/sentences/enemy_fire_started_by_player_06.json,I see a fire.,hoshino,我看到火了。
-gup_leopon/sentences/enemy_fire_started_by_player_07.json,"Nice, let's go all the way!",tsuchiya,不錯，我們一路打到底！
-gup_leopon/sentences/enemy_fire_started_by_player_08.json,Looks like they caught fire.,tsuchiya,看起來他們起火了。
-gup_leopon/sentences/enemy_fire_started_by_player_09.json,Nice shot!,tsuchiya,射得漂亮！
-gup_leopon/sentences/enemy_fire_started_by_player_10.json,They are burning.,suzuki,他們在燃燒。
-gup_leopon/sentences/enemy_fire_started_by_player_11.json,"Look, a fire!",suzuki,看，起火了！
-gup_leopon/sentences/enemy_fire_started_by_player_12.json,It's burning strong!,suzuki,燒得很旺！
-gup_leopon/sentences/enemy_killed_01.json,Enemy vehicle's stopped moving.,nakajima,敵車停止移動了。
-gup_leopon/sentences/enemy_killed_02.json,Enemy vehicle destroyed. That's one down.,nakajima,敵車被摧毀。少一輛了。
-gup_leopon/sentences/enemy_killed_03.json,Enemy vehicle down.,hoshino,敵車倒下了。
-gup_leopon/sentences/enemy_killed_04.json,"Yes, one down!",hoshino,耶，少一輛！
-gup_leopon/sentences/enemy_killed_05.json,Enemy vehicle is destroyed.,suzuki,敵車被摧毀了。
-gup_leopon/sentences/enemy_killed_06.json,Momentum's ours now!,tsuchiya,現在氣勢在我們這邊！
-gup_leopon/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是豹獅隊。敵車摧毀。
-gup_leopon/sentences/enemy_killed_by_player_02.json,"Yes, we got 'em!",nakajima,耶，我們搞定他們了！
-gup_leopon/sentences/enemy_killed_by_player_03.json,Yes! Enemy vehicle destroyed!,hoshino,耶！敵車被摧毀！
-gup_leopon/sentences/enemy_killed_by_player_04.json,How about that?,hoshino,怎麼樣？
-gup_leopon/sentences/enemy_killed_by_player_05.json,Yay! We did it!,suzuki,耶！我們成功了！
-gup_leopon/sentences/enemy_killed_by_player_06.json,"Yes, let's keep it going!",suzuki,好，繼續保持！
-gup_leopon/sentences/enemy_killed_by_player_07.json,Yahoo!,tsuchiya,耶呼！
-gup_leopon/sentences/enemy_killed_by_player_08.json,Yes!,tsuchiya,耶！
-gup_leopon/sentences/enemy_killed_by_player_09.json,Let's keep it up!,nakajima,繼續保持！
-gup_leopon/sentences/enemy_killed_by_player_09.json,I got this!,hoshino,我搞定了！
-gup_leopon/sentences/enemy_killed_by_player_10.json,Enemy destroyed.,suzuki,敵車摧毀。
-gup_leopon/sentences/enemy_killed_by_player_10.json,Keep 'em coming!,tsuchiya,繼續來啊！
-gup_leopon/sentences/engine_damaged_01.json,Engine damaged! We can't move so fast.,nakajima,引擎受損！我們不能跑太快。
-gup_leopon/sentences/engine_damaged_02.json,Hit to the engine. I'll go pacify her.,nakajima,引擎被擊中。我去安撫她。
-gup_leopon/sentences/engine_damaged_03.json,"Engine's not right. Hey, come on, move it!",tsuchiya,引擎不對勁。喂，快點動啊！
-gup_leopon/sentences/engine_damaged_04.json,The engine's getting grumpy!,hoshino,引擎在鬧脾氣了！
-gup_leopon/sentences/engine_damaged_05.json,The engine took damage.,tsuchiya,引擎受損了。
-gup_leopon/sentences/engine_damaged_06.json,They went for the engine. Smart shot.,tsuchiya,他們瞄準引擎。射得聰明。
-gup_leopon/sentences/engine_damaged_07.json,"We can still move, but let's not push it.",suzuki,我們還能動，但別太勉強。
-gup_leopon/sentences/engine_destroyed_01.json,Engine's destroyed! We can't move!,tsuchiya,引擎炸了！動不了了！
-gup_leopon/sentences/engine_destroyed_02.json,We can't move! We're an easy target now!,hoshino,動不了了！我們現在是活靶！
-gup_leopon/sentences/engine_destroyed_03.json,"We're immobilized. Pretty bad, huh?",suzuki,我們動彈不得。挺糟的吧？
-gup_leopon/sentences/engine_destroyed_04.json,"Guess our run ends here. Repair the engine, fast!",nakajima,看來這趟到此為止。快修引擎！
-gup_leopon/sentences/engine_destroyed_04.json,Roger that.,tsuchiya,收到。
-gup_leopon/sentences/engine_functional_01.json,Engine's back!,tsuchiya,引擎恢復了！
-gup_leopon/sentences/engine_functional_02.json,"There, there. It'll be fine.",nakajima,好了好了。沒問題的。
-gup_leopon/sentences/engine_functional_03.json,Emergency repair complete.,suzuki,緊急修復完成。
-gup_leopon/sentences/engine_functional_04.json,We're back in motion!,hoshino,我們又能動了！
-gup_leopon/sentences/fire_started_01.json,"Oops, there's a fire!",nakajima,哎呀，起火了！
-gup_leopon/sentences/fire_started_02.json,We're burning! Stay calm and put it out.,nakajima,我們在燒！冷靜滅火。
-gup_leopon/sentences/fire_started_03.json,"Hey, Hoshino, extinguisher now!",nakajima,喂，星野，快拿滅火器！
-gup_leopon/sentences/fire_started_03.json,Okay!,hoshino,好！
-gup_leopon/sentences/fire_started_04.json,The flames are spreading! Hurry!,hoshino,火在蔓延！快點！
-gup_leopon/sentences/fire_started_05.json,"Bad news, this is beyond a pit stop!",suzuki,糟了，這不是進站能解決的！
-gup_leopon/sentences/fire_started_06.json,"Stay calm, fire suppression first!",suzuki,冷靜，先滅火！
-gup_leopon/sentences/fire_started_07.json,"Whoa, this is way past overheating!",suzuki,哇，這早就超過過熱了！
-gup_leopon/sentences/fire_started_08.json,That burning smell... we're really on fire!,tsuchiya,那燒焦味…我們真的起火了！
-gup_leopon/sentences/fire_stopped_01.json,Fire's out. Good save.,nakajima,火滅了。處理得好。
-gup_leopon/sentences/fire_stopped_02.json,"It's out. Good, let's continue.",nakajima,滅了。好，繼續。
-gup_leopon/sentences/fire_stopped_03.json,"Okay, it's out now.",hoshino,好，現在滅了。
-gup_leopon/sentences/fire_stopped_04.json,"All right, we can run again!",tsuchiya,好，我們又能跑了！
-gup_leopon/sentences/fire_stopped_05.json,Fire's gone.,suzuki,火滅了。
-gup_leopon/sentences/fuel_tank_damaged_01.json,Fuel tank hit! Watch for fire.,nakajima,油箱被擊中！小心起火。
-gup_leopon/sentences/fuel_tank_damaged_02.json,We may have a fuel leak...,suzuki,我們可能有燃料洩漏…
-gup_leopon/sentences/fuel_tank_damaged_03.json,"Uh oh, fuel's leaking.",tsuchiya,糟了，燃料在漏。
-gup_leopon/sentences/fuel_tank_damaged_04.json,Fuel tank's hit. Sparks are the last thing we need.,hoshino,油箱中彈。最不需要火花了。
-gup_leopon/sentences/fuel_tank_damaged_05.json,"Careful here. If it ignites, we're in trouble!",suzuki,小心。如果起火就麻煩了！
-gup_leopon/sentences/gunner_killed_01.json,"Oof, that one got me...",hoshino,噢，這一發打中我了…
-gup_leopon/sentences/gunner_killed_02.json,"Gunner's station hit! Hoshino, you okay?",nakajima,砲手座被擊中！星野，你沒事吧？
-gup_leopon/sentences/gunner_killed_03.json,"Hoshino, are you alright?",suzuki,星野，你還好嗎？
-gup_leopon/sentences/gunner_killed_04.json,Ouch...let me take a rest for a bit.,hoshino,好痛…讓我休息一下。
-gup_leopon/sentences/gun_damaged_01.json,Gun's damaged!,hoshino,主砲壞了！
-gup_leopon/sentences/gun_damaged_02.json,They hit our gun! Accuracy will be reduced.,hoshino,他們打中主砲！精準度會下降。
-gup_leopon/sentences/gun_damaged_03.json,Gun's not feeling right. Let's shoot carefully.,nakajima,主砲感覺不對。我們小心射擊。
-gup_leopon/sentences/gun_damaged_04.json,The gun is damaged.,suzuki,主砲受損了。
-gup_leopon/sentences/gun_destroyed_01.json,Main gun destroyed! I can't fire!,hoshino,主砲炸了！我不能開火！
-gup_leopon/sentences/gun_destroyed_02.json,"Gun's gone. Repair it, quick!",hoshino,主砲沒了。快修！
-gup_leopon/sentences/gun_destroyed_03.json,"So, the gun's gone. That's a serious problem.",nakajima,主砲沒了。這是大問題。
-gup_leopon/sentences/gun_functional_01.json,Main gun restored!,hoshino,主砲恢復了！
-gup_leopon/sentences/gun_functional_02.json,Gun's fixed. Good work.,nakajima,主砲修好了。幹得好。
-gup_leopon/sentences/gun_functional_03.json,Gun repair complete.,suzuki,主砲修復完成。
-gup_leopon/sentences/gun_functional_04.json,We can fire again now.,tsuchiya,現在又能開火了。
-gup_leopon/sentences/loader_killed_01.json,Woah! That hurts...,suzuki,哇！好痛…
-gup_leopon/sentences/loader_killed_02.json,"Loader's station hit. Suzuki, take it easy.",nakajima,裝填座被擊中。鈴木，放輕鬆。
-gup_leopon/sentences/loader_killed_03.json,"Suzuki, you alright?",hoshino,鈴木，你沒事吧？
-gup_leopon/sentences/loader_killed_04.json,Loader's seat took a hit!,tsuchiya,裝填座被擊中了！
-gup_leopon/sentences/radioman_killed_01.json,Radio operator's seat is hit. Comms will be rough.,nakajima,通訊員座被擊中。通訊會很困難。
-gup_leopon/sentences/radioman_killed_02.json,Radio operator's station hit!,hoshino,通訊員座被擊中！
-gup_leopon/sentences/radioman_killed_03.json,"Nakajima, you alright?",suzuki,中嶋，你沒事吧？
-gup_leopon/sentences/radioman_killed_04.json,The radio station took a serious hit.,tsuchiya,無線電台被重擊了。
-gup_leopon/sentences/radio_damaged_01.json,Radio damaged. Coordination is getting harder.,nakajima,無線電受損。協調變難了。
-gup_leopon/sentences/radio_damaged_02.json,Hit to the radio. It's harder to get our voice through.,nakajima,無線電被擊中。聲音很難傳出去。
-gup_leopon/sentences/radio_damaged_03.json,Radio took a hit. We'll have less info from allies.,nakajima,無線電中彈。友軍情報會變少。
-gup_leopon/sentences/radio_damaged_04.json,Radio is down!,hoshino,無線電壞了！
-gup_leopon/sentences/radio_damaged_05.json,There's something wrong with the radio.,suzuki,無線電有問題。
-gup_leopon/sentences/radio_damaged_06.json,The radio took a hit.,tsuchiya,無線電被擊中了。
-gup_leopon/sentences/start_battle_01.json,"Go, Supersonic Prince!",nakajima,出發，超音速王子！
-gup_leopon/sentences/start_battle_02.json,Warm-up's over! Time for the real run!,hoshino,熱身結束！真正的跑開始了！
-gup_leopon/sentences/start_battle_02.json,"Nice, we're going flat out from the start!",tsuchiya,不錯，我們從一開始就全速！
-gup_leopon/sentences/start_battle_03.json,"Checks are done, loaded and ready.",suzuki,檢查完成，裝填就緒。
-gup_leopon/sentences/start_battle_04.json,All right! Let's make this a clean run!,tsuchiya,好！我們來場乾淨的跑！
-gup_leopon/sentences/start_battle_05.json,"Alright, let's take a lap.",nakajima,好，我們跑一圈。
-gup_leopon/sentences/start_battle_06.json,Course is clear. Let's roll!,hoshino,賽道清楚。出發！
-gup_leopon/sentences/start_battle_07.json,I won't let you pass through here.,nakajima,我不會讓你們從這裡通過。
-gup_leopon/sentences/start_battle_08.json,Keep the drifting under control? Uh... I'll try!,tsuchiya,控制甩尾？呃…我試試！
-gup_leopon/sentences/start_battle_08.json,Please really keep it under control!,nakajima,請真的控制好！
-gup_leopon/sentences/start_battle_09.json,Roll out! Let's keep both engine and motor intact.,nakajima,出發！引擎和馬達都保持完好。
-gup_leopon/sentences/start_battle_10.json,Leave the cornering to me!,hoshino,彎道交給我！
-gup_leopon/sentences/start_battle_10.json,Let's try drifting!,tsuchiya,我們試試甩尾！
-gup_leopon/sentences/start_battle_10.json,That's not possible with a tank.,suzuki,戰車做不到甩尾。
-gup_leopon/sentences/start_battle_11.json,We are ready.,suzuki,我們準備好了。
-gup_leopon/sentences/start_battle_12.json,This'll be fun!,tsuchiya,這會很有趣！
-gup_leopon/sentences/start_battle_13.json,We had Katsu curry bento. We can't lose!,hoshino,我們吃了豬排咖哩便當。不能輸！
-gup_leopon/sentences/start_battle_14.json,Feels like the race is on.,nakajima,感覺比賽開始了。
-gup_leopon/sentences/start_battle_15.json,Leopon is in a good mood today.,suzuki,豹獅今天心情不錯。
-gup_leopon/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是豹獅隊。出發！
-gup_leopon/sentences/start_battle_17.json,Let's see what kind of run we can show today.,suzuki,看看今天能跑出什麼樣的表現。
-gup_leopon/sentences/start_battle_18.json,Why don't we try Accel Back?,hoshino,我們試試加速後退？
-gup_leopon/sentences/start_battle_18.json,That's a local technique in Rally.,nakajima,那是拉力賽的本地技巧。
-gup_leopon/sentences/start_battle_19.json,"We've gotten used to driving a tank, huh?",suzuki,我們已經習慣開戰車了吧？
-gup_leopon/sentences/start_battle_20.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是豹獅隊。出發！
-gup_leopon/sentences/start_battle_21.json,This is a rough road to drive over considering how heavy our tank is.,nakajima,以我們戰車的重量，這路況挺難開的。
-gup_leopon/sentences/start_battle_21.json,It's better than the rally in Greece.,hoshino,比希臘拉力賽好多了。
+gup_leopon/sentences/armor_ricochet_by_player_07.json,"Solid hit, but it bounced.",hoshino,打中了，但被彈開了呢。
+gup_leopon/sentences/armor_ricochet_by_player_08.json,Ricochet. The angle wasn't right.,hoshino,是跳彈。角度不太好嗎？
+gup_leopon/sentences/armor_ricochet_by_player_09.json,That one bounced.,suzuki,被彈開了呢。
+gup_leopon/sentences/armor_ricochet_by_player_10.json,Maybe we hit the wrong spot.,suzuki,是打的位置不好嗎？
+gup_leopon/sentences/armor_ricochet_by_player_11.json,We'll pen next time.,suzuki,下一次一定要貫穿。
+gup_leopon/sentences/armor_ricochet_by_player_12.json,It's okay. Stay calm and go again.,suzuki,沒關係，冷靜應戰吧。
+gup_leopon/sentences/armor_ricochet_by_player_13.json,Keep hitting them. We'll crack it!,tsuchiya,只要持續打中，總會貫穿的！
+gup_leopon/sentences/armor_ricochet_by_player_14.json,Let's make the next one count.,tsuchiya,下次冷靜瞄準再貫穿吧。
+gup_leopon/sentences/armor_ricochet_by_player_15.json,Oops.,tsuchiya,啊哈——
+gup_leopon/sentences/commander_killed_01.json,"Ah, I got hit! I'll leave the rest to you.",nakajima,啊，被幹掉了，剩下的就交給你們了。
+gup_leopon/sentences/commander_killed_02.json,"Nakajima, are you okay!?",hoshino,中嶋，沒事吧？
+gup_leopon/sentences/commander_killed_02.json,"Ouch, I think I need a break!",nakajima,疼疼疼，要稍微休息一下了嗎？
+gup_leopon/sentences/commander_killed_03.json,"Wow, that one hurt!",nakajima,剛才那下還真夠嗆的呢。
+gup_leopon/sentences/commander_killed_04.json,They got me good!,nakajima,還真敢幹啊。
+gup_leopon/sentences/commander_killed_05.json,"Nakajima, are you alright?",hoshino,中嶋，沒事吧？
+gup_leopon/sentences/commander_killed_06.json,Commander is injured!,tsuchiya,車長負傷了！
+gup_leopon/sentences/commander_killed_07.json,"Nakajima, need a little break?",suzuki,中嶋，要稍微休息一下嗎？
+gup_leopon/sentences/crew_deactivated_01.json,What's the point of all this if we have to retire?,nakajima,要是退賽的話就血本無歸了啊。
+gup_leopon/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是由豹獅隊，要脫離戰場囉！
+gup_leopon/sentences/crew_deactivated_03.json,Back to the pits this time.,hoshino,先暫時回維修站吧。
+gup_leopon/sentences/crew_deactivated_04.json,"That's it for us, then.",suzuki,再這樣下去撐不住了呢。
+gup_leopon/sentences/crew_deactivated_05.json,We'll go even harder next time!,tsuchiya,下次我們會飆得更快！
+gup_leopon/sentences/damage_by_near_explosion_by_player_01.json,Close. We're getting there!,nakajima,好可惜，就差那麼一點點。
+gup_leopon/sentences/damage_by_near_explosion_by_player_02.json,"Not a direct hit, but we rattled them.",nakajima,雖然沒直擊，但對方已經被震懾到了呢。
+gup_leopon/sentences/damage_by_near_explosion_by_player_03.json,That was close. I'll load the next shell!,suzuki,好可惜，裝填下一發炮彈。
+gup_leopon/sentences/damage_by_near_explosion_by_player_04.json,Almost!,tsuchiya,真可惜呢～
+gup_leopon/sentences/damage_by_near_explosion_by_player_05.json,Next one will be a direct hit!,hoshino,下次一定要直接命中！
+gup_leopon/sentences/driver_killed_01.json,"Ow, I got hit!",tsuchiya,哇！被幹掉了！
+gup_leopon/sentences/driver_killed_02.json,Driver's hit! We'll cover her!,nakajima,駕駛員席被擊中，我來替補！
+gup_leopon/sentences/driver_killed_03.json,"Tsuchiya, you okay?",hoshino,土屋，沒事吧？
+gup_leopon/sentences/driver_killed_04.json,They are targeting the driver's seat. Watch out!,suzuki,駕駛員席被瞄準了，小心一點。
+gup_leopon/sentences/enemy_fire_started_by_player_01.json,They're burning. Hit the sweet spot.,nakajima,著火了呢，打中要害了。
+gup_leopon/sentences/enemy_fire_started_by_player_02.json,Fire started. That'll shake them up.,nakajima,發生火災！對面手忙腳亂了呢！
+gup_leopon/sentences/enemy_fire_started_by_player_03.json,They're on fire. It's wearing them down!,nakajima,著火了喔，正在持續造成傷害呢。
+gup_leopon/sentences/enemy_fire_started_by_player_04.json,"Nice, we'll keep the pressure on.",hoshino,好，就這樣一口氣壓制過去！
+gup_leopon/sentences/enemy_fire_started_by_player_05.json,They are on fire!,hoshino,著火了！
+gup_leopon/sentences/enemy_fire_started_by_player_06.json,I see a fire.,hoshino,看到火光了呢。
+gup_leopon/sentences/enemy_fire_started_by_player_07.json,"Nice, let's go all the way!",tsuchiya,好勒，就這樣一路衝過去吧！
+gup_leopon/sentences/enemy_fire_started_by_player_08.json,Looks like they caught fire.,tsuchiya,看起來引火起火了呢。
+gup_leopon/sentences/enemy_fire_started_by_player_09.json,Nice shot!,tsuchiya,好球！
+gup_leopon/sentences/enemy_fire_started_by_player_10.json,They are burning.,suzuki,燒起來了呢。
+gup_leopon/sentences/enemy_fire_started_by_player_11.json,"Look, a fire!",suzuki,哦，起火了。
+gup_leopon/sentences/enemy_fire_started_by_player_12.json,It's burning strong!,suzuki,看起來很燙呢。
+gup_leopon/sentences/enemy_killed_01.json,Enemy vehicle's stopped moving.,nakajima,敵方戰車不動了呢。
+gup_leopon/sentences/enemy_killed_02.json,Enemy vehicle destroyed. That's one down.,nakajima,確認擊破！總算解決了一輛呢。
+gup_leopon/sentences/enemy_killed_03.json,Enemy vehicle down.,hoshino,看來解決掉敵方戰車了呢。
+gup_leopon/sentences/enemy_killed_04.json,"Yes, one down!",hoshino,好！看起來解決了一輛！
+gup_leopon/sentences/enemy_killed_05.json,Enemy vehicle is destroyed.,suzuki,敵方戰車大破了呢。
+gup_leopon/sentences/enemy_killed_06.json,Momentum's ours now!,tsuchiya,氣勢很好呢。
+gup_leopon/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是由豹獅隊，擊破一輛！
+gup_leopon/sentences/enemy_killed_by_player_02.json,"Yes, we got 'em!",nakajima,好勒，搞定它了！
+gup_leopon/sentences/enemy_killed_by_player_03.json,Yes! Enemy vehicle destroyed!,hoshino,太棒啦！擊破敵方戰車！
+gup_leopon/sentences/enemy_killed_by_player_04.json,How about that?,hoshino,怎麼樣！
+gup_leopon/sentences/enemy_killed_by_player_05.json,Yay! We did it!,suzuki,幹得好！
+gup_leopon/sentences/enemy_killed_by_player_06.json,"Yes, let's keep it going!",suzuki,好，下一輛也保持這個勢頭！
+gup_leopon/sentences/enemy_killed_by_player_07.json,Yahoo!,tsuchiya,亞呼——！
+gup_leopon/sentences/enemy_killed_by_player_08.json,Yes!,tsuchiya,太棒啦！
+gup_leopon/sentences/enemy_killed_by_player_09.json,Let's keep it up!,nakajima,保持這個勢頭前進吧！
+gup_leopon/sentences/enemy_killed_by_player_09.json,I got this!,hoshino,包在我們身上！
+gup_leopon/sentences/enemy_killed_by_player_10.json,Enemy destroyed.,suzuki,擊破囉
+gup_leopon/sentences/enemy_killed_by_player_10.json,Keep 'em coming!,tsuchiya,繼續推進吧！
+gup_leopon/sentences/engine_damaged_01.json,Engine damaged! We can't move so fast.,nakajima,引擎受損！機動性會降低喔！
+gup_leopon/sentences/engine_damaged_02.json,Hit to the engine. I'll go pacify her.,nakajima,引擎被擊中！我稍微安撫它一下！
+gup_leopon/sentences/engine_damaged_03.json,"Engine's not right. Hey, come on, move it!",tsuchiya,引擎狀況不太好！喂！聽話一點！
+gup_leopon/sentences/engine_damaged_04.json,The engine's getting grumpy!,hoshino,豹獅號開始耍脾氣了！
+gup_leopon/sentences/engine_damaged_05.json,The engine took damage.,tsuchiya,引擎受損了啦。
+gup_leopon/sentences/engine_damaged_06.json,They went for the engine. Smart shot.,tsuchiya,瞄準那裡打過來嗎，真是陰險呢。
+gup_leopon/sentences/engine_damaged_07.json,"We can still move, but let's not push it.",suzuki,雖然還能動，但可不能硬來呢。
+gup_leopon/sentences/engine_destroyed_01.json,Engine's destroyed! We can't move!,tsuchiya,引擎大破！這下真的跑不動了呢～
+gup_leopon/sentences/engine_destroyed_02.json,We can't move! We're an easy target now!,hoshino,動彈不得！這樣會變成好標靶的啊！
+gup_leopon/sentences/engine_destroyed_03.json,"We're immobilized. Pretty bad, huh?",suzuki,無法移動了，不妙呢。
+gup_leopon/sentences/engine_destroyed_04.json,"Guess our run ends here. Repair the engine, fast!",nakajima,這樣可跑不動呢，趕快修好！
+gup_leopon/sentences/engine_destroyed_04.json,Roger that.,tsuchiya,收到！
+gup_leopon/sentences/engine_functional_01.json,Engine's back!,tsuchiya,引擎修復！
+gup_leopon/sentences/engine_functional_02.json,"There, there. It'll be fine.",nakajima,好啦好啦，沒問題了喔～
+gup_leopon/sentences/engine_functional_03.json,Emergency repair complete.,suzuki,緊急修復完成囉。
+gup_leopon/sentences/engine_functional_04.json,We're back in motion!,hoshino,這樣就能動了！
+gup_leopon/sentences/fire_started_01.json,"Oops, there's a fire!",nakajima,哎呀呀，起火了～
+gup_leopon/sentences/fire_started_02.json,We're burning! Stay calm and put it out.,nakajima,著火了呢。冷靜一點把火撲滅！
+gup_leopon/sentences/fire_started_03.json,"Hey, Hoshino, extinguisher now!",nakajima,喂，星野！滅火器、滅火器！
+gup_leopon/sentences/fire_started_03.json,Okay!,hoshino,OK！
+gup_leopon/sentences/fire_started_04.json,The flames are spreading! Hurry!,hoshino,火勢延燒開了！趕快滅火！
+gup_leopon/sentences/fire_started_05.json,"Bad news, this is beyond a pit stop!",suzuki,不妙，現在根本顧不上維修站了。
+gup_leopon/sentences/fire_started_06.json,"Stay calm, fire suppression first!",suzuki,冷靜點，優先滅火！
+gup_leopon/sentences/fire_started_07.json,"Whoa, this is way past overheating!",suzuki,哇，這可不只是過熱而已啊。
+gup_leopon/sentences/fire_started_08.json,That burning smell... we're really on fire!,tsuchiya,有焦味，真的燒起來了啦！
+gup_leopon/sentences/fire_stopped_01.json,Fire's out. Good save.,nakajima,滅火完成！太好了～！
+gup_leopon/sentences/fire_stopped_02.json,"It's out. Good, let's continue.",nakajima,火滅了呢。好，出發！
+gup_leopon/sentences/fire_stopped_03.json,"Okay, it's out now.",hoshino,好，火滅掉了！
+gup_leopon/sentences/fire_stopped_04.json,"All right, we can run again!",tsuchiya,好，又能繼續跑了！
+gup_leopon/sentences/fire_stopped_05.json,Fire's gone.,suzuki,已經滅火囉～
+gup_leopon/sentences/fuel_tank_damaged_01.json,Fuel tank hit! Watch for fire.,nakajima,油箱被擊中！注意別起火！
+gup_leopon/sentences/fuel_tank_damaged_02.json,We may have a fuel leak...,suzuki,燃料可能在漏了。
+gup_leopon/sentences/fuel_tank_damaged_03.json,"Uh oh, fuel's leaking.",tsuchiya,不妙！燃料漏出來了！
+gup_leopon/sentences/fuel_tank_damaged_04.json,Fuel tank's hit. Sparks are the last thing we need.,hoshino,油箱被擊中了呢，有火花可就糟了。
+gup_leopon/sentences/fuel_tank_damaged_05.json,"Careful here. If it ignites, we're in trouble!",suzuki,這裡要謹慎一點，要是引火就棘手了。
+gup_leopon/sentences/gunner_killed_01.json,"Oof, that one got me...",hoshino,嗚，剛才那下真夠嗆。
+gup_leopon/sentences/gunner_killed_02.json,"Gunner's station hit! Hoshino, you okay?",nakajima,砲手席被擊中！星野，沒事吧？
+gup_leopon/sentences/gunner_killed_03.json,"Hoshino, are you alright?",suzuki,星野，沒事吧？
+gup_leopon/sentences/gunner_killed_04.json,Ouch...let me take a rest for a bit.,hoshino,痛痛痛，讓我稍微休息一下。
+gup_leopon/sentences/gun_damaged_01.json,Gun's damaged!,hoshino,主砲受損。
+gup_leopon/sentences/gun_damaged_02.json,They hit our gun! Accuracy will be reduced.,hoshino,主砲被擊中！精度會降低！
+gup_leopon/sentences/gun_damaged_03.json,Gun's not feeling right. Let's shoot carefully.,nakajima,主砲狀況不太好，謹慎地發射吧。
+gup_leopon/sentences/gun_damaged_04.json,The gun is damaged.,suzuki,主砲受損了啦。
+gup_leopon/sentences/gun_destroyed_01.json,Main gun destroyed! I can't fire!,hoshino,主砲大破！無法射擊！
+gup_leopon/sentences/gun_destroyed_02.json,"Gun's gone. Repair it, quick!",hoshino,主砲大破了！快點修理！
+gup_leopon/sentences/gun_destroyed_03.json,"So, the gun's gone. That's a serious problem.",nakajima,主砲毀損了，這下可真的困擾了呢。
+gup_leopon/sentences/gun_functional_01.json,Main gun restored!,hoshino,主砲修復！
+gup_leopon/sentences/gun_functional_02.json,Gun's fixed. Good work.,nakajima,主砲修好了呢，謝謝。
+gup_leopon/sentences/gun_functional_03.json,Gun repair complete.,suzuki,主砲修好了喔。
+gup_leopon/sentences/gun_functional_04.json,We can fire again now.,tsuchiya,這樣就能開火了！
+gup_leopon/sentences/loader_killed_01.json,Woah! That hurts...,suzuki,哇，好痛痛痛～
+gup_leopon/sentences/loader_killed_02.json,"Loader's station hit. Suzuki, take it easy.",nakajima,裝填手席被擊中！鈴木，不要勉強！
+gup_leopon/sentences/loader_killed_03.json,"Suzuki, you alright?",hoshino,鈴木，沒事吧？
+gup_leopon/sentences/loader_killed_04.json,Loader's seat took a hit!,tsuchiya,看起來裝填手席被擊中了。
+gup_leopon/sentences/radioman_killed_01.json,Radio operator's seat is hit. Comms will be rough.,nakajima,通訊員席被擊中了，聯絡會變得困難呢。
+gup_leopon/sentences/radioman_killed_02.json,Radio operator's station hit!,hoshino,通訊員席被擊中了。
+gup_leopon/sentences/radioman_killed_03.json,"Nakajima, you alright?",suzuki,中嶋，沒事吧？
+gup_leopon/sentences/radioman_killed_04.json,The radio station took a serious hit.,tsuchiya,通訊員席受損嚴重呢。
+gup_leopon/sentences/radio_damaged_01.json,Radio damaged. Coordination is getting harder.,nakajima,無線電受損！這樣很難跟隊友配合呢！
+gup_leopon/sentences/radio_damaged_02.json,Hit to the radio. It's harder to get our voice through.,nakajima,無線電被擊中！聲音很難傳過去呢！
+gup_leopon/sentences/radio_damaged_03.json,Radio took a hit. We'll have less info from allies.,nakajima,無線電被搞垮了！來自盟友的情報會減少喔！
+gup_leopon/sentences/radio_damaged_04.json,Radio is down!,hoshino,無線電被毀了！
+gup_leopon/sentences/radio_damaged_05.json,There's something wrong with the radio.,suzuki,無線電裝置狀況不太好呢。
+gup_leopon/sentences/radio_damaged_06.json,The radio took a hit.,tsuchiya,無線電被擊中了！
+gup_leopon/sentences/start_battle_01.json,"Go, Supersonic Prince!",nakajima,上吧！超音速貴公子！
+gup_leopon/sentences/start_battle_02.json,Warm-up's over! Time for the real run!,hoshino,熱身結束了！正式開跑囉！
+gup_leopon/sentences/start_battle_02.json,"Nice, we're going flat out from the start!",tsuchiya,很好！一開始就全速前進！
+gup_leopon/sentences/start_battle_03.json,"Checks are done, loaded and ready.",suzuki,整備完畢、裝填完畢，隨時可以出發。
+gup_leopon/sentences/start_battle_04.json,All right! Let's make this a clean run!,tsuchiya,好勒！今天就舒舒服服地兜風吧！
+gup_leopon/sentences/start_battle_05.json,"Alright, let's take a lap.",nakajima,好，趕快跑起來看看吧！
+gup_leopon/sentences/start_battle_06.json,Course is clear. Let's roll!,hoshino,賽道確認OK！出發！
+gup_leopon/sentences/start_battle_07.json,I won't let you pass through here.,nakajima,絕不讓你再往前進一步！
+gup_leopon/sentences/start_battle_08.json,Keep the drifting under control? Uh... I'll try!,tsuchiya,甩尾要適可而止？嗯——ぜんしょう！
+gup_leopon/sentences/start_battle_08.json,Please really keep it under control!,nakajima,真的拜託適度一點啦。
+gup_leopon/sentences/start_battle_09.json,Roll out! Let's keep both engine and motor intact.,nakajima,來吧出發！可別把馬達跟引擎給操壞了喔！
+gup_leopon/sentences/start_battle_10.json,Leave the cornering to me!,hoshino,過彎就交給我吧！
+gup_leopon/sentences/start_battle_10.json,Let's try drifting!,tsuchiya,甩尾甩尾！
+gup_leopon/sentences/start_battle_10.json,That's not possible with a tank.,suzuki,用戰車不行吧。
+gup_leopon/sentences/start_battle_11.json,We are ready.,suzuki,準備OK了？
+gup_leopon/sentences/start_battle_12.json,This'll be fun!,tsuchiya,真是讓人熱血沸騰呢！
+gup_leopon/sentences/start_battle_13.json,We had Katsu curry bento. We can't lose!,hoshino,必勝炸豬排便當也吃了，絕對會贏的啦！
+gup_leopon/sentences/start_battle_14.json,Feels like the race is on.,nakajima,那麼，感覺就像賽車開跑了呢？
+gup_leopon/sentences/start_battle_15.json,Leopon is in a good mood today.,suzuki,今天這孩子看起來心情也很好呢。
+gup_leopon/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是由豹獅隊，要出擊囉！
+gup_leopon/sentences/start_battle_17.json,Let's see what kind of run we can show today.,suzuki,能展現怎樣的跑法呢，真令人期待呢。
+gup_leopon/sentences/start_battle_18.json,Why don't we try Accel Back?,hoshino,來試試倒檔過彎吧。
+gup_leopon/sentences/start_battle_18.json,That's a local technique in Rally.,nakajima,這是拉力賽的在地技巧呢。
+gup_leopon/sentences/start_battle_19.json,"We've gotten used to driving a tank, huh?",suzuki,戰車的駕駛也已經相當習慣了呢。
+gup_leopon/sentences/start_battle_20.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是由豹獅隊，要出擊囉！
+gup_leopon/sentences/start_battle_21.json,This is a rough road to drive over considering how heavy our tank is.,nakajima,我們這台很重所以很難跑呢，這種路況。
+gup_leopon/sentences/start_battle_21.json,It's better than the rally in Greece.,hoshino,不過比希臘衛城拉力賽好多了。
 gup_leopon/sentences/surveying_devices_damaged_01.json,Observation device hit!,nakajima,觀測裝置被擊中！
-gup_leopon/sentences/surveying_devices_damaged_02.json,They're targeting our optics.,nakajima,他們瞄準我們的瞄準鏡。
-gup_leopon/sentences/surveying_devices_damaged_03.json,Observation device has light damage.,nakajima,觀測裝置輕微受損。
-gup_leopon/sentences/surveying_devices_damaged_04.json,Front view's getting messy!,nakajima,前方視野變亂了！
-gup_leopon/sentences/surveying_devices_damaged_05.json,They're targeting our optics!,hoshino,他們瞄準我們的瞄準鏡！
-gup_leopon/sentences/surveying_devices_damaged_06.json,The optics took a hit!,suzuki,瞄準鏡被擊中了！
-gup_leopon/sentences/surveying_devices_damaged_07.json,It's okay. We can still see!,suzuki,沒關係。我們還能看見！
-gup_leopon/sentences/surveying_devices_damaged_08.json,Reduced view is never a good thing.,tsuchiya,視野變窄從來不是好事。
-gup_leopon/sentences/surveying_devices_destroyed_01.json,Observation gear destroyed! We can't see outside.,nakajima,觀測裝置摧毀！外面看不見了。
-gup_leopon/sentences/surveying_devices_destroyed_02.json,Sights are dead!,nakajima,瞄準鏡壞了！
-gup_leopon/sentences/surveying_devices_destroyed_03.json,Optics are completely out! We've lost our view.,nakajima,瞄準鏡完全壞了！視野沒了。
-gup_leopon/sentences/surveying_devices_destroyed_04.json,We can't spot like this.,nakajima,這樣無法偵查。
-gup_leopon/sentences/surveying_devices_destroyed_05.json,"Can't see much. Repair the optics, fast!",nakajima,看不太見。快修瞄準鏡！
-gup_leopon/sentences/surveying_devices_destroyed_06.json,Observation device destroyed!,hoshino,觀測裝置摧毀！
-gup_leopon/sentences/surveying_devices_destroyed_07.json,Observation device is destroyed!,suzuki,觀測裝置被摧毀了！
-gup_leopon/sentences/surveying_devices_destroyed_08.json,They got our optics. We can't see outside!,tsuchiya,他們打壞瞄準鏡。外面看不見了！
-gup_leopon/sentences/surveying_devices_destroyed_09.json,Observation device is broken. Let's repair it now!,suzuki,觀測裝置壞了。現在修吧！
-gup_leopon/sentences/surveying_devices_destroyed_10.json,"Somebody fix our observation device, fast!",hoshino,誰快修觀測裝置！
-gup_leopon/sentences/surveying_devices_functional_01.json,Observation gear restored. We can see now.,nakajima,觀測裝置恢復。現在能看見了。
-gup_leopon/sentences/surveying_devices_functional_02.json,View range is back. Good save.,nakajima,視野恢復了。處理得好。
-gup_leopon/sentences/surveying_devices_functional_03.json,Optics restored. They're back on.,nakajima,瞄準鏡恢復。又好了。
-gup_leopon/sentences/surveying_devices_functional_04.json,Emergency repair done. Our sight is back.,nakajima,緊急修復完成。視野恢復了。
-gup_leopon/sentences/surveying_devices_functional_05.json,Good. We can see again.,hoshino,好。我們又能看見了。
-gup_leopon/sentences/surveying_devices_functional_06.json,Sights restored. We're back!,hoshino,瞄準鏡恢復。我們回來了！
-gup_leopon/sentences/surveying_devices_functional_07.json,Observation device is back online.,hoshino,觀測裝置恢復運作。
-gup_leopon/sentences/surveying_devices_functional_08.json,Now we can see again.,suzuki,現在又能看見了。
-gup_leopon/sentences/surveying_devices_functional_09.json,Visibility normal. Stay composed.,suzuki,能見度正常。保持冷靜。
-gup_leopon/sentences/surveying_devices_functional_10.json,Observation device repaired.,suzuki,觀測裝置修好了。
-gup_leopon/sentences/surveying_devices_functional_11.json,Repair complete.,tsuchiya,修復完成。
-gup_leopon/sentences/surveying_devices_functional_12.json,"Okay, visibility is back to normal.",tsuchiya,好，能見度恢復正常。
-gup_leopon/sentences/surveying_devices_functional_13.json,"Our vision's back, we're still in this!",tsuchiya,視野恢復了，我們還在！
-gup_leopon/sentences/surveying_devices_functional_14.json,Repair is done!,hoshino,修好了！
-gup_leopon/sentences/surveying_devices_functional_14.json,"Hoshino, thank you.",nakajima,星野，謝謝。
-gup_leopon/sentences/target_captured_01.json,Target acquired!,nakajima,目標鎖定！
-gup_leopon/sentences/target_captured_02.json,Got them.,nakajima,鎖定他們了。
-gup_leopon/sentences/target_captured_03.json,Target in sight!,hoshino,目標在視線內！
-gup_leopon/sentences/target_captured_04.json,Keep going!,hoshino,繼續！
-gup_leopon/sentences/target_captured_05.json,"Good, let's finish this one!",suzuki,好，搞定這個！
-gup_leopon/sentences/target_captured_06.json,We have a visual.,suzuki,我們有視覺。
-gup_leopon/sentences/target_captured_07.json,Not letting go!,tsuchiya,絕不放手！
-gup_leopon/sentences/target_lost_01.json,Lost them. Don't force the chase.,nakajima,失去他們了。別硬追。
-gup_leopon/sentences/target_lost_02.json,Lost the visual!,hoshino,失去視覺了！
-gup_leopon/sentences/target_lost_03.json,Target lost.,suzuki,目標遺失。
-gup_leopon/sentences/target_lost_04.json,Lost 'em!,tsuchiya,跟丟了！
-gup_leopon/sentences/target_unlocked_01.json,"Switching targets, got it.",nakajima,換目標，收到。
-gup_leopon/sentences/target_unlocked_02.json,Drop that one. On to the next.,nakajima,放棄那個。下一個。
-gup_leopon/sentences/target_unlocked_03.json,No tunnel vision. Good call.,nakajima,沒有隧道視野。好決定。
-gup_leopon/sentences/target_unlocked_04.json,We're moving to another target.,nakajima,我們換到另一個目標。
-gup_leopon/sentences/target_unlocked_05.json,No need to stick on this one.,hoshino,不必糾纏這個。
-gup_leopon/sentences/target_unlocked_06.json,Let's find another target.,hoshino,找另一個目標吧。
-gup_leopon/sentences/target_unlocked_07.json,Let someone else deal with them.,hoshino,交給別人處理他們。
-gup_leopon/sentences/target_unlocked_08.json,Switching target.,suzuki,換目標。
-gup_leopon/sentences/target_unlocked_09.json,Our allies can handle that one.,suzuki,友軍可以處理那個。
-gup_leopon/sentences/target_unlocked_10.json,Unlocking target.,suzuki,解除目標鎖定。
-gup_leopon/sentences/target_unlocked_11.json,Breaking off for now.,tsuchiya,暫時脫離。
-gup_leopon/sentences/target_unlocked_12.json,Let's take a different line!,tsuchiya,換條路線吧！
-gup_leopon/sentences/target_unlocked_13.json,Changing target.,tsuchiya,換目標。
-gup_leopon/sentences/track_damaged_01.json,Tracks took a hit. Should we make a pit stop now?,nakajima,履帶被擊中。現在進站嗎？
-gup_leopon/sentences/track_damaged_02.json,They hit the tracks. Next hit could be bad.,tsuchiya,他們打中履帶。下一擊可能很糟。
-gup_leopon/sentences/track_damaged_03.json,Track damaged. We can make an early pit stop.,nakajima,履帶受損。我們可以提早進站。
-gup_leopon/sentences/track_damaged_04.json,They are targeting our tracks. Watch out!,tsuchiya,他們瞄準我們的履帶。小心！
-gup_leopon/sentences/track_destroyed_01.json,Tracks are gone! We're immobilized!,tsuchiya,履帶沒了！我們動不了！
-gup_leopon/sentences/track_destroyed_02.json,They got our running gear. Repair it fast.,nakajima,他們打壞行走裝置。快修。
-gup_leopon/sentences/track_destroyed_03.json,"Ah, now we're sitting ducks!",hoshino,啊，現在我們是活靶了！
-gup_leopon/sentences/track_destroyed_04.json,Tracks are destroyed. Let's fix them.,suzuki,履帶被摧毀。我們修好它們。
-gup_leopon/sentences/track_functional_01.json,Tracks repaired.,suzuki,履帶修好了。
-gup_leopon/sentences/track_functional_02.json,Running gear's back in shape.,nakajima,行走裝置恢復了。
-gup_leopon/sentences/track_functional_03.json,"Yes, tracks are back!",hoshino,耶，履帶回來了！
-gup_leopon/sentences/track_functional_04.json,Tracks are good!,tsuchiya,履帶好了！
-gup_leopon/sentences/track_functional_can_move_01.json,Tracks restored! We can move again!,nakajima,履帶恢復！我們又能動了！
-gup_leopon/sentences/track_functional_can_move_02.json,We're mobile again.,nakajima,我們又能移動了。
-gup_leopon/sentences/track_functional_can_move_02.json,Yahoo!,tsuchiya,耶呼！
-gup_leopon/sentences/track_functional_can_move_03.json,"Alright, back on the move!",hoshino,好，又能動了！
-gup_leopon/sentences/track_functional_can_move_04.json,Repairs complete. We can roll.,suzuki,修復完成。我們可以出發了。
-gup_leopon/sentences/track_functional_can_move_05.json,"Come on, no time to stay parked!",tsuchiya,快點，沒時間停著！
-gup_leopon/sentences/track_functional_can_move_06.json,Still got some running to do.,nakajima,還有路要跑。
-gup_leopon/sentences/track_functional_can_move_07.json,"Okay, emergency repair is done!",tsuchiya,好，緊急修復完成！
-gup_leopon/sentences/turret_rotator_damaged_01.json,Turret traverse is sluggish!,hoshino,砲塔轉動變慢了！
-gup_leopon/sentences/turret_rotator_damaged_02.json,Traverse mechanism's damaged.,suzuki,轉動機構受損了。
-gup_leopon/sentences/turret_rotator_damaged_03.json,They hit the traverse system. Don't rush it.,nakajima,他們打中轉動系統。別急。
-gup_leopon/sentences/turret_rotator_destroyed_01.json,No! The turret won't turn!,hoshino,不！砲塔轉不了！
-gup_leopon/sentences/turret_rotator_destroyed_02.json,Rotator is destroyed!,nakajima,旋轉機構被摧毀！
-gup_leopon/sentences/turret_rotator_destroyed_03.json,Huh? The turret won't turn!,tsuchiya,咦？砲塔轉不了！
-gup_leopon/sentences/turret_rotator_destroyed_04.json,We can't rotate the turret!,nakajima,砲塔轉不了了！
-gup_leopon/sentences/turret_rotator_functional_01.json,Turret's back!,hoshino,砲塔回來了！
-gup_leopon/sentences/turret_rotator_functional_02.json,Traverse restored. We can realign now.,nakajima,轉動恢復。現在可以重新對準。
-gup_leopon/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",nakajima,拖車組，慢慢來！
-gup_leopon/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",hoshino,拖車組，慢慢來！
-gup_leopon/sentences/vehicle_destroyed_02.json,"I guess the race is over for us, huh?",hoshino,這場比賽我們結束了吧？
-gup_leopon/sentences/vehicle_destroyed_03.json,"Uh oh, we can't carry on!",suzuki,糟了，我們撐不下去了！
-gup_leopon/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We are done for, sorry.",nakajima,這裡是豹獅隊。我們結束了，抱歉。
-gup_leopon/sentences/vehicle_destroyed_05.json,We'll stay up all night tonight and get those tanks back in running order.,nakajima,今晚我們通宵把戰車修好。
-gup_leopon/sentences/vehicle_destroyed_05.json,Okay!,suzuki,好！
-gup_leopon/sentences/vehicle_destroyed_05.json,I'll take care of it!,hoshino,我來處理！
-gup_leopon/sentences/vehicle_destroyed_05.json,That's more like it!,tsuchiya,這才對！
+gup_leopon/sentences/surveying_devices_damaged_02.json,They're targeting our optics.,nakajima,對方瞄準我們的眼睛打過來了呢。
+gup_leopon/sentences/surveying_devices_damaged_03.json,Observation device has light damage.,nakajima,觀測裝置受損，視野變差了喔。
+gup_leopon/sentences/surveying_devices_damaged_04.json,Front view's getting messy!,nakajima,不太看得見外面了。
+gup_leopon/sentences/surveying_devices_damaged_05.json,They're targeting our optics!,hoshino,敵人在瞄準我們的觀測裝置。
+gup_leopon/sentences/surveying_devices_damaged_06.json,The optics took a hit!,suzuki,觀測裝置被擊中了。
+gup_leopon/sentences/surveying_devices_damaged_07.json,It's okay. We can still see!,suzuki,沒關係，還看得見喔。
+gup_leopon/sentences/surveying_devices_damaged_08.json,Reduced view is never a good thing.,tsuchiya,視野變差可就麻煩了呢～
+gup_leopon/sentences/surveying_devices_destroyed_01.json,Observation gear destroyed! We can't see outside.,nakajima,觀測裝置大破！幾乎看不見了喔。
+gup_leopon/sentences/surveying_devices_destroyed_02.json,Sights are dead!,nakajima,眼睛被用瞎了呢，這下很吃緊。
+gup_leopon/sentences/surveying_devices_destroyed_03.json,Optics are completely out! We've lost our view.,nakajima,觀測裝置被徹底弄壞了！
+gup_leopon/sentences/surveying_devices_destroyed_04.json,We can't spot like this.,nakajima,這樣根本無法索敵！
+gup_leopon/sentences/surveying_devices_destroyed_05.json,"Can't see much. Repair the optics, fast!",nakajima,看不見了呢～快點修理！
+gup_leopon/sentences/surveying_devices_destroyed_06.json,Observation device destroyed!,hoshino,觀測裝置大破了！
+gup_leopon/sentences/surveying_devices_destroyed_07.json,Observation device is destroyed!,suzuki,觀測裝置大破。
+gup_leopon/sentences/surveying_devices_destroyed_08.json,They got our optics. We can't see outside!,tsuchiya,觀測裝置被搞垮了！這樣根本看不到外面！
+gup_leopon/sentences/surveying_devices_destroyed_09.json,Observation device is broken. Let's repair it now!,suzuki,觀測裝置被弄壞了，立刻修理吧。
+gup_leopon/sentences/surveying_devices_destroyed_10.json,"Somebody fix our observation device, fast!",hoshino,來人啊，快點把觀測裝置修好！
+gup_leopon/sentences/surveying_devices_functional_01.json,Observation gear restored. We can see now.,nakajima,觀測裝置修好了！看得見外面了！
+gup_leopon/sentences/surveying_devices_functional_02.json,View range is back. Good save.,nakajima,視野恢復了呢！太好了！
+gup_leopon/sentences/surveying_devices_functional_03.json,Optics restored. They're back on.,nakajima,觀測裝置修復！沒問題的！
+gup_leopon/sentences/surveying_devices_functional_04.json,Emergency repair done. Our sight is back.,nakajima,緊急修復完成！眼睛重新復活了呢！
+gup_leopon/sentences/surveying_devices_functional_05.json,Good. We can see again.,hoshino,好，又能看到外面了！
+gup_leopon/sentences/surveying_devices_functional_06.json,Sights restored. We're back!,hoshino,觀測裝置修復！沒問題的！
+gup_leopon/sentences/surveying_devices_functional_07.json,Observation device is back online.,hoshino,觀測裝置修好了！
+gup_leopon/sentences/surveying_devices_functional_08.json,Now we can see again.,suzuki,看起來視野恢復了呢。
+gup_leopon/sentences/surveying_devices_functional_09.json,Visibility normal. Stay composed.,suzuki,視野正常，冷靜推進吧。
+gup_leopon/sentences/surveying_devices_functional_10.json,Observation device repaired.,suzuki,觀測裝置修好囉。
+gup_leopon/sentences/surveying_devices_functional_11.json,Repair complete.,tsuchiya,觀測裝置的修理結束了喔！
+gup_leopon/sentences/surveying_devices_functional_12.json,"Okay, visibility is back to normal.",tsuchiya,OK！視野恢復了呢！
+gup_leopon/sentences/surveying_devices_functional_13.json,"Our vision's back, we're still in this!",tsuchiya,視野恢復了呢！還能戰鬥！
+gup_leopon/sentences/surveying_devices_functional_14.json,Repair is done!,hoshino,修理完成了！
+gup_leopon/sentences/surveying_devices_functional_14.json,"Hoshino, thank you.",nakajima,星野，謝謝！
+gup_leopon/sentences/target_captured_01.json,Target acquired!,nakajima,鎖定目標囉。
+gup_leopon/sentences/target_captured_02.json,Got them.,nakajima,發現了呢。
+gup_leopon/sentences/target_captured_03.json,Target in sight!,hoshino,抓到你了！
+gup_leopon/sentences/target_captured_04.json,Keep going!,hoshino,就這樣衝過去！
+gup_leopon/sentences/target_captured_05.json,"Good, let's finish this one!",suzuki,好，就這樣收拾掉它！
+gup_leopon/sentences/target_captured_06.json,We have a visual.,suzuki,發現了呢。
+gup_leopon/sentences/target_captured_07.json,Not letting go!,tsuchiya,絕不讓你逃掉！
+gup_leopon/sentences/target_lost_01.json,Lost them. Don't force the chase.,nakajima,跟丟了呢，不要勉強硬追！
+gup_leopon/sentences/target_lost_02.json,Lost the visual!,hoshino,跟丟了！
+gup_leopon/sentences/target_lost_03.json,Target lost.,suzuki,把目標跟丟了呢。
+gup_leopon/sentences/target_lost_04.json,Lost 'em!,tsuchiya,被逃掉了！
+gup_leopon/sentences/target_unlocked_01.json,"Switching targets, got it.",nakajima,變更目標了呢，收到。
+gup_leopon/sentences/target_unlocked_02.json,Drop that one. On to the next.,nakajima,那邊就放掉吧，換下一個。
+gup_leopon/sentences/target_unlocked_03.json,No tunnel vision. Good call.,nakajima,不深追，這是明智的判斷喔。
+gup_leopon/sentences/target_unlocked_04.json,We're moving to another target.,nakajima,轉向別的目標囉。
+gup_leopon/sentences/target_unlocked_05.json,No need to stick on this one.,hoshino,別深追了吧。
+gup_leopon/sentences/target_unlocked_06.json,Let's find another target.,hoshino,轉移到別的標的吧。
+gup_leopon/sentences/target_unlocked_07.json,Let someone else deal with them.,hoshino,這邊就交給其他人吧。
+gup_leopon/sentences/target_unlocked_08.json,Switching target.,suzuki,要更換目標囉～
+gup_leopon/sentences/target_unlocked_09.json,Our allies can handle that one.,suzuki,交給盟友處理或許也不錯。
+gup_leopon/sentences/target_unlocked_10.json,Unlocking target.,suzuki,移開瞄準囉。
+gup_leopon/sentences/target_unlocked_11.json,Breaking off for now.,tsuchiya,先暫時移開瞄準吧。
+gup_leopon/sentences/target_unlocked_12.json,Let's take a different line!,tsuchiya,從別的路線切入吧。
+gup_leopon/sentences/target_unlocked_13.json,Changing target.,tsuchiya,要更換目標囉！
+gup_leopon/sentences/track_damaged_01.json,Tracks took a hit. Should we make a pit stop now?,nakajima,履帶受損，要進維修站嗎？
+gup_leopon/sentences/track_damaged_02.json,They hit the tracks. Next hit could be bad.,tsuchiya,履帶被打中了！下一發可就危險了！
+gup_leopon/sentences/track_damaged_03.json,Track damaged. We can make an early pit stop.,nakajima,履帶受損！要提早進維修站嗎？
+gup_leopon/sentences/track_damaged_04.json,They are targeting our tracks. Watch out!,tsuchiya,履帶被瞄準了！得小心一點！
+gup_leopon/sentences/track_destroyed_01.json,Tracks are gone! We're immobilized!,tsuchiya,履帶斷了！動彈不得！
+gup_leopon/sentences/track_destroyed_02.json,They got our running gear. Repair it fast.,nakajima,腳程被破壞了呢，快點修理！
+gup_leopon/sentences/track_destroyed_03.json,"Ah, now we're sitting ducks!",hoshino,哇，這樣會變成活靶的啊！
+gup_leopon/sentences/track_destroyed_04.json,Tracks are destroyed. Let's fix them.,suzuki,履帶被打了斷，快修理吧。
+gup_leopon/sentences/track_functional_01.json,Tracks repaired.,suzuki,履帶修好囉。
+gup_leopon/sentences/track_functional_02.json,Running gear's back in shape.,nakajima,底盤懸吊系統修好囉！
+gup_leopon/sentences/track_functional_03.json,"Yes, tracks are back!",hoshino,好，履帶修復完畢！
+gup_leopon/sentences/track_functional_04.json,Tracks are good!,tsuchiya,履帶OK！
+gup_leopon/sentences/track_functional_can_move_01.json,Tracks restored! We can move again!,nakajima,可以動了！出發！
+gup_leopon/sentences/track_functional_can_move_02.json,We're mobile again.,nakajima,可以動了
+gup_leopon/sentences/track_functional_can_move_02.json,Yahoo!,tsuchiya,太好了——！
+gup_leopon/sentences/track_functional_can_move_03.json,"Alright, back on the move!",hoshino,好，重新啟動出發！
+gup_leopon/sentences/track_functional_can_move_04.json,Repairs complete. We can roll.,suzuki,修理完成，可以動了。
+gup_leopon/sentences/track_functional_can_move_05.json,"Come on, no time to stay parked!",tsuchiya,來吧，可沒有時間停在這裡！
+gup_leopon/sentences/track_functional_can_move_06.json,Still got some running to do.,nakajima,我們還能跑得更快！
+gup_leopon/sentences/track_functional_can_move_07.json,"Okay, emergency repair is done!",tsuchiya,好！緊急修復完成！
+gup_leopon/sentences/turret_rotator_damaged_01.json,Turret traverse is sluggish!,hoshino,砲塔很難旋轉呢。
+gup_leopon/sentences/turret_rotator_damaged_02.json,Traverse mechanism's damaged.,suzuki,旋轉裝置受損了。
+gup_leopon/sentences/turret_rotator_damaged_03.json,They hit the traverse system. Don't rush it.,nakajima,旋轉裝置被擊中了，別慌張。
+gup_leopon/sentences/turret_rotator_destroyed_01.json,No! The turret won't turn!,hoshino,不行！砲塔轉不動了！
+gup_leopon/sentences/turret_rotator_destroyed_02.json,Rotator is destroyed!,nakajima,旋轉裝置大破。
+gup_leopon/sentences/turret_rotator_destroyed_03.json,Huh? The turret won't turn!,tsuchiya,奇怪？砲塔轉不動了！
+gup_leopon/sentences/turret_rotator_destroyed_04.json,We can't rotate the turret!,nakajima,沒辦法改變砲塔的方向！
+gup_leopon/sentences/turret_rotator_functional_01.json,Turret's back!,hoshino,砲塔修復！
+gup_leopon/sentences/turret_rotator_functional_02.json,Traverse restored. We can realign now.,nakajima,旋轉裝置修復，可以重新瞄準囉！
+gup_leopon/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",nakajima,回收救援慢慢來沒關係喔。
+gup_leopon/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",hoshino,回收救援慢慢來沒關係喔。
+gup_leopon/sentences/vehicle_destroyed_02.json,"I guess the race is over for us, huh?",hoshino,要在此退賽了嗎…
+gup_leopon/sentences/vehicle_destroyed_03.json,"Uh oh, we can't carry on!",suzuki,哎呀呀，這下真的動不成了呢。
+gup_leopon/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We are done for, sorry.",nakajima,這裡是由豹獅隊，被幹掉了，對不起喔。
+gup_leopon/sentences/vehicle_destroyed_05.json,We'll stay up all night tonight and get those tanks back in running order.,nakajima,今晚徹夜也要把戰車修到能自力的程度！
+gup_leopon/sentences/vehicle_destroyed_05.json,Okay!,suzuki,OK
+gup_leopon/sentences/vehicle_destroyed_05.json,I'll take care of it!,hoshino,包在我們身上
+gup_leopon/sentences/vehicle_destroyed_05.json,That's more like it!,tsuchiya,就該這樣才對！

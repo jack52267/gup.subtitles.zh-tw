@@ -3,13 +3,13 @@
   "timeline": [
     {
       "emotion": "default",
-      "text": "敵車摧毀。",
+      "text": "擊破囉",
       "character": "suzuki",
       "time": 0.0
     },
     {
       "emotion": "excited",
-      "text": "繼續來啊！",
+      "text": "繼續推進吧！",
       "character": "tsuchiya",
       "time": 1.3
     }

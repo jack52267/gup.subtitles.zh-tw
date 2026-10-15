@@ -3,19 +3,19 @@
   "timeline": [
     {
       "emotion": "content",
-      "text": "彎道交給我！",
+      "text": "過彎就交給我吧！",
       "character": "hoshino",
       "time": 0.0
     },
     {
       "emotion": "excited",
-      "text": "我們試試甩尾！",
+      "text": "甩尾甩尾！",
       "character": "tsuchiya",
       "time": 1.78
     },
     {
       "emotion": "default",
-      "text": "戰車做不到甩尾。",
+      "text": "用戰車不行吧。",
       "character": "suzuki",
       "time": 3.81
     }
