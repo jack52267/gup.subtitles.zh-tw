@@ -46,7 +46,7 @@ gup_leopon/sentences/commander_killed_05.json,"Nakajima, are you alright?",hoshi
 gup_leopon/sentences/commander_killed_06.json,Commander is injured!,tsuchiya,車長負傷了！
 gup_leopon/sentences/commander_killed_07.json,"Nakajima, need a little break?",suzuki,中嶋，要稍微休息一下嗎？
 gup_leopon/sentences/crew_deactivated_01.json,What's the point of all this if we have to retire?,nakajima,要是退賽的話就血本無歸了啊。
-gup_leopon/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是由豹獅隊，要脫離戰場囉！
+gup_leopon/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是豹獅隊，要脫離戰場囉！
 gup_leopon/sentences/crew_deactivated_03.json,Back to the pits this time.,hoshino,先暫時回維修站吧。
 gup_leopon/sentences/crew_deactivated_04.json,"That's it for us, then.",suzuki,再這樣下去撐不住了呢。
 gup_leopon/sentences/crew_deactivated_05.json,We'll go even harder next time!,tsuchiya,下次我們會飆得更快！
@@ -66,7 +66,7 @@ gup_leopon/sentences/enemy_fire_started_by_player_04.json,"Nice, we'll keep the 
 gup_leopon/sentences/enemy_fire_started_by_player_05.json,They are on fire!,hoshino,著火了！
 gup_leopon/sentences/enemy_fire_started_by_player_06.json,I see a fire.,hoshino,看到火光了呢。
 gup_leopon/sentences/enemy_fire_started_by_player_07.json,"Nice, let's go all the way!",tsuchiya,好勒，就這樣一路衝過去吧！
-gup_leopon/sentences/enemy_fire_started_by_player_08.json,Looks like they caught fire.,tsuchiya,看起來引火起火了呢。
+gup_leopon/sentences/enemy_fire_started_by_player_08.json,Looks like they caught fire.,tsuchiya,看起來引起火災了呢。
 gup_leopon/sentences/enemy_fire_started_by_player_09.json,Nice shot!,tsuchiya,好球！
 gup_leopon/sentences/enemy_fire_started_by_player_10.json,They are burning.,suzuki,燒起來了呢。
 gup_leopon/sentences/enemy_fire_started_by_player_11.json,"Look, a fire!",suzuki,哦，起火了。
@@ -77,7 +77,7 @@ gup_leopon/sentences/enemy_killed_03.json,Enemy vehicle down.,hoshino,看來解�
 gup_leopon/sentences/enemy_killed_04.json,"Yes, one down!",hoshino,好！看起來解決了一輛！
 gup_leopon/sentences/enemy_killed_05.json,Enemy vehicle is destroyed.,suzuki,敵方戰車大破了呢。
 gup_leopon/sentences/enemy_killed_06.json,Momentum's ours now!,tsuchiya,氣勢很好呢。
-gup_leopon/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是由豹獅隊，擊破一輛！
+gup_leopon/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是豹獅隊，擊破一輛！
 gup_leopon/sentences/enemy_killed_by_player_02.json,"Yes, we got 'em!",nakajima,好勒，搞定它了！
 gup_leopon/sentences/enemy_killed_by_player_03.json,Yes! Enemy vehicle destroyed!,hoshino,太棒啦！擊破敵方戰車！
 gup_leopon/sentences/enemy_killed_by_player_04.json,How about that?,hoshino,怎麼樣！
@@ -172,12 +172,12 @@ gup_leopon/sentences/start_battle_12.json,This'll be fun!,tsuchiya,真是讓人�
 gup_leopon/sentences/start_battle_13.json,We had Katsu curry bento. We can't lose!,hoshino,必勝炸豬排便當也吃了，絕對會贏的啦！
 gup_leopon/sentences/start_battle_14.json,Feels like the race is on.,nakajima,那麼，感覺就像賽車開跑了呢？
 gup_leopon/sentences/start_battle_15.json,Leopon is in a good mood today.,suzuki,今天這孩子看起來心情也很好呢。
-gup_leopon/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是由豹獅隊，要出擊囉！
+gup_leopon/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是豹獅隊，要出擊囉！
 gup_leopon/sentences/start_battle_17.json,Let's see what kind of run we can show today.,suzuki,能展現怎樣的跑法呢，真令人期待呢。
 gup_leopon/sentences/start_battle_18.json,Why don't we try Accel Back?,hoshino,來試試倒檔過彎吧。
 gup_leopon/sentences/start_battle_18.json,That's a local technique in Rally.,nakajima,這是拉力賽的在地技巧呢。
 gup_leopon/sentences/start_battle_19.json,"We've gotten used to driving a tank, huh?",suzuki,戰車的駕駛也已經相當習慣了呢。
-gup_leopon/sentences/start_battle_20.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是由豹獅隊，要出擊囉！
+gup_leopon/sentences/start_battle_20.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是豹獅隊，要出擊囉！
 gup_leopon/sentences/start_battle_21.json,This is a rough road to drive over considering how heavy our tank is.,nakajima,我們這台很重所以很難跑呢，這種路況。
 gup_leopon/sentences/start_battle_21.json,It's better than the rally in Greece.,hoshino,不過比希臘衛城拉力賽好多了。
 gup_leopon/sentences/surveying_devices_damaged_01.json,Observation device hit!,nakajima,觀測裝置被擊中！
@@ -270,7 +270,7 @@ gup_leopon/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",nakaj
 gup_leopon/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",hoshino,回收救援慢慢來沒關係喔。
 gup_leopon/sentences/vehicle_destroyed_02.json,"I guess the race is over for us, huh?",hoshino,要在此退賽了嗎…
 gup_leopon/sentences/vehicle_destroyed_03.json,"Uh oh, we can't carry on!",suzuki,哎呀呀，這下真的動不成了呢。
-gup_leopon/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We are done for, sorry.",nakajima,這裡是由豹獅隊，被幹掉了，對不起喔。
+gup_leopon/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We are done for, sorry.",nakajima,這裡是豹獅隊，被幹掉了，對不起喔。
 gup_leopon/sentences/vehicle_destroyed_05.json,We'll stay up all night tonight and get those tanks back in running order.,nakajima,今晚徹夜也要把戰車修到能自力的程度！
 gup_leopon/sentences/vehicle_destroyed_05.json,Okay!,suzuki,OK
 gup_leopon/sentences/vehicle_destroyed_05.json,I'll take care of it!,hoshino,包在我們身上

@@ -44,7 +44,7 @@ gup_nakajima/sentences/commander_killed_05.json,"Ouch, they really mean business
 gup_nakajima/sentences/commander_killed_06.json,I'm out for a bit. Counting on you!,nakajima,我先稍微脫離一下，拜託你們囉。
 gup_nakajima/sentences/commander_killed_07.json,I need a pitstop for myself!,nakajima,讓我稍微進維修站一下。
 gup_nakajima/sentences/crew_deactivated_01.json,What's the point of all this if we have to retire?,nakajima,要是退賽的話就血本無歸了啊。
-gup_nakajima/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是由豹獅隊，要脫離戰場囉！
+gup_nakajima/sentences/crew_deactivated_02.json,Team-Leoponsan here. We are out.,nakajima,這裡是豹獅隊，要脫離戰場囉！
 gup_nakajima/sentences/crew_deactivated_03.json,"Oh man, we did it again.",nakajima,啊呀——搞砸了～
 gup_nakajima/sentences/crew_deactivated_04.json,We'll fix it up and go again.,nakajima,修理好之後再重新出發吧。
 gup_nakajima/sentences/crew_deactivated_05.json,We are going back.,nakajima,豹獅隊要返回囉！
@@ -68,14 +68,14 @@ gup_nakajima/sentences/enemy_fire_started_by_player_08.json,We lit them up. The 
 gup_nakajima/sentences/enemy_fire_started_by_player_09.json,Fire! They'll be all over the place now.,nakajima,起火了！對方是不是慌成一團了呀？
 gup_nakajima/sentences/enemy_fire_started_by_player_10.json,That's a fire. Let's follow it up!,nakajima,起火了呢，發動追擊吧！
 gup_nakajima/sentences/enemy_fire_started_by_player_11.json,That's doing some damage.,nakajima,很有效很有效！
-gup_nakajima/sentences/enemy_fire_started_by_player_12.json,That was flashy!,nakajima,猛烈地起火延燒了呢。
+gup_nakajima/sentences/enemy_fire_started_by_player_12.json,That was flashy!,nakajima,猛烈地起火燃燒了呢。
 gup_nakajima/sentences/enemy_killed_01.json,Enemy vehicle's stopped moving.,nakajima,敵方戰車不動了呢。
 gup_nakajima/sentences/enemy_killed_02.json,Enemy vehicle destroyed. That's one down.,nakajima,確認擊破！總算解決了一輛呢。
 gup_nakajima/sentences/enemy_killed_03.json,Good. That's handled.,nakajima,看起來解決掉了呢。
 gup_nakajima/sentences/enemy_killed_04.json,Looks like that's the end for them.,nakajima,對面看起來到此為止了。
 gup_nakajima/sentences/enemy_killed_05.json,It's going our way. One less enemy.,nakajima,很好的節奏！敵人減少了！
 gup_nakajima/sentences/enemy_killed_06.json,Enemy destroyed. Let's keep rolling.,nakajima,擊破了呢，保持這個勢頭前進吧！
-gup_nakajima/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是由豹獅隊，擊破一輛！
+gup_nakajima/sentences/enemy_killed_by_player_01.json,This is Leopon. Enemy destroyed.,nakajima,這裡是豹獅隊，擊破一輛！
 gup_nakajima/sentences/enemy_killed_by_player_02.json,"Yes, we got 'em!",nakajima,好勒，搞定它了！
 gup_nakajima/sentences/enemy_killed_by_player_03.json,Target destroyed. Let's look for the next one.,nakajima,確認擊破！來尋找下一個對手吧！
 gup_nakajima/sentences/enemy_killed_by_player_04.json,"Hm, looks like we got 'em.",nakajima,呃——是不是解決了一輛？
@@ -115,7 +115,7 @@ gup_nakajima/sentences/fire_stopped_04.json,Fire's stopped. Let's get her back i
 gup_nakajima/sentences/fire_stopped_05.json,"Okay, it's out. We can hit back now.",nakajima,OK！火滅掉了！可以發動反擊囉！
 gup_nakajima/sentences/fuel_tank_damaged_01.json,Fuel tank hit! Watch for fire.,nakajima,油箱被擊中！注意別起火！
 gup_nakajima/sentences/fuel_tank_damaged_02.json,Fuel tank took a hit. That's dangerous.,nakajima,油箱被擊中了呢，有點危險了呢。
-gup_nakajima/sentences/fuel_tank_damaged_03.json,Fuel tank damaged. Let's avoid ignition.,nakajima,油箱受損！真想避免引火起火呀～
+gup_nakajima/sentences/fuel_tank_damaged_03.json,Fuel tank damaged. Let's avoid ignition.,nakajima,油箱受損！真想避免引起火災呀～
 gup_nakajima/sentences/fuel_tank_damaged_04.json,"Fuel tank, watch it!",nakajima,油箱需要特別注意！
 gup_nakajima/sentences/fuel_tank_damaged_05.json,Fuel tank hit. Lucky it didn't ignite.,nakajima,油箱被擊中。
 gup_nakajima/sentences/gunner_killed_01.json,Gunner's hit! Accuracy will drop.,nakajima,砲手被幹掉了！精度會下降喔！
@@ -152,7 +152,7 @@ gup_nakajima/sentences/start_battle_02.json,Match start. No rushing—let's take
 gup_nakajima/sentences/start_battle_03.json,All vehicles forward. Maintenance is done—drive it like you mean it.,nakajima,全車前進，整備已經完成，放手一搏出發吧！
 gup_nakajima/sentences/start_battle_04.json,"Here we go. Read the field first, but don't lag behind.",nakajima,開始了呢，先觀察情況，但可別掉隊了喔！
 gup_nakajima/sentences/start_battle_05.json,"Alright, let's take a lap.",nakajima,好，趕快跑起來看看吧！
-gup_nakajima/sentences/start_battle_06.json,This is Team-Leoponsan. Ready to roll out!,nakajima,這裡是由豹獅隊，準備完畢！
+gup_nakajima/sentences/start_battle_06.json,This is Team-Leoponsan. Ready to roll out!,nakajima,這裡是豹獅隊，準備完畢！
 gup_nakajima/sentences/start_battle_07.json,I won't let you pass through here.,nakajima,絕不讓你再往前進一步！
 gup_nakajima/sentences/start_battle_08.json,Conditions aren't bad today. We can do this.,nakajima,今天的車況不壞喔，開幹吧！
 gup_nakajima/sentences/start_battle_09.json,Roll out! Let's keep both engine and motor intact.,nakajima,來吧出發！可別把馬達跟引擎給操壞了喔！
@@ -162,7 +162,7 @@ gup_nakajima/sentences/start_battle_12.json,"Alright, let's do this for the team
 gup_nakajima/sentences/start_battle_13.json,"Everyone, let's go. Don't fall behind.",nakajima,大家要出發囉！可別被落下了喔！
 gup_nakajima/sentences/start_battle_14.json,Feels like the race is on.,nakajima,那麼，感覺就像賽車開跑了呢？
 gup_nakajima/sentences/start_battle_15.json,"Alright, let's show them what we can do.",nakajima,好勒，大家一起展現精彩的跑法給他們看吧！
-gup_nakajima/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是由豹獅隊，要出擊囉！
+gup_nakajima/sentences/start_battle_16.json,This is Team-Leoponsan. Let's go!,nakajima,這裡是豹獅隊，要出擊囉！
 gup_nakajima/sentences/start_battle_17.json,Prep is good. Now we just run it.,nakajima,準備OK！剩下的就只管跑了！
 gup_nakajima/sentences/start_battle_18.json,"No matter who we're facing, same plan. Stay cool.",nakajima,無論對手是誰該做的事都一樣，冷靜推進吧！
 gup_nakajima/sentences/start_battle_19.json,Machines answer back—if you treat them right.,nakajima,只要好好對待，機械就會給予回應。
@@ -255,5 +255,5 @@ gup_nakajima/sentences/turret_rotator_functional_02.json,Traverse restored. We c
 gup_nakajima/sentences/vehicle_destroyed_01.json,"Tow crew, take your time!",nakajima,回收救援慢慢來沒關係喔～
 gup_nakajima/sentences/vehicle_destroyed_02.json,"The race is over for us, but that wasn't a bad run.",nakajima,退賽了嗎。不過跑得還算不賴喔。
 gup_nakajima/sentences/vehicle_destroyed_03.json,Oarai's defensive line has been breached.,nakajima,大洗防衛線崩潰了！
-gup_nakajima/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We're done for, sorry.",nakajima,這裡是由豹獅隊，被幹掉了，對不起喔。
+gup_nakajima/sentences/vehicle_destroyed_04.json,"Team-Leoponsan here. We're done for, sorry.",nakajima,這裡是豹獅隊，被幹掉了，對不起喔。
 gup_nakajima/sentences/vehicle_destroyed_05.json,We'll stay up all night tonight and get those tanks back in running order.,nakajima,今晚徹夜也要把戰車修到能自力的程度！
